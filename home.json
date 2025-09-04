@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "id_tmdb": "936108",
+      "imagen": "https://image.tmdb.org/t/p/w342/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg",
+      "titulo": "Pitufos",
+      "año": "2025",
+      "etiquetas": "Animación, Familia, Fantasía",
+      "categorías": "Animación, Familia, Fantasía",
+      "type": "movie",
+      "created_at": "2025-09-04T06:14:34.216Z",
+      "updated_at": "2025-09-04T06:15:07.177Z",
+      "calidad": "HD"
+    },
+    {
       "id_tmdb": "1106289",
       "imagen": "https://image.tmdb.org/t/p/w342/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg",
       "titulo": "El último encargo",
@@ -2816,5 +2828,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-04T05:42:45.923Z"
+  "lastUpdated": "2025-09-04T06:15:57.370Z"
 }
