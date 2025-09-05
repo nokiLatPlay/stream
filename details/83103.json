@@ -5,9 +5,9 @@
   "año": "2019",
   "etiquetas": "Animación, Drama",
   "categorías": "Animación, Drama",
-  "type": "series",
+  "type": "animes",
   "created_at": "2025-09-05T05:54:49.548Z",
-  "updated_at": "2025-09-05T05:54:49.548Z",
+  "updated_at": "2025-09-05T05:55:20.672Z",
   "synopsis": "Natsuo es un estudiante adolescente que sufre por amor al estar enamorado de su profesora, Hina. En un intento por animarse y olvidar a su profesora, decide acudir a una fiesta mixta en la que conoce a una chica llamada Rui. Ambos se acuestan juntos solo por placer y con la intención de no volverse a ver nunca más, pero el destino les tenía preparado algo diferente. La vida del chico se complica cuando su padre anuncia que se ha casado de nuevo, y su nueva esposa tiene dos hijas que Natsuo ya conoce: ¡Hina y Rui!",
   "temporadas": [
     {
@@ -17,8 +17,15 @@
           "episode_id": "1",
           "nombre": "01. ¿Lo harías conmigo?",
           "portada": "https://image.tmdb.org/t/p/w300/inAlnjckkuoUJKNbzWtwLWTLoVi.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-05T05:54:49.560Z"
+          "enlaces": [
+            {
+              "nombre": "Server 1",
+              "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/Domestic%20na%20Kanojo/S01/Domestic%20Girlfriend%20-%201x01%20-%20%C2%BFLo%20har%C3%ADas%20conmigo.mp4",
+              "type": "mp4",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-05T05:55:17.460Z"
         },
         {
           "episode_id": "2",
