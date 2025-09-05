@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "83103",
+      "imagen": "https://image.tmdb.org/t/p/w342/5S1rx6o9VgXWaXLY3GLMPZyWHGS.jpg",
+      "titulo": "Domestic Girlfriend",
+      "año": "2019",
+      "etiquetas": "Animación, Drama",
+      "categorías": "Animación, Drama",
+      "type": "animes",
+      "created_at": "2025-09-05T05:25:44.856Z",
+      "updated_at": "2025-09-05T05:26:55.518Z"
+    },
+    {
       "id_tmdb": "166424",
       "imagen": "https://image.tmdb.org/t/p/w342/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg",
       "titulo": "Los 4 Fantásticos",
@@ -2888,5 +2899,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-05T04:10:28.917Z"
+  "lastUpdated": "2025-09-05T05:27:08.308Z"
 }
