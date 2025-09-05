@@ -1,15 +1,190 @@
 {
   "data": [
     {
-      "id_tmdb": "83103",
-      "imagen": "https://image.tmdb.org/t/p/w342/5S1rx6o9VgXWaXLY3GLMPZyWHGS.jpg",
-      "titulo": "Domestic Girlfriend",
-      "año": "2019",
-      "etiquetas": "Animación, Drama",
-      "categorías": "Animación, Drama",
       "type": "animes",
-      "created_at": "2025-09-05T05:25:44.856Z",
-      "updated_at": "2025-09-05T05:26:55.518Z"
+      "temporadas": [
+        {
+          "temporada": "Temporada 1",
+          "capitulos": [
+            {
+              "episode_id": "1",
+              "nombre": "01. ¿Lo harías conmigo?",
+              "portada": "https://image.tmdb.org/t/p/w300/inAlnjckkuoUJKNbzWtwLWTLoVi.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "01. Episodio 1",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "2",
+              "nombre": "02. ¿Lo hicimos?",
+              "portada": "https://image.tmdb.org/t/p/w300/y8fNxE37O2Flo0aGxyk7mQfEWp.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "02. Episodio 2",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "3",
+              "nombre": "03. Entonces, ¿es verdad?",
+              "portada": "https://image.tmdb.org/t/p/w300/N7r4wOjdpGEsiaESlslL8PNNSN.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "03. Episodio 3",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "4",
+              "nombre": "04. ¿Qué sientes tú?",
+              "portada": "https://image.tmdb.org/t/p/w300/jA9ah8NqCw2cuxFhS205UYFjCVN.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "04. Episodio 4",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "5",
+              "nombre": "05. ¿Puedo enamorarme de ti?",
+              "portada": "https://image.tmdb.org/t/p/w300/m5A6AEdF8TLwxY6vABguo6nGxK2.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "05. Episodio 5",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "6",
+              "nombre": "06. Bésense aquí y ahora",
+              "portada": "https://image.tmdb.org/t/p/w300/mveaXWmWVcHpuSACuD6WSqUZM7I.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "06. Episodio 6",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "7",
+              "nombre": "07. Esto es lo que significa salir con alguien",
+              "portada": "https://image.tmdb.org/t/p/w300/vqqMs0jUgJuv1qQPzxDCeRWTmhR.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "07. Episodio 7",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "8",
+              "nombre": "08. No tengo por qué ser una adulta",
+              "portada": "https://image.tmdb.org/t/p/w300/oxFXroipY6CgqmkRI1eGycAvfNW.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "08. Episodio 8",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "9",
+              "nombre": "09. No digas eso, por favor",
+              "portada": "https://image.tmdb.org/t/p/w300/dCYobrWZokcYM3AHEfWqhzJVS42.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "09. Episodio 9",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "10",
+              "nombre": "10. Mentiroso…",
+              "portada": "https://image.tmdb.org/t/p/w300/iUW68Pf4Gb9gl7quxrp02NBULab.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "10. Episodio 10",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "11",
+              "nombre": "11. ¿Estás seguro?",
+              "portada": "https://image.tmdb.org/t/p/w300/tj3im7UtSQBvrLSAIOWt9eSonbg.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "11. Episodio 11",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            },
+            {
+              "episode_id": "12",
+              "nombre": "12. Lo siento. Te amo",
+              "portada": "https://image.tmdb.org/t/p/w300/1e9D6uXN0vX7Z9nbOTlnfnRqMzf.jpg",
+              "enlaces": [
+                {
+                  "url": "https",
+                  "nombre": "12. Episodio 12",
+                  "type": "mp4",
+                  "language": "Sub"
+                }
+              ],
+              "updated_at": "2025-09-05T05:42:57.643Z"
+            }
+          ]
+        }
+      ],
+      "created_at": "2025-09-05T05:42:57.643Z",
+      "updated_at": "2025-09-05T05:44:07.877Z",
+      "imagen": "https://image.tmdb.org/t/p/w342/5S1rx6o9VgXWaXLY3GLMPZyWHGS.jpg",
+      "año": "2019",
+      "etiquetas": "Animación ,  Drama",
+      "categorías": "Animación ,  Drama",
+      "id_tmdb": "83103",
+      "titulo": "Domestic Girlfriend"
     },
     {
       "id_tmdb": "166424",
@@ -2899,5 +3074,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-05T05:27:08.308Z"
+  "lastUpdated": "2025-09-05T05:44:17.916Z"
 }
