@@ -5,9 +5,9 @@
   "año": "2025",
   "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy, Drama",
   "categorías": "Animación, Action & Adventure, Sci-Fi & Fantasy, Drama",
-  "type": "series",
+  "type": "animes",
   "created_at": "2025-09-05T06:56:40.468Z",
-  "updated_at": "2025-09-05T06:56:40.468Z",
+  "updated_at": "2025-09-05T07:03:58.620Z",
   "synopsis": "En Eternal Nations, un juego de estrategia de fantasía en el que los jugadores gestionan un imperio, Takuto Ira es un jugador legendario que está en lo más alto de la clasificación. Takuto cae inconsciente mientras está hospitalizado y despierta en el continente de Idoragya, que tiene el mismo aspecto que en el juego. Takuto se encuentra con Sludge Atou, su unidad favorita del juego, y decide construir Mynoghra, un imperio del mal.",
   "temporadas": [
     {
@@ -17,8 +17,27 @@
           "episode_id": "1",
           "nombre": "01. Nuevo juego",
           "portada": "https://image.tmdb.org/t/p/w300/bHGtgBuemudMpubGevEgrgT9D5e.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "enlaces": [
+            {
+              "nombre": "Server 1",
+              "url": "https://streamwish.to/e/vrevw9ceex07",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Server 2",
+              "url": "https://www.yourupload.com/embed/058ET44nEG0P",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Server 3",
+              "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Isekai%20Mokushiroku%20Mynoghra/S01/Isekai%20Mokushiroku%20Mynoghra%20-%201x01.mp4",
+              "type": "mp4",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-05T07:01:25.397Z"
         },
         {
           "episode_id": "2",
@@ -29,52 +48,52 @@
         },
         {
           "episode_id": "3",
-          "nombre": "03. Episodio 3",
+          "nombre": "03. Ha llegado el momento de los asuntos internos",
           "portada": "https://image.tmdb.org/t/p/w300/cDvQsCf8n6zQnL6bGKDJ04EAXOx.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:02:27.888Z"
         },
         {
           "episode_id": "4",
-          "nombre": "04. Episodio 4",
+          "nombre": "04. La vida no siempre sale como quieres",
           "portada": "https://image.tmdb.org/t/p/w300/gadzTKGjt5r0iBrEyrXsKvIDtLg.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:02:42.604Z"
         },
         {
           "episode_id": "5",
-          "nombre": "05. Episodio 5",
+          "nombre": "05. Soy el monstruo que estabas buscando",
           "portada": "https://image.tmdb.org/t/p/w300/iaNIHKKG7WCLSlveqLKKPXhj6e1.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:03:00.190Z"
         },
         {
           "episode_id": "6",
-          "nombre": "06. Episodio 6",
+          "nombre": "06. Rey, ¿eres una persona malvada?",
           "portada": "https://image.tmdb.org/t/p/w300/2KiscLYv7eRSkyWmc7cR0Jnhc7E.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:03:10.323Z"
         },
         {
           "episode_id": "7",
-          "nombre": "07. Episodio 7",
+          "nombre": "07. ¡Por favor sé mi amigo!",
           "portada": "https://image.tmdb.org/t/p/w300/5vytPOnVZmsdQw8zExHMbG7EqFQ.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:03:18.640Z"
         },
         {
           "episode_id": "8",
-          "nombre": "08. Episodio 8",
+          "nombre": "08. ¡Qué cosa tan humana hacer!",
           "portada": "https://image.tmdb.org/t/p/w300/rfnhI8V4k7JotE7wjVHRObbcZGK.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:03:29.262Z"
         },
         {
           "episode_id": "9",
-          "nombre": "09. Episodio 9",
+          "nombre": "09. Ya pasó tu hora de dormir",
           "portada": "https://image.tmdb.org/t/p/w300/bv8EpMcAcz61UzfPx2mErUotYMl.jpg",
           "enlaces": [],
-          "updated_at": "2025-09-05T06:56:40.567Z"
+          "updated_at": "2025-09-05T07:03:58.617Z"
         },
         {
           "episode_id": "10",
