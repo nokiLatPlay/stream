@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "13690",
+      "imagen": "https://image.tmdb.org/t/p/w342/nbppDvunl6Mn8NAxYSHMPp3qkNo.jpg",
+      "titulo": "Open Season: amigos salvajes 2",
+      "year": "2008",
+      "category": "Aventura, Animación, Comedia, Familia",
+      "type": "movie",
+      "created_at": "2008-09-24",
+      "updated_at": "2025-09-06T08:16:22.815Z",
+      "calidad": "HD"
+    },
+    {
       "id_tmdb": "333339",
       "imagen": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
       "titulo": "Ready Player One: Comienza el juego",
@@ -2685,5 +2696,5 @@
       "year": "2016"
     }
   ],
-  "lastUpdated": "2025-09-06T08:01:37.988Z"
+  "lastUpdated": "2025-09-06T08:16:31.183Z"
 }
