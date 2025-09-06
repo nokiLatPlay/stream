@@ -3,11 +3,11 @@
   "imagen": "https://image.tmdb.org/t/p/w342/cPVLebbkrh3H0yXba4NW5fdrPUp.jpg",
   "titulo": "Apocalypse Bringer Mynoghra",
   "year": "2025",
-  "category": "Animación, Action & Adventure, Sci-Fi & Fantasy, Drama",
+  "category": "AnimaciÃ³n, Action & Adventure, Sci-Fi & Fantasy, Drama",
   "type": "animes",
   "created_at": "2025-07-06",
-  "updated_at": "2025-09-06T08:53:02.406Z",
-  "synopsis": "En Eternal Nations, un juego de estrategia de fantasía en el que los jugadores gestionan un imperio, Takuto Ira es un jugador legendario que está en lo más alto de la clasificación. Takuto cae inconsciente mientras está hospitalizado y despierta en el continente de Idoragya, que tiene el mismo aspecto que en el juego. Takuto se encuentra con Sludge Atou, su unidad favorita del juego, y decide construir Mynoghra, un imperio del mal.",
+  "updated_at": "2025-09-06T09:16:36.499Z",
+  "synopsis": "En Eternal Nations, un juego de estrategia de fantasÃ­a en el que los jugadores gestionan un imperio, Takuto Ira es un jugador legendario que estÃ¡ en lo mÃ¡s alto de la clasificaciÃ³n. Takuto cae inconsciente mientras estÃ¡ hospitalizado y despierta en el continente de Idoragya, que tiene el mismo aspecto que en el juego. Takuto se encuentra con Sludge Atou, su unidad favorita del juego, y decide construir Mynoghra, un imperio del mal.",
   "temporadas": [
     {
       "temporada": "Temporada 1",
@@ -16,12 +16,19 @@
           "episode_id": "1",
           "nombre": "01. Nuevo juego",
           "portada": "https://image.tmdb.org/t/p/w300/bHGtgBuemudMpubGevEgrgT9D5e.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-06T08:48:22.104Z"
+          "enlaces": [
+            {
+              "nombre": "Server 1",
+              "url": "https://ryderjet.com",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-06T09:16:36.497Z"
         },
         {
           "episode_id": "2",
-          "nombre": "02. Anunciemos la fundación de Mynoghra",
+          "nombre": "02. Anunciemos la fundaciÃ³n de Mynoghra",
           "portada": "https://image.tmdb.org/t/p/w300/mUUKJ9T29msijVcSHf27IisStC3.jpg",
           "enlaces": [],
           "updated_at": "2025-09-06T08:48:22.105Z"
@@ -49,28 +56,28 @@
         },
         {
           "episode_id": "6",
-          "nombre": "06. Rey, ¿eres una persona malvada?",
+          "nombre": "06. Rey, Â¿eres una persona malvada?",
           "portada": "https://image.tmdb.org/t/p/w300/2KiscLYv7eRSkyWmc7cR0Jnhc7E.jpg",
           "enlaces": [],
           "updated_at": "2025-09-06T08:52:40.621Z"
         },
         {
           "episode_id": "7",
-          "nombre": "07. ¡Por favor sé mi amigo!",
+          "nombre": "07. Â¡Por favor sÃ© mi amigo!",
           "portada": "https://image.tmdb.org/t/p/w300/5vytPOnVZmsdQw8zExHMbG7EqFQ.jpg",
           "enlaces": [],
           "updated_at": "2025-09-06T08:52:49.857Z"
         },
         {
           "episode_id": "8",
-          "nombre": "08. ¡Qué cosa tan humana hacer!",
+          "nombre": "08. Â¡QuÃ© cosa tan humana hacer!",
           "portada": "https://image.tmdb.org/t/p/w300/rfnhI8V4k7JotE7wjVHRObbcZGK.jpg",
           "enlaces": [],
           "updated_at": "2025-09-06T08:52:58.897Z"
         },
         {
           "episode_id": "9",
-          "nombre": "09. Ya pasó tu hora de dormir",
+          "nombre": "09. Ya pasÃ³ tu hora de dormir",
           "portada": "https://image.tmdb.org/t/p/w300/bv8EpMcAcz61UzfPx2mErUotYMl.jpg",
           "enlaces": [],
           "updated_at": "2025-09-06T08:53:02.404Z"
