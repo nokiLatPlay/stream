@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "1233413",
+      "imagen": "https://image.tmdb.org/t/p/w342/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg",
+      "titulo": "Pecadores",
+      "year": "2025",
+      "category": "Terror, Acción, Suspense",
+      "type": "movie",
+      "created_at": "2025-04-16",
+      "updated_at": "2025-09-06T07:52:05.151Z",
+      "calidad": "HD"
+    },
+    {
       "id_tmdb": "280038",
       "imagen": "https://image.tmdb.org/t/p/w342/cPVLebbkrh3H0yXba4NW5fdrPUp.jpg",
       "titulo": "Apocalypse Bringer Mynoghra",
@@ -2663,5 +2674,5 @@
       "year": "2016"
     }
   ],
-  "lastUpdated": "2025-09-06T07:45:45.428Z"
+  "lastUpdated": "2025-09-06T07:52:19.439Z"
 }
