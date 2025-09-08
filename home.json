@@ -1,6 +1,28 @@
 {
   "data": [
     {
+      "id_tmdb": "234538",
+      "imagen": "https://image.tmdb.org/t/p/w342/sLv6VTK94JW1sbW6rnfjc1jEykd.jpg",
+      "titulo": "Demon Lord 2099",
+      "año": "2024",
+      "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+      "categorías": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+      "type": "series",
+      "created_at": "2024-10-13",
+      "updated_at": "2025-09-08T01:21:05.240Z"
+    },
+    {
+      "id_tmdb": "97923",
+      "imagen": "https://image.tmdb.org/t/p/w342/tioFJhE9y1LiNkvPOeYgzTxbzBa.jpg",
+      "titulo": "Maoujou de Oyasumi",
+      "año": "2020",
+      "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+      "categorías": "Animación, Comedia, Sci-Fi & Fantasy",
+      "type": "series",
+      "created_at": "2020-10-06",
+      "updated_at": "2025-09-08T01:20:40.245Z"
+    },
+    {
       "id_tmdb": "588228",
       "imagen": "https://image.tmdb.org/t/p/w342/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
       "titulo": "La Guerra Del Mañana",
@@ -25,5 +47,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-08T01:10:33.345Z"
+  "lastUpdated": "2025-09-08T01:21:22.786Z"
 }
