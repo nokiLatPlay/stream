@@ -2856,7 +2856,31 @@
       "type": "animes",
       "created_at": "2025-04-03",
       "updated_at": "2025-09-09T06:42:26.201Z"
+    },
+    {
+      "id_tmdb": "8373",
+      "imagen": "https://image.tmdb.org/t/p/w342/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg",
+      "titulo": "Transformers: la venganza de los caídos",
+      "año": "2009",
+      "etiquetas": "Ciencia ficción, Acción, Aventura",
+      "categorías": "Ciencia ficción, Acción, Aventura",
+      "type": "movie",
+      "created_at": "2009-06-19",
+      "updated_at": "2025-09-09T06:51:45.613Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "38356",
+      "imagen": "https://image.tmdb.org/t/p/w342/fMqXNNgzTaxalU1ve9KevpELiGe.jpg",
+      "titulo": "Transformers: el lado oscuro de la luna",
+      "año": "2011",
+      "etiquetas": "Acción, Ciencia ficción, Aventura",
+      "categorías": "Acción, Ciencia ficción, Aventura",
+      "type": "movie",
+      "created_at": "2011-06-28",
+      "updated_at": "2025-09-09T06:51:45.849Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-09T06:42:30.016Z"
+  "lastUpdated": "2025-09-09T06:52:20.551Z"
 }
