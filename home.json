@@ -2928,7 +2928,29 @@
       "created_at": "2025-08-13",
       "updated_at": "2025-09-09T07:10:15.285Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "99966",
+      "imagen": "https://image.tmdb.org/t/p/w342/8jClvC5U756Uhd8zDYek50ihO49.jpg",
+      "titulo": "Estamos Muertos",
+      "año": "2022",
+      "etiquetas": "Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "type": "dorama",
+      "created_at": "2022-01-28",
+      "updated_at": "2025-09-09T08:21:03.998Z"
+    },
+    {
+      "id_tmdb": "37183",
+      "imagen": "https://image.tmdb.org/t/p/w342/7Q3ZU0hyUCJTLm56Lhj6Zxwe0kb.jpg",
+      "titulo": "Dance in the Vampire Bund",
+      "año": "2010",
+      "etiquetas": "Animación, Drama, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Drama, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2010-01-07",
+      "updated_at": "2025-09-09T08:23:25.937Z"
     }
   ],
-  "lastUpdated": "2025-09-09T07:10:24.376Z"
+  "lastUpdated": "2025-09-09T08:23:31.993Z"
 }
