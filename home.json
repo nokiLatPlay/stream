@@ -2812,7 +2812,29 @@
       "type": "series",
       "created_at": "2021-11-06",
       "updated_at": "2025-09-09T06:08:33.977Z"
+    },
+    {
+      "id_tmdb": "220542",
+      "imagen": "https://image.tmdb.org/t/p/w342/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+      "titulo": "Los diarios de la boticaria",
+      "año": "2023",
+      "etiquetas": "Animación, Drama, Misterio",
+      "categorías": "Animación, Drama, Misterio",
+      "type": "animes",
+      "created_at": "2023-10-22",
+      "updated_at": "2025-09-09T06:18:35.939Z"
+    },
+    {
+      "id_tmdb": "260823",
+      "imagen": "https://image.tmdb.org/t/p/w342/7PWkmn864jAlTYoSX5lNIc5n4ZZ.jpg",
+      "titulo": "Katainaka no Ossan, Kensei ni Naru",
+      "año": "2025",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Comedia",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Comedia",
+      "type": "animes",
+      "created_at": "2025-04-05",
+      "updated_at": "2025-09-09T06:21:38.008Z"
     }
   ],
-  "lastUpdated": "2025-09-09T06:08:58.089Z"
+  "lastUpdated": "2025-09-09T06:21:40.899Z"
 }
