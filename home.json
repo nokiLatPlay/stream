@@ -9,7 +9,7 @@
       "categorías": "Aventura, Ciencia ficción, Acción",
       "type": "movie",
       "created_at": "2007-06-27",
-      "updated_at": "2025-09-08T21:34:44.840Z",
+      "updated_at": "2025-09-09T05:54:32.390Z",
       "calidad": "HD"
     },
     {
@@ -881,17 +881,6 @@
       "created_at": "2012-06-22",
       "updated_at": "2025-09-09T00:19:12.960Z",
       "calidad": "HD"
-    },
-    {
-      "id_tmdb": "114868",
-      "imagen": "https://image.tmdb.org/t/p/w342/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
-      "titulo": "Record of Ragnarok",
-      "año": "2021",
-      "etiquetas": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
-      "categorías": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
-      "type": "animes",
-      "created_at": "2021-06-17",
-      "updated_at": "2025-09-09T00:24:05.241Z"
     },
     {
       "id_tmdb": "118340",
@@ -2405,7 +2394,403 @@
       "type": "series",
       "created_at": "2021-06-09",
       "updated_at": "2025-09-09T04:20:13.611Z"
+    },
+    {
+      "id_tmdb": "85552",
+      "imagen": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "titulo": "Euphoria",
+      "año": "2019",
+      "etiquetas": "Drama",
+      "categorías": "Drama",
+      "type": "series",
+      "created_at": "2019-06-16",
+      "updated_at": "2025-09-09T04:36:40.126Z"
+    },
+    {
+      "id_tmdb": "88038",
+      "imagen": "https://image.tmdb.org/t/p/w342/9aZFcTEQQ4FTC4lTwY6ZoSqRXoc.jpg",
+      "titulo": "Granbelm",
+      "año": "2019",
+      "etiquetas": "Animación",
+      "categorías": "Animación",
+      "type": "animes",
+      "created_at": "2019-07-06",
+      "updated_at": "2025-09-09T04:37:42.067Z"
+    },
+    {
+      "id_tmdb": "88044",
+      "imagen": "https://image.tmdb.org/t/p/w342/fJyzb38WxPvBelzk57RyokFc6OH.jpg",
+      "titulo": "Demon Lord Retry!",
+      "año": "2019",
+      "etiquetas": "Animación, Acción, Aventura, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2019-07-04",
+      "updated_at": "2025-09-09T04:39:48.676Z"
+    },
+    {
+      "id_tmdb": "93405",
+      "imagen": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+      "titulo": "El juego del calamar",
+      "año": "2021",
+      "etiquetas": "Acción, Aventura, Misterio, Drama",
+      "categorías": "Acción, Aventura, Misterio, Drama",
+      "type": "dorama",
+      "created_at": "2021-09-17",
+      "updated_at": "2025-09-09T04:43:27.772Z"
+    },
+    {
+      "id_tmdb": "96444",
+      "imagen": "https://image.tmdb.org/t/p/w342/9enqv9UjBLF0Yz1XVgxaofh73FF.jpg",
+      "titulo": "Ishuzoku Reviewers",
+      "año": "2020",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2020-01-11",
+      "updated_at": "2025-09-09T04:44:22.823Z"
+    },
+    {
+      "id_tmdb": "99071",
+      "imagen": "https://image.tmdb.org/t/p/w342/fNj0XTjXX9P8iBTOUHZk5jU0zYH.jpg",
+      "titulo": "Kaifuku Jutsushi no Yarinaoshi",
+      "año": "2021",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama, Crimen",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama, Crimen",
+      "type": "animes",
+      "created_at": "2021-01-13",
+      "updated_at": "2025-09-09T04:45:29.458Z"
+    },
+    {
+      "id_tmdb": "106379",
+      "imagen": "https://image.tmdb.org/t/p/w342/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+      "titulo": "Fallout",
+      "año": "2024",
+      "etiquetas": "Acción, Aventura, Drama",
+      "categorías": "Acción, Aventura, Drama",
+      "type": "series",
+      "created_at": "2024-04-10",
+      "updated_at": "2025-09-09T04:46:59.986Z"
+    },
+    {
+      "id_tmdb": "110070",
+      "imagen": "https://image.tmdb.org/t/p/w342/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+      "titulo": "Horimiya",
+      "año": "2021",
+      "etiquetas": "Animación, Comedia, Drama",
+      "categorías": "Animación, Comedia, Drama",
+      "type": "animes",
+      "created_at": "2021-01-10",
+      "updated_at": "2025-09-09T04:49:41.211Z"
+    },
+    {
+      "id_tmdb": "112162",
+      "imagen": "https://image.tmdb.org/t/p/w342/wz2tUYzlUnfQWpBpoerFDbEZdzz.jpg",
+      "titulo": "Titanes del Pacífico: Tierra de nadie",
+      "año": "2021",
+      "etiquetas": "Ciencia Ficción y Fantasía, Animación, Acción, Aventura",
+      "categorías": "Ciencia Ficción y Fantasía, Animación, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2021-03-04",
+      "updated_at": "2025-09-09T04:49:49.893Z"
+    },
+    {
+      "id_tmdb": "114410",
+      "imagen": "https://image.tmdb.org/t/p/w342/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "titulo": "Chainsaw Man",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-10-12",
+      "updated_at": "2025-09-09T04:50:35.878Z"
+    },
+    {
+      "id_tmdb": "114477",
+      "imagen": "https://image.tmdb.org/t/p/w342/wu11Gd0HCTXTOq4WZi3X0c3Pk5c.jpg",
+      "titulo": "Isekai Meikyuu de Harem wo",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-07-06",
+      "updated_at": "2025-09-09T04:51:17.172Z"
+    },
+    {
+      "id_tmdb": "114868",
+      "imagen": "https://image.tmdb.org/t/p/w342/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
+      "titulo": "Record of Ragnarok",
+      "año": "2021",
+      "etiquetas": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
+      "categorías": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2021-06-17",
+      "updated_at": "2025-09-09T04:55:51.808Z"
+    },
+    {
+      "id_tmdb": "118821",
+      "imagen": "https://image.tmdb.org/t/p/w342/v2VA99oXvEEuZNeqXSYRhq4uY2j.jpg",
+      "titulo": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "año": "2021",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2021-10-06",
+      "updated_at": "2025-09-09T04:56:56.168Z"
+    },
+    {
+      "id_tmdb": "119051",
+      "imagen": "https://image.tmdb.org/t/p/w342/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg",
+      "titulo": "Merlina",
+      "año": "2022",
+      "etiquetas": "Ciencia Ficción y Fantasía, Misterio, Comedia",
+      "categorías": "Ciencia Ficción y Fantasía, Misterio, Comedia",
+      "type": "series",
+      "created_at": "2022-11-23",
+      "updated_at": "2025-09-09T04:58:37.275Z"
+    },
+    {
+      "id_tmdb": "123528",
+      "imagen": "https://image.tmdb.org/t/p/w342/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+      "titulo": "Skeleton Knight in Another World",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama",
+      "type": "animes",
+      "created_at": "2022-04-07",
+      "updated_at": "2025-09-09T04:59:28.892Z"
+    },
+    {
+      "id_tmdb": "129195",
+      "imagen": "https://image.tmdb.org/t/p/w342/oKrrx9khD5uwCzvC5HKp1ESHlvZ.jpg",
+      "titulo": "Parallel World Pharmacy",
+      "año": "2022",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-07-10",
+      "updated_at": "2025-09-09T05:00:56.837Z"
+    },
+    {
+      "id_tmdb": "131365",
+      "imagen": "https://image.tmdb.org/t/p/w342/cmnScbX505dKwpRGKoGhCsVBUw.jpg",
+      "titulo": "The Wrong Way to Use Healing Magic",
+      "año": "2024",
+      "etiquetas": "Animación, Comedia, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-01-06",
+      "updated_at": "2025-09-09T05:01:07.132Z"
+    },
+    {
+      "id_tmdb": "135157",
+      "imagen": "https://image.tmdb.org/t/p/w342/1TtUh6UT1eLcOxYsBaUBdaBrSws.jpg",
+      "titulo": "Alquimia de Almas",
+      "año": "2022",
+      "etiquetas": "Drama, Ciencia Ficción y Fantasía, Acción, Aventura, Misterio",
+      "categorías": "Drama, Ciencia Ficción y Fantasía, Acción, Aventura, Misterio",
+      "type": "dorama",
+      "created_at": "2022-06-18",
+      "updated_at": "2025-09-09T05:03:41.993Z"
+    },
+    {
+      "id_tmdb": "136735",
+      "imagen": "https://image.tmdb.org/t/p/w342/e7ytS9Gf6dObAqAuBtG6gvky8iC.jpg",
+      "titulo": "Déjame entrar",
+      "año": "2022",
+      "etiquetas": "Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Drama, Ciencia Ficción y Fantasía",
+      "type": "series",
+      "created_at": "2022-10-09",
+      "updated_at": "2025-09-09T05:02:55.339Z"
+    },
+    {
+      "id_tmdb": "157239",
+      "imagen": "https://image.tmdb.org/t/p/w342/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
+      "titulo": "Alien: Earth",
+      "año": "2025",
+      "etiquetas": "Ciencia Ficción y Fantasía, Drama",
+      "categorías": "Ciencia Ficción y Fantasía, Drama",
+      "type": "series",
+      "created_at": "2025-08-12",
+      "updated_at": "2025-09-09T05:03:29.224Z"
+    },
+    {
+      "id_tmdb": "157842",
+      "imagen": "https://image.tmdb.org/t/p/w342/7Tz42T9L9zjM6u0rqPQicmYQmH6.jpg",
+      "titulo": "Black Summoner",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-07-09",
+      "updated_at": "2025-09-09T05:32:15.716Z"
+    },
+    {
+      "id_tmdb": "158293",
+      "imagen": "https://image.tmdb.org/t/p/w342/xuqsm5RM9cJYloufbqxvPR4P3NX.jpg",
+      "titulo": "Shinobi no Ittoki",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura",
+      "categorías": "Animación, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2022-10-04",
+      "updated_at": "2025-09-09T05:32:28.826Z"
+    },
+    {
+      "id_tmdb": "219673",
+      "imagen": "https://image.tmdb.org/t/p/w342/qdF4MnYEzXP0E9IrMP5IfopyOMO.jpg",
+      "titulo": "The Kingdoms of Ruin",
+      "año": "2023",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2023-10-07",
+      "updated_at": "2025-09-09T05:33:36.925Z"
+    },
+    {
+      "id_tmdb": "222930",
+      "imagen": "https://image.tmdb.org/t/p/w342/vsTjL8hO4iSUcEx7eNxAgMxDspa.jpg",
+      "titulo": "Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord",
+      "año": "2024",
+      "etiquetas": "Animación, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-01-09",
+      "updated_at": "2025-09-09T05:33:28.357Z"
+    },
+    {
+      "id_tmdb": "225168",
+      "imagen": "https://image.tmdb.org/t/p/w342/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg",
+      "titulo": "BARTENDER: Glass of God",
+      "año": "2024",
+      "etiquetas": "Animación, Drama",
+      "categorías": "Animación, Drama",
+      "type": "animes",
+      "created_at": "2024-04-04",
+      "updated_at": "2025-09-09T05:33:12.269Z"
+    },
+    {
+      "id_tmdb": "229108",
+      "imagen": "https://image.tmdb.org/t/p/w342/tnvLM8R1xY7IRnhSZFIulCgJc2H.jpg",
+      "titulo": "The Banished Former Hero Lives as He Pleases",
+      "año": "2024",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-04-02",
+      "updated_at": "2025-09-09T05:33:03.825Z"
+    },
+    {
+      "id_tmdb": "229926",
+      "imagen": "https://image.tmdb.org/t/p/w342/e9qGP2ayOeoqlxXWIMhfr1BCymb.jpg",
+      "titulo": "Escuadrón Suicida: Isekai",
+      "año": "2024",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-06-27",
+      "updated_at": "2025-09-09T05:32:55.255Z"
+    },
+    {
+      "id_tmdb": "232230",
+      "imagen": "https://image.tmdb.org/t/p/w342/cR5KiAdVeZLG4nDUiCyqfvGzZ3f.jpg",
+      "titulo": "Lord of Mysteries",
+      "año": "2025",
+      "etiquetas": "Animación, Misterio, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Misterio, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2025-06-28",
+      "updated_at": "2025-09-09T05:32:47.508Z"
+    },
+    {
+      "id_tmdb": "235930",
+      "imagen": "https://image.tmdb.org/t/p/w342/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+      "titulo": "Devil May Cry",
+      "año": "2025",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2025-04-03",
+      "updated_at": "2025-09-09T05:32:36.796Z"
+    },
+    {
+      "id_tmdb": "248833",
+      "imagen": "https://image.tmdb.org/t/p/w342/qzNg6jgbaZKORLikwebKrh26S7P.jpg",
+      "titulo": "The Runarounds: Música y sueños",
+      "año": "2025",
+      "etiquetas": "Drama",
+      "categorías": "Drama",
+      "type": "series",
+      "created_at": "2025-09-01",
+      "updated_at": "2025-09-09T05:31:52.690Z"
+    },
+    {
+      "id_tmdb": "258025",
+      "imagen": "https://image.tmdb.org/t/p/w342/85Yr6Sk3xnhm9pQYypOfLjyxj2S.jpg",
+      "titulo": "Perdidamente enamorada",
+      "año": "2025",
+      "etiquetas": "Ciencia Ficción y Fantasía, Drama, Comedia",
+      "categorías": "Ciencia Ficción y Fantasía, Drama, Comedia",
+      "type": "dorama",
+      "created_at": "2025-06-23",
+      "updated_at": "2025-09-09T05:43:12.340Z"
+    },
+    {
+      "id_tmdb": "279182",
+      "imagen": "https://image.tmdb.org/t/p/w342/8nJV1CEh2eLK5fL3puEOE2tIEQI.jpg",
+      "titulo": "Super Cubo",
+      "año": "2025",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2025-03-21",
+      "updated_at": "2025-09-09T05:35:17.434Z"
+    },
+    {
+      "id_tmdb": "280945",
+      "imagen": "https://image.tmdb.org/t/p/w342/6Eer9rz33LFfkkGlZM4QVBBrlBd.jpg",
+      "titulo": "Bon appétit, majestad",
+      "año": "2025",
+      "etiquetas": "Ciencia Ficción y Fantasía, Drama",
+      "categorías": "Ciencia Ficción y Fantasía, Drama",
+      "type": "dorama",
+      "created_at": "2025-08-23",
+      "updated_at": "2025-09-09T05:35:06.925Z"
+    },
+    {
+      "id_tmdb": "56998",
+      "imagen": "https://image.tmdb.org/t/p/w342/yNdgCPAFyQIZwhAcXPYrzp14Rek.jpg",
+      "titulo": "Highschool of the Dead",
+      "año": "2010",
+      "etiquetas": "Animación, Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2010-07-05",
+      "updated_at": "2025-09-09T05:41:36.412Z"
+    },
+    {
+      "id_tmdb": "42413",
+      "imagen": "https://image.tmdb.org/t/p/w342/39rU3RynR64KnM9sGCiz74fsdGn.jpg",
+      "titulo": "Demon King Daimao",
+      "año": "2010",
+      "etiquetas": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2010-04-03",
+      "updated_at": "2025-09-09T05:41:26.834Z"
+    },
+    {
+      "id_tmdb": "52814",
+      "imagen": "https://image.tmdb.org/t/p/w342/m8tW2ssuqib10BUlUZfbYlfqEfd.jpg",
+      "titulo": "Halo",
+      "año": "2022",
+      "etiquetas": "Ciencia Ficción y Fantasía, Acción, Aventura",
+      "categorías": "Ciencia Ficción y Fantasía, Acción, Aventura",
+      "type": "series",
+      "created_at": "2022-03-24",
+      "updated_at": "2025-09-09T05:41:13.655Z"
     }
   ],
-  "lastUpdated": "2025-09-09T04:20:22.470Z"
+  "lastUpdated": "2025-09-09T05:54:37.476Z"
 }
