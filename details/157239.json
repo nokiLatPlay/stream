@@ -7,7 +7,7 @@
   "categorías": "Ciencia Ficción y Fantasía, Drama",
   "type": "series",
   "created_at": "2025-08-12",
-  "updated_at": "2025-08-28T01:55:56.744Z",
+  "updated_at": "2025-09-09T05:03:29.040Z",
   "synopsis": "Cuando una misteriosa nave espacial se estrella en la Tierra, una joven y un grupo heterogéneo de soldados tácticos hacen un descubrimiento fatídico que los pone cara a cara con la mayor amenaza del planeta.",
   "temporadas": [
     {
@@ -37,13 +37,13 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-28T01:55:56.743Z",
+          "updated_at": "2025-09-09T05:03:29.223Z",
           "id": "5324625"
         },
         {
           "episode_id": "2",
           "nombre": "2. Mr. October",
-          "portada": "https://image.tmdb.org/t/p/w300/hZclNGZx4pjOx6MNdJfTZid113f.jpg",
+          "portada": "https://image.tmdb.org/t/p/w300/9WuCOVusEcQNN4aQQAkqB8wNwqf.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -64,62 +64,94 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-28T01:55:56.744Z",
+          "updated_at": "2025-09-09T05:03:29.223Z",
           "id": "6231083"
         },
         {
           "episode_id": "3",
           "nombre": "3. Metamorfosis",
-          "portada": "https://image.tmdb.org/t/p/w300/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+          "portada": "https://image.tmdb.org/t/p/w300/lgAXMdVrNZfKBmI5MFsUP47R18e.jpg",
           "enlaces": [
             {
-              "nombre": "Server 1",
+              "nombre": "Enlace 1",
               "url": "https://streamwish.to/e/galk12k32fxu",
               "type": "embed",
               "language": "Latino"
             },
             {
-              "nombre": "Server 2",
+              "nombre": "Enlace 2",
               "url": "https://filemoon.sx/e/vtqa1gzamhd1",
               "type": "embed",
               "language": "Latino"
             },
             {
-              "nombre": "Server 3",
+              "nombre": "Enlace 3",
               "url": "https://vidhidepro.com/v/ih8lzqzrti9r",
               "type": "embed",
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-28T01:55:56.744Z",
-          "id": ""
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231084"
         },
         {
           "episode_id": "4",
           "nombre": "4. Observación",
-          "portada": "https://image.tmdb.org/t/p/w300/zsatWmTgxKnzLMgLO6KXqND0Adk.jpg",
+          "portada": "https://image.tmdb.org/t/p/w300/a4OKNiA0lsdP3PnfFAk9JSBaEsR.jpg",
           "enlaces": [
             {
-              "nombre": "Server 1",
+              "nombre": "Enlace 1",
               "url": "https://filemoon.sx/e/bnhxjhmmetr8",
               "type": "embed",
               "language": "Latino"
             },
             {
-              "nombre": "Server 2",
+              "nombre": "Enlace 2",
               "url": "https://vidhidepro.com/v/5wqxhmwd0ngy",
               "type": "embed",
               "language": "Latino"
             },
             {
-              "nombre": "Server 3",
+              "nombre": "Enlace 3",
               "url": "https://streamwish.to/e/1dlmqw4f97yo",
               "type": "embed",
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-28T01:55:56.744Z",
-          "id": ""
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231085"
+        },
+        {
+          "episode_id": "5",
+          "nombre": "5. En el espacio, nadie...",
+          "portada": "https://image.tmdb.org/t/p/w300/aMF5pmco3ABNI9s663gKF0jE8wg.jpg",
+          "enlaces": [],
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231086"
+        },
+        {
+          "episode_id": "6",
+          "nombre": "6. La mosca",
+          "portada": "https://image.tmdb.org/t/p/w300/5gXDy41Y1xkKxxGhWqebjsSfCJb.jpg",
+          "enlaces": [],
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231388"
+        },
+        {
+          "episode_id": "7",
+          "nombre": "7. Episodio 7",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231389"
+        },
+        {
+          "episode_id": "8",
+          "nombre": "8. Episodio 8",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T05:03:29.223Z",
+          "id": "6231390"
         }
       ]
     }
