@@ -3007,8 +3007,44 @@
       "categorías": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2011-01-07",
-      "updated_at": "2025-09-10T12:28:43.087Z"
+      "updated_at": "2025-09-10T12:32:48.239Z"
+    },
+    {
+      "id_tmdb": "1208808",
+      "imagen": "https://image.tmdb.org/t/p/w342/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
+      "titulo": "Turno nocturno",
+      "año": "2024",
+      "etiquetas": "Terror",
+      "categorías": "Terror",
+      "type": "movie",
+      "created_at": "2024-12-05",
+      "updated_at": "2025-09-12T18:25:12.961Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "395817",
+      "imagen": "https://image.tmdb.org/t/p/w342/8VzpKL8v5vFQsf00CKJ0dTfimJ8.jpg",
+      "titulo": "Rescate suicida",
+      "año": "2024",
+      "etiquetas": "Crimen, Suspense, Western",
+      "categorías": "Crimen, Suspense, Western",
+      "type": "movie",
+      "created_at": "2024-09-05",
+      "updated_at": "2025-09-12T21:51:31.770Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "1279642",
+      "imagen": "https://image.tmdb.org/t/p/w342/nYYQi3ztSNhmCpcbJbnnaOPHM2U.jpg",
+      "titulo": "Ride",
+      "año": "2024",
+      "etiquetas": "Crimen, Drama",
+      "categorías": "Crimen, Drama",
+      "type": "movie",
+      "created_at": "2024-06-14",
+      "updated_at": "2025-09-12T22:03:45.513Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-10T12:28:43.088Z"
+  "lastUpdated": "2025-09-12T22:03:48.710Z"
 }
