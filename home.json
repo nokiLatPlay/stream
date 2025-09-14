@@ -3114,7 +3114,51 @@
       "type": "animes",
       "created_at": "2025-04-07",
       "updated_at": "2025-09-14T08:43:24.204Z"
+    },
+    {
+      "id_tmdb": "123249",
+      "imagen": "https://image.tmdb.org/t/p/w342/5qk1GjRczsJQLChZZvVdH9i37nW.jpg",
+      "titulo": "My Dress-Up Darling",
+      "año": "2022",
+      "etiquetas": "Animación, Comedia, Drama",
+      "categorías": "Animación, Comedia, Drama",
+      "type": "animes",
+      "created_at": "2022-01-09",
+      "updated_at": "2025-09-14T09:20:22.362Z"
+    },
+    {
+      "id_tmdb": "99073",
+      "imagen": "https://image.tmdb.org/t/p/w342/olv9eCdn4m1p7PLZaMTn5zR1SEB.jpg",
+      "titulo": "I've Been Killing Slimes For 300 Years And Maxed Out My Level",
+      "año": "2021",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2021-04-10",
+      "updated_at": "2025-09-14T09:24:06.686Z"
+    },
+    {
+      "id_tmdb": "152483",
+      "imagen": "https://image.tmdb.org/t/p/w342/bpviFMjnQQWL9nP3oIF1BQOJyi8.jpg",
+      "titulo": "The Boys: Diabolical",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura",
+      "categorías": "Animación, Acción, Aventura",
+      "type": "series",
+      "created_at": "2022-03-03",
+      "updated_at": "2025-09-14T09:26:07.288Z"
+    },
+    {
+      "id_tmdb": "242143",
+      "imagen": "https://image.tmdb.org/t/p/w342/ncwR6gL58cf1Z6xNcnA8iTS4PyG.jpg",
+      "titulo": "You are Ms. Servant",
+      "año": "2024",
+      "etiquetas": "Animación, Comedia",
+      "categorías": "Animación, Comedia",
+      "type": "animes",
+      "created_at": "2024-10-06",
+      "updated_at": "2025-09-14T09:27:47.189Z"
     }
   ],
-  "lastUpdated": "2025-09-14T08:43:50.178Z"
+  "lastUpdated": "2025-09-14T09:28:02.816Z"
 }
