@@ -844,7 +844,7 @@
       "categorías": "Animación, Drama, Ciencia Ficción y Fantasía, Acción, Aventura",
       "type": "animes",
       "created_at": "2017-10-12",
-      "updated_at": "2025-09-09T00:39:25.654Z"
+      "updated_at": "2025-09-14T05:36:06.028Z"
     },
     {
       "id_tmdb": "74078",
@@ -1586,7 +1586,7 @@
       "categorías": "Acción, Ciencia ficción, Aventura",
       "type": "movie",
       "created_at": "2021-09-03",
-      "updated_at": "2025-09-09T03:46:34.576Z",
+      "updated_at": "2025-09-14T06:52:48.920Z",
       "calidad": "HD"
     },
     {
@@ -3092,7 +3092,18 @@
       "created_at": "2025-07-18",
       "updated_at": "2025-09-14T01:08:27.571Z",
       "calidad": "CAM"
+    },
+    {
+      "id_tmdb": "210942",
+      "imagen": "https://image.tmdb.org/t/p/w342/qkoM63HDuCOSwxGfb0pljrgns9I.jpg",
+      "titulo": "APARI3NCIAS",
+      "año": "2022",
+      "etiquetas": "Comedia, Drama, Animación",
+      "categorías": "Comedia, Drama, Animación",
+      "type": "animes",
+      "created_at": "2022-12-08",
+      "updated_at": "2025-09-14T08:27:10.759Z"
     }
   ],
-  "lastUpdated": "2025-09-14T01:08:33.595Z"
+  "lastUpdated": "2025-09-14T08:27:16.089Z"
 }
