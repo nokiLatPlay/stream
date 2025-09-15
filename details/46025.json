@@ -7,7 +7,7 @@
   "categorías": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
   "type": "animes",
   "created_at": "2011-01-07",
-  "updated_at": "2025-09-10T12:28:43.087Z",
+  "updated_at": "2025-09-15T07:18:02.871Z",
   "synopsis": "Un arma exoesqueleto diseñado por Japón, Infinito Stratos (IS) se puede pilotar sólo por mujeres. Su poder y destreza de combate son tan inmensa que un tratado internacional se ha firmado la prohibición de su uso como un activo militar.\n\nCuando se descubre que 15 años de edad, Ichika Orimura es el único hombre capaz de dirigir un IS, que está inscrito por la fuerza en la Academia Stratos Infinito: un internado exclusivamente femenino, los estudiantes de los cuales se gradúan para convertirse en pilotos de SI. En esta escuela de formación, Ichika se reunió con dos de sus amigos de la infancia, Houki Shinonono y Alma Escondido Huang, y se hace amigo de Cecilia Alcott, un representante es del Reino Unido.",
   "temporadas": [
     {
@@ -31,7 +31,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906257"
         },
         {
@@ -52,7 +52,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906255"
         },
         {
@@ -73,7 +73,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906256"
         },
         {
@@ -94,7 +94,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906258"
         },
         {
@@ -115,7 +115,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906259"
         },
         {
@@ -136,7 +136,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906261"
         },
         {
@@ -157,7 +157,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906262"
         },
         {
@@ -178,7 +178,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906260"
         },
         {
@@ -199,7 +199,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906263"
         },
         {
@@ -220,7 +220,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906265"
         },
         {
@@ -241,7 +241,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906266"
         },
         {
@@ -262,7 +262,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906264"
         }
       ]
@@ -274,96 +274,252 @@
           "episode_id": "1",
           "nombre": "1. Episodio 1",
           "portada": "https://image.tmdb.org/t/p/w300/69VYsC4uYrWeX9erG0FIOUQ4TCv.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/pkq1KTSV?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-z5adml3bmazg.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "906267"
         },
         {
           "episode_id": "2",
           "nombre": "2. Episodio 2",
           "portada": "https://image.tmdb.org/t/p/w300/oZ0ce6KPPTJb3zy6uiNBOT0lU42.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/xyWr4XVS?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-zla1hc9giqwz.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037687"
         },
         {
           "episode_id": "3",
           "nombre": "3. Episodio 3",
           "portada": "https://image.tmdb.org/t/p/w300/t0WqvNb8xpjiVuFnQIFbzDe25jA.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/hBtdTaHe?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-4n2bi44et5h9.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037688"
         },
         {
           "episode_id": "4",
           "nombre": "4. Episodio 4",
           "portada": "https://image.tmdb.org/t/p/w300/sQFMp8vZ8jKmeFKuLGRcKNQ95Ma.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/yNM2iQao?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-6ookzoopvnrn.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037689"
         },
         {
           "episode_id": "5",
           "nombre": "5. Episodio 5",
           "portada": "https://image.tmdb.org/t/p/w300/5bp8HaDEbrQHRvbAGux6P33Nz7Z.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/aE4A3PqV?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-z3w3nvykpft4.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037690"
         },
         {
           "episode_id": "6",
           "nombre": "6. Episodio 6",
           "portada": "https://image.tmdb.org/t/p/w300/piEjvRjcenLqoT6UhbfgaL4E82g.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/iaHytM4Y?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-xr4ichbe5j3z.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037691"
         },
         {
           "episode_id": "7",
           "nombre": "7. Episodio 7",
           "portada": "https://image.tmdb.org/t/p/w300/eOPBmClNQAFBETTyVUMcMCavyZO.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/bQRGPpF8?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-w57anzjf6fbl.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037692"
         },
         {
           "episode_id": "8",
           "nombre": "8. Episodio 8",
           "portada": "https://image.tmdb.org/t/p/w300/3g5k7UXZdHNp1Q6mkoqFHBueQS3.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/eM9FVxo7?embed",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-zbkwpol3bu6c.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037693"
         },
         {
           "episode_id": "9",
           "nombre": "9. Episodio 9",
           "portada": "https://image.tmdb.org/t/p/w300/3wEyhCcY97g8kHFkT4LyWGu8K4x.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/BwDWiPTH?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-fuoffs28muyo.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037694"
         },
         {
           "episode_id": "10",
           "nombre": "10. Episodio 10",
           "portada": "https://image.tmdb.org/t/p/w300/22plrU972JGBfBmoxZCg9km1Baj.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/GNzexSE8?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-s15ttxr8k448.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037695"
         },
         {
           "episode_id": "11",
           "nombre": "11. Episodio 11",
           "portada": "https://image.tmdb.org/t/p/w300/meCSj2RtFbnoqSUnxo0BfULUDeU.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/Xso76X7H?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-31ella2k2stx.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037696"
         },
         {
           "episode_id": "12",
           "nombre": "12. Episodio 12",
           "portada": "https://image.tmdb.org/t/p/w300/y1BPvxFVBjIvZzHTQ3wBqm4bO1S.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-10T12:28:43.087Z",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://pixeldrain.com/api/file/6Hp32Cgx?embed",
+              "type": "mp4",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-o7ew3u4qqq3b.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-09-15T07:18:02.871Z",
           "id": "1037697"
         }
       ]
