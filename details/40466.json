@@ -2,7 +2,6 @@
   "id_tmdb": "40466",
   "imagen": "https://image.tmdb.org/t/p/w342/dyrGugg4xOfEKxlu2ueXxst4orY.jpg",
   "titulo": "Cocodrilo",
-  "año": "2000",
   "etiquetas": "Terror",
   "categorías": "Terror",
   "type": "movie",
@@ -29,5 +28,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2000"
 }
