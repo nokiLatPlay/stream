@@ -2,7 +2,6 @@
   "id_tmdb": "9160",
   "imagen": "https://image.tmdb.org/t/p/w342/pR3qMnbtkUsT3LJM3NTzamoqx84.jpg",
   "titulo": "Candy Candy",
-  "año": "1976",
   "etiquetas": "Animación, Drama, Kids",
   "categorías": "Animación, Drama, Kids",
   "type": "animes",
@@ -1740,5 +1739,6 @@
         }
       ]
     }
-  ]
+  ],
+  "year": "1976"
 }
