@@ -2,7 +2,6 @@
   "id_tmdb": "8373",
   "imagen": "https://image.tmdb.org/t/p/w342/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg",
   "titulo": "Transformers: la venganza de los caídos",
-  "año": "2009",
   "etiquetas": "Ciencia ficción, Acción, Aventura",
   "categorías": "Ciencia ficción, Acción, Aventura",
   "type": "movie",
@@ -23,5 +22,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2009"
 }
