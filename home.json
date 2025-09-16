@@ -3170,7 +3170,157 @@
       "updated_at": "2025-09-15T07:55:10.756Z",
       "calidad": "HD",
       "year": "2023"
+    },
+    {
+      "id_tmdb": "1234821",
+      "imagen": "https://image.tmdb.org/t/p/w342/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+      "titulo": "Jurassic World: Renace",
+      "year": "2025",
+      "etiquetas": "Ciencia ficción, Aventura, Acción",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:15:46.509Z"
+    },
+    {
+      "id_tmdb": "351286",
+      "imagen": "https://image.tmdb.org/t/p/w342/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",
+      "titulo": "Jurassic World 2: El Reino Caído",
+      "year": "2018",
+      "etiquetas": "Acción, Aventura, Ciencia ficción, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:17:41.129Z"
+    },
+    {
+      "id_tmdb": "552524",
+      "imagen": "https://image.tmdb.org/t/p/w342/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "titulo": "Lilo y Stitch",
+      "year": "2025",
+      "etiquetas": "Familia, Ciencia ficción, Comedia, Aventura",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:19:50.086Z"
+    },
+    {
+      "id_tmdb": "1087192",
+      "imagen": "https://image.tmdb.org/t/p/w342/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
+      "titulo": "Cómo entrenar a tu dragón",
+      "year": "2025",
+      "etiquetas": "Fantasía, Familia, Acción, Aventura",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:20:53.705Z"
+    },
+    {
+      "id_tmdb": "1011477",
+      "imagen": "https://image.tmdb.org/t/p/w342/bwNAjGUsHt35eqT0Aj8NHU02WPl.jpg",
+      "titulo": "Karate Kid: Leyendas",
+      "year": "2025",
+      "etiquetas": "Acción, Aventura, Drama",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:21:37.866Z"
+    },
+    {
+      "id_tmdb": "541671",
+      "imagen": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "titulo": "Bailarina",
+      "year": "2025",
+      "etiquetas": "Acción, Suspense, Crimen",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:22:33.810Z"
+    },
+    {
+      "id_tmdb": "870028",
+      "imagen": "https://image.tmdb.org/t/p/w342/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg",
+      "titulo": "El contador 2",
+      "year": "2025",
+      "etiquetas": "Misterio, Crimen, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:23:32.720Z"
+    },
+    {
+      "id_tmdb": "1097311",
+      "imagen": "https://image.tmdb.org/t/p/w342/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg",
+      "titulo": "Echo Valley",
+      "year": "2025",
+      "etiquetas": "Suspense, Drama",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:24:14.507Z"
+    },
+    {
+      "id_tmdb": "17610",
+      "imagen": "https://image.tmdb.org/t/p/w342/2RdmUfWqmt7SnYaBR89NoYTVQZc.jpg",
+      "titulo": "Año Uno",
+      "year": "2009",
+      "etiquetas": "Comedia, Aventura",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:27:43.687Z"
+    },
+    {
+      "id_tmdb": "19908",
+      "imagen": "https://image.tmdb.org/t/p/w342/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
+      "titulo": "Zombieland",
+      "year": "2009",
+      "etiquetas": "Comedia, Terror",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:29:31.902Z"
+    },
+    {
+      "id_tmdb": "338967",
+      "imagen": "https://image.tmdb.org/t/p/w342/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg",
+      "titulo": "Zombieland 2: Tiro de Gracia",
+      "year": "2019",
+      "etiquetas": "Terror, Comedia, Acción",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:30:22.892Z"
+    },
+    {
+      "id_tmdb": "72190",
+      "imagen": "https://image.tmdb.org/t/p/w342/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "titulo": "Guerra mundial Z",
+      "year": "2013",
+      "etiquetas": "Acción, Terror, Ciencia ficción, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:31:35.677Z"
+    },
+    {
+      "id_tmdb": "24420",
+      "imagen": "https://image.tmdb.org/t/p/w342/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg",
+      "titulo": "Te Amaré Por Siempre",
+      "year": "2009",
+      "etiquetas": "Drama, Romance, Fantasía",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:33:56.540Z"
+    },
+    {
+      "id_tmdb": "18240",
+      "imagen": "https://image.tmdb.org/t/p/w342/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
+      "titulo": "La Propuesta",
+      "year": "2009",
+      "etiquetas": "Comedia, Romance, Drama",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:35:27.755Z"
+    },
+    {
+      "id_tmdb": "16996",
+      "imagen": "https://image.tmdb.org/t/p/w342/aeY39uBOmk603RbuJ0KcB6Rr1wf.jpg",
+      "titulo": "17 Otra Vez",
+      "year": "2009",
+      "etiquetas": "Comedia, Fantasía, Drama, Romance",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-16T06:36:29.596Z"
     }
   ],
-  "lastUpdated": "2025-09-16T06:03:16.656Z"
+  "lastUpdated": "2025-09-16T06:36:29.596Z"
 }
