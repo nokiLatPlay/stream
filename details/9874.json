@@ -2,7 +2,6 @@
   "id_tmdb": "9874",
   "imagen": "https://image.tmdb.org/t/p/w342/zXW4cRRcnPGeSej9EBlKJxnxUUk.jpg",
   "titulo": "Cobra: El Brazo Fuerte De La Ley",
-  "año": "1985",
   "etiquetas": "Acción, Crimen, Suspense",
   "categorías": "Acción, Crimen, Suspense",
   "type": "movie",
@@ -23,5 +22,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "1985"
 }
