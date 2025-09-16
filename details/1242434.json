@@ -2,7 +2,6 @@
   "id_tmdb": "1242434",
   "imagen": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
   "titulo": "Del cielo al infierno",
-  "año": "2025",
   "etiquetas": "Suspense, Crimen, Drama",
   "categorías": "Suspense, Crimen, Drama",
   "type": "movie",
@@ -47,5 +46,6 @@
       "type": "embed",
       "language": "Sub"
     }
-  ]
+  ],
+  "year": "2025"
 }
