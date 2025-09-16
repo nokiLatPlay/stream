@@ -2,12 +2,11 @@
   "id_tmdb": "36657",
   "imagen": "https://image.tmdb.org/t/p/w342/aF170xLGytZcC0xeSlSamImgIi4.jpg",
   "titulo": "X-Men",
-  "año": "2000",
   "etiquetas": "Aventura, Acción, Ciencia ficción",
   "categorías": "Aventura, Acción, Ciencia ficción",
   "type": "movie",
   "created_at": "2000-07-13",
-  "updated_at": "2025-07-23T03:27:55.664Z",
+  "updated_at": "2025-09-09T00:14:51.305Z",
   "calidad": "HD",
   "synopsis": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
   "enlaces": [
@@ -17,5 +16,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2000"
 }
