@@ -2,7 +2,6 @@
   "id_tmdb": "20504",
   "imagen": "https://image.tmdb.org/t/p/w342/pR2716VZn7CigrEikQ5PfEITqun.jpg",
   "titulo": "El libro de los secretos",
-  "año": "2010",
   "etiquetas": "Acción, Suspense, Ciencia ficción",
   "categorías": "Acción, Suspense, Ciencia ficción",
   "type": "movie",
@@ -29,5 +28,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2010"
 }
