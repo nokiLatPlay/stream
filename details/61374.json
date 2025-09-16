@@ -2,7 +2,6 @@
   "id_tmdb": "61374",
   "imagen": "https://image.tmdb.org/t/p/w342/5XBk7T4NsGeN9RG39y2nU6gRWQl.jpg",
   "titulo": "Tokyo Ghoul",
-  "año": "2014",
   "etiquetas": "Animación, Drama, Ciencia Ficción y Fantasía",
   "categorías": "Animación, Drama, Ciencia Ficción y Fantasía",
   "type": "animes",
@@ -498,5 +497,6 @@
         }
       ]
     }
-  ]
+  ],
+  "year": "2014"
 }
