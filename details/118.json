@@ -2,7 +2,6 @@
   "id_tmdb": "118",
   "imagen": "https://image.tmdb.org/t/p/w342/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg",
   "titulo": "Charlie y La Fábrica de Chocolate",
-  "año": "2005",
   "etiquetas": "Aventura, Comedia, Familia, Fantasía",
   "categorías": "Aventura, Comedia, Familia, Fantasía",
   "type": "movie",
@@ -29,5 +28,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2005"
 }
