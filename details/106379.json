@@ -2,12 +2,11 @@
   "id_tmdb": "106379",
   "imagen": "https://image.tmdb.org/t/p/w342/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
   "titulo": "Fallout",
-  "año": "2024",
   "etiquetas": "Acción, Aventura, Drama",
   "categorías": "Acción, Aventura, Drama",
   "type": "series",
   "created_at": "2024-04-10",
-  "updated_at": "2025-08-21T02:54:15.834Z",
+  "updated_at": "2025-09-09T04:46:59.720Z",
   "synopsis": "Basado en una de las mejores series de videojuegos de todos los tiempos, Fallout es la historia de los que tienen y los que no tienen en un mundo en el que ya casi no queda nada que tener. 200 años después del apocalipsis, los amables habitantes de los lujosos refugios nucleares se ven obligados a regresar al infierno irradiado que sus antepasados dejaron atrás y se sorprenden al descubrir un universo increíblemente complejo, alegremente extraño y altamente violento esperándolos.",
   "temporadas": [
     {
@@ -31,7 +30,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.972Z",
           "id": "2362884"
         },
         {
@@ -52,7 +51,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "4845562"
         },
         {
@@ -73,7 +72,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "4845563"
         },
         {
@@ -94,7 +93,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "5197532"
         },
         {
@@ -115,7 +114,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "5197533"
         },
         {
@@ -136,7 +135,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "5197535"
         },
         {
@@ -157,7 +156,7 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "5197536"
         },
         {
@@ -178,10 +177,80 @@
               "language": "Latino"
             }
           ],
-          "updated_at": "2025-08-21T02:54:15.834Z",
+          "updated_at": "2025-09-09T04:46:59.973Z",
           "id": "5197538"
         }
       ]
+    },
+    {
+      "temporada": "Temporada 2",
+      "capitulos": [
+        {
+          "episode_id": "1",
+          "nombre": "1. Episodio 1",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468112"
+        },
+        {
+          "episode_id": "2",
+          "nombre": "2. Episodio 2",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468133"
+        },
+        {
+          "episode_id": "3",
+          "nombre": "3. Episodio 3",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468134"
+        },
+        {
+          "episode_id": "4",
+          "nombre": "4. Episodio 4",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468135"
+        },
+        {
+          "episode_id": "5",
+          "nombre": "5. Episodio 5",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468136"
+        },
+        {
+          "episode_id": "6",
+          "nombre": "6. Episodio 6",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468141"
+        },
+        {
+          "episode_id": "7",
+          "nombre": "7. Episodio 7",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468143"
+        },
+        {
+          "episode_id": "8",
+          "nombre": "8. Episodio 8",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-09-09T04:46:59.985Z",
+          "id": "6468145"
+        }
+      ]
     }
-  ]
+  ],
+  "year": "2024"
 }
