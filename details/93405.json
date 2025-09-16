@@ -2,7 +2,6 @@
   "id_tmdb": "93405",
   "imagen": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
   "titulo": "El juego del calamar",
-  "año": "2021",
   "etiquetas": "Acción, Aventura, Misterio, Drama",
   "categorías": "Acción, Aventura, Misterio, Drama",
   "type": "dorama",
@@ -835,5 +834,6 @@
         }
       ]
     }
-  ]
+  ],
+  "year": "2021"
 }
