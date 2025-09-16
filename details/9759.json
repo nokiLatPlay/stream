@@ -1,13 +1,12 @@
 {
   "id_tmdb": "9759",
   "imagen": "https://image.tmdb.org/t/p/w342/6F0Rz5SObtMlbT6U0kGVKcdTXN2.jpg",
-  "titulo": "Celular",
-  "año": "2004",
+  "titulo": "Celular: Llamada desesperada",
   "etiquetas": "Acción, Suspense, Drama, Crimen",
   "categorías": "Acción, Suspense, Drama, Crimen",
   "type": "movie",
   "created_at": "2004-09-06",
-  "updated_at": "2025-07-22T09:11:50.315Z",
+  "updated_at": "2025-09-09T00:08:39.672Z",
   "calidad": "HD",
   "synopsis": "Un joven recibe la llamada de una mujer que le dice que ha sido secuestrada y que la van a asesinar. Los captores buscan además a su marido y su hijo.",
   "enlaces": [
@@ -23,5 +22,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2004"
 }
