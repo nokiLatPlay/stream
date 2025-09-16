@@ -2,7 +2,6 @@
   "id_tmdb": "83100",
   "imagen": "https://image.tmdb.org/t/p/w342/6TX5aQHlJKdRZqV9nFPty3dOdfe.jpg",
   "titulo": "Dororo",
-  "año": "2019",
   "etiquetas": "Animación, Acción, Aventura",
   "categorías": "Animación, Acción, Aventura",
   "type": "animes",
@@ -381,5 +380,6 @@
         }
       ]
     }
-  ]
+  ],
+  "year": "2019"
 }
