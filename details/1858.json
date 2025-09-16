@@ -2,7 +2,6 @@
   "id_tmdb": "1858",
   "imagen": "https://image.tmdb.org/t/p/w342/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
   "titulo": "Transformers",
-  "año": "2007",
   "etiquetas": "Aventura, Ciencia ficción, Acción",
   "categorías": "Aventura, Ciencia ficción, Acción",
   "type": "movie",
@@ -35,5 +34,6 @@
       "type": "embed",
       "language": "Latino"
     }
-  ]
+  ],
+  "year": "2007"
 }
