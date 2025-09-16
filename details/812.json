@@ -2,26 +2,26 @@
   "id_tmdb": "812",
   "imagen": "https://image.tmdb.org/t/p/w342/5ALwczKzFxbsiMDlHuy7aREDCzr.jpg",
   "titulo": "Aladdin",
-  "año": "1992",
   "etiquetas": "Animación, Familia, Aventura, Fantasía, Romance",
   "categorías": "Animación, Familia, Aventura, Fantasía, Romance",
   "type": "movie",
   "created_at": "1992-11-25",
-  "updated_at": "2025-08-28T01:44:13.074Z",
+  "updated_at": "2025-09-08T23:17:28.705Z",
   "calidad": "HD",
   "synopsis": "Un niño de la calle de buen corazón y un Gran Visir hambriento de poder compiten por una lámpara mágica que tiene el poder de hacer realidad sus deseos más profundos.",
   "enlaces": [
     {
-      "nombre": "Server 1",
+      "nombre": "Enlace 1",
       "url": "https://fastream.to/embed-tppxozcyw7hs.html",
       "type": "embed",
       "language": "Latino"
     },
     {
-      "nombre": "Server 2",
+      "nombre": "Enlace 2",
       "url": "https://fastream.to/embed-ourklhd6ef3m.html",
       "type": "embed",
       "language": "Castellano"
     }
-  ]
+  ],
+  "year": "1992"
 }
