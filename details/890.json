@@ -2,7 +2,6 @@
   "id_tmdb": "890",
   "imagen": "https://image.tmdb.org/t/p/w342/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
   "titulo": "Neon Genesis Evangelion",
-  "año": "1995",
   "etiquetas": "Ciencia Ficción y Fantasía, Animación, Drama",
   "categorías": "Ciencia Ficción y Fantasía, Animación, Drama",
   "type": "animes",
@@ -405,5 +404,6 @@
         }
       ]
     }
-  ]
+  ],
+  "year": "1995"
 }
