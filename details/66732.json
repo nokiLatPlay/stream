@@ -267,55 +267,280 @@
           "episode_id": "1",
           "nombre": "01. Capítulo uno: MADMAX",
           "portada": "https://image.tmdb.org/t/p/w300/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-hccvk0inztl2.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-1vklw47yudga.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/chrkurhjrah8",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/stp7ybbknd0c",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "2",
           "nombre": "02. Capítulo dos: Dulce o truco, bicho raro",
           "portada": "https://image.tmdb.org/t/p/w300/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-k2s1i13m337a.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-qlwsvgo78iqt.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/xwlnddnrj3v2",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/ialyx6du5ejt",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "3",
           "nombre": "03. Capítulo tres: El renacuajo",
           "portada": "https://image.tmdb.org/t/p/w300/792NQjFydcr5ucb1sga55LS6Vt3.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-3hfue7kcmvcu.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-zlklr57yl0h3.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/b0cftb6pkdwa",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/0n2gk43v860c",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "4",
           "nombre": "04. Capítulo cuatro: Will, el Sabio",
           "portada": "https://image.tmdb.org/t/p/w300/wZXeV5cWC1RuaCls2mm6imzchnN.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-cqkmrwlywsbw.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-bzsjfg8m0tnw.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/gpagtntofh3f",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/v3z094pv690p",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "5",
           "nombre": "05. Capítulo cinco: Dig Dug",
           "portada": "https://image.tmdb.org/t/p/w300/oshY3LAwQRzhcjmEEr7EbOnypuU.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-izti0ifxtbr7.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-2mbuoz7lxg9q.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/9lq7a75t00s9",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/4u3x2z4ialih",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "6",
           "nombre": "06. Capítulo seis: El espía",
           "portada": "https://image.tmdb.org/t/p/w300/d90nCiTEACFEUd3fcX8DrLBi5DL.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-sgci6a6u02rw.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://yuguaab.com/e/a9tikdnu86rq",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/6pa45fbnfwpy",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://lamovie.link/embed-v1fjs441uny6.html",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "7",
           "nombre": "07. Capítulo siete: La hermana perdida",
           "portada": "https://image.tmdb.org/t/p/w300/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-83tno45xmmk1.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-7h119sfaysgm.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/57vdl8vs4a38",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/r3mzq5cqx12a",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "8",
           "nombre": "08. Capítulo ocho: El azotamentes",
           "portada": "https://image.tmdb.org/t/p/w300/qVIjQZsW5q6QeVDlRV5AmEtq66o.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-hhhbev12unol.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://lamovie.link/embed-3afthenjuazv.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/jj2p7ah9bit9",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/zpew3xauqwt7",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "9",
           "nombre": "09. Capítulo nueve: El portal",
           "portada": "https://image.tmdb.org/t/p/w300/cxCf7O5WPHfyXb7PLSJCG6EvXc3.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-jn644giefqgb.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://lamovie.link/embed-s7ion789rv18.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/3ck2037lls3u",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/vff7mxf4yjd6",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         }
       ]
     },
@@ -326,49 +551,231 @@
           "episode_id": "1",
           "nombre": "01. Capítulo uno: ¿Me copias, Suzie?",
           "portada": "https://image.tmdb.org/t/p/w300/g1iZmyn42qSFkXhw6gjoNE0diKb.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-bmz8kvly4hia.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-rikw0gw0ipek.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/qri6m6zczcuh",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "2",
           "nombre": "02. Capítulo dos: Ratas de centro comercial",
           "portada": "https://image.tmdb.org/t/p/w300/qDlMvdlRGzIGtKYdV9lktEUM4vj.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-o7eas984ffv4.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-so547atjh3cb.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/f8n8t6cfd27r",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "3",
           "nombre": "03. Capítulo tres: El caso de la socorrista desaparecida",
           "portada": "https://image.tmdb.org/t/p/w300/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-m7fd8xxf8ber.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://yuguaab.com/e/drj9ln0w2ff8",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://goodstream.one/embed-qbkko6ps8uol.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/t7d0c29tdvfg",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "4",
           "nombre": "04. Capítulo cuatro: La prueba de la sauna",
           "portada": "https://image.tmdb.org/t/p/w300/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://lamovie.link/embed-b5cdtxad6j4i.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://goodstream.one/embed-g1xsi278vnei.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/pzbob8lnt7xr",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/2gqsiu06t71p",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "5",
           "nombre": "05. Capítulo cinco: El ejército del Azotamentes",
           "portada": "https://image.tmdb.org/t/p/w300/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-icgtseadu89n.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://yuguaab.com/e/lb32gub28hzz",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://lamovie.link/embed-xi0uwba0zevg.html",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "6",
           "nombre": "06. Capítulo seis: E pluribus unum",
           "portada": "https://image.tmdb.org/t/p/w300/ypc1zPyeUsnXYSgzspIidpjaXKo.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-p8y40qkesg9v.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://lamovie.link/embed-y7bf3rk83w4t.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/tfnm2h6l5d9c",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/kedu8y761qp3",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "7",
           "nombre": "07. Capítulo siete: La mordedura",
           "portada": "https://image.tmdb.org/t/p/w300/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-exupqw94fuh6.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://lamovie.link/embed-jjm4vkdu1w6w.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/v39gdx3ab10d",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/1zak6r005ibg",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         },
         {
           "episode_id": "8",
           "nombre": "08. Capítulo ocho: La batalla de Starcourt",
           "portada": "https://image.tmdb.org/t/p/w300/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-0j3quht5z7fa.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://lamovie.link/embed-gowd0p60exvf.html",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://yuguaab.com/e/znihc8rncs5g",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://filemoon.sx/e/pqgzkrdxqaac",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ]
         }
       ]
     },
@@ -432,5 +839,5 @@
       ]
     }
   ],
-  "updated_at": "2025-09-20T11:05:23.204Z"
+  "updated_at": "2025-09-21T04:01:28.622Z"
 }
