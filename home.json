@@ -2612,7 +2612,7 @@
       "categorías": "Ciencia Ficción y Fantasía, Drama",
       "type": "series",
       "created_at": "2025-08-12",
-      "updated_at": "2025-09-09T05:03:29.224Z",
+      "updated_at": "2025-09-21T21:40:23.425Z",
       "year": "2025"
     },
     {
@@ -3467,7 +3467,37 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-09-21T21:17:31.356Z"
+    },
+    {
+      "id_tmdb": "1251683",
+      "imagen": "https://image.tmdb.org/t/p/w342/18uZlNHBCUnXbuCrAYACjDwv8SF.jpg",
+      "titulo": "Ba",
+      "year": 2024,
+      "etiquetas": "Drama, Fantasía, Terror",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-21T21:27:08.546Z"
+    },
+    {
+      "id_tmdb": "200085",
+      "imagen": "https://image.tmdb.org/t/p/w342/oBnc4NLaxZ8V94srsfgdyyDjts4.jpg",
+      "titulo": "El Virus",
+      "year": 2013,
+      "etiquetas": "Acción, Ciencia ficción, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-21T21:30:06.388Z"
+    },
+    {
+      "id_tmdb": "273477",
+      "imagen": "https://image.tmdb.org/t/p/w342/qxYhEeYxRb4MDwTCnCR6QD82gb1.jpg",
+      "titulo": "A La Mierda Con Los Zombis",
+      "year": 2015,
+      "etiquetas": "Comedia, Terror",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-21T21:33:14.814Z"
     }
   ],
-  "lastUpdated": "2025-09-21T21:17:31.565Z"
+  "lastUpdated": "2025-09-21T21:40:23.425Z"
 }
