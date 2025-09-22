@@ -224,8 +224,9 @@
       "categorías": "Ciencia Ficción y Fantasía, Animación, Drama",
       "type": "animes",
       "created_at": "1995-10-04",
-      "updated_at": "2025-09-08T23:52:34.372Z",
-      "year": "1995"
+      "updated_at": "2025-09-22T05:41:03.047Z",
+      "year": "1995",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "1372",
@@ -2645,8 +2646,9 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2023-10-07",
-      "updated_at": "2025-09-09T05:33:36.925Z",
-      "year": "2023"
+      "updated_at": "2025-09-22T08:12:01.393Z",
+      "year": "2023",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "222930",
@@ -3517,7 +3519,97 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-09-21T23:25:12.704Z"
+    },
+    {
+      "id_tmdb": "508883",
+      "imagen": "https://image.tmdb.org/t/p/w342/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg",
+      "titulo": "El niño y la garza",
+      "year": "2023",
+      "etiquetas": "Animación, Aventura, Fantasía, Familia, Drama",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T05:33:19.710Z"
+    },
+    {
+      "id_tmdb": "261148",
+      "imagen": "https://image.tmdb.org/t/p/w342/6Mh3iaUrL4ZPvpmbCJKBICBEbNi.jpg",
+      "titulo": "The Red Ranger Becomes an Adventurer in Another World",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T05:45:15.052Z"
+    },
+    {
+      "id_tmdb": "56090",
+      "imagen": "https://image.tmdb.org/t/p/w342/alYOk4VgMOlelCbyhfkUws35l5D.jpg",
+      "titulo": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
+      "year": "2013",
+      "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T05:50:38.234Z"
+    },
+    {
+      "id_tmdb": "272059",
+      "imagen": "https://image.tmdb.org/t/p/w342/3SHNexaAClQL3CjhCESIJnGQGwf.jpg",
+      "titulo": "TO BE HERO X",
+      "year": "2025",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T06:06:53.291Z"
+    },
+    {
+      "id_tmdb": "64163",
+      "imagen": "https://image.tmdb.org/t/p/w342/32rDJfZ4iT88UaBigKF7DwVZSuA.jpg",
+      "titulo": "Shinmai Maou no Testament",
+      "year": "2015",
+      "etiquetas": "Animación, Action & Adventure, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T06:18:03.278Z"
+    },
+    {
+      "id_tmdb": "21730",
+      "imagen": "https://image.tmdb.org/t/p/w342/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+      "titulo": "Mobile Suit Gundam Wing",
+      "year": 1995,
+      "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
+      "type": "series",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T08:09:59.759Z"
+    },
+    {
+      "id_tmdb": "99618",
+      "imagen": "https://image.tmdb.org/t/p/w342/wt7LoTKJUYmyWuxcVowGWaPeKqV.jpg",
+      "titulo": "Kumo Desu ga, Nani ka?",
+      "year": "2021",
+      "etiquetas": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T08:17:34.284Z"
+    },
+    {
+      "id_tmdb": "281042",
+      "imagen": "https://image.tmdb.org/t/p/w342/skI4mGDkyXja0daa7vmvNdPK4lp.jpg",
+      "titulo": "Hibi wa Sugiredo Meshi Umashi",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T08:17:00.781Z"
+    },
+    {
+      "id_tmdb": "256109",
+      "imagen": "https://image.tmdb.org/t/p/w342/wvQokVLDcFk8X1YN3UO4VGAmrgX.jpg",
+      "titulo": "Teogonia",
+      "year": "2025",
+      "etiquetas": "Action & Adventure, Sci-Fi & Fantasy, Drama, Animación",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-22T08:15:27.144Z"
     }
   ],
-  "lastUpdated": "2025-09-21T23:25:12.960Z"
+  "lastUpdated": "2025-09-22T08:17:34.285Z"
 }
