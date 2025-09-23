@@ -2459,8 +2459,9 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama, Crimen",
       "type": "animes",
       "created_at": "2021-01-13",
-      "updated_at": "2025-09-09T04:45:29.458Z",
-      "year": "2021"
+      "updated_at": "2025-09-23T00:12:00.150Z",
+      "year": "2021",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "106379",
@@ -3609,7 +3610,57 @@
       "type": "animes",
       "calidad": "HD",
       "updated_at": "2025-09-22T08:15:27.144Z"
+    },
+    {
+      "id_tmdb": "60825",
+      "imagen": "https://image.tmdb.org/t/p/w342/j2vxZgdGlKsBL10OjflJKXBMjqj.jpg",
+      "titulo": "Hitsugi no Chaika",
+      "year": "2014",
+      "etiquetas": "Action & Adventure, Animación, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-23T00:32:07.986Z"
+    },
+    {
+      "id_tmdb": "1014505",
+      "imagen": "https://image.tmdb.org/t/p/w342/sWPhQZZKPDZaxRlx18A9l657vO5.jpg",
+      "titulo": "OVERLORD: El Reino Sagrado",
+      "year": 2024,
+      "etiquetas": "Acción, Aventura, Animación, Fantasía",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-09-23T00:16:53.648Z"
+    },
+    {
+      "id_tmdb": "65945",
+      "imagen": "https://image.tmdb.org/t/p/w342/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg",
+      "titulo": "Kabaneri of the Iron Fortress",
+      "year": "2016",
+      "etiquetas": "Animación, Drama, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-23T00:33:47.185Z"
+    },
+    {
+      "id_tmdb": "213424",
+      "imagen": "https://image.tmdb.org/t/p/w342/hkNZwSpscq9AdKMYGpWp0sF359l.jpg",
+      "titulo": "4 CUT HERO",
+      "year": "2023",
+      "etiquetas": "Animación, Comedia, Action & Adventure",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-23T00:42:45.866Z"
+    },
+    {
+      "id_tmdb": "290682",
+      "imagen": "https://image.tmdb.org/t/p/w342/hMT03na2p26j0twrvF0JbRDeNE5.jpg",
+      "titulo": "Relatos de supervivencia: Las voces de la tragedia",
+      "year": "2025",
+      "etiquetas": "Documental, War & Politics",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-09-23T03:24:24.062Z"
     }
   ],
-  "lastUpdated": "2025-09-22T08:19:30.048Z"
+  "lastUpdated": "2025-09-23T03:24:24.063Z"
 }
