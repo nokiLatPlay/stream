@@ -2758,8 +2758,9 @@
       "categorías": "Ciencia Ficción y Fantasía, Drama",
       "type": "dorama",
       "created_at": "2025-08-23",
-      "updated_at": "2025-09-09T05:35:06.925Z",
-      "year": "2025"
+      "updated_at": "2025-09-25T09:39:16.723Z",
+      "year": "2025",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "56998",
@@ -3750,7 +3751,37 @@
       "type": "animes",
       "calidad": "HD",
       "updated_at": "2025-09-24T03:26:41.187Z"
+    },
+    {
+      "id_tmdb": "64375",
+      "imagen": "https://image.tmdb.org/t/p/w342/w0Jxkxsq0AV5mOdzMjm3yCseJjc.jpg",
+      "titulo": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "year": "2015",
+      "etiquetas": "Animación, War & Politics, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-24T04:45:07.476Z"
+    },
+    {
+      "id_tmdb": "88804",
+      "imagen": "https://image.tmdb.org/t/p/w342/vtpPJuEhoAdDuaHbOIFRfvWWJ3n.jpg",
+      "titulo": "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+      "year": "2019",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-25T08:47:56.134Z"
+    },
+    {
+      "id_tmdb": "236994",
+      "imagen": "https://image.tmdb.org/t/p/w342/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
+      "titulo": "Dragon Ball Daima",
+      "year": "2024",
+      "etiquetas": "Animación, Action & Adventure, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-09-25T08:49:14.447Z"
     }
   ],
-  "lastUpdated": "2025-09-24T03:26:41.187Z"
+  "lastUpdated": "2025-09-25T09:39:16.724Z"
 }
