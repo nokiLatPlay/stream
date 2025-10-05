@@ -4505,7 +4505,57 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-10-01T04:28:22.001Z"
+    },
+    {
+      "id_tmdb": "1224327",
+      "imagen": "https://image.tmdb.org/t/p/w342/9Go4QokXsLBOdwB087Py9DJUI0a.jpg",
+      "titulo": "Come Home",
+      "year": 2024,
+      "etiquetas": "Suspense, Drama, Terror",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-03T02:13:07.700Z"
+    },
+    {
+      "id_tmdb": "1280450",
+      "imagen": "https://image.tmdb.org/t/p/w342/fZlNXEHZsBp7unqw009MeBbMv87.jpg",
+      "titulo": "Stolen Girl",
+      "year": "2025",
+      "etiquetas": "Suspense, Acción, Aventura",
+      "type": "movie",
+      "calidad": "CAM",
+      "updated_at": "2025-10-03T02:22:48.391Z"
+    },
+    {
+      "id_tmdb": "1005985",
+      "imagen": "https://image.tmdb.org/t/p/w342/oj2y8UYScRemDQTHmq9Kfwe3EpQ.jpg",
+      "titulo": "El corazón de mi niña",
+      "year": 2025,
+      "etiquetas": "Acción, Drama, Crimen",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-03T02:13:08.504Z"
+    },
+    {
+      "id_tmdb": "941109",
+      "imagen": "https://image.tmdb.org/t/p/w342/iENIozg5IPgwl0lbPS7Vqz55LrX.jpg",
+      "titulo": "Juego sucio",
+      "year": 2025,
+      "etiquetas": "Crimen",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-03T02:15:10.918Z"
+    },
+    {
+      "id_tmdb": "205715",
+      "imagen": "https://image.tmdb.org/t/p/w342/8WF2iRFbghWbE4kg0FzW5Q59bIr.jpg",
+      "titulo": "Gen V",
+      "year": "2023",
+      "etiquetas": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "type": "series",
+      "calidad": "HD",
+      "updated_at": "2025-10-03T02:26:28.458Z"
     }
   ],
-  "lastUpdated": "2025-10-01T04:28:22.183Z"
+  "lastUpdated": "2025-10-03T02:26:28.458Z"
 }
