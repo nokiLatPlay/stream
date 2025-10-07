@@ -4571,11 +4571,11 @@
       "id_tmdb": "228305",
       "imagen": "https://image.tmdb.org/t/p/w342/3ZSskZW7Ls5FARdhrLKGcF9lWjE.jpg",
       "titulo": "Task",
-      "year": 2025,
+      "year": "2025",
       "etiquetas": "Crimen, Drama",
       "type": "series",
       "calidad": "HD",
-      "updated_at": "2025-10-06T03:46:32.117Z"
+      "updated_at": "2025-10-07T14:59:57.365Z"
     },
     {
       "id_tmdb": "69298",
@@ -4746,7 +4746,77 @@
       "type": "series",
       "calidad": "HD",
       "updated_at": "2025-10-07T11:30:59.369Z"
+    },
+    {
+      "id_tmdb": "986097",
+      "imagen": "https://image.tmdb.org/t/p/w342/fiXNf4HpEQuxedx7q05bO7cGCh0.jpg",
+      "titulo": "HIM: El elegido",
+      "year": "2025",
+      "etiquetas": "Terror, Misterio",
+      "type": "movie",
+      "calidad": "CAM",
+      "updated_at": "2025-10-07T14:31:05.123Z"
+    },
+    {
+      "id_tmdb": "20526",
+      "imagen": "https://image.tmdb.org/t/p/w342/m3tkTgatN1IuwKGAFnsiLakRQLh.jpg",
+      "titulo": "Tron: El Legado",
+      "year": 2010,
+      "etiquetas": "Aventura, Acción, Ciencia ficción",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:30:43.975Z"
+    },
+    {
+      "id_tmdb": "569094",
+      "imagen": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "titulo": "Spider-Man: A través del Spider-Verso",
+      "year": 2023,
+      "etiquetas": "Animación, Acción, Aventura, Ciencia ficción",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:30:44.268Z"
+    },
+    {
+      "id_tmdb": "4247",
+      "imagen": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+      "titulo": "Una película de miedo",
+      "year": 2000,
+      "etiquetas": "Comedia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:30:44.612Z"
+    },
+    {
+      "id_tmdb": "823219",
+      "imagen": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
+      "titulo": "Flow",
+      "year": 2024,
+      "etiquetas": "Animación, Aventura, Fantasía, Familia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:30:44.942Z"
+    },
+    {
+      "id_tmdb": "603",
+      "imagen": "https://image.tmdb.org/t/p/w342/plYYSxZ9Wdq4thyVSkhJjbjYtVG.jpg",
+      "titulo": "Matrix",
+      "year": 1999,
+      "etiquetas": "Acción, Ciencia ficción",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:30:45.278Z"
+    },
+    {
+      "id_tmdb": "247784",
+      "imagen": "https://image.tmdb.org/t/p/w342/eTGKdfL0imf5jNO7MIWCLhaRK5w.jpg",
+      "titulo": "Pulso",
+      "year": 2025,
+      "etiquetas": "Drama",
+      "type": "series",
+      "calidad": "HD",
+      "updated_at": "2025-10-07T14:57:18.953Z"
     }
   ],
-  "lastUpdated": "2025-10-07T11:30:59.369Z"
+  "lastUpdated": "2025-10-07T14:59:57.365Z"
 }
