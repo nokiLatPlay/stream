@@ -8,11 +8,11 @@
   "synopsis": "Cuando una mujer despierta como Athanasia, la princesa desafortunada de la novela The Lovely Princess, tiene que reescribir esta tragedia o enfrentarse a la ejecución, ¡a manos de su propio padre! Puede que esté atrapada, pero tiene su ingenio y los recuerdos de la chica condenada para ayudarla con un giro argumental de supervivencia. Pero cuando su plan de escape falla, tiene que usar sus encantos para evitar ser ejecutada de nuevo.",
   "temporadas": [
     {
-      "temporada": "Temporada 1",
+      "temporada": "Season 1",
       "capitulos": [
         {
           "episode_id": "1",
-          "nombre": "01. Episodio 1",
+          "nombre": "01. Fate Begins to Stir",
           "portada": "https://image.tmdb.org/t/p/w342/vVbyG88PRpoKnRwcmzkc8wADyGH.jpg",
           "enlaces": [
             {
@@ -43,8 +43,8 @@
         },
         {
           "episode_id": "2",
-          "nombre": "02. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w342/mPqjqg88b9pphXKvrk8tJhRgGNL.jpg",
+          "nombre": "02. Papa",
+          "portada": "https://image.tmdb.org/t/p/w342/zoSfrKJ3Cq7aPE5VDMkfLBNi8br.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -74,7 +74,7 @@
         },
         {
           "episode_id": "3",
-          "nombre": "03. Episodio 3",
+          "nombre": "03. Princess of the Obelia Empire",
           "portada": "https://image.tmdb.org/t/p/w342/l1lbVNCJi2pPIwbBSelIHASrnnE.jpg",
           "enlaces": [
             {
@@ -105,84 +105,109 @@
         },
         {
           "episode_id": "4",
-          "nombre": "04. Episodio 4",
-          "portada": "",
-          "enlaces": []
+          "nombre": "04. Taboos and Memories",
+          "portada": "https://image.tmdb.org/t/p/w342/gzHj4TQYG0fxXh42ybETXiC9joX.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/3xni4afg2epo",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/v9warabj8i22",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/kqgd6rolrebp/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-05c8z0ifb0zy.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "5",
-          "nombre": "05. Episodio 5",
+          "nombre": "05. Episode 5",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "6",
-          "nombre": "06. Episodio 6",
+          "nombre": "06. Episode 6",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "7",
-          "nombre": "07. Episodio 7",
+          "nombre": "07. Episode 7",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "8",
-          "nombre": "08. Episodio 8",
+          "nombre": "08. Episode 8",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "9",
-          "nombre": "09. Episodio 9",
+          "nombre": "09. Episode 9",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "10",
-          "nombre": "10. Episodio 10",
+          "nombre": "10. Episode 10",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "11",
-          "nombre": "11. Episodio 11",
+          "nombre": "11. Episode 11",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "12",
-          "nombre": "12. Episodio 12",
+          "nombre": "12. Episode 12",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "13",
-          "nombre": "13. Episodio 13",
+          "nombre": "13. Episode 13",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "14",
-          "nombre": "14. Episodio 14",
+          "nombre": "14. Episode 14",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "15",
-          "nombre": "15. Episodio 15",
+          "nombre": "15. Episode 15",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "16",
-          "nombre": "16. Episodio 16",
+          "nombre": "16. Episode 16",
           "portada": "",
           "enlaces": []
         }
       ]
     }
   ],
-  "updated_at": "2025-09-30T02:05:21.895Z"
+  "updated_at": "2025-10-07T10:47:04.360Z"
 }
