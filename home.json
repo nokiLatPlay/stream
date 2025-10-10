@@ -2829,8 +2829,9 @@
       "categorías": "Animación, Drama, Misterio",
       "type": "animes",
       "created_at": "2023-10-22",
-      "updated_at": "2025-09-09T06:18:35.939Z",
-      "year": "2023"
+      "updated_at": "2025-10-10T09:02:28.365Z",
+      "year": "2023",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "260823",
@@ -3416,7 +3417,7 @@
       "etiquetas": "Animación, Comedia, Drama",
       "type": "animes",
       "calidad": "HD",
-      "updated_at": "2025-09-30T02:15:16.008Z"
+      "updated_at": "2025-10-10T08:57:28.601Z"
     },
     {
       "id_tmdb": "1216623",
@@ -4196,7 +4197,7 @@
       "etiquetas": "Action, Thriller, Crime",
       "type": "movie",
       "calidad": "HD",
-      "updated_at": "2025-09-30T12:58:47.645Z"
+      "updated_at": "2025-10-10T10:55:21.480Z"
     },
     {
       "id_tmdb": "1245993",
@@ -4837,7 +4838,127 @@
       "type": "animes",
       "calidad": "HD",
       "updated_at": "2025-10-09T03:01:59.867Z"
+    },
+    {
+      "id_tmdb": "1291559",
+      "imagen": "https://image.tmdb.org/t/p/w342/ciuW95pdPaiReudofHwyv6qYi12.jpg",
+      "titulo": "Pinceladas de amor",
+      "year": 2024,
+      "etiquetas": "Romance, Drama",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:44:39.144Z"
+    },
+    {
+      "id_tmdb": "214942",
+      "imagen": "https://image.tmdb.org/t/p/w342/9lYN1aAQdcW9cxt6IrrdLHsarJv.jpg",
+      "titulo": "23.5 Ongsa Thi Lok Iang",
+      "year": "2024",
+      "etiquetas": "Comedia",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:54:47.437Z"
+    },
+    {
+      "id_tmdb": "263300",
+      "imagen": "https://image.tmdb.org/t/p/w342/Ac5pYnWeVQZGhODKLhxQ4a7NMRW.jpg",
+      "titulo": "Fight for You",
+      "year": "2025",
+      "etiquetas": "Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:54:34.959Z"
+    },
+    {
+      "id_tmdb": "259771",
+      "imagen": "https://image.tmdb.org/t/p/w342/49C7BvD5j8dbehBCzamKXTO3des.jpg",
+      "titulo": "You Are My Lover Friend",
+      "year": "2024",
+      "etiquetas": "Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:53:56.494Z"
+    },
+    {
+      "id_tmdb": "270655",
+      "imagen": "https://image.tmdb.org/t/p/w342/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg",
+      "titulo": "The Reason We Fall In Love",
+      "year": "2024",
+      "etiquetas": "",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:53:14.811Z"
+    },
+    {
+      "id_tmdb": "258357",
+      "imagen": "https://image.tmdb.org/t/p/w342/8PSk2b9R5yg1Mdy5T7aXIVwSJOQ.jpg",
+      "titulo": "My Girlfriend Is the Man!",
+      "year": "2025",
+      "etiquetas": "Sci-Fi & Fantasy, Comedia, Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:52:15.921Z"
+    },
+    {
+      "id_tmdb": "271607",
+      "imagen": "https://image.tmdb.org/t/p/w342/e2zegxrA6tyT1nobxXoMTWlQjJf.jpg",
+      "titulo": "La nobleza de las flores",
+      "year": "2025",
+      "etiquetas": "Animación, Drama",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T08:58:43.829Z"
+    },
+    {
+      "id_tmdb": "1352755",
+      "imagen": "https://image.tmdb.org/t/p/w342/wdhUHVEwpfsutJ7gJPqsOTOf2i2.jpg",
+      "titulo": "Mantenimiento requerido",
+      "year": 2025,
+      "etiquetas": "Romance, Comedia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T10:55:20.654Z"
+    },
+    {
+      "id_tmdb": "1125257",
+      "imagen": "https://image.tmdb.org/t/p/w342/8Ibddnv5SpQGLp2r90bHRRBSpf5.jpg",
+      "titulo": "Otro viernes de locos",
+      "year": 2025,
+      "etiquetas": "Comedia, Fantasía, Familia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T10:55:21.011Z"
+    },
+    {
+      "id_tmdb": "1277988",
+      "imagen": "https://image.tmdb.org/t/p/w342/c4ZEAah5a01cu27w7vT2IAoFogk.jpg",
+      "titulo": "Caramelo",
+      "year": 2025,
+      "etiquetas": "Comedia, Drama, Familia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T10:55:21.322Z"
+    },
+    {
+      "id_tmdb": "1236470",
+      "imagen": "https://image.tmdb.org/t/p/w342/dftMArca90s5ldlmltYZtkzVGNV.jpg",
+      "titulo": "A través del fuego",
+      "year": 2025,
+      "etiquetas": "Drama, Misterio, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T10:55:21.896Z"
+    },
+    {
+      "id_tmdb": "1217602",
+      "imagen": "https://image.tmdb.org/t/p/w342/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+      "titulo": "London Calling",
+      "year": 2025,
+      "etiquetas": "Acción, Crimen, Comedia, Suspense",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-10T10:55:22.285Z"
     }
   ],
-  "lastUpdated": "2025-10-09T03:01:59.868Z"
+  "lastUpdated": "2025-10-10T10:55:22.285Z"
 }
