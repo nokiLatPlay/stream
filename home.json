@@ -2317,8 +2317,9 @@
       "categorías": "Animación, Comedia, Drama",
       "type": "animes",
       "created_at": "2013-04-05",
-      "updated_at": "2025-09-09T03:55:16.573Z",
-      "year": "2013"
+      "updated_at": "2025-10-09T02:37:16.443Z",
+      "year": "2013",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "67011",
@@ -4816,7 +4817,27 @@
       "type": "series",
       "calidad": "HD",
       "updated_at": "2025-10-07T14:57:18.953Z"
+    },
+    {
+      "id_tmdb": "284448",
+      "imagen": "https://image.tmdb.org/t/p/w342/pTPJVKVGf8fywJQl3yxdeumz9f7.jpg",
+      "titulo": "Private Tutor to the Duke's Daughter",
+      "year": "2025",
+      "etiquetas": "Animación, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-09T02:40:08.880Z"
+    },
+    {
+      "id_tmdb": "207468",
+      "imagen": "https://image.tmdb.org/t/p/w342/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+      "titulo": "Kaiju No. 8",
+      "year": "2024",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-09T03:01:59.867Z"
     }
   ],
-  "lastUpdated": "2025-10-07T14:59:57.365Z"
+  "lastUpdated": "2025-10-09T03:01:59.868Z"
 }
