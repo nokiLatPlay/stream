@@ -5238,7 +5238,47 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-10-12T08:54:19.160Z"
+    },
+    {
+      "id_tmdb": "127366",
+      "imagen": "https://image.tmdb.org/t/p/w342/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg",
+      "titulo": "Splinter Cell: Deathwatch",
+      "year": "2025",
+      "etiquetas": "Animación, Action & Adventure",
+      "type": "series",
+      "calidad": "HD",
+      "updated_at": "2025-10-15T16:33:06.904Z"
+    },
+    {
+      "id_tmdb": "89456",
+      "imagen": "https://image.tmdb.org/t/p/w342/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
+      "titulo": "Primal",
+      "year": 2019,
+      "etiquetas": "Action & Adventure, Animación, Drama",
+      "type": "series",
+      "calidad": "HD",
+      "updated_at": "2025-10-15T16:34:42.283Z"
+    },
+    {
+      "id_tmdb": "252135",
+      "imagen": "https://image.tmdb.org/t/p/w342/yq4TfasaovGloVDXTIdfO132v39.jpg",
+      "titulo": "Plan de resurrección",
+      "year": "2025",
+      "etiquetas": "Crimen, Drama, Misterio",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-15T16:38:12.594Z"
+    },
+    {
+      "id_tmdb": "228689",
+      "imagen": "https://image.tmdb.org/t/p/w342/57lwxja44bDvaOGbLrUfINMe5Vh.jpg",
+      "titulo": "El genio y los deseos",
+      "year": 2025,
+      "etiquetas": "Sci-Fi & Fantasy, Comedia, Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-15T16:37:36.553Z"
     }
   ],
-  "lastUpdated": "2025-10-12T09:11:34.904Z"
+  "lastUpdated": "2025-10-15T16:38:12.594Z"
 }
