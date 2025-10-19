@@ -1,48 +1,142 @@
 {
-  "id_tmdb": "280042",
-  "titulo": "A Wild Last Boss Appeared!",
-  "year": "2025",
-  "imagen": "https://image.tmdb.org/t/p/w342/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg",
-  "type": "animes",
-  "etiquetas": "Animación, Action, Adventure, Sci-Fi, Fantasy, Drama",
-  "synopsis": "Corre el año 2800 y Lufas Maphaahl (la tirana de alas negras, gran conquistadora y líder de las Doce Estrellas Celestiales) ha regresado. Un hombre se despierta en el cuerpo de su personaje de MMO 200 años después de su derrota durante un evento creado por un jugador en el juego Exgate Online. Ahora, está atrapado en ese cuerpo. Pero esto no es un juego, es real. Con su reinado habiendo quedado atrás hace mucho tiempo y su legado de miedo, Lufas debe viajar por el mundo de Exgate en busca de respuestas, posibles camaradas y todos los monstruos que su \"muerte\" desató sobre el mundo...",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "280042",
+    "titulo": "A Wild Last Boss Appeared!",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg",
+    "etiquetas": "Animación, Action, Adventure, Sci-Fi, Fantasy, Drama",
+    "year": "2025",
+    "type": "animes",
+    "synopsis": "Un hombre se reencarna en el personaje de Ruphas del videojuego Exgate 200 años después de que caiga derrotada frente a los siete héroes. Pero el juego no es como él pensaba que era y las reglas han cambiado.",
+    "created_at": "2025-10-19",
+    "updated_at": "2025-10-19T02:24:34.000Z",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "01. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w342/2PE9H5bcPkBpA9zem3j7pz1xiMc.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/nsrf3q571vrz",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/p9sr1f1dvqhe",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/9ak0uega4u9c/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-iapvx0vtk3eb.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/uDTLOqtaE1H4axibZzOnPX4kHtA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/nsrf3q571vrz",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/p9sr1f1dvqhe",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/9ak0uega4u9c\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-iapvx0vtk3eb.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/AndiDmVhP0muuAHRrzVPjsESkka.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/amxqq78hv1xa",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/y24c4gy5gzkl",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/4xh4ie4r6da7\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-00btdymwq9kp.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/9OOeOSXfqtxf6X7faz5vyGEojj1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/dwkyuoyoffno",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/kfpydcqk54sg",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/hdle5px77jyz\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5i4ap6djs5ns.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mvQFaxwrfnQgtfvnwySGAUFKdlo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/y5rc67rbyyoi",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/firmzeut06f0",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/omijg4ugp2vh\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-aaaivg7q5y16.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "updated_at": "2025-09-30T02:10:37.017Z"
+    ]
 }
