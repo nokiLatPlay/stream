@@ -75,7 +75,7 @@
         {
           "episode_id": "3",
           "nombre": "03. Princess of the Obelia Empire",
-          "portada": "https://image.tmdb.org/t/p/w342/l1lbVNCJi2pPIwbBSelIHASrnnE.jpg",
+          "portada": "https://image.tmdb.org/t/p/w342/eCqD0ZV97X3AwlCeVKgqV21xh7N.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -106,7 +106,7 @@
         {
           "episode_id": "4",
           "nombre": "04. Taboos and Memories",
-          "portada": "https://image.tmdb.org/t/p/w342/gzHj4TQYG0fxXh42ybETXiC9joX.jpg",
+          "portada": "https://image.tmdb.org/t/p/w342/9vvpOofAIgXHL5gf0seIz1SFhLb.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -136,15 +136,65 @@
         },
         {
           "episode_id": "5",
-          "nombre": "05. Episode 5",
-          "portada": "",
-          "enlaces": []
+          "nombre": "05. Uninvited Guests",
+          "portada": "https://image.tmdb.org/t/p/w342/pFu4Zb32MFQlBs3caKwt50LP9mN.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/sy9do4cqoqo8",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/tgbdxm6hh1ff",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/tlrf6g3bk7qv/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-tnot28sloe84.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "6",
-          "nombre": "06. Episode 6",
-          "portada": "",
-          "enlaces": []
+          "nombre": "06. The Genius Boy Wizard",
+          "portada": "https://image.tmdb.org/t/p/w342/rzCzsphN6ZQBZrcl3UTXtThIJOs.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/z18ma9dbk08m",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/2pqrmk8ho5vb",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/nnjs9luzn7mz/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-305qrds7ohsk.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "7",
@@ -209,5 +259,5 @@
       ]
     }
   ],
-  "updated_at": "2025-10-07T10:47:42.899Z"
+  "updated_at": "2025-10-21T15:35:18.299Z"
 }
