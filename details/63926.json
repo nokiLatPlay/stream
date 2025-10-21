@@ -334,19 +334,69 @@
       "capitulos": [
         {
           "episode_id": "1",
-          "nombre": "01. Episode 1",
+          "nombre": "01. Strategy Meeting",
           "portada": "https://image.tmdb.org/t/p/w342/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg",
-          "enlaces": []
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/ol3j61rmgdud",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/ytzxbshlyu0u",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/nqd3zp6dfn2t/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-p9wkm4gtdgdp.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "2",
-          "nombre": "02. Episode 2",
-          "portada": "",
-          "enlaces": []
+          "nombre": "02. Monster Traits",
+          "portada": "https://image.tmdb.org/t/p/w342/A1M2Eafy4PVHX2adtgldSkTRoyX.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/4c15iolowrq3",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/d2uh5zr6j290",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/lurxoxsvkwbm/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-rx1w9x0w6zac.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "3",
-          "nombre": "03. Episode 3",
+          "nombre": "03. Organism Limits",
           "portada": "",
           "enlaces": []
         },
@@ -407,5 +457,5 @@
       ]
     }
   ],
-  "updated_at": "2025-10-07T11:10:39.346Z"
+  "updated_at": "2025-10-21T16:31:30.506Z"
 }
