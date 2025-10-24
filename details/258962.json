@@ -1,19 +1,19 @@
 {
   "id_tmdb": "258962",
   "titulo": "Pubertat",
-  "year": 2025,
+  "year": "2025",
   "imagen": "https://image.tmdb.org/t/p/w342/yxsb9rmeeebsU2pjgVe4Uri8F7L.jpg",
   "type": "series",
   "etiquetas": "Drama",
   "synopsis": "Sin sinopsis disponible",
   "temporadas": [
     {
-      "temporada": "Temporada 1",
+      "temporada": "Season 1",
       "capitulos": [
         {
           "episode_id": "1",
-          "nombre": "01. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w300/ybrhYx6eDiODKqOQdKcblX7SZ2U.jpg",
+          "nombre": "01. Episode 1",
+          "portada": "https://image.tmdb.org/t/p/w342/ybrhYx6eDiODKqOQdKcblX7SZ2U.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -37,8 +37,8 @@
         },
         {
           "episode_id": "2",
-          "nombre": "02. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w300/pbZfThmAequzeAMwduYeYNmg0gN.jpg",
+          "nombre": "02. Episode 2",
+          "portada": "https://image.tmdb.org/t/p/w342/pbZfThmAequzeAMwduYeYNmg0gN.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -62,8 +62,8 @@
         },
         {
           "episode_id": "3",
-          "nombre": "03. Episodio 3",
-          "portada": "https://image.tmdb.org/t/p/w300/9k4EcccxLRtmUY0VTN1pdayKiE0.jpg",
+          "nombre": "03. Episode 3",
+          "portada": "https://image.tmdb.org/t/p/w342/9k4EcccxLRtmUY0VTN1pdayKiE0.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -87,8 +87,8 @@
         },
         {
           "episode_id": "4",
-          "nombre": "04. Episodio 4",
-          "portada": "",
+          "nombre": "04. Episode 4",
+          "portada": "https://image.tmdb.org/t/p/w342/6dRHStPdpbLQPINN191Z1vFhoue.jpg",
           "enlaces": [
             {
               "nombre": "Enlace 1",
@@ -112,18 +112,37 @@
         },
         {
           "episode_id": "5",
-          "nombre": "05. Episodio 5",
-          "portada": "",
-          "enlaces": []
+          "nombre": "05. Episode 5",
+          "portada": "https://image.tmdb.org/t/p/w300/7cazdXkIYY5c80oYYtCewLBqeXl.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/gz57vc7y2md5",
+              "type": "embed",
+              "language": "Cast"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filemoon.sx/e/aqyamgepap00",
+              "type": "embed",
+              "language": "Cast"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://movearnpre.com/v/f4oeq5cxh9qr",
+              "type": "embed",
+              "language": "Cast"
+            }
+          ]
         },
         {
           "episode_id": "6",
-          "nombre": "06. Episodio 6",
+          "nombre": "06. Episode 6",
           "portada": "",
           "enlaces": []
         }
       ]
     }
   ],
-  "updated_at": "2025-10-17T07:34:53.879Z"
+  "updated_at": "2025-10-24T06:20:43.598Z"
 }
