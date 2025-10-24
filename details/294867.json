@@ -6,72 +6,36 @@
   "type": "animes",
   "etiquetas": "Animación, Sci-Fi & Fantasy",
   "synopsis": "El mundo está a punto de cambiar de una sociedad anticuada a un mundo nuevo, debido a cuestiones como el género, la raza y el cumplimiento, junto con innovaciones tecnológicas como una IA en evolución. Incluso en este mundo donde el blanco y negro ahora es gris, creemos que el \"amor\" siempre existirá, pero en innumerables formas y no sólo entre personas. Esto incluye el amor entre humanos y robots y su expresión única. La belleza de estas emociones se mostrará a veces de forma hermosa, a veces brutal y a veces cómica. ¿Cuánto tiempo puede durar este amor? Cuando un robot sobrevive a su compañero humano, ¿puede su amor esperar perdurar?",
-  "updated_at": "2025-10-06T04:19:46.167Z",
+  "updated_at": "2025-10-24T06:49:09.519Z",
   "temporadas": [
     {
-      "temporada": "Especiales",
+      "temporada": "Season 1",
       "capitulos": [
         {
           "episode_id": "1",
-          "nombre": "01. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w342/hHre89dXcZa47Xs2qtdRx6GvKCY.jpg",
-          "enlaces": [
-            {
-              "nombre": "",
-              "url": "https://movearnpre.com/embed/8rgqfqbqikbo",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "",
-              "url": "https://filemoon.sx/e/jwjrk0scdvgq/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "",
-              "url": "https://yuguaab.com/e/fp3r3zx39tv2",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "",
-              "url": "https://www.mp4upload.com/embed-bhe0p38rtmto.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
-        {
-          "episode_id": "1",
-          "nombre": "01. Episodio 1",
+          "nombre": "01. The Woman Who Sailed the Soul",
           "portada": "https://image.tmdb.org/t/p/w342/pLkTLSft7EEeiAwxbUpxGh7L38B.jpg",
           "enlaces": [
             {
-              "nombre": "",
+              "nombre": "Enlace 1",
               "url": "https://yuguaab.com/e/5zawb9zzsxz2",
               "type": "embed",
               "language": "Sub"
             },
             {
-              "nombre": "",
+              "nombre": "Enlace 2",
               "url": "https://movearnpre.com/embed/yi0dlz8x2bo3",
               "type": "embed",
               "language": "Sub"
             },
             {
-              "nombre": "",
+              "nombre": "Enlace 3",
               "url": "https://filemoon.sx/e/mx5i48oilgfl/",
               "type": "embed",
               "language": "Sub"
             },
             {
-              "nombre": "",
+              "nombre": "Enlace 4",
               "url": "https://www.mp4upload.com/embed-a3lokprv678e.html",
               "type": "embed",
               "language": "Sub"
@@ -80,67 +44,142 @@
         },
         {
           "episode_id": "2",
-          "nombre": "02. Episodio 2",
-          "portada": "",
-          "enlaces": []
+          "nombre": "02. In the North After Doomsday",
+          "portada": "https://image.tmdb.org/t/p/w342/eeY7hpiDhlazndAJdyRcuW51AHO.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/060vyqpx4gix",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/z00ayi6wjtx4",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/ydpyxmowx5yh/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-tw7ax7rogxzg.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "3",
-          "nombre": "03. Episodio 3",
-          "portada": "",
-          "enlaces": []
+          "nombre": "03. Dancing with You Under the Rainy Summer Sky",
+          "portada": "https://image.tmdb.org/t/p/w342/tNgv5ap8oXY5RXuXwySXIuErKiq.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/iuu6dklc6zdu",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/g3l87t7mmbe2",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/tkzp1d1g7ujz/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-p7z97zy6j3i6.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "4",
-          "nombre": "04. Episodio 4",
-          "portada": "",
-          "enlaces": []
+          "nombre": "04. A Game of Lime and Allegiance",
+          "portada": "https://image.tmdb.org/t/p/w342/hl3lrC8eV7ZTS5cBo8QqoumhTBh.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://yuguaab.com/e/q5ojqndof29x",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/embed/kp2ke4ryemif",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://filemoon.sx/e/lw1p5f6usb19/",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 4",
+              "url": "https://www.mp4upload.com/embed-q79gpl3jt32m.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         },
         {
           "episode_id": "5",
-          "nombre": "05. Episodio 5",
+          "nombre": "05. Do Androids Dream of Electric Doves?",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "6",
-          "nombre": "06. Episodio 6",
+          "nombre": "06. Episode 6",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "7",
-          "nombre": "07. Episodio 7",
+          "nombre": "07. Episode 7",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "8",
-          "nombre": "08. Episodio 8",
+          "nombre": "08. Episode 8",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "9",
-          "nombre": "09. Episodio 9",
+          "nombre": "09. Episode 9",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "10",
-          "nombre": "10. Episodio 10",
+          "nombre": "10. Episode 10",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "11",
-          "nombre": "11. Episodio 11",
+          "nombre": "11. Episode 11",
           "portada": "",
           "enlaces": []
         },
         {
           "episode_id": "12",
-          "nombre": "12. Episodio 12",
+          "nombre": "12. Episode 12",
           "portada": "",
           "enlaces": []
         }
