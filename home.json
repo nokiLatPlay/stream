@@ -3133,8 +3133,9 @@
       "categorías": "Animación, Comedia, Drama",
       "type": "animes",
       "created_at": "2022-01-09",
-      "updated_at": "2025-09-14T09:20:22.362Z",
-      "year": "2022"
+      "updated_at": "2025-10-25T12:03:09.853Z",
+      "year": "2022",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "99073",
@@ -3144,7 +3145,7 @@
       "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2021-04-10",
-      "updated_at": "2025-09-14T09:24:06.686Z",
+      "updated_at": "2025-10-25T11:34:07.831Z",
       "year": "2021"
     },
     {
@@ -5738,7 +5739,37 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-10-25T08:09:40.546Z"
+    },
+    {
+      "id_tmdb": "254389",
+      "imagen": "https://image.tmdb.org/t/p/w342/csUQq1Eck88xyNWkSo2s0X6FLzD.jpg",
+      "titulo": "Hasta que el cielo nos reúna",
+      "year": "2025",
+      "etiquetas": "Sci-Fi & Fantasy, Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T11:00:37.389Z"
+    },
+    {
+      "id_tmdb": "104976",
+      "imagen": "https://image.tmdb.org/t/p/w342/sv6rkGsCgQWM8vAJuOLe0euKRPo.jpg",
+      "titulo": "Life: Love on the Line",
+      "year": "2020",
+      "etiquetas": "Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T10:58:13.332Z"
+    },
+    {
+      "id_tmdb": "261980",
+      "imagen": "https://image.tmdb.org/t/p/w342/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+      "titulo": "Nuestro Seúl por descubrir",
+      "year": 2025,
+      "etiquetas": "Drama",
+      "type": "dorama",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T11:25:54.113Z"
     }
   ],
-  "lastUpdated": "2025-10-25T08:09:40.547Z"
+  "lastUpdated": "2025-10-25T12:03:09.853Z"
 }
