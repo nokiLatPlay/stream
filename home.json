@@ -1526,7 +1526,7 @@
       "categorías": "Acción, Aventura, Fantasía",
       "type": "movie",
       "created_at": "2021-09-01",
-      "updated_at": "2025-09-09T03:46:29.719Z",
+      "updated_at": "2025-10-25T08:09:39.206Z",
       "calidad": "HD",
       "year": "2021"
     },
@@ -5708,7 +5708,37 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-10-25T06:54:52.253Z"
+    },
+    {
+      "id_tmdb": "38700",
+      "imagen": "https://image.tmdb.org/t/p/w342/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg",
+      "titulo": "Bad Boys para Siempre",
+      "year": 2020,
+      "etiquetas": "Suspense, Acción, Crimen",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T08:09:39.786Z"
+    },
+    {
+      "id_tmdb": "8961",
+      "imagen": "https://image.tmdb.org/t/p/w342/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg",
+      "titulo": "Bad Boys II: vuelven más rebeldes",
+      "year": 2003,
+      "etiquetas": "Acción, Crimen, Comedia",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T08:09:40.200Z"
+    },
+    {
+      "id_tmdb": "573435",
+      "imagen": "https://image.tmdb.org/t/p/w342/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
+      "titulo": "Bad Boys: Hasta la muerte",
+      "year": 2024,
+      "etiquetas": "Acción, Comedia, Crimen, Suspense, Aventura",
+      "type": "movie",
+      "calidad": "HD",
+      "updated_at": "2025-10-25T08:09:40.546Z"
     }
   ],
-  "lastUpdated": "2025-10-25T06:54:52.254Z"
+  "lastUpdated": "2025-10-25T08:09:40.547Z"
 }
