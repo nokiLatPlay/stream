@@ -1,0 +1,69 @@
+{
+  "id_tmdb": "104976",
+  "titulo": "Life: Love on the Line",
+  "year": "2020",
+  "imagen": "https://image.tmdb.org/t/p/w342/sv6rkGsCgQWM8vAJuOLe0euKRPo.jpg",
+  "type": "dorama",
+  "etiquetas": "Drama",
+  "synopsis": "Dos chicos se conocen por casualidad al intentar caminar por la línea blanca de la acera. Al sentirse atraídos y elegir caminar juntos, ¿cómo coexistirán sus sentimientos inmutables en un mundo de realidades cambiantes?",
+  "temporadas": [
+    {
+      "temporada": "Temporada 1",
+      "capitulos": [
+        {
+          "episode_id": "1",
+          "nombre": "01. Episodio 1",
+          "portada": "https://image.tmdb.org/t/p/w300/7DwFlxY3slIyVsa6WQKZrPLHfQ7.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-ym9wov5ssn66.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "nombre": "02. Episodio 2",
+          "portada": "https://image.tmdb.org/t/p/w300/mmFzmjCmfdPAhRorM2GGexwUp8R.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-hc15t7xrvgkb.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "nombre": "03. Episodio 3",
+          "portada": "https://image.tmdb.org/t/p/w300/5kXmVp3chQ49bEBYF19UvVyQoUU.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-xcszsc7bah09.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "nombre": "04. Episodio 4",
+          "portada": "https://image.tmdb.org/t/p/w300/fRNwsjGu5Je5aS0M3hgsNdDLfXm.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://goodstream.one/embed-wcnshzaowafz.html",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "updated_at": "2025-10-25T10:58:13.332Z"
+}
