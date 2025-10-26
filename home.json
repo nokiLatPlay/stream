@@ -2853,8 +2853,9 @@
       "categorías": "Acción, Aventura, Animación, Comedia",
       "type": "animes",
       "created_at": "2006-10-07",
-      "updated_at": "2025-09-09T06:28:20.417Z",
-      "year": "2006"
+      "updated_at": "2025-10-26T16:32:21.665Z",
+      "year": "2006",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "276253",
@@ -5939,7 +5940,127 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-10-26T09:07:09.156Z"
+    },
+    {
+      "id_tmdb": "13916",
+      "imagen": "https://image.tmdb.org/t/p/w342/chnG4pYo89weaBjXHJWvW68E35B.jpg",
+      "titulo": "Death Note",
+      "year": "2006",
+      "etiquetas": "Animación, Misterio, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T16:36:20.348Z"
+    },
+    {
+      "id_tmdb": "29452",
+      "imagen": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
+      "titulo": "Heidi",
+      "year": "1974",
+      "etiquetas": "Animación, Drama, Familia",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T16:38:42.495Z"
+    },
+    {
+      "id_tmdb": "66109",
+      "imagen": "https://image.tmdb.org/t/p/w342/5BL8QaoRvzPaY8EVo4GLcz9TsbZ.jpg",
+      "titulo": "Hundred",
+      "year": "2016",
+      "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:07:24.191Z"
+    },
+    {
+      "id_tmdb": "93241",
+      "imagen": "https://image.tmdb.org/t/p/w342/wtQIgqEQEIQnNqLVGTShUf7qLap.jpg",
+      "titulo": "Uzumaki",
+      "year": "2024",
+      "etiquetas": "Animación, Misterio",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:10:39.815Z"
+    },
+    {
+      "id_tmdb": "95479",
+      "imagen": "https://image.tmdb.org/t/p/w342/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
+      "titulo": "Jujutsu Kaisen",
+      "year": "2020",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:11:13.672Z"
+    },
+    {
+      "id_tmdb": "88063",
+      "imagen": "https://image.tmdb.org/t/p/w342/fUd4ejJ1LkqaSaHItHwXE4HVrGy.jpg",
+      "titulo": "BEM",
+      "year": "2019",
+      "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:11:42.412Z"
+    },
+    {
+      "id_tmdb": "91801",
+      "imagen": "https://image.tmdb.org/t/p/w342/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
+      "titulo": "Welcome to Demon School! Iruma-kun",
+      "year": "2019",
+      "etiquetas": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:15:30.489Z"
+    },
+    {
+      "id_tmdb": "66053",
+      "imagen": "https://image.tmdb.org/t/p/w342/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg",
+      "titulo": "Berserk",
+      "year": "2016",
+      "etiquetas": "Action & Adventure, Animación, Drama, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:15:52.795Z"
+    },
+    {
+      "id_tmdb": "205743",
+      "imagen": "https://image.tmdb.org/t/p/w342/oqaemGl7yhcdNXOJFYL0JJLoxKU.jpg",
+      "titulo": "No Longer Allowed in Another World",
+      "year": "2024",
+      "etiquetas": "Animación, Comedia, Drama, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:16:13.342Z"
+    },
+    {
+      "id_tmdb": "240633",
+      "imagen": "https://image.tmdb.org/t/p/w342/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+      "titulo": "Isekai Yururi Kikou",
+      "year": "2024",
+      "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:24:08.553Z"
+    },
+    {
+      "id_tmdb": "239161",
+      "imagen": "https://image.tmdb.org/t/p/w342/c1JCYZ6anQCKHxSgBPCtUdNnWoB.jpg",
+      "titulo": "THE NEW GATE",
+      "year": "2024",
+      "etiquetas": "Animación, Action & Adventure",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:23:49.472Z"
+    },
+    {
+      "id_tmdb": "83095",
+      "imagen": "https://image.tmdb.org/t/p/w342/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
+      "titulo": "Tate no Yuusha no Nariagari",
+      "year": "2019",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy, Drama",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-10-26T17:23:40.064Z"
     }
   ],
-  "lastUpdated": "2025-10-26T09:28:18.051Z"
+  "lastUpdated": "2025-10-26T17:24:08.553Z"
 }
