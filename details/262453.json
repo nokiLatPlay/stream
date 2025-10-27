@@ -4,7 +4,7 @@
   "year": "2025",
   "imagen": "https://image.tmdb.org/t/p/w342/jluxQcZqyQ8kRQYoEX2brheNMnV.jpg",
   "type": "animes",
-  "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy, Emisión",
+  "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy, Emisión, Donghua",
   "synopsis": "Cuando una mujer despierta como Athanasia, la princesa desafortunada de la novela The Lovely Princess, tiene que reescribir esta tragedia o enfrentarse a la ejecución, ¡a manos de su propio padre! Puede que esté atrapada, pero tiene su ingenio y los recuerdos de la chica condenada para ayudarla con un giro argumental de supervivencia. Pero cuando su plan de escape falla, tiene que usar sus encantos para evitar ser ejecutada de nuevo.",
   "temporadas": [
     {
@@ -199,65 +199,36 @@
         {
           "episode_id": "7",
           "nombre": "07. Episode 7",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "8",
-          "nombre": "08. Episode 8",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "9",
-          "nombre": "09. Episode 9",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Episode 10",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "11",
-          "nombre": "11. Episode 11",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "12",
-          "nombre": "12. Episode 12",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "13",
-          "nombre": "13. Episode 13",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "14",
-          "nombre": "14. Episode 14",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "15",
-          "nombre": "15. Episode 15",
-          "portada": "",
-          "enlaces": []
-        },
-        {
-          "episode_id": "16",
-          "nombre": "16. Episode 16",
-          "portada": "",
-          "enlaces": []
+          "portada": "https://image.tmdb.org/t/p/w300/aBOJkDCXapUK1FoowF0YL9Le3Ro.jpg",
+          "enlaces": [
+            {
+              "nombre": "",
+              "url": "https://movearnpre.com/v/preg8vnhpnlf",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "",
+              "url": "https://yuguaab.com/e/42wapenr9sin",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "",
+              "url": "https://www.mp4upload.com/embed-60i0fq3ybv8e.html",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "",
+              "url": "https://filemoon.to/e/1uu6w68hf721/",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
         }
       ]
     }
   ],
-  "updated_at": "2025-10-21T15:35:18.299Z"
+  "updated_at": "2025-10-27T03:43:13.241Z"
 }
