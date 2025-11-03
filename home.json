@@ -903,8 +903,9 @@
       "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía, Acción, Aventura",
       "type": "animes",
       "created_at": "2022-10-05",
-      "updated_at": "2025-09-09T00:29:32.476Z",
-      "year": "2022"
+      "updated_at": "2025-11-03T07:18:34.709Z",
+      "year": "2022",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "184315",
@@ -2462,7 +2463,7 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama, Crimen",
       "type": "animes",
       "created_at": "2021-01-13",
-      "updated_at": "2025-09-23T00:12:00.150Z",
+      "updated_at": "2025-11-02T10:54:38.222Z",
       "year": "2021",
       "calidad": "HD"
     },
@@ -2562,7 +2563,7 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama",
       "type": "animes",
       "created_at": "2022-04-07",
-      "updated_at": "2025-09-09T04:59:28.892Z",
+      "updated_at": "2025-11-03T07:13:56.907Z",
       "year": "2022"
     },
     {
@@ -4609,7 +4610,7 @@
       "etiquetas": "Animación, Comedia, Drama, Action & Adventure, Sci-Fi & Fantasy",
       "type": "animes",
       "calidad": "HD",
-      "updated_at": "2025-11-01T08:37:07.743Z"
+      "updated_at": "2025-11-02T06:00:16.409Z"
     },
     {
       "id_tmdb": "278635",
@@ -6150,7 +6151,57 @@
       "type": "animes",
       "calidad": "HD",
       "updated_at": "2025-10-28T06:25:26.612Z"
+    },
+    {
+      "id_tmdb": "278367",
+      "imagen": "https://image.tmdb.org/t/p/w342/dyCXinv7yqetYHlss2hHikxBkNF.jpg",
+      "titulo": "Me and the Alien MuMu",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-03T08:26:08.465Z"
+    },
+    {
+      "id_tmdb": "278050",
+      "imagen": "https://image.tmdb.org/t/p/w342/dk23TT4JXGwPVZAZ1AT7iNYmcOE.jpg",
+      "titulo": "Ninja to Koroshiya no Futarigurashi",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-03T08:28:27.408Z"
+    },
+    {
+      "id_tmdb": "281623",
+      "imagen": "https://image.tmdb.org/t/p/w342/9XzYuXioQJr7Ry2KuHErLl8w6ff.jpg",
+      "titulo": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+      "year": "2025",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy, Comedia",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-03T08:29:44.698Z"
+    },
+    {
+      "id_tmdb": "254174",
+      "imagen": "https://image.tmdb.org/t/p/w342/xf2ziRzpob7sTjUNtW1qkbWNKQF.jpg",
+      "titulo": "Kakushite! Makina-san!!",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-03T08:32:51.965Z"
+    },
+    {
+      "id_tmdb": "82823",
+      "imagen": "https://image.tmdb.org/t/p/w342/bgGMPgTtAPGq3OLRWYgsPYFFE7X.jpg",
+      "titulo": "Kishuku Gakkou no Juliet",
+      "year": "2018",
+      "etiquetas": "Animación, Comedia, Drama, Action & Adventure",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-03T08:36:39.119Z"
     }
   ],
-  "lastUpdated": "2025-11-01T08:37:07.743Z"
+  "lastUpdated": "2025-11-03T08:36:39.119Z"
 }
