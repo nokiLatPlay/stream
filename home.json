@@ -2842,7 +2842,7 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Comedia",
       "type": "animes",
       "created_at": "2025-04-05",
-      "updated_at": "2025-10-07T10:52:38.209Z",
+      "updated_at": "2025-11-05T17:24:34.061Z",
       "year": "2025",
       "calidad": "HD"
     },
@@ -3900,7 +3900,7 @@
       "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure, Drama, Comedia",
       "type": "animes",
       "calidad": "HD",
-      "updated_at": "2025-09-27T03:33:49.663Z"
+      "updated_at": "2025-11-05T17:37:28.429Z"
     },
     {
       "id_tmdb": "62255",
@@ -6496,31 +6496,31 @@
       "id_tmdb": "1491902",
       "imagen": "https://image.tmdb.org/t/p/w342/8SUzKOqe2ectvhYdSnR7Vq2F3n1.jpg",
       "titulo": "Bang",
-      "year": 2025,
+      "year": "2025",
       "etiquetas": "Acción, Suspense",
       "type": "movie",
-      "calidad": "HD",
-      "updated_at": "2025-11-05T12:31:15.958Z"
+      "calidad": "CAM",
+      "updated_at": "2025-11-05T12:59:26.807Z"
     },
     {
       "id_tmdb": "1062722",
       "imagen": "https://image.tmdb.org/t/p/w342/zzNvTbblTCKgBiDFCO86nMaKkSt.jpg",
       "titulo": "Frankenstein",
-      "year": 2025,
+      "year": "2025",
       "etiquetas": "Terror, Ciencia ficción, Fantasía",
       "type": "movie",
-      "calidad": "HD",
-      "updated_at": "2025-11-05T12:31:16.604Z"
+      "calidad": "CAM",
+      "updated_at": "2025-11-05T12:58:06.992Z"
     },
     {
       "id_tmdb": "1233506",
       "imagen": "https://image.tmdb.org/t/p/w342/yAXJnh8QCdjx6OMTDZjsyops1w0.jpg",
       "titulo": "L'Homme qui rétrécit",
-      "year": 2025,
+      "year": "2025",
       "etiquetas": "Aventura, Ciencia ficción",
       "type": "movie",
-      "calidad": "HD",
-      "updated_at": "2025-11-05T12:31:17.067Z"
+      "calidad": "CAM",
+      "updated_at": "2025-11-05T12:58:35.373Z"
     },
     {
       "id_tmdb": "1272166",
@@ -6571,7 +6571,67 @@
       "type": "movie",
       "calidad": "HD",
       "updated_at": "2025-11-05T12:31:19.474Z"
+    },
+    {
+      "id_tmdb": "262929",
+      "imagen": "https://image.tmdb.org/t/p/w342/981mUCvLZ0Li4jRv1E9g1zuJ3mQ.jpg",
+      "titulo": "Apocalypse Hotel",
+      "year": "2025",
+      "etiquetas": "Animación, Sci-Fi & Fantasy, Comedia, Drama",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:34:00.776Z"
+    },
+    {
+      "id_tmdb": "249031",
+      "imagen": "https://image.tmdb.org/t/p/w342/dTHuaL41DzvSByG4jyn26KXZw4E.jpg",
+      "titulo": "Welcome to Japan, Ms. Elf!",
+      "year": "2025",
+      "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:35:58.722Z"
+    },
+    {
+      "id_tmdb": "82737",
+      "imagen": "https://image.tmdb.org/t/p/w342/3T6yudAzMEVzHbJc16oe8yvZrR.jpg",
+      "titulo": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+      "year": "2018",
+      "etiquetas": "Action & Adventure, Sci-Fi & Fantasy, Animación",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:39:42.584Z"
+    },
+    {
+      "id_tmdb": "82739",
+      "imagen": "https://image.tmdb.org/t/p/w342/1OdHQ63ba3jZGJadIkHNv7ieEwQ.jpg",
+      "titulo": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "year": "2018",
+      "etiquetas": "Animación, Comedia, Misterio, Drama",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:41:17.788Z"
+    },
+    {
+      "id_tmdb": "80670",
+      "imagen": "https://image.tmdb.org/t/p/w342/imPRA6VRDU2iRwJbhGqU2Ne8Jun.jpg",
+      "titulo": "The Master of Ragnarok & Blesser of Einherjar",
+      "year": "2018",
+      "etiquetas": "Animación, Sci-Fi & Fantasy",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:42:43.779Z"
+    },
+    {
+      "id_tmdb": "76125",
+      "imagen": "https://image.tmdb.org/t/p/w342/vMFSrDf4H10aE4xuOFGh6O5ftg.jpg",
+      "titulo": "Record of Grancrest War",
+      "year": "2018",
+      "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy, War & Politics",
+      "type": "animes",
+      "calidad": "HD",
+      "updated_at": "2025-11-05T17:50:30.047Z"
     }
   ],
-  "lastUpdated": "2025-11-05T12:31:19.475Z"
+  "lastUpdated": "2025-11-05T17:50:30.047Z"
 }
