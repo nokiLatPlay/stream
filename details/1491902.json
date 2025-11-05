@@ -1,12 +1,12 @@
 {
   "id_tmdb": "1491902",
   "titulo": "Bang",
-  "year": 2025,
+  "year": "2025",
   "imagen": "https://image.tmdb.org/t/p/w342/8SUzKOqe2ectvhYdSnR7Vq2F3n1.jpg",
   "type": "movie",
   "etiquetas": "Acción, Suspense",
   "synopsis": "Sin sinopsis disponible",
-  "calidad": "HD",
+  "calidad": "CAM",
   "enlaces": [
     {
       "nombre": "Enlace 1",
@@ -33,6 +33,6 @@
       "language": "Sub"
     }
   ],
-  "updated_at": "2025-11-05T12:31:15.958Z",
+  "updated_at": "2025-11-05T12:59:26.807Z",
   "temporadas": []
 }
