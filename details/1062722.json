@@ -1,12 +1,12 @@
 {
   "id_tmdb": "1062722",
   "titulo": "Frankenstein",
-  "year": 2025,
+  "year": "2025",
   "imagen": "https://image.tmdb.org/t/p/w342/zzNvTbblTCKgBiDFCO86nMaKkSt.jpg",
   "type": "movie",
   "etiquetas": "Terror, Ciencia ficción, Fantasía",
   "synopsis": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
-  "calidad": "HD",
+  "calidad": "CAM",
   "enlaces": [
     {
       "nombre": "Enlace 1",
@@ -39,6 +39,6 @@
       "language": "Sub"
     }
   ],
-  "updated_at": "2025-11-05T12:31:16.604Z",
+  "updated_at": "2025-11-05T12:58:06.992Z",
   "temporadas": []
 }
