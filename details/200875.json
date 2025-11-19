@@ -1,60 +1,76 @@
 {
-  "id_tmdb": "200875",
-  "titulo": "IT: Bienvenidos a Derry",
-  "year": "2025",
-  "imagen": "https://image.tmdb.org/t/p/w342/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",
-  "type": "series",
-  "etiquetas": "Misterio, Drama",
-  "synopsis": "En 1958, un grupo de siete amigos están empezando a ver cosas extrañas en el tranquilo pueblito Derry. Con el tiempo, descubren que todos estaban viendo lo mismo: un ser sobrenatural y malvado que puede adoptar muchas formas.",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "200875",
+    "titulo": "It: Bienvenidos a Derry",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+    "etiquetas": "Drama, Misterio",
+    "year": "2025",
+    "type": "series",
+    "synopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+    "created_at": "2025-10-26",
+    "updated_at": "2025-11-19T23:35:47.000Z",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "01. El Piloto",
-          "portada": "https://image.tmdb.org/t/p/w300/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/2mcj8c08ovpa",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://filemoon.sx/e/v7vfb2gh0dt3",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://movearnpre.com/v/jlb58i3bmqnq",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://yuguaab.com/e/oyovlp9our4f",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://filemoon.sx/e/w10g4pqyxrtu",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://movearnpre.com/v/q2xvnwkm2vzb",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Piloto",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/filemoon.sx\/e\/b8nv1w65gkix",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Esa cosa en la penumbra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/filemoon.sx\/e\/d6p36p1o3nq2",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Ahora lo ves",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/filemoon.sx\/e\/p95882z5hzvf",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. El gran mecanismo giratorio que mueve el planeta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-9qf42kmche37.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/filemoon.sx\/e\/l9rauvjbi6fw",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "updated_at": "2025-10-27T18:53:54.051Z"
+    ]
 }
