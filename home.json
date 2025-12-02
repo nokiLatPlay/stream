@@ -3959,16 +3959,6 @@
             "calidad": "HD",
             "updated_at": "2025-09-28T00:36:30.039Z"
         },
-        "349": {
-            "id_tmdb": "138505",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4WOpUjQPZCb0NmH1CasNNBQ8UHS.jpg",
-            "titulo": "Marvel Zombies",
-            "year": "2025",
-            "etiquetas": "Sci-Fi & Fantasy, Animación, Comedia, Action & Adventure",
-            "type": "series",
-            "calidad": "HD",
-            "updated_at": "2025-09-28T02:14:14.567Z"
-        },
         "350": {
             "id_tmdb": "10204",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
@@ -6742,6 +6732,16 @@
             "created_at": "2022-10-05",
             "updated_at": "2025-12-02T07:44:09.000Z",
             "year": "2022"
+        },
+        "627": {
+            "id_tmdb": "138505",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4WOpUjQPZCb0NmH1CasNNBQ8UHS.jpg",
+            "titulo": "Marvel Zombies",
+            "etiquetas": "Sci-Fi & Fantasy, Animación, Comedia, Action & Adventure",
+            "type": "series",
+            "created_at": "2025-12-02",
+            "updated_at": "2025-12-02T08:01:27.000Z",
+            "year": "2025"
         }
     },
     "lastUpdated": "2025-11-06T23:09:40.135Z"
