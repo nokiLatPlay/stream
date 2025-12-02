@@ -1,183 +1,208 @@
 {
-  "id_tmdb": "138505",
-  "titulo": "Marvel Zombies",
-  "year": "2025",
-  "imagen": "https://image.tmdb.org/t/p/w342/4WOpUjQPZCb0NmH1CasNNBQ8UHS.jpg",
-  "type": "series",
-  "etiquetas": "Sci-Fi & Fantasy, Animación, Comedia, Action & Adventure",
-  "synopsis": "Después de que los Vengadores fueron vencidos por una plaga de zombis, un desesperado grupo de sobrevivientes descubre la clave para llevar a su fin a los súper poderosos no muertos, corriendo a través de un paisaje distópico y arriesgando su vida y sus miembros para salvar al mundo.",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "138505",
+    "titulo": "Marvel Zombies",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4WOpUjQPZCb0NmH1CasNNBQ8UHS.jpg",
+    "etiquetas": "Sci-Fi & Fantasy, Animación, Comedia, Action & Adventure",
+    "year": "2025",
+    "type": "series",
+    "synopsis": "Después de que los Vengadores fueron vencidos por una plaga de zombis, un desesperado grupo de sobrevivientes descubre la clave para llevar a su fin a los súper poderosos no muertos, corriendo a través de un paisaje distópico y arriesgando su vida y sus miembros para salvar al mundo.",
+    "created_at": "2025-12-02",
+    "updated_at": "2025-12-02T08:01:27.000Z",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "01. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w342/25QjykMVOADHoKBre3bLovFrz0j.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/jtyjz6e35jtr",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://filemoon.sx/e/godbanjykp9e",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://yuguaab.com/e/bu0r6fl09jxi",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://filemoon.sx/e/192f6uu1j9m6",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://streammix.rpmplay.xyz//#61cfzz",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://goodstream.one/embed-skzk9roe088y.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "2",
-          "nombre": "02. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w342/wHg9X6ufex7RLVNQd8vaeQ1X2QJ.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/w0gvw5sg01si",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://filemoon.sx/e/3ezylb8j5ihk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://yuguaab.com/e/kr918mifg2ry",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://filemoon.sx/e/ebmkm4gavaxl                        Type: embed",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://streammix.rpmplay.xyz//#dnq8gd",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://goodstream.one/embed-u886v5u9xt24.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "3",
-          "nombre": "03. Episodio 3",
-          "portada": "https://image.tmdb.org/t/p/w342/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://filemoon.sx/e/r8zp2x3bdfaf",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://yuguaab.com/e/8g9ozn6opuie",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/6hy829z1agoc",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://streammix.rpmplay.xyz//#fdnw3g",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://goodstream.one/embed-wxp6mz29cpuv.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "4",
-          "nombre": "04. Episodio 4",
-          "portada": "https://image.tmdb.org/t/p/w342/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/n13fx4tcx6va",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://filemoon.sx/e/2ihywcdsdwdb",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://yuguaab.com/e/rawiq1csm686",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://filemoon.sx/e/rbgh1ax3mpjj",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://streammix.rpmplay.xyz//#oxuynk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://goodstream.one/embed-370t1qdjuwkj.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/25QjykMVOADHoKBre3bLovFrz0j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/jtyjz6e35jtr",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/filemoon.sx\/e\/godbanjykp9e",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/yuguaab.com\/e\/bu0r6fl09jxi",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/filemoon.sx\/e\/192f6uu1j9m6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 5",
+                            "url": "https:\/\/streammix.rpmplay.xyz\/\/#61cfzz",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 6",
+                            "url": "https:\/\/goodstream.one\/embed-skzk9roe088y.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 7",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/TVSHOWS\/Marvel%20Zombies\/S01\/Marvel%20Zombies%20-%201x01.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/wHg9X6ufex7RLVNQd8vaeQ1X2QJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/w0gvw5sg01si",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/filemoon.sx\/e\/3ezylb8j5ihk",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/yuguaab.com\/e\/kr918mifg2ry",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/filemoon.sx\/e\/ebmkm4gavaxl                        Type: embed",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 5",
+                            "url": "https:\/\/streammix.rpmplay.xyz\/\/#dnq8gd",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 6",
+                            "url": "https:\/\/goodstream.one\/embed-u886v5u9xt24.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 7",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/TVSHOWS\/Marvel%20Zombies\/S01\/Marvel%20Zombies%20-%201x02.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/filemoon.sx\/e\/r8zp2x3bdfaf",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/yuguaab.com\/e\/8g9ozn6opuie",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/6hy829z1agoc",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/streammix.rpmplay.xyz\/\/#fdnw3g",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 5",
+                            "url": "https:\/\/goodstream.one\/embed-wxp6mz29cpuv.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 6",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/TVSHOWS\/Marvel%20Zombies\/S01\/Marvel%20Zombies%20-%201x03.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/n13fx4tcx6va",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/filemoon.sx\/e\/2ihywcdsdwdb",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/yuguaab.com\/e\/rawiq1csm686",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/filemoon.sx\/e\/rbgh1ax3mpjj",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 5",
+                            "url": "https:\/\/streammix.rpmplay.xyz\/\/#oxuynk",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 6",
+                            "url": "https:\/\/goodstream.one\/embed-370t1qdjuwkj.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 7",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/TVSHOWS\/Marvel%20Zombies\/S01\/Marvel%20Zombies%20-%201x04.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "updated_at": "2025-11-19T09:44:00.075Z"
+    ]
 }
