@@ -1,1817 +1,349 @@
 {
-  "id_tmdb": "120089",
-  "titulo": "SPY×FAMILY",
-  "year": "2022",
-  "imagen": "https://image.tmdb.org/t/p/w342/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
-  "type": "animes",
-  "etiquetas": "Animación, Comedia, Action & Adventure",
-  "synopsis": "Un espía, una asesina y una telépata se juntan, fingen ser una familia, cada cual por sus razones, y esconden sus verdaderas identidades el uno del otro.",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "120089",
+    "titulo": "SPY x FAMILY",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
+    "etiquetas": "Animación, Comedia, Action & Adventure",
+    "year": "2022",
+    "type": "series",
+    "synopsis": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+    "created_at": "2022-04-09",
+    "updated_at": "2025-12-02T08:35:18.000Z",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "01. Misión 1: Operación «Strix»",
-          "portada": "https://image.tmdb.org/t/p/w342/3EwkiSokUJRkAwB3b3bFG3J8IoA.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://streammix.rpmplay.xyz/#9vrrm",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://yuguaab.com/e/5f1tfi9th8lt",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://movearnpre.com/embed/sso2ofviscwf",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://filemoon.sx/e/pcf3z0uk5wax/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://www.mp4upload.com/embed-rbwsbxh6qh03.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://yuguaab.com/e/ku8zd31wh9nl",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://filemoon.sx/e/0dtex1ry1tyq",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "2",
-          "nombre": "02. Misión 2: Conseguir esposa",
-          "portada": "https://image.tmdb.org/t/p/w342/doSXhn8nksQiEMadwjPboPpqMih.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/mns2i32fwfcn",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/bb4ziewjf1cy",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/3zid5dy9p2ko/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-rzdkuxa5gur8.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/y5o6tf3a61sz",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/lvcrniqqu4n2",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#easap9",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "3",
-          "nombre": "03. Misión 3: Entrar en Edén",
-          "portada": "https://image.tmdb.org/t/p/w342/fnU8bxU1WFGD8PBmpK5g9pVqvnO.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/nb9epxg4vuic",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/ta727k0ihcvn",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/ic505fhcy59r/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-jocn1d92g995.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/okuplusrvump",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/mtxy8oioohce",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#zbfbgq",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "4",
-          "nombre": "04. Misión 4: Pasar la entrevista",
-          "portada": "https://image.tmdb.org/t/p/w342/6P3Gi8Vd4hKivG6eObP9xkkmp3U.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/jwi7lgf0mrv1",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/lz2mrmzpo417",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/gndr2iz2cxlu/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-s7xh42lfav78.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/qo1791ongyol",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/qkfysjojofxq",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#9616fq",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "5",
-          "nombre": "05. Misión 5: El resultado",
-          "portada": "https://image.tmdb.org/t/p/w342/aVjoPi2alpgUxufxijnIyjz6rUu.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/wbywhl90ky84",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/px04ccm90i8b",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/f0zui07j01lk/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-cyjh1y2azn05.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/l1hr0ujimmly",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/qgbwgyvqiquk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#heaeu9",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "6",
-          "nombre": "06. Misión 6: Hacerse amigos",
-          "portada": "https://image.tmdb.org/t/p/w342/Bz7DUuidlzte62jEGxj77Tbo9F.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/wmvc3e24rd36",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/9q5arejtotkz",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/sz9mwey1vrma/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-bimi5jskqdju.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/by4u77b08nsp",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/t3agohywrf2d",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#w8k8ms",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "7",
-          "nombre": "07. Misión 7: El segundo hijo",
-          "portada": "https://image.tmdb.org/t/p/w342/leOi8od9ICYohkmOdkXQaxpzwxi.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/43wsrnoz76w6",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/shfdmosnxbur",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/r0t0w5btcd9j/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-dcdwwisy7ivj.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/7ptjey71hp92",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/xhz5v2k6hr3f",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#cmomqi",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "8",
-          "nombre": "08. Misión 8: Plan de camuflaje contra la policía secreta",
-          "portada": "https://image.tmdb.org/t/p/w342/79Oi1DWCFR04ElOAPalB3n6QSge.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/pqj9znjsa2w2",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/ehb627bndvvn",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/ftzaeoa20or9/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-5ikzc28m8v3s.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/hdk0oeu8lxpv",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/35xlturtygxc",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#khehx9",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "9",
-          "nombre": "09. Misión 9: Demostraremos que estamos acaramelados",
-          "portada": "https://image.tmdb.org/t/p/w342/oaxsr3MypOg74LPuksryVsG2PVO.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/6bjw3aim58pf",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/akdbslo3mxmq",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/mp2drwpb10t7/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-pk5wud6vacxa.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/qjfim95x37az",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/sz98wu938woc",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#nqyqhz",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Misión 10: Operación Quemados",
-          "portada": "https://image.tmdb.org/t/p/w342/deSqORCVDxymHfwYrGSKxyskk35.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/jbqwwltntlmz",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/93j90sdiv8g7",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/ho2w4n56lzih/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-n0f7uqw6njm4.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/bvqzvt847ko5",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/xy170nt6773g",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#3gwg1i",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "11",
-          "nombre": "11. Stella",
-          "portada": "https://image.tmdb.org/t/p/w342/mzfXcUlUHLvUaE5N8kxQpzX0VjZ.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/izbgr6bddoqh",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/txugmrap2tsq",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/czgei3tkmdzk/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-s4e5j9kivs8z.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/e7to30zkg7q7",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/82pdlzcnp7er",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#uprpim",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "12",
-          "nombre": "12. Penguin Park",
-          "portada": "https://image.tmdb.org/t/p/w342/v7oChF0yYRelCxtrJByqrIuV3Vm.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/vpdhvfjx02en",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/aazg2abt7opp",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/yltmc1pci8zl/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-c8y5hmpis3id.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/v78f5nu1dadm",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/gjm1wln3bodk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#9616fa",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "13",
-          "nombre": "13. Proyecto Apple",
-          "portada": "https://image.tmdb.org/t/p/w342/5GGBZlkqqKEYZ1D1AY5ApFABXVD.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/ymr4zxpc3f14",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/qloq0msa3t6k",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/alhr86qxf5j9/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-3j0sgp0ddjg0.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/0oao5zlumket",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/3mqzm4y8ppmh",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#8khkoz",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "14",
-          "nombre": "14. Objetivo: desactivar la bomba",
-          "portada": "https://image.tmdb.org/t/p/w342/pdmklh7sIcv4ZSowI8KdtmfaLjl.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/zengl9m3geht",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/bccddrvdz171",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/mztlfay1r64i/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-a97xkt9h7ag0.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/kjz8uuklew2a",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/h7vl1oz9ujh0",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#tlilsm",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "15",
-          "nombre": "15. Una nueva familia",
-          "portada": "https://image.tmdb.org/t/p/w342/7EO66F2z4kJ8RwxA0fTSw7iC8Ct.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/1yeo4tni33pc",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/ff7kbjudmcah",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/p48sn6v6xnuj/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-rlmkvmw8mo6n.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/ebkygf6mg9j6",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/gxduuqtheigf",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#livivb",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "16",
-          "nombre": "16. La cocina de Yor / Amor de informante",
-          "portada": "https://image.tmdb.org/t/p/w342/k0PCMHYufqUyvPYGPOoEYiHCnwA.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/lab4r36bt6ji",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/189dz1s77ugk",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/mrnxer78b3kf/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-sqyg4mqeymu3.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/m125fuphs42e",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/flqglassypow",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#61c1co",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "17",
-          "nombre": "17. Operación Grifo",
-          "portada": "https://image.tmdb.org/t/p/w342/pHGke693S5Yy2n24NdNoB5hJgfL.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/mhz1lc9cmdn0",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/8iymo3xko41n",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/o98c30zwe8mt/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-7au4dhzlx6ku.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/azqtr3ohk3u3",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/8kdztosxju3r",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#dnqnqy",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "18",
-          "nombre": "18. El tío profesor particular",
-          "portada": "https://image.tmdb.org/t/p/w342/t3YFlND2D7dWGYmhExvB7GWzEv9.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/972gfpb7edk1",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/fab6vxdy6o3w",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/usi4j8a4bn3m/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-iv43jit05s16.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/rbimw9edqcjk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/ial905xqtth3",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#moxoxa",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "19",
-          "nombre": "19. Vengarse de Desmond / Mamá, vuela como el viento",
-          "portada": "https://image.tmdb.org/t/p/w342/ecXSomcwWxWC9DQWUt09dnECV7u.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/xr4g473nvnrn",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/wvlgjox9f9be",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/grf69xw7h0i8/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-lebqaggxa9de.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/woezy4o3kxix",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/nscz0b7u2uyb",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#cmomor",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "20",
-          "nombre": "20. Investigar el hospital",
-          "portada": "https://image.tmdb.org/t/p/w342/vJfXc0ZMs3oFX0Fv2CzRq9wa3vP.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/sz0lw3lslfh8",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/hhlfx3op9a0z",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/camiadw7jnbp/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-nyyjydqvo4tb.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/36a0ivmqzbse",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/yk7wq30vboyh",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#w8k8ki",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "21",
-          "nombre": "21. Nightfall",
-          "portada": "https://image.tmdb.org/t/p/w342/3UFgoPLwqrzrHKEDI7gYyfu2boj.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/1tr2s40qcxfm",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/01kgrc6tbew4",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/5drmzq33ij8v/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-uphp7a2xlrcl.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/kj1bkzqqmqp9",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/7ji616fzinso",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#zbfbfo",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "22",
-          "nombre": "22. El torneo de tenis clandestino",
-          "portada": "https://image.tmdb.org/t/p/w342/60qfep8Wg7ir8Uo2eneTlXXOjXU.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/g86y303vg3by",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/h3nkowciyl2g",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/0rn8k9fa4g3k/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-jgb5n3etgf6v.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/4use9v69r3qy",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/xs7m1ot97bvp",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#heaea3",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "23",
-          "nombre": "23. Trayectoria Perfecta",
-          "portada": "https://image.tmdb.org/t/p/w342/shW5hWBz1sgrefmRBZfwqWhgbYH.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/xrek6c2pxbp9",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/cggcb7dbw1wf",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/dcbf4j44y0su/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-7i58xnw6glie.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/p7ez9sitm41r",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/4fb8o35gxbpz",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#gw8w8y",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "24",
-          "nombre": "24. El papel de una madre y esposa",
-          "portada": "https://image.tmdb.org/t/p/w342/bGW5Bn1sIRttSxAHNc3ac180CCU.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/pdi86qsxpzhp",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/pvzlxvrdrnsx",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/cefm4o32ql07/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-mpi1zfu8u4w7.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/64iul5amzrqj",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/hmruyh4p7v45",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#easas3",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "25",
-          "nombre": "25. Primer Contacto",
-          "portada": "https://image.tmdb.org/t/p/w342/welQIaa7p2C6Ub7mGhvkHeLO9cT.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/gtxg3r99gfe6",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/iv37174aqftl",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/9s6ue7yj79h2/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-31b12mb3bg77.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/jha461gk2rxj",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/rz9bgzk2ztx4",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#96161o",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Operación \"Strix\"",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3EwkiSokUJRkAwB3b3bFG3J8IoA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x01%20-%20Operaci%C3%B3n%20Strix.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Objetivo: conseguir esposa",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/doSXhn8nksQiEMadwjPboPpqMih.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x02%20-%20Objetivo%20Conseguir%20esposa.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Objetivo: entrar en Edén",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fnU8bxU1WFGD8PBmpK5g9pVqvnO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x03%20-%20Objetivo%20entrar%20en%20Ed%C3%A9n.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Objetivo: pasar la entrevista",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wFUOe9IkoPPYBOMQ4iuRY0ifSn0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x04%20-%20Pasar%20la%20entrevista.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. El resultado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/p6xiuE29RVPsWxcgcanYXYLHNV8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x05%20-%20El%20resultado.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Objetivo: hacer amigos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/Bz7DUuidlzte62jEGxj77Tbo9F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x06%20-%20Hacer%20amigos.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. El segundo hijo del objetivo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/leOi8od9ICYohkmOdkXQaxpzwxi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x07%20-%20El%20segundo%20hijo%20del%20objetivo.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Plan de camuflaje contra la policía secreta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1XTMlVeQCyR3ipNNOiCcbD6tbQm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x08%20-%20Plan%20de%20camuflaje%20contra%20la%20polic%C3%ADa%20secreta.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Demostraremos que estamos acaramelados",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hwinEmHq9EqZEKb0AbQOg3BAKbr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x09%20-%20Demostraremos%20que%20estamos%20acaramelados.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Operación Balón Prisionero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/deSqORCVDxymHfwYrGSKxyskk35.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x10%20-%20Operaci%C3%B3n%20quemados.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Stella",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/mzfXcUlUHLvUaE5N8kxQpzX0VjZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x11%20-%20Stella.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x11%20-%20Stella.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. PENGUIN PARK",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tKsF1hXN2c9rEADXZXv5A53OnfE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x12%20-%20Penguin%20Park.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Proyecto Apple",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jllCVqdGKqulhpGA91hsULoLQzq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x13%20-%20Proyecto%20Apple.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. Objetivo: desactivar la bomba",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/dAnNCIJQ8Xyk0pAXR9hnfFFWAPG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x14%20-%20Objetivo%20desactivar%20la%20bomba.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. Una nueva familia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/coHlfqor3MWQ2lG0zE88cRuKxrT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x15%20-%20Una%20nueva%20familia.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. La cocina de Yor \/ Amor de informante",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/59C1e44yS2dEhRrqPKuIHgrj3tp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x16%20-%20La%20cocina%20de%20Yor%20Amor%20de%20informante.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. Operación Grifo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/livubK1sXeMspQvQuP6Gpaw5KFe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x17%20-%20Operaci%C3%B3n%20Grifo.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. El tío profesor particular",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/nUBlB7YPCyJbFP1l1E3SKhlLT2U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x18%20-%20El%20t%C3%ADo%20profesor%20particular.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. Vengarse de Desmond \/ Mamá, vuela como el viento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/x6PuN0UfSJqZtEd65KCBTgmKDNO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x19%20-%20Vengarse%20de%20Desmond%20Mam%C3%A1%2C%20vuela%20como%20el%20viento.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. Investigar el hospital",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/vJfXc0ZMs3oFX0Fv2CzRq9wa3vP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x20%20-%20Investigar%20el%20hospital.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "nombre": "21. Nightfall",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7DriUfJcRf13dekUd4PXjmmvm0B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x21%20-%20Nightfall.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "nombre": "22. El torneo de tenis clandestino",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/60qfep8Wg7ir8Uo2eneTlXXOjXU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x22%20-%20El%20torneo%20de%20tenis%20clandestino.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "nombre": "23. Trayectoria Perfecta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/shW5hWBz1sgrefmRBZfwqWhgbYH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x23%20-%20Trayectoria%20Perfecta.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "nombre": "24. El papel de una madre y esposa",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bGW5Bn1sIRttSxAHNc3ac180CCU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x24%20-%20El%20papel%20de%20una%20madre%20y%20esposa.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "nombre": "25. Primer Contacto",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wU3Wjkp0X0rzhDOEfIpHqV5oj8z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/SPY%20x%20FAMILY\/S01\/SPY%20x%20FAMILY%20-%201x25%20-%20Primer%20Contacto.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "temporada": "Temporada 2",
-      "capitulos": [
-        {
-          "episode_id": "1",
-          "nombre": "01. Seguiré a papi y mami",
-          "portada": "https://image.tmdb.org/t/p/w342/mpVApVSbI1zxcjFoVDq9CmLGZz2.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/xkpe6jvjwyqi",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/885t2ml3u8at",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/baqbpmo4mivw/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-n78tq2cdlggy.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/p4eb1zzveg4s",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://streammix.rpmplay.xyz//#gw8wnx",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "2",
-          "nombre": "02. La estrategia de Bond para seguir vivo / El viaje de investigación de Damian",
-          "portada": "https://image.tmdb.org/t/p/w342/A3adJEeYjKyTjt2mgBQV6EdehQ2.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/iqof01f0gsef",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/vz6xmg6rc9xq",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/5hm4qbnswk7a/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-d80opcasqglt.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/pkqmpa9v1bk9",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://streammix.rpmplay.xyz//#easaib",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "3",
-          "nombre": "03. Misión y familia / El elegante Bondman",
-          "portada": "https://image.tmdb.org/t/p/w342/dhTVyMbXdVn9YD5zkp0B0s3uoSK.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/18ugbka81a3q",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/aglqth1dcwyq",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/releh5p94gi7/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-tuhpziiuyjve.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/z6p4fs0yu2qi",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/40g43hvh7lhs",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#heaelb",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "4",
-          "nombre": "04. El postre de la sabiduría / Amor de informante II",
-          "portada": "https://image.tmdb.org/t/p/w342/vJC35ConrAu5Fc0HenUOt6NPf9v.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/2vfs4ig76gph",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/tss6p6bhh6kn",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/mv55h7dkasf5/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-1z2cw2n9ojlx.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/y66r6gwjjf2k",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/u1qfx00m8nsr",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#zbfb1h",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "5",
-          "nombre": "05. El plan para cruzar la frontera",
-          "portada": "https://image.tmdb.org/t/p/w342/gBxxsugfJ5Gcz5vkUSmn5UyEgzT.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/ollznvpv3pf2",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/8nu83e5c2sn0",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/ay8ozz491yr9/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-vwilygdp686i.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/mdrq21lzf7rf",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/r9jzqjq8cimw",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#cmomh5",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "6",
-          "nombre": "06. El estremecedor crucero de lujo",
-          "portada": "https://image.tmdb.org/t/p/w342/2LQGL9Dy9Vu0YN6Xz0rZ5toKL5z.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/unwq6u56i9za",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/r4sogs45c03j",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/b4iw8jt12cwf/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-2qjxmyk71si5.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/yiw9uvbznmq7",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/mc0iz0lk929f",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#9616wh",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "7",
-          "nombre": "07. ¿Para quién es esta misión?",
-          "portada": "https://image.tmdb.org/t/p/w342/w6zyGIE6Re1R3rbGznRYZoyRt9b.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/aw4odc9270sx",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/aur3yy6xh4fc",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/ikjxoo8wydgd/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-o0w0cwdscqcn.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/1ig20uj2ji07",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/9rkt0urn4voe",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#w8k8qr",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "8",
-          "nombre": "08. La sinfonía en el barco / El té de hierbas de la hermana",
-          "portada": "https://image.tmdb.org/t/p/w342/10IDii3X575FA0D4L70ZTg7akG7.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/5ra1z7a8khsm",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/hml4usr2gi47",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/c3nibs9vkh1v/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-ix0dpjfmtbdf.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/8aqhjezr430m",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/tglxwh2j88jk",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#khehtb",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "9",
-          "nombre": "09. La mano que conecta con el futuro",
-          "portada": "https://image.tmdb.org/t/p/w342/eMaaFAg0sEptNGHArVFcx05jqw5.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/wprph8kb2pt1",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/7u3iyccf85r5",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/kwxeh32zrlyl/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-us3zcnjeyyb4.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/n7rcz3ovk2ad",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://streammix.rpmplay.xyz//#nqyqx3",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Disfrutando del resort al máximo / Presumiendo de las vacaciones",
-          "portada": "https://image.tmdb.org/t/p/w342/i36UD416f4Poox4TNAwfyP9D2GS.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/vbjizcvhcd8e",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/qbqf3z64xnom",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/gqtni4gwoqo0/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-1z4q78yyzmob.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/9wocagavp8d3",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/p3p20954id3k",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#8khky3",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "11",
-          "nombre": "11. Amor en Berlint / La vida diaria de Nightfall",
-          "portada": "https://image.tmdb.org/t/p/w342/z3b8l9AXiDWsiuaVAPXua7WEaGw.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/wfjuyd4eho28",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/vcjfvluikutf",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/umd9ue0oouzk/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-v6c0wyh3dx4d.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/evr9guhwgu5x",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/n74i4wg4gr65",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#9616wp",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        },
-        {
-          "episode_id": "12",
-          "nombre": "12. Parte de la familia",
-          "portada": "https://image.tmdb.org/t/p/w342/zyxHtmFR7Bv79grEDnuhhGdtvgm.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/g576x04sqnsp",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/9z8hnypul3d6",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/vbrdxuguyz6b/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-sh8w1ddne4uh.html",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 5",
-              "url": "https://yuguaab.com/e/nxbh200ymcld",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 6",
-              "url": "https://filemoon.sx/e/4yp7sacnqzbv",
-              "type": "embed",
-              "language": "Latino"
-            },
-            {
-              "nombre": "Enlace 7",
-              "url": "https://streammix.rpmplay.xyz//#uprp5q",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "updated_at": "2025-11-17T08:43:40.458Z"
+    ]
 }
