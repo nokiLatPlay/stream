@@ -1,404 +1,413 @@
 {
-  "id_tmdb": "135157",
-  "imagen": "https://image.tmdb.org/t/p/w342/1TtUh6UT1eLcOxYsBaUBdaBrSws.jpg",
-  "titulo": "Alquimia de Almas",
-  "etiquetas": "Drama, Ciencia Ficción y Fantasía, Acción, Aventura, Misterio",
-  "categorías": "Drama, Ciencia Ficción y Fantasía, Acción, Aventura, Misterio",
-  "type": "dorama",
-  "created_at": "2022-06-18",
-  "updated_at": "2025-09-09T05:03:41.993Z",
-  "synopsis": "Una poderosa hechicera atrapada en el cuerpo de una mujer ciega se encuentra con un integrante de una prestigiosa familia, que necesita su ayuda para cambiar su destino.",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "135157",
+    "titulo": "Alquimia de Almas",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1TtUh6UT1eLcOxYsBaUBdaBrSws.jpg",
+    "etiquetas": "Drama, Ciencia Ficción y Fantasía, Acción, Aventura, Misterio",
+    "year": "2022",
+    "type": "dorama",
+    "synopsis": "Una poderosa hechicera atrapada en el cuerpo de una mujer ciega se encuentra con un integrante de una prestigiosa familia, que necesita su ayuda para cambiar su destino.",
+    "created_at": "2022-06-18",
+    "updated_at": "2025-12-02T06:06:28.000Z",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "1. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w300/KGbo0hu0RkByaJRH0A7wd6UIxr.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-hui7d9bikqol.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3245647"
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "nombre": "1. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/KGbo0hu0RkByaJRH0A7wd6UIxr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-hui7d9bikqol.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "nombre": "2. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5FxVyFGOGrIvoFyqMREgm0pApHm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-ao5dnyzfmy3x.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "nombre": "3. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/62pCq03Le15icuQj8zMAFccSBBU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-aeimkf5ujl4w.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "nombre": "4. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gxAM7lEocSstt94z0bStNyVkBHW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-697uoohfpxd1.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "nombre": "5. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/dKDMp5pDgVLiwYPsV3JZtuXlXZ5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-0gxcewz1a764.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "6",
+                    "nombre": "6. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mGfJFEfaGAuHCe2VmaehKK6MrmV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-m3adrjxxb0ja.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "7",
+                    "nombre": "7. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3ZDpxu8K0yjMxmUSmc3inPLiaLP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-82zj39bksbtb.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "8",
+                    "nombre": "8. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/25LdIWCenMfcwfmwlTjAaNM0Qep.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-9sqloypwlxj8.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "9",
+                    "nombre": "9. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/88dy5cNuxfv7fDXtpiFs3ThtT2t.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-sn3b8ab0z260.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/r3s77EfL0AMEGtiaZwq8rsqhgBX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-6n9kr8gyb32k.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/81unqKx9jR8FjSYra0y6Te7hoBH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-yq3whsglwb92.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/u9Sb5Lk8ULqSqcVFGaslBvULYBY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-pptu88b9hj62.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Episodio 13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nOkxNj8wz1gKyLXwetD0dvzK3Gm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-b0ydq8f3n3np.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. Episodio 14",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cEmJqXZZ5A4u3KlpOPLYJRR2HUF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-7n7uzc47dwkn.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. Episodio 15",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/elPJlw6rcBapArC2e9gaFAB38lF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-p202983kqmhq.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. Episodio 16",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1NGY7S04T3624tMfOffv96MaO9S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-z3jiung9ez7r.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. Episodio 17",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ngxD9dv0FHU3j09iXdjAFogAquq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-oe3krhjbtx8t.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. Episodio 18",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/afpHV4jivZeQFiBCoT9tCZiqu5Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-zfh4i4w19dr4.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. Episodio 19",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yki5O4CWdO4YTnuL0eAaq29kE8i.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-73zycl4hom50.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. Episodio 20",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6zYYqwwwRszXaC4ldZ59iOvX06b.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/fastream.to\/embed-76souv008jso.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "episode_id": "2",
-          "nombre": "2. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w300/5FxVyFGOGrIvoFyqMREgm0pApHm.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-ao5dnyzfmy3x.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266659"
-        },
-        {
-          "episode_id": "3",
-          "nombre": "3. Episodio 3",
-          "portada": "https://image.tmdb.org/t/p/w300/62pCq03Le15icuQj8zMAFccSBBU.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-aeimkf5ujl4w.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266660"
-        },
-        {
-          "episode_id": "4",
-          "nombre": "4. Episodio 4",
-          "portada": "https://image.tmdb.org/t/p/w300/gxAM7lEocSstt94z0bStNyVkBHW.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-697uoohfpxd1.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266661"
-        },
-        {
-          "episode_id": "5",
-          "nombre": "5. Episodio 5",
-          "portada": "https://image.tmdb.org/t/p/w300/dKDMp5pDgVLiwYPsV3JZtuXlXZ5.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-0gxcewz1a764.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266663"
-        },
-        {
-          "episode_id": "6",
-          "nombre": "6. Episodio 6",
-          "portada": "https://image.tmdb.org/t/p/w300/mGfJFEfaGAuHCe2VmaehKK6MrmV.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-m3adrjxxb0ja.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266664"
-        },
-        {
-          "episode_id": "7",
-          "nombre": "7. Episodio 7",
-          "portada": "https://image.tmdb.org/t/p/w300/3ZDpxu8K0yjMxmUSmc3inPLiaLP.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-82zj39bksbtb.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266665"
-        },
-        {
-          "episode_id": "8",
-          "nombre": "8. Episodio 8",
-          "portada": "https://image.tmdb.org/t/p/w300/25LdIWCenMfcwfmwlTjAaNM0Qep.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-9sqloypwlxj8.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266666"
-        },
-        {
-          "episode_id": "9",
-          "nombre": "9. Episodio 9",
-          "portada": "https://image.tmdb.org/t/p/w300/88dy5cNuxfv7fDXtpiFs3ThtT2t.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-sn3b8ab0z260.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266668"
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Episodio 10",
-          "portada": "https://image.tmdb.org/t/p/w300/r3s77EfL0AMEGtiaZwq8rsqhgBX.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-6n9kr8gyb32k.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266669"
-        },
-        {
-          "episode_id": "11",
-          "nombre": "11. Episodio 11",
-          "portada": "https://image.tmdb.org/t/p/w300/81unqKx9jR8FjSYra0y6Te7hoBH.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-yq3whsglwb92.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266670"
-        },
-        {
-          "episode_id": "12",
-          "nombre": "12. Episodio 12",
-          "portada": "https://image.tmdb.org/t/p/w300/u9Sb5Lk8ULqSqcVFGaslBvULYBY.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-pptu88b9hj62.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266672"
-        },
-        {
-          "episode_id": "13",
-          "nombre": "13. Episodio 13",
-          "portada": "https://image.tmdb.org/t/p/w300/nOkxNj8wz1gKyLXwetD0dvzK3Gm.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-b0ydq8f3n3np.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266673"
-        },
-        {
-          "episode_id": "14",
-          "nombre": "14. Episodio 14",
-          "portada": "https://image.tmdb.org/t/p/w300/cEmJqXZZ5A4u3KlpOPLYJRR2HUF.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-7n7uzc47dwkn.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266674"
-        },
-        {
-          "episode_id": "15",
-          "nombre": "15. Episodio 15",
-          "portada": "https://image.tmdb.org/t/p/w300/elPJlw6rcBapArC2e9gaFAB38lF.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-p202983kqmhq.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266675"
-        },
-        {
-          "episode_id": "16",
-          "nombre": "16. Episodio 16",
-          "portada": "https://image.tmdb.org/t/p/w300/1NGY7S04T3624tMfOffv96MaO9S.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-z3jiung9ez7r.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3266677"
-        },
-        {
-          "episode_id": "17",
-          "nombre": "17. Episodio 17",
-          "portada": "https://image.tmdb.org/t/p/w300/ngxD9dv0FHU3j09iXdjAFogAquq.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-oe3krhjbtx8t.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3708401"
-        },
-        {
-          "episode_id": "18",
-          "nombre": "18. Episodio 18",
-          "portada": "https://image.tmdb.org/t/p/w300/afpHV4jivZeQFiBCoT9tCZiqu5Z.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-zfh4i4w19dr4.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3708402"
-        },
-        {
-          "episode_id": "19",
-          "nombre": "19. Episodio 19",
-          "portada": "https://image.tmdb.org/t/p/w300/yki5O4CWdO4YTnuL0eAaq29kE8i.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-73zycl4hom50.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3708403"
-        },
-        {
-          "episode_id": "20",
-          "nombre": "20. Episodio 20",
-          "portada": "https://image.tmdb.org/t/p/w300/6zYYqwwwRszXaC4ldZ59iOvX06b.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://fastream.to/embed-76souv008jso.html",
-              "type": "embed",
-              "language": "Latino"
-            }
-          ],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3708404"
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "nombre": "1. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vEZFVXimuSDceYo1wmzhnoV4zEO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/VqbX53LPpPBxQzp",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "nombre": "2. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/b73NgTJ72EmsmpEvkVgVdQ9xWBi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/P0poO1mjL0dOz17",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "nombre": "3. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/835GkYrRZumoFb5E3soMm1Dr9gA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/3Q0lxBm8qW25j1J",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "nombre": "4. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/je08z2bL83VbAYAEX1QBq6P5oWw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/ZMVoErzmo8wE9Pa",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "nombre": "5. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/h6ldQ3oSaEPjYkJETqFSq5NYvuV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/VqbX53LPpgWxQzp",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "6",
+                    "nombre": "6. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fqcklt5pMzBUHHmSr9n9WIbNAUB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/qA3WOmVjJGP5Kkz",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "7",
+                    "nombre": "7. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/zz0iH71wKxEGPaiz0ajFWuVOQog.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/qM1VOPnV9NBxo4k",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "8",
+                    "nombre": "8. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/iGha1fkG7fggvLL5qiJ5SQNG2cN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/0DogOGJNDMKEKjM",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "9",
+                    "nombre": "9. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4EnYloyJKh9BFszrEv9GnyfXQ1x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/MAlwEMR9eYaOJ39",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rcKP1eYnwXRLJa2tQqEZnJ1fKSh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/listeamed.net\/e\/edVqE49eMrDOYWm",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "temporada": "Temporada 2",
-      "capitulos": [
-        {
-          "episode_id": "1",
-          "nombre": "1. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w300/vEZFVXimuSDceYo1wmzhnoV4zEO.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926122"
-        },
-        {
-          "episode_id": "2",
-          "nombre": "2. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w300/b73NgTJ72EmsmpEvkVgVdQ9xWBi.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926123"
-        },
-        {
-          "episode_id": "3",
-          "nombre": "3. Episodio 3",
-          "portada": "https://image.tmdb.org/t/p/w300/835GkYrRZumoFb5E3soMm1Dr9gA.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926124"
-        },
-        {
-          "episode_id": "4",
-          "nombre": "4. Episodio 4",
-          "portada": "https://image.tmdb.org/t/p/w300/je08z2bL83VbAYAEX1QBq6P5oWw.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926125"
-        },
-        {
-          "episode_id": "5",
-          "nombre": "5. Episodio 5",
-          "portada": "https://image.tmdb.org/t/p/w300/h6ldQ3oSaEPjYkJETqFSq5NYvuV.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926126"
-        },
-        {
-          "episode_id": "6",
-          "nombre": "6. Episodio 6",
-          "portada": "https://image.tmdb.org/t/p/w300/fqcklt5pMzBUHHmSr9n9WIbNAUB.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926127"
-        },
-        {
-          "episode_id": "7",
-          "nombre": "7. Episodio 7",
-          "portada": "https://image.tmdb.org/t/p/w300/zz0iH71wKxEGPaiz0ajFWuVOQog.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926128"
-        },
-        {
-          "episode_id": "8",
-          "nombre": "8. Episodio 8",
-          "portada": "https://image.tmdb.org/t/p/w300/iGha1fkG7fggvLL5qiJ5SQNG2cN.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926129"
-        },
-        {
-          "episode_id": "9",
-          "nombre": "9. Episodio 9",
-          "portada": "https://image.tmdb.org/t/p/w300/4EnYloyJKh9BFszrEv9GnyfXQ1x.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926130"
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Episodio 10",
-          "portada": "https://image.tmdb.org/t/p/w300/rcKP1eYnwXRLJa2tQqEZnJ1fKSh.jpg",
-          "enlaces": [],
-          "updated_at": "2025-09-09T05:03:41.993Z",
-          "id": "3926131"
-        }
-      ]
-    }
-  ],
-  "year": "2022"
+    ]
 }
