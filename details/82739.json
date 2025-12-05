@@ -1,11 +1,13 @@
 {
     "id_tmdb": "82739",
     "titulo": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-    "year": "2018",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/1OdHQ63ba3jZGJadIkHNv7ieEwQ.jpg",
-    "type": "series",
     "etiquetas": "Animación, Comedia, Misterio, Drama",
+    "year": "2018",
+    "type": "animes",
     "synopsis": "Existe un rumor sobre un fenómeno misterioso llamado \"síndrome de pubertad\". Por ejemplo, Sakuta Azusagawa es una estudiante de secundaria que de repente ve a una conejita aparecer frente a él. La niña es Mai Sakurajima, la chica de clase superior de Sakuta y también una actriz famosa que se ha apartado de la industria del entretenimiento. Por alguna razón, la gente alrededor de Mai no puede ver su figura de conejita. Sakuta se propone resolver este misterio y, a medida que pasa tiempo con Mai, aprende sus sentimientos secretos. Otras heroínas que tienen \"síndrome de pubertad\" comienzan a aparecer frente a Sakuta.",
+    "created_at": "2018-10-04",
+    "updated_at": "2025-12-05T07:18:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -823,6 +825,5 @@
                 }
             ]
         }
-    ],
-    "updated_at": "2025-12-05T07:13:12.000Z"
+    ]
 }
