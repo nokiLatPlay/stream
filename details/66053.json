@@ -1,389 +1,766 @@
 {
-  "id_tmdb": "66053",
-  "titulo": "Berserk",
-  "year": "2016",
-  "imagen": "https://image.tmdb.org/t/p/w342/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg",
-  "type": "animes",
-  "etiquetas": "Action & Adventure, Animación, Drama, Sci-Fi & Fantasy",
-  "synopsis": "Impulsado por la llama que arde en su corazón, Black Swordsman Guts continúa su aparentemente interminable búsqueda de venganza. En su camino se encuentra atroces forajidos, espíritus malignos delirantes y un devoto hijo de dios. Incluso mientras destruye su vida, Guts continúa luchando contra sus enemigos, que ejercen un poder repulsivo e inhumano, con nada más que su cuerpo, espada y su fuerza como humano.",
-  "temporadas": [
-    {
-      "temporada": "Temporada 1",
-      "capitulos": [
+    "id_tmdb": "66053",
+    "titulo": "Berserk",
+    "year": "2016",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg",
+    "type": "series",
+    "etiquetas": "Action & Adventure, Animación, Drama, Sci-Fi & Fantasy",
+    "synopsis": "Guts es un guerrero vestido de negro de los pies a la cabeza que porta una gigantesca espada más larga que su propia estatura y un robusto brazo ortopédico de hierro... Allá adonde va se forman ríos de sangre y montañas de cadáveres. Cuando estaba en un aprieto, el elfo Puck recibe la ayuda del enigmático guerrero, tras lo cual decide seguirle. Puck, impresionado con el increíble poder de Guts, no puede hacer más que temblar ante el espeluznante mundo en el que este mora. Hordas de espectros tratan de impedir que avance hacia su objetivo...¡¿Y qué es el \"estigma\" que tiene en la nuca?! ¡¿Le estará empujando hacia la venganza?!",
+    "temporadas": [
         {
-          "episode_id": "1",
-          "nombre": "01. Episodio 1",
-          "portada": "https://image.tmdb.org/t/p/w300/8J13wnvdlkrc1pkTpLmiAwUEE0P.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/o7cifqlbkyyq",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/5zjq2qbd0pe2",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/gq3a8rs8rkcv/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-w8vpyahyo8bv.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8J13wnvdlkrc1pkTpLmiAwUEE0P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/o7cifqlbkyyq",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/5zjq2qbd0pe2",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/gq3a8rs8rkcv\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-w8vpyahyo8bv.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/iZXBOUJECIJ9wj7hLhXjneeWFgu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/ieewjeds03ra",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/oer4x6nfkgcm",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/zd5etxdwwn5d\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-kj3b13ksp63w.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/15D8JFOc4YgFEEuvNKIbLCoRtYU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/xsedps0pnsu9",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/zctywrt4t6lj",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/vah76kb4jaoo\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ouhx151upclt.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/joAhYhqeQSvuQARyhHF2Cebf2Wh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/6k2alucre7t5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/zehucr8zg81r",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/rckcbct1bpn1\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rstak0wdyqq2.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/bH0ATkvUqs7nc1PkjpsBcsijiXb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/07ni5epiqgpj",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/lybcuob5wq6p",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/4yqfm04acem7\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-77kj2zaicobg.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "6",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/o9fU5WyKNKwdMtopQmkLBGOTk0k.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/4zit2cn7katz",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/r2rxm7v36ewi",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/o7anylfthyx7\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-07ljg0ntmqn3.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "7",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1GJbctpUNSp6PFXApObJIlooU3p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/rdkowcycfsh1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/5w64ivqhw2ge",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/c7jwdcp8mxjc\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-7v7byoq74c2l.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "8",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/93XEfHm8GKbW9iXeVSLViaDJRxG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/x6kmrcfpbkte",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/vr1lsn3mvf92",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/zudptrc7b8cd\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-uvq2tlffiswm.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "9",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ob9nSpLiCaOtsfIK4dsBDo2siO4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/9vhfwo9ivu7y",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/2m85a8k01jl1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/fal87qvoyj75\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-l41qychvzrze.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5rm1QYlhz0MmwEgTfdE2yWrxGBe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/7klz60b7gx9r",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/1q3w1yp6pde6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/rh142feujm66\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-jypy79l149rf.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nur0eE5HJG9LyRwj5bpi8ZazO5u.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/91id0ztap5uj",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/poj4bb329ywt",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/7mxdh3wn5ocv\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-qojinu30bsif.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ecoYlCa0UKE23xcYiM2o8BJAGiB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/ner0ewhtn3au",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/184fjo6myj37",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/0hro3ennvbkd\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-k0y8bsiwpwzl.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "episode_id": "2",
-          "nombre": "02. Episodio 2",
-          "portada": "https://image.tmdb.org/t/p/w300/iZXBOUJECIJ9wj7hLhXjneeWFgu.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/ieewjeds03ra",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/oer4x6nfkgcm",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/zd5etxdwwn5d/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-kj3b13ksp63w.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "3",
-          "nombre": "03. Episodio 3",
-          "portada": "https://image.tmdb.org/t/p/w300/15D8JFOc4YgFEEuvNKIbLCoRtYU.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/xsedps0pnsu9",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/zctywrt4t6lj",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/vah76kb4jaoo/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-ouhx151upclt.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "4",
-          "nombre": "04. Episodio 4",
-          "portada": "https://image.tmdb.org/t/p/w300/joAhYhqeQSvuQARyhHF2Cebf2Wh.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/6k2alucre7t5",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/zehucr8zg81r",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/rckcbct1bpn1/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-rstak0wdyqq2.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "5",
-          "nombre": "05. Episodio 5",
-          "portada": "https://image.tmdb.org/t/p/w300/bH0ATkvUqs7nc1PkjpsBcsijiXb.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/07ni5epiqgpj",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/lybcuob5wq6p",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/4yqfm04acem7/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-77kj2zaicobg.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "6",
-          "nombre": "06. Episodio 6",
-          "portada": "https://image.tmdb.org/t/p/w300/o9fU5WyKNKwdMtopQmkLBGOTk0k.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/4zit2cn7katz",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/r2rxm7v36ewi",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/o7anylfthyx7/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-07ljg0ntmqn3.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "7",
-          "nombre": "07. Episodio 7",
-          "portada": "https://image.tmdb.org/t/p/w300/1GJbctpUNSp6PFXApObJIlooU3p.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/rdkowcycfsh1",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/5w64ivqhw2ge",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/c7jwdcp8mxjc/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-7v7byoq74c2l.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "8",
-          "nombre": "08. Episodio 8",
-          "portada": "https://image.tmdb.org/t/p/w300/93XEfHm8GKbW9iXeVSLViaDJRxG.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/x6kmrcfpbkte",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/vr1lsn3mvf92",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/zudptrc7b8cd/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-uvq2tlffiswm.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "9",
-          "nombre": "09. Episodio 9",
-          "portada": "https://image.tmdb.org/t/p/w300/ob9nSpLiCaOtsfIK4dsBDo2siO4.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/9vhfwo9ivu7y",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/2m85a8k01jl1",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/fal87qvoyj75/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-l41qychvzrze.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "10",
-          "nombre": "10. Episodio 10",
-          "portada": "https://image.tmdb.org/t/p/w300/5rm1QYlhz0MmwEgTfdE2yWrxGBe.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/7klz60b7gx9r",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/1q3w1yp6pde6",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/rh142feujm66/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-jypy79l149rf.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "11",
-          "nombre": "11. Episodio 11",
-          "portada": "https://image.tmdb.org/t/p/w300/nur0eE5HJG9LyRwj5bpi8ZazO5u.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/91id0ztap5uj",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/poj4bb329ywt",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/7mxdh3wn5ocv/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-qojinu30bsif.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
-        },
-        {
-          "episode_id": "12",
-          "nombre": "12. Episodio 12",
-          "portada": "https://image.tmdb.org/t/p/w300/ecoYlCa0UKE23xcYiM2o8BJAGiB.jpg",
-          "enlaces": [
-            {
-              "nombre": "Enlace 1",
-              "url": "https://yuguaab.com/e/ner0ewhtn3au",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 2",
-              "url": "https://movearnpre.com/embed/184fjo6myj37",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 3",
-              "url": "https://filemoon.sx/e/0hro3ennvbkd/",
-              "type": "embed",
-              "language": "Sub"
-            },
-            {
-              "nombre": "Enlace 4",
-              "url": "https://www.mp4upload.com/embed-k0y8bsiwpwzl.html",
-              "type": "embed",
-              "language": "Sub"
-            }
-          ]
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. El mundo alquilado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tASJhA7H8flJVG0fpQJgnRoBQ0U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/yjte4vdg069j",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/fffl1d9vpt16",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/n9rap1kion6c\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3onetcz9tot0.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Viaje de invierno",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ddU4DYCPg5zmF4r2clz9fpTDDTx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/916svb5s2ic2",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/z4q4er2nn1x0",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/7xdy635x3jbd\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ykk5k8ml4scj.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Bandera de la Espada Voladora",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pAa1BGmFARJ3MOOCjIFvJMdCw6g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/0vapxwg9efq6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/osjn99bltxio",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/lujmb0dag0kd\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xjngxljihs44.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Bosque de las bestias demoníacas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/m0Nrqu4iYvlbOZfdU7ivFGisbtm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/x21oqec6slqe",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/3qh594u1x5iu",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/mqwbaki1k3q1\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rvar5dur2t96.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. El mundo espiritual",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jKEwQiSNPqrV4X6fgScrzaV8hGM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/1geumjsasqgv",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/mj1vap0ivwyb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/s9mwvl7okzy0\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mnhx5crhpz8a.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Batalla contra la legión demoníaca",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5sdJF2uzYnnHMHpZ7lqH5ELyPWr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/8nrssas8o97v",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/ylctzz5c562z",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/wsusarqme70r\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4yzk34s19nnl.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Oración secreta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lHQh462GWceXGH1MvZ5Y9riHlNP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/lfevsk5ggu5e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/2pl5yph532sz",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/xsn9ol1gq514\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3v9eop99u37c.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. La corrupción de Qlifot",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/iVG5YFC84Kv1sQWPXOFWm43hlHX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/bo7u74cbe1vs",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/sprudpk0g2pl",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/jbsjacnkbfn6\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5w7whzyjtfig.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. La Armadura Berserker",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bb10Tob7Hp9P2QfZBn65uWYGNUf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/pzys9c6p220q",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/t9762k6hegvu",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/o3epompve2q3\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x2mt5vzawldj.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Un viaje empieza en las llamas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uEdsD4KURhGEMMB0Det0js1SuSa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/wcn6qslrnzfu",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/y8l5hunk7zh1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/ppxjyopg2u3d\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-smb8ylo2beqg.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Presagios Ungidos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/czBurs7UzGF3YywlPuAzU6LusjK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/d54fwb8h73rh",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/jpa53evzevs4",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/gikbqv246l0s\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4vujc2k2276w.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. La ciudad de los humanos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2d0rG4lZegilC0pYWyFFvRGCtxa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/yuguaab.com\/e\/2kjmb5417l4q",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/movearnpre.com\/embed\/4rjt8u5stcp8",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/filemoon.sx\/e\/h7g8dbp10thq\/",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mg6wd1l3m2l7.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "updated_at": "2025-10-26T17:15:52.795Z"
+    ],
+    "updated_at": "2025-12-05T07:11:05.000Z"
 }
