@@ -1,11 +1,13 @@
 {
     "id_tmdb": "66053",
     "titulo": "Berserk",
-    "year": "2016",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg",
-    "type": "series",
     "etiquetas": "Action & Adventure, Animación, Drama, Sci-Fi & Fantasy",
+    "year": "2016",
+    "type": "animes",
     "synopsis": "Guts es un guerrero vestido de negro de los pies a la cabeza que porta una gigantesca espada más larga que su propia estatura y un robusto brazo ortopédico de hierro... Allá adonde va se forman ríos de sangre y montañas de cadáveres. Cuando estaba en un aprieto, el elfo Puck recibe la ayuda del enigmático guerrero, tras lo cual decide seguirle. Puck, impresionado con el increíble poder de Guts, no puede hacer más que temblar ante el espeluznante mundo en el que este mora. Hordas de espectros tratan de impedir que avance hacia su objetivo...¡¿Y qué es el \"estigma\" que tiene en la nuca?! ¡¿Le estará empujando hacia la venganza?!",
+    "created_at": "2016-07-01",
+    "updated_at": "2025-12-05T07:22:04.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -761,6 +763,5 @@
                 }
             ]
         }
-    ],
-    "updated_at": "2025-12-05T07:11:05.000Z"
+    ]
 }
