@@ -1,19 +1,6 @@
 {
-    "data": [
-        {
-            "id_mal": "21881",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1223\/121999l.jpg",
-            "titulo": "Sword Art Online II",
-            "titulo_original": "ソードアート・オンライン II",
-            "etiquetas": "Action, Adventure, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2014-07-04",
-            "updated_at": "2026-03-05T22:32:11.000Z",
-            "year": "2014",
-            "score": "6.72",
-            "episodes": "24"
-        },
-        {
+    "data": {
+        "1": {
             "id_mal": "37430",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/123309l.jpg",
             "titulo": "Tensei shitara Slime Datta Ken",
@@ -25,6 +12,19 @@
             "year": "2018",
             "score": "8.13",
             "episodes": "24"
+        },
+        "2": {
+            "id_mal": "21881",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1223\/121999l.jpg",
+            "titulo": "Sword Art Online II",
+            "titulo_original": "ソードアート・オンライン II",
+            "etiquetas": "Action, Adventure, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2014-07-04",
+            "updated_at": "2026-03-05T23:18:32.000Z",
+            "year": "2014",
+            "score": "6.72",
+            "episodes": "24"
         }
-    ]
+    }
 }
