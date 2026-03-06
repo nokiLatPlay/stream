@@ -1,6 +1,6 @@
 {
-    "data": {
-        "1": {
+    "data": [
+        {
             "id_mal": "37430",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/123309l.jpg",
             "titulo": "Tensei shitara Slime Datta Ken",
@@ -13,7 +13,7 @@
             "score": "8.13",
             "episodes": "24"
         },
-        "2": {
+        {
             "id_mal": "21881",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1223\/121999l.jpg",
             "titulo": "Sword Art Online II",
@@ -25,6 +25,21 @@
             "year": "2014",
             "score": "6.72",
             "episodes": "24"
+        },
+        {
+            "id_mal": "40456",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1704\/106947l.jpg",
+            "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+            "titulo_original": "劇場版 鬼滅の刃 無限列車編",
+            "etiquetas": "Action, Supernatural",
+            "type": "movie",
+            "created_at": "2026-03-05",
+            "updated_at": "2026-03-05T23:52:00.000Z",
+            "year": "2020",
+            "score": "8.54",
+            "episodes": 1,
+            "calidad": "HD"
         }
-    }
+    ],
+    "lastUpdated": "2026-03-05T23:52:01.000Z"
 }
