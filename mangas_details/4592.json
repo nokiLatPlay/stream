@@ -7,7 +7,7 @@
     "etiquetas": "Action, Horror, Supernatural",
     "year": "1998",
     "created_at": "2026-03-06",
-    "updated_at": "2026-03-06T22:06:03.000Z",
+    "updated_at": "2026-03-06T22:09:11.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -65,7 +65,14 @@
             "start": 17,
             "end": 29,
             "title": "",
-            "servers": []
+            "servers": [
+                {
+                    "name": "Mega",
+                    "url": "https:\/\/cuty.io\/jq57uD",
+                    "type": "zip",
+                    "language": "Spanish"
+                }
+            ]
         }
     ]
 }
