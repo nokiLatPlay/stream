@@ -1,6 +1,6 @@
 {
-    "data": [
-        {
+    "data": {
+        "0": {
             "id_mal": "37430",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/123309l.jpg",
             "titulo": "Tensei shitara Slime Datta Ken",
@@ -13,7 +13,7 @@
             "score": "8.13",
             "episodes": "24"
         },
-        {
+        "1": {
             "id_mal": "21881",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1223\/121999l.jpg",
             "titulo": "Sword Art Online II",
@@ -26,7 +26,7 @@
             "score": "6.72",
             "episodes": "24"
         },
-        {
+        "2": {
             "id_mal": "59623",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1104\/151524l.jpg",
             "titulo": "Wandance",
@@ -39,7 +39,7 @@
             "score": "6.97",
             "episodes": "12"
         },
-        {
+        "3": {
             "id_mal": "40456",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1704\/106947l.jpg",
             "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
@@ -53,20 +53,7 @@
             "episodes": 1,
             "calidad": "HD"
         },
-        {
-            "id_mal": "60933",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1888\/151887l.jpg",
-            "titulo": "Chanto Suenai Kyuuketsuki-chan",
-            "titulo_original": "ちゃんと吸えない吸血鬼ちゃん",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-12",
-            "updated_at": "2026-03-06T02:46:52.000Z",
-            "year": "2025",
-            "score": 6.86000000000000031974423109204508364200592041015625,
-            "episodes": 12
-        },
-        {
+        "5": {
             "id_mal": "60765",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1810\/153334l.jpg",
             "titulo": "Kimi to Koete Koi ni Naru",
@@ -78,7 +65,20 @@
             "year": "2025",
             "score": "7.1",
             "episodes": "12"
+        },
+        "6": {
+            "id_mal": "60933",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1888\/151887l.jpg",
+            "titulo": "Chanto Suenai Kyuuketsuki-chan",
+            "titulo_original": "ちゃんと吸えない吸血鬼ちゃん",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2025-10-12",
+            "updated_at": "2026-03-07T15:39:46.000Z",
+            "year": "2025",
+            "score": "6.8",
+            "episodes": "12"
         }
-    ],
+    },
     "lastUpdated": "2026-03-06T02:48:22.000Z"
 }
