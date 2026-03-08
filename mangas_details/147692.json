@@ -7,7 +7,7 @@
     "etiquetas": "Fantasy",
     "year": "2021",
     "created_at": "2026-03-07",
-    "updated_at": "2026-03-08T00:42:48.000Z",
+    "updated_at": "2026-03-08T01:53:00.000Z",
     "type": "manga",
     "manga_type": "manhwa",
     "display_type": "Manhwa",
@@ -39,10 +39,11 @@
     "serializations": [
         "KakaoPage"
     ],
+    "format": "pdf",
     "chapter_groups": [
         {
-            "start": 1,
-            "end": 30,
+            "start": "1",
+            "end": "30",
             "title": "",
             "servers": [
                 {
@@ -54,8 +55,21 @@
             ]
         },
         {
-            "start": 31,
-            "end": 48,
+            "start": "110",
+            "end": "189",
+            "title": "",
+            "servers": [
+                {
+                    "name": "Mega",
+                    "url": "https:\/\/cuty.io\/H6b8g7UQ5",
+                    "type": "zip",
+                    "language": "Spanish"
+                }
+            ]
+        },
+        {
+            "start": "31",
+            "end": "48",
             "title": "",
             "servers": [
                 {
@@ -67,26 +81,13 @@
             ]
         },
         {
-            "start": 49,
-            "end": 109,
+            "start": "49",
+            "end": "109",
             "title": "",
             "servers": [
                 {
                     "name": "Mega",
                     "url": "https:\/\/cuty.io\/BPkyL2n0jR",
-                    "type": "zip",
-                    "language": "Spanish"
-                }
-            ]
-        },
-        {
-            "start": 110,
-            "end": 189,
-            "title": "",
-            "servers": [
-                {
-                    "name": "Mega",
-                    "url": "https:\/\/cuty.io\/H6b8g7UQ5",
                     "type": "zip",
                     "language": "Spanish"
                 }
