@@ -6,17 +6,22 @@
     "etiquetas": "Action",
     "year": "2024",
     "created_at": "2024-08-02",
-    "updated_at": "2026-03-15T06:30:45.000Z",
+    "updated_at": "2026-03-15T17:18:31.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Deku, Bakugo, Todoroki and the rest of U.A. High Class 1-A must face off against Dark Might and the obscure crime organisation under his control, the Gollini Family.",
-    "score": 7.53000000000000024868995751603506505489349365234375,
+    "score": "7.5",
     "duration": "1 hr 50 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
         "Bones"
     ],
+    "producers": [],
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
+    "player_base": [],
     "enlaces": [
         {
             "nombre": "Enlace 1",
@@ -30,6 +35,5 @@
             "type": "mp4",
             "language": "Sub"
         }
-    ],
-    "player_base": []
+    ]
 }
