@@ -6,14 +6,14 @@
     "imagen": "https:\/\/myanimelist.net\/images\/manga\/3\/229128l.jpg",
     "etiquetas": "Adventure, Comedy, Fantasy",
     "year": "2019",
-    "created_at": "2019-09-18",
-    "updated_at": "2026-03-08T01:12:07.000Z",
+    "created_at": "2019-09-19",
+    "updated_at": "2026-03-15T17:40:12.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
     "synopsis": "Our protagonist Oruku, is the son of a female knight and an orc. Due to his appearance taking more after his mother, he was harassed and bullied by the orcs of his village. After meeting a beautiful elf and other demi-human girls, and being rejected for his lineage, the strength of his blood awakens and plots a plan to become the strongest warrior in history in order to make a harem of beautiful women.\r\n\r\n(Source: Shogakukan, translated)",
     "background": "The first 112 chapters of Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri were published digitally in English as Happy Harem Making with the Mightiest Orc! through Comikey from July 12, 2021, to April 29, 2023.",
-    "score": "6.52",
+    "score": "6.5",
     "scored_by": 0,
     "rank": "17531",
     "popularity": 0,
@@ -39,45 +39,20 @@
     "serializations": [
         "MangaONE"
     ],
-    "format": "zip",
-    "chapter_groups": [
+    "available_formats": [
+        "pdf"
+    ],
+    "formats": [
         {
-            "start": 1,
-            "end": 36,
-            "title": "",
-            "servers": [
+            "format": "pdf",
+            "chapter_groups": [
                 {
-                    "name": "MediaFire",
-                    "url": "https:\/\/cuty.io\/Jix69MT",
-                    "type": "zip",
-                    "language": "Spanish"
-                },
-                {
-                    "name": "MediaFire",
-                    "url": "https:\/\/cuty.io\/PplM",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "start": "1",
+                    "end": "60",
+                    "title": "",
+                    "servers": []
                 }
             ]
-        },
-        {
-            "start": 37,
-            "end": 50,
-            "title": "",
-            "servers": [
-                {
-                    "name": "MediaFire",
-                    "url": "https:\/\/cuty.io\/NRbB7zl",
-                    "type": "zip",
-                    "language": "Spanish"
-                }
-            ]
-        },
-        {
-            "start": 51,
-            "end": 60,
-            "title": "",
-            "servers": []
         }
     ]
 }
