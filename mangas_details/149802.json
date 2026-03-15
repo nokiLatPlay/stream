@@ -6,14 +6,14 @@
     "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/265738l.jpg",
     "etiquetas": "Action, Fantasy",
     "year": "2021",
-    "created_at": "2026-03-07",
-    "updated_at": "2026-03-07T01:55:48.000Z",
+    "created_at": "2021-11-09",
+    "updated_at": "2026-03-15T17:55:28.000Z",
     "type": "manga",
     "manga_type": "manhwa",
     "display_type": "Manhwa",
     "synopsis": "Mystic World—a virtual reality RPG game. Beopgyu Lee, the developer of Mystic World, wakes up to find himself in a strange lab which he recognizes as one of the settings from his game. To make matters worse, he is in the body of Han Lee, a notorious villain character. Find out how Beopgyu survives as Han in the game he created—not as the main character but as the master of villains!\r\n\r\n(Source: Webtoon Entertainment)",
     "background": "Master of Villains was published digitally in English by Webtoon Entertainment from August 7, 2022 to September 29, 2024.",
-    "score": "5.89",
+    "score": "5.9",
     "scored_by": 0,
     "rank": "21706",
     "popularity": 0,
@@ -39,17 +39,18 @@
     "serializations": [
         "Naver Webtoon"
     ],
-    "chapter_groups": [
+    "available_formats": [
+        "pdf"
+    ],
+    "formats": [
         {
-            "start": 1,
-            "end": 60,
-            "title": "",
-            "servers": [
+            "format": "pdf",
+            "chapter_groups": [
                 {
-                    "name": "Mega",
-                    "url": "https:\/\/vidhidepro.com",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "start": "1",
+                    "end": "60",
+                    "title": "",
+                    "servers": []
                 }
             ]
         }
