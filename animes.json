@@ -107,20 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "57508",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1373\/142124l.jpg",
-            "titulo": "Trapezium",
-            "titulo_original": "トラペジウム",
-            "etiquetas": "",
-            "type": "movie",
-            "created_at": "2024-05-10",
-            "updated_at": "2026-03-15T06:24:01.000Z",
-            "year": "2024",
-            "score": 6.96999999999999975131004248396493494510650634765625,
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "52742",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1665\/140360l.jpg",
             "titulo": "Haikyuu!! Movie: Gomisuteba no Kessen",
@@ -775,7 +761,21 @@
             "score": "8.6",
             "episodes": 1,
             "calidad": "HD"
+        },
+        {
+            "id_mal": "57508",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1373\/142124l.jpg",
+            "titulo": "Trapezium",
+            "titulo_original": "トラペジウム",
+            "etiquetas": "Idols (Female),",
+            "type": "movie",
+            "created_at": "2024-05-10",
+            "updated_at": "2026-03-15T17:21:03.000Z",
+            "year": "2024",
+            "score": "7.0",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T17:19:45.000Z"
+    "lastUpdated": "2026-03-15T17:21:03.000Z"
 }
