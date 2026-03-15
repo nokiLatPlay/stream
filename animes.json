@@ -135,20 +135,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "59571",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1379\/145452l.jpg",
-            "titulo": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
-            "titulo_original": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
-            "etiquetas": "Action, Drama, Suspense",
-            "type": "movie",
-            "created_at": "2024-11-08",
-            "updated_at": "2026-03-15T06:22:13.000Z",
-            "year": "2024",
-            "score": 8.8300000000000000710542735760100185871124267578125,
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "58222",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1663\/144261l.jpg",
             "titulo": "Given Movie 3: Umi e",
@@ -775,7 +761,21 @@
             "score": "6.4",
             "episodes": 1,
             "calidad": "HD"
+        },
+        {
+            "id_mal": "59571",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1379\/145452l.jpg",
+            "titulo": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+            "titulo_original": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+            "etiquetas": "Action, Drama, Suspense",
+            "type": "movie",
+            "created_at": "2024-11-08",
+            "updated_at": "2026-03-15T17:15:21.000Z",
+            "year": "2024",
+            "score": "8.8",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T17:14:58.000Z"
+    "lastUpdated": "2026-03-15T17:15:22.000Z"
 }
