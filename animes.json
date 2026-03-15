@@ -1,20 +1,6 @@
 {
     "data": [
         {
-            "id_mal": "40456",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1704\/106947l.jpg",
-            "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-            "titulo_original": "劇場版 鬼滅の刃 無限列車編",
-            "etiquetas": "Action, Supernatural",
-            "type": "movie",
-            "created_at": "2026-03-05",
-            "updated_at": "2026-03-06T01:27:30.000Z",
-            "year": "2020",
-            "score": "8.54",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "60765",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1810\/153334l.jpg",
             "titulo": "Kimi to Koete Koi ni Naru",
@@ -775,7 +761,21 @@
             "score": "7.4",
             "episodes": 13,
             "status": "Finished Airing"
+        },
+        {
+            "id_mal": "40456",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1704\/106947l.jpg",
+            "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+            "titulo_original": "劇場版 鬼滅の刃 無限列車編",
+            "etiquetas": "Action, Supernatural",
+            "type": "movie",
+            "created_at": "2026-03-05",
+            "updated_at": "2026-03-15T16:59:55.000Z",
+            "year": "2020",
+            "score": "8.5",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T16:11:37.000Z"
+    "lastUpdated": "2026-03-15T16:59:56.000Z"
 }
