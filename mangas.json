@@ -127,25 +127,6 @@
             "status": "Publishing"
         },
         {
-            "id_mal": "125660",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/3\/229128l.jpg",
-            "titulo": "Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri",
-            "titulo_original": "史上最強オークさんの楽しい異世界ハーレムづくり",
-            "titulo_english": "Happy Harem Making with the Mightiest Orc!",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "manga",
-            "manga_type": "manga",
-            "display_type": "Manga",
-            "created_at": "2019-09-18",
-            "updated_at": "2026-03-08T01:12:07.000Z",
-            "year": "2019",
-            "score": "6.52",
-            "chapters": "0",
-            "volumes": "0",
-            "status": "Publishing",
-            "format": "zip"
-        },
-        {
             "id_mal": "136930",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/3\/248893l.jpg",
             "titulo": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
@@ -223,7 +204,28 @@
                 "pdf",
                 "cbz"
             ]
+        },
+        {
+            "id_mal": "125660",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/3\/229128l.jpg",
+            "titulo": "Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri",
+            "titulo_original": "史上最強オークさんの楽しい異世界ハーレムづくり",
+            "titulo_english": "Happy Harem Making with the Mightiest Orc!",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "manga",
+            "manga_type": "manga",
+            "display_type": "Manga",
+            "created_at": "2019-09-19",
+            "updated_at": "2026-03-15T17:40:12.000Z",
+            "year": "2019",
+            "score": "6.5",
+            "chapters": "0",
+            "volumes": "0",
+            "status": "Publishing",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-15T17:39:32.000Z"
+    "lastUpdated": "2026-03-15T17:40:12.000Z"
 }
