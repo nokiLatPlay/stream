@@ -107,20 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "52107",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1903\/142810l.jpg",
-            "titulo": "Mononoke Movie 1: Karakasa",
-            "titulo_original": "劇場版モノノ怪 唐傘",
-            "etiquetas": "Horror, Mystery, Supernatural, Suspense",
-            "type": "movie",
-            "created_at": "2024-07-26",
-            "updated_at": "2026-03-15T06:23:28.000Z",
-            "year": "2024",
-            "score": 8.0099999999999997868371792719699442386627197265625,
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "58125",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/142633l.jpg",
             "titulo": "Look Back",
@@ -775,7 +761,21 @@
             "score": "7.5",
             "episodes": 1,
             "calidad": "HD"
+        },
+        {
+            "id_mal": "52107",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1903\/142810l.jpg",
+            "titulo": "Mononoke Movie 1: Karakasa",
+            "titulo_original": "劇場版モノノ怪 唐傘",
+            "etiquetas": "Horror, Mystery, Supernatural, Suspense",
+            "type": "movie",
+            "created_at": "2024-07-26",
+            "updated_at": "2026-03-15T17:18:53.000Z",
+            "year": "2024",
+            "score": "8.0",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T17:18:31.000Z"
+    "lastUpdated": "2026-03-15T17:18:54.000Z"
 }
