@@ -198,19 +198,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "61851",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1044\/152103l.jpg",
-            "titulo": "Isekai Quartet 3",
-            "titulo_original": "異世界かるてっと3",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-13",
-            "updated_at": "2026-03-15T04:16:11.000Z",
-            "year": "2025",
-            "score": 7.4199999999999999289457264239899814128875732421875,
-            "episodes": 11
-        },
-        {
             "id_mal": "52807",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1168\/148347l.jpg",
             "titulo": "One Punch Man 3",
@@ -761,6 +748,19 @@
             "year": "2026",
             "score": "6.2",
             "episodes": "8"
+        },
+        {
+            "id_mal": "61851",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1044\/152103l.jpg",
+            "titulo": "Isekai Quartet 3",
+            "titulo_original": "異世界かるてっと3",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2025-10-13",
+            "updated_at": "2026-03-15T15:29:08.000Z",
+            "year": "2025",
+            "score": "7.4",
+            "episodes": "11"
         }
     ],
     "lastUpdated": "2026-03-15T06:39:31.000Z"
