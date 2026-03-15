@@ -399,19 +399,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "61072",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/151599l.jpg",
-            "titulo": "Shuumatsu Touring",
-            "titulo_original": "終末ツーリング",
-            "etiquetas": "Adventure, Sci-Fi, Slice of Life",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-03-15T06:36:24.000Z",
-            "year": "2025",
-            "score": 6.79000000000000003552713678800500929355621337890625,
-            "episodes": 12
-        },
-        {
             "id_mal": "61694",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1084\/149783l.jpg",
             "titulo": "Android wa Keiken Ninzuu ni Hairimasu ka??",
@@ -760,6 +747,19 @@
             "updated_at": "2026-03-15T15:49:02.000Z",
             "year": "2025",
             "score": "6.3",
+            "episodes": "12"
+        },
+        {
+            "id_mal": "61072",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/151599l.jpg",
+            "titulo": "Shuumatsu Touring",
+            "titulo_original": "終末ツーリング",
+            "etiquetas": "Adventure, Sci-Fi, Slice of Life",
+            "type": "anime",
+            "created_at": "2025-10-04",
+            "updated_at": "2026-03-15T15:56:06.000Z",
+            "year": "2025",
+            "score": "6.7",
             "episodes": "12"
         }
     ],
