@@ -107,20 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "58125",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/142633l.jpg",
-            "titulo": "Look Back",
-            "titulo_original": "ルックバック",
-            "etiquetas": "Drama",
-            "type": "movie",
-            "created_at": "2024-06-28",
-            "updated_at": "2026-03-15T06:23:30.000Z",
-            "year": "2024",
-            "score": 8.6199999999999992184029906638897955417633056640625,
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "57508",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1373\/142124l.jpg",
             "titulo": "Trapezium",
@@ -775,7 +761,21 @@
             "score": "8.0",
             "episodes": 1,
             "calidad": "HD"
+        },
+        {
+            "id_mal": "58125",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/142633l.jpg",
+            "titulo": "Look Back",
+            "titulo_original": "ルックバック",
+            "etiquetas": "Drama",
+            "type": "movie",
+            "created_at": "2024-06-28",
+            "updated_at": "2026-03-15T17:19:15.000Z",
+            "year": "2024",
+            "score": "8.6",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T17:18:54.000Z"
+    "lastUpdated": "2026-03-15T17:19:16.000Z"
 }
