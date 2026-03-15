@@ -1,24 +1,6 @@
 {
     "data": [
         {
-            "id_mal": "149802",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/265738l.jpg",
-            "titulo": "Master of Villains",
-            "titulo_original": "멸망급 빌런들의 선생님",
-            "titulo_english": "Master of Villains",
-            "etiquetas": "Action, Fantasy",
-            "type": "manga",
-            "manga_type": "manhwa",
-            "display_type": "Manhwa",
-            "created_at": "2026-03-07",
-            "updated_at": "2026-03-07T01:55:48.000Z",
-            "year": "2021",
-            "score": "5.89",
-            "chapters": "150",
-            "volumes": "0",
-            "status": "Finished"
-        },
-        {
             "id_mal": "169641",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/3\/301653l.jpg",
             "titulo": "Si no lo haces, se te caera",
@@ -234,7 +216,28 @@
             "available_formats": [
                 "pdf"
             ]
+        },
+        {
+            "id_mal": "149802",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/265738l.jpg",
+            "titulo": "Master of Villains",
+            "titulo_original": "멸망급 빌런들의 선생님",
+            "titulo_english": "Master of Villains",
+            "etiquetas": "Action, Fantasy",
+            "type": "manga",
+            "manga_type": "manhwa",
+            "display_type": "Manhwa",
+            "created_at": "2021-11-09",
+            "updated_at": "2026-03-15T17:55:28.000Z",
+            "year": "2021",
+            "score": "5.9",
+            "chapters": "150",
+            "volumes": "0",
+            "status": "Finished",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-15T17:54:53.000Z"
+    "lastUpdated": "2026-03-15T17:55:28.000Z"
 }
