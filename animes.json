@@ -133,19 +133,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "59484",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1618\/151138l.jpg",
-            "titulo": "Kikaijikake no Marie",
-            "titulo_original": "機械じかけのマリー",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-03-15T04:24:49.000Z",
-            "year": "2025",
-            "score": 6.910000000000000142108547152020037174224853515625,
-            "episodes": 12
-        },
-        {
             "id_mal": "61930",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1120\/152280l.jpg",
             "titulo": "Uma Musume: Cinderella Gray Part 2",
@@ -760,6 +747,19 @@
             "updated_at": "2026-03-15T15:37:29.000Z",
             "year": "2025",
             "score": "6.6",
+            "episodes": "12"
+        },
+        {
+            "id_mal": "59484",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1618\/151138l.jpg",
+            "titulo": "Kikaijikake no Marie",
+            "titulo_original": "機械じかけのマリー",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-03-15T15:37:53.000Z",
+            "year": "2025",
+            "score": "6.9",
             "episodes": "12"
         }
     ],
