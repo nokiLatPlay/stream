@@ -107,19 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "58146",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1347\/150603l.jpg",
-            "titulo": "Tensei Akujo no Kuro Rekishi",
-            "titulo_original": "転生悪女の黒歴史",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2025-10-09",
-            "updated_at": "2026-03-12T21:56:47.000Z",
-            "year": "2025",
-            "score": 6.71999999999999975131004248396493494510650634765625,
-            "episodes": 12
-        },
-        {
             "id_mal": "61026",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1276\/151118l.jpg",
             "titulo": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
@@ -760,6 +747,19 @@
             "updated_at": "2026-03-15T15:30:04.000Z",
             "year": "2025",
             "score": "4.7",
+            "episodes": "12"
+        },
+        {
+            "id_mal": "58146",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1347\/150603l.jpg",
+            "titulo": "Tensei Akujo no Kuro Rekishi",
+            "titulo_original": "転生悪女の黒歴史",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2025-10-09",
+            "updated_at": "2026-03-15T15:30:39.000Z",
+            "year": "2025",
+            "score": "6.7",
             "episodes": "12"
         }
     ],
