@@ -6,20 +6,20 @@
     "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/237259l.jpg",
     "etiquetas": "Adventure, Fantasy",
     "year": "2020",
-    "created_at": "2026-03-07",
-    "updated_at": "2026-03-07T21:09:40.000Z",
+    "created_at": "2020-05-01",
+    "updated_at": "2026-03-15T17:53:33.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
     "synopsis": "During a quest to subdue wyverns, A-rank adventurer Kaiser Clyde witnesses an ancient dragon awaken from its slumber, fly to a nearby village, and immediately destroy it. In the aftermath, Kaiser frantically searches for survivors and finds three babies among the rubble. Feeling responsible for the deaths of the village's populace, Kaiser decides to retire and take care of the children as his daughters.\r\n\r\nBestowing upon them the names Elsa, Anna, and Meryl, Kaiser raises the girls with as much love and affection as he can give. As the years pass, each of his daughters' talents begins to rapidly develop in swordsmanship, management, and magic, respectively. However, despite their unique dispositions, Elsa, Anna, and Meryl all have one thing in common: their overflowing love for their father that seemingly exceeds simple familial bonds.\r\n\r\n[Written by MAL Rewrite]",
     "background": "",
-    "score": "6.98",
+    "score": "7.0",
     "scored_by": 0,
     "rank": "9965",
     "popularity": 0,
     "members": 0,
     "favorites": 0,
-    "chapters": "45",
+    "chapters": "0",
     "volumes": "0",
     "status": "Publishing",
     "published_from": "",
@@ -39,31 +39,20 @@
     "serializations": [
         "Comic Gardo"
     ],
-    "chapter_groups": [
+    "available_formats": [
+        "pdf"
+    ],
+    "formats": [
         {
-            "start": 1,
-            "end": 20,
-            "title": "",
-            "servers": [
+            "format": "pdf",
+            "chapter_groups": [
                 {
-                    "name": "MediaFire",
-                    "url": "https:\/\/cuty.io\/Nbq0V",
-                    "type": "zip",
-                    "language": "Spanish"
-                },
-                {
-                    "name": "MediaFire",
-                    "url": "https:\/\/cuty.io\/FzyxajwZ12",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "start": "1",
+                    "end": "60",
+                    "title": "",
+                    "servers": []
                 }
             ]
-        },
-        {
-            "start": 21,
-            "end": 45,
-            "title": "",
-            "servers": []
         }
     ]
 }
