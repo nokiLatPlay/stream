@@ -107,20 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_mal": "58222",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1663\/144261l.jpg",
-            "titulo": "Given Movie 3: Umi e",
-            "titulo_original": "映画 ギヴン 海へ",
-            "etiquetas": "Boys Love, Drama",
-            "type": "movie",
-            "created_at": "2024-09-20",
-            "updated_at": "2026-03-15T06:23:21.000Z",
-            "year": "2024",
-            "score": 8.4900000000000002131628207280300557613372802734375,
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
             "id_mal": "55748",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1476\/142232l.jpg",
             "titulo": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen",
@@ -775,7 +761,21 @@
             "score": "7.6",
             "episodes": 1,
             "calidad": "HD"
+        },
+        {
+            "id_mal": "58222",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1663\/144261l.jpg",
+            "titulo": "Given Movie 3: Umi e",
+            "titulo_original": "映画 ギヴン 海へ",
+            "etiquetas": "Boys Love, Drama",
+            "type": "movie",
+            "created_at": "2024-09-20",
+            "updated_at": "2026-03-15T17:17:51.000Z",
+            "year": "2024",
+            "score": "8.5",
+            "episodes": 1,
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-03-15T17:17:28.000Z"
+    "lastUpdated": "2026-03-15T17:17:52.000Z"
 }
