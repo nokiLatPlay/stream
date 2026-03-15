@@ -133,19 +133,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "59027",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1697\/151793l.jpg",
-            "titulo": "Spy x Family Season 3",
-            "titulo_original": "SPY×FAMILY Season 3",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-03-15T04:28:03.000Z",
-            "year": "2025",
-            "score": 8.2200000000000006394884621840901672840118408203125,
-            "episodes": 13
-        },
-        {
             "id_mal": "60098",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1959\/151055l.jpg",
             "titulo": "Boku no Hero Academia: Final Season",
@@ -760,6 +747,19 @@
             "updated_at": "2026-03-15T15:40:18.000Z",
             "year": "2025",
             "score": "6.4",
+            "episodes": "13"
+        },
+        {
+            "id_mal": "59027",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1697\/151793l.jpg",
+            "titulo": "Spy x Family Season 3",
+            "titulo_original": "SPY×FAMILY Season 3",
+            "etiquetas": "Action, Comedy",
+            "type": "anime",
+            "created_at": "2025-10-04",
+            "updated_at": "2026-03-15T15:40:46.000Z",
+            "year": "2025",
+            "score": "8.2",
             "episodes": "13"
         }
     ],
