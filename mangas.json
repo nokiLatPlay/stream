@@ -1,24 +1,6 @@
 {
     "data": [
         {
-            "id_mal": "121032",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/220508l.jpg",
-            "titulo": "Senken no Majutsushi to Yobareta Kenshi",
-            "titulo_original": "千剣の魔術師と呼ばれた剣士",
-            "titulo_english": "The Swordsman Dubbed the Sorcerer of Countless Swords",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "manga",
-            "manga_type": "manga",
-            "display_type": "Manga",
-            "created_at": "2026-03-06",
-            "updated_at": "2026-03-06T22:43:03.000Z",
-            "year": "2018",
-            "score": "6.73",
-            "chapters": "0",
-            "volumes": "0",
-            "status": "Publishing"
-        },
-        {
             "id_mal": "149802",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/265738l.jpg",
             "titulo": "Master of Villains",
@@ -231,7 +213,28 @@
             "available_formats": [
                 "pdf"
             ]
+        },
+        {
+            "id_mal": "121032",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/220508l.jpg",
+            "titulo": "Senken no Majutsushi to Yobareta Kenshi",
+            "titulo_original": "千剣の魔術師と呼ばれた剣士",
+            "titulo_english": "The Swordsman Dubbed the Sorcerer of Countless Swords",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "manga",
+            "manga_type": "manga",
+            "display_type": "Manga",
+            "created_at": "2018-12-25",
+            "updated_at": "2026-03-15T17:54:53.000Z",
+            "year": "2018",
+            "score": "6.7",
+            "chapters": "0",
+            "volumes": "0",
+            "status": "Publishing",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-15T17:53:33.000Z"
+    "lastUpdated": "2026-03-15T17:54:53.000Z"
 }
