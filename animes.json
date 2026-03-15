@@ -185,19 +185,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "54757",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1823\/154120l.jpg",
-            "titulo": "3-nen Z-gumi Ginpachi-sensei",
-            "titulo_original": "銀魂 3年Z組銀八先生",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-10-07",
-            "updated_at": "2026-03-15T04:22:39.000Z",
-            "year": "2025",
-            "score": 7.660000000000000142108547152020037174224853515625,
-            "episodes": 12
-        },
-        {
             "id_mal": "59484",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1618\/151138l.jpg",
             "titulo": "Kikaijikake no Marie",
@@ -760,6 +747,19 @@
             "updated_at": "2026-03-15T15:33:36.000Z",
             "year": "2025",
             "score": "7.4",
+            "episodes": "12"
+        },
+        {
+            "id_mal": "54757",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1823\/154120l.jpg",
+            "titulo": "3-nen Z-gumi Ginpachi-sensei",
+            "titulo_original": "銀魂 3年Z組銀八先生",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2025-10-07",
+            "updated_at": "2026-03-15T15:33:56.000Z",
+            "year": "2025",
+            "score": "7.6",
             "episodes": "12"
         }
     ],
