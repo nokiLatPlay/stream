@@ -7,7 +7,7 @@
     "etiquetas": "Boys Love, Drama, Horror, Erotica",
     "year": "2016",
     "created_at": "2026-03-08",
-    "updated_at": "2026-03-08T00:58:18.000Z",
+    "updated_at": "2026-03-17T08:45:08.000Z",
     "type": "manga",
     "manga_type": "manhwa",
     "display_type": "Manhwa",
@@ -35,44 +35,62 @@
     "serializations": [
         "Lezhin Comics Webtoon"
     ],
-    "chapter_groups": [
+    "available_formats": [
+        "pdf"
+    ],
+    "formats": [
         {
-            "start": 1,
-            "end": 30,
-            "title": "",
-            "servers": [
+            "format": "pdf",
+            "chapter_groups": [
                 {
-                    "name": "M3ga",
-                    "url": "https:\/\/cuty.io\/4JVPmxi3TUY",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "group_id": 1,
+                    "start": "00",
+                    "end": "30",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 1,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/4JVPmxi3TUY",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 },
                 {
-                    "name": "Mega",
-                    "url": "https:\/\/cuty.io\/ir9D6oQt",
-                    "type": "zip",
-                    "language": "Spanish"
-                }
-            ]
-        },
-        {
-            "start": 31,
-            "end": 50,
-            "title": "",
-            "servers": [
+                    "group_id": 2,
+                    "start": "31",
+                    "end": "50",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/ir9D6oQt",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
                 {
-                    "name": "Mega",
-                    "url": "https:\/\/cuty.io\/KEbULOga09lW",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "group_id": 3,
+                    "start": "51",
+                    "end": "68",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 3,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/KEbULOga09lW",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "start": 51,
-            "end": 68,
-            "title": "",
-            "servers": []
         }
     ]
 }
