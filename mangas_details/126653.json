@@ -7,7 +7,7 @@
     "etiquetas": "Action, Supernatural",
     "year": "2020",
     "created_at": "2020-02-19",
-    "updated_at": "2026-03-15T17:55:48.000Z",
+    "updated_at": "2026-03-17T08:06:06.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -49,10 +49,36 @@
             "format": "pdf",
             "chapter_groups": [
                 {
-                    "start": "1",
-                    "end": "60",
+                    "group_id": 1,
+                    "start": "1.1",
+                    "end": "10",
                     "title": "",
-                    "servers": []
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 1,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/jPaoztL8mwoh",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 2,
+                    "start": "11",
+                    "end": "20",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/1z9gSiH",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
         }
