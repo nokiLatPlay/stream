@@ -7,7 +7,7 @@
     "etiquetas": "Action, Fantasy",
     "year": "2021",
     "created_at": "2021-05-24",
-    "updated_at": "2026-03-08T01:52:23.000Z",
+    "updated_at": "2026-03-17T08:13:18.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -39,18 +39,76 @@
     "serializations": [
         "Magazine pocket"
     ],
-    "format": "pdf",
-    "chapter_groups": [
+    "available_formats": [
+        "pdf"
+    ],
+    "formats": [
         {
-            "start": "1",
-            "end": "60",
-            "title": "",
-            "servers": [
+            "format": "pdf",
+            "chapter_groups": [
                 {
-                    "name": "MediaFire",
-                    "url": "https:\/\/vidhidepro.com",
-                    "type": "zip",
-                    "language": "Spanish"
+                    "group_id": 1,
+                    "start": "01",
+                    "end": "10",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 1,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/MqbfUUjDpA",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 2,
+                    "start": "11",
+                    "end": "20",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/DLIyK",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 3,
+                    "start": "21",
+                    "end": "27",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 3,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/hYpNsm1Os64",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 4,
+                    "start": "28",
+                    "end": "36",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 4,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/IHr0jX5oU99",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
         }
