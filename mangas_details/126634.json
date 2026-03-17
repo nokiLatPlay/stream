@@ -7,7 +7,7 @@
     "etiquetas": "Adventure, Fantasy",
     "year": "2020",
     "created_at": "2020-05-01",
-    "updated_at": "2026-03-15T17:53:33.000Z",
+    "updated_at": "2026-03-17T07:59:46.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -47,10 +47,36 @@
             "format": "pdf",
             "chapter_groups": [
                 {
-                    "start": "1",
-                    "end": "60",
+                    "group_id": 1,
+                    "start": "01",
+                    "end": "20",
                     "title": "",
-                    "servers": []
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 1,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/Nbq0V",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 2,
+                    "start": "21",
+                    "end": "45",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "MediaFire",
+                            "url": "https:\/\/cuty.io\/FzyxajwnZl2",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
         }
