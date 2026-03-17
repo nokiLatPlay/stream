@@ -7,7 +7,7 @@
     "etiquetas": "Action, Horror, Supernatural",
     "year": "1998",
     "created_at": "1999-01-01",
-    "updated_at": "2026-03-15T17:52:59.000Z",
+    "updated_at": "2026-03-17T07:51:34.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -49,10 +49,36 @@
             "format": "pdf",
             "chapter_groups": [
                 {
-                    "start": "1",
-                    "end": "60",
+                    "group_id": 1,
+                    "start": "01",
+                    "end": "16",
                     "title": "",
-                    "servers": []
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 1,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/L17iqY",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
+                },
+                {
+                    "group_id": 2,
+                    "start": "17",
+                    "end": "29",
+                    "title": "",
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "Mega",
+                            "url": "https:\/\/cuty.io\/jq57uD",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
         }
