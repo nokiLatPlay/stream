@@ -7,7 +7,7 @@
     "etiquetas": "Action, Adventure, Fantasy",
     "year": "2015",
     "created_at": "2015-02-16",
-    "updated_at": "2026-03-17T06:37:56.000Z",
+    "updated_at": "2026-03-17T06:54:04.000Z",
     "type": "manga",
     "manga_type": "manhwa",
     "display_type": "Manhwa",
@@ -62,27 +62,31 @@
                     "servers": [
                         {
                             "server_id": 1,
+                            "group_id": 1,
                             "name": "Server 1",
                             "url": "https:\/\/cuty.io\/vG8ba5tv",
                             "type": "zip",
                             "language": "Spanish"
                         },
                         {
-                            "server_id": 2,
+                            "server_id": 5,
+                            "group_id": 1,
                             "name": "Server 1",
                             "url": "https:\/\/cuty.io\/sXrEqBkUWB",
                             "type": "zip",
                             "language": "Spanish"
                         },
                         {
-                            "server_id": 3,
+                            "server_id": 6,
+                            "group_id": 1,
                             "name": "Server 1",
                             "url": "https:\/\/cuty.io\/0SlWlix",
                             "type": "zip",
                             "language": "Spanish"
                         },
                         {
-                            "server_id": 4,
+                            "server_id": 7,
+                            "group_id": 1,
                             "name": "Server 1",
                             "url": "https:\/\/cuty.io\/K02YJw8epqLY",
                             "type": "zip",
