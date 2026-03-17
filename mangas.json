@@ -136,27 +136,6 @@
             ]
         },
         {
-            "id_mal": "126653",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/236131l.jpg",
-            "titulo": "Succubus & Hitman",
-            "titulo_original": "サキュバス&ヒットマン",
-            "titulo_english": "Succubus and Hitman",
-            "etiquetas": "Action, Supernatural",
-            "type": "manga",
-            "manga_type": "manga",
-            "display_type": "Manga",
-            "created_at": "2020-02-19",
-            "updated_at": "2026-03-15T17:55:48.000Z",
-            "year": "2020",
-            "score": "6.8",
-            "chapters": "0",
-            "volumes": "0",
-            "status": "Publishing",
-            "available_formats": [
-                "pdf"
-            ]
-        },
-        {
             "id_mal": "4592",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/150864l.jpg",
             "titulo": "Amon: Devilman Mokushiroku",
@@ -239,7 +218,28 @@
             "available_formats": [
                 "pdf"
             ]
+        },
+        {
+            "id_mal": "126653",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/236131l.jpg",
+            "titulo": "Succubus & Hitman",
+            "titulo_original": "サキュバス&ヒットマン",
+            "titulo_english": "Succubus and Hitman",
+            "etiquetas": "Action, Supernatural",
+            "type": "manga",
+            "manga_type": "manga",
+            "display_type": "Manga",
+            "created_at": "2020-02-19",
+            "updated_at": "2026-03-17T08:06:06.000Z",
+            "year": "2020",
+            "score": "6.8",
+            "chapters": "0",
+            "volumes": "0",
+            "status": "Publishing",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-17T07:59:48.000Z"
+    "lastUpdated": "2026-03-17T08:06:06.000Z"
 }
