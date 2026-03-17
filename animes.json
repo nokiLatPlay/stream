@@ -374,10 +374,11 @@
             "etiquetas": "Action, Comedy",
             "type": "anime",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-15T15:40:46.000Z",
+            "updated_at": "2026-03-17T01:11:56.000Z",
             "year": "2025",
             "score": "8.2",
-            "episodes": "13"
+            "episodes": 13,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "60098",
@@ -1690,5 +1691,5 @@
             "status": "Finished Airing"
         }
     ],
-    "lastUpdated": "2026-03-17T01:09:48.000Z"
+    "lastUpdated": "2026-03-17T01:11:57.000Z"
 }
