@@ -6,12 +6,12 @@
     "etiquetas": "Action, Adventure, Fantasy, Romance",
     "year": "2014",
     "type": "anime",
-    "synopsis": "A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.\r\n\r\nOnce inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.\r\n\r\n[Written by MAL Rewrite]",
+    "synopsis": "A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.\n\nOnce inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.\n\n[Written by MAL Rewrite]",
     "score": "6.7",
     "episodes": "24",
     "status": "Finished Airing",
     "duration": "23 min per ep",
-    "rating": "",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
         "A-1 Pictures"
@@ -26,12 +26,805 @@
     "aired_to": "2014-12-19",
     "aired_string": "2014-07-04 al 2014-12-19",
     "created_at": "2014-07-04",
-    "updated_at": "2026-03-15T15:43:45.000Z",
+    "updated_at": "2026-03-17T01:08:11.000Z",
     "player_base": [],
     "temporadas": [
         {
             "temporada": "Temporada 1",
-            "capitulos": []
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "01. The World of Guns",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/409b578c08f96d0d7ee83bb0bb03b664",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/409b578c08f96d0d7ee83bb0bb03b664",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5efce4998fa38a36424e0f6279f716ab",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5efce4998fa38a36424e0f6279f716ab",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "02. Cold-Hearted Sniper",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/41400dda8bbcf857c705629502c8db8d",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/41400dda8bbcf857c705629502c8db8d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9fadc233f2a60a213837652491c5cd72",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9fadc233f2a60a213837652491c5cd72",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "03. Memories of Fresh Blood",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0ba6465ad773807dcc8de713a813a886",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0ba6465ad773807dcc8de713a813a886",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/54552694de876ba2ff2028ef5f25a0d5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/54552694de876ba2ff2028ef5f25a0d5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "04. GGO",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/c362cc5ebbabb1c8b5a1777e61fe2bfe",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c362cc5ebbabb1c8b5a1777e61fe2bfe",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1bdba5f0719b62fc11e024f7beb676f7",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1bdba5f0719b62fc11e024f7beb676f7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "05. Guns and Swords",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/2550ab42554e07d1b19ed2907816b31e",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/2550ab42554e07d1b19ed2907816b31e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/8ff25da861105a24ac5fa3874af28c27",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8ff25da861105a24ac5fa3874af28c27",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "06. Showdown in the Wilderness",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6d1b53fe0776861438467fee3e693626",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6d1b53fe0776861438467fee3e693626",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6f25f5caff6f3b67a0f59f09c146987a",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6f25f5caff6f3b67a0f59f09c146987a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "07. Crimson Memories",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5e222dc46afeef4e4fa4fe411354f7bb",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5e222dc46afeef4e4fa4fe411354f7bb",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d42c7d1321632b5e05200115af281a78",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d42c7d1321632b5e05200115af281a78",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "08. Bullet of Bullets",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/bd65e0d48f7e20b87bae7ba44d22669b",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bd65e0d48f7e20b87bae7ba44d22669b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/76a78ea5df3c38eaaea7ea68b09b0f8e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/76a78ea5df3c38eaaea7ea68b09b0f8e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "09. Death Gun",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/97cd094231b5c2ef66558daa319c7b35",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/97cd094231b5c2ef66558daa319c7b35",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/bc0cbfaf3ab54d49272b466c1de53f57",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bc0cbfaf3ab54d49272b466c1de53f57",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "10. Death Chaser",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a93386d37f5f56b1cce000ba3d273c98",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a93386d37f5f56b1cce000ba3d273c98",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6f350ed407af28f2b5d486fa5278df98",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6f350ed407af28f2b5d486fa5278df98",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "11. What It Means To Be Strong",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7c28d5f7710e3f1d04acd7edfb6fb6da",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7c28d5f7710e3f1d04acd7edfb6fb6da",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/f3ef9d5b6dfb77371075f39313463581",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f3ef9d5b6dfb77371075f39313463581",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "12. Bullet of a Phantom",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/221bf613ad910c5be7e886cc958f095c",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/221bf613ad910c5be7e886cc958f095c",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d0e28c6ab62ee60f119fcb3799a27a63",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d0e28c6ab62ee60f119fcb3799a27a63",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "13. Phantom Bullet",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0ad0ff9d90a60fd9482e3423d85fa7dd",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0ad0ff9d90a60fd9482e3423d85fa7dd",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ff18045c43437e9ef4a832e820f4148a",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ff18045c43437e9ef4a832e820f4148a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "14. One Little Step",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9004986751602f9245bd7152a2def793",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9004986751602f9245bd7152a2def793",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9f697a70eb816a48d7f00f9ca58c61b6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9f697a70eb816a48d7f00f9ca58c61b6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 5",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/8bdf57fb15cb74e699784fdfd489514a",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 6",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8bdf57fb15cb74e699784fdfd489514a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 7",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/3da2b65c2a3b11d760ed1db2b314e41b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 8",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3da2b65c2a3b11d760ed1db2b314e41b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "15. The Queen of the Lake",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5bf0aa80b966e4f29c7637375997804b",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5bf0aa80b966e4f29c7637375997804b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/610394278eb6982e484b8457f7628e02",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/610394278eb6982e484b8457f7628e02",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "16. The King of the Giants",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/f420f298f52d99f17e1dc3495b827b2e",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f420f298f52d99f17e1dc3495b827b2e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/55a11c536d45824522d4741e12c0e688",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/55a11c536d45824522d4741e12c0e688",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "numero": 17,
+                    "nombre": "17. Excalibur",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/56e5b0d1c64d1ca9684b967354e1fdbf",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/56e5b0d1c64d1ca9684b967354e1fdbf",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/cd6a8bb3a8dbf0f5d48cf766be7de822",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/cd6a8bb3a8dbf0f5d48cf766be7de822",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "numero": 18,
+                    "nombre": "18. Forest House",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9b20925591e7dd2c8411e6224f7085b4",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9b20925591e7dd2c8411e6224f7085b4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/8bc812157e6a1066a77a4b5389f566ab",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8bc812157e6a1066a77a4b5389f566ab",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "numero": 19,
+                    "nombre": "19. Zekken",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/970981cbf4dae70f06805578a4a7d3a4",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/970981cbf4dae70f06805578a4a7d3a4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a552b7d12ebc99dd6cc4f3e7b58ce330",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a552b7d12ebc99dd6cc4f3e7b58ce330",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "numero": 20,
+                    "nombre": "20. Sleeping Knights",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9b342a54c89b8527327b6e065f76c170",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9b342a54c89b8527327b6e065f76c170",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1e616e6d26893103dae1b01b615b09b0",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1e616e6d26893103dae1b01b615b09b0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "numero": 21,
+                    "nombre": "21. The Monument of the Swordsmen",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b5543559e50b2c1ce08c0550977cb407",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b5543559e50b2c1ce08c0550977cb407",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1a059650fd5b06d5e17a59bde9fd838e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1a059650fd5b06d5e17a59bde9fd838e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "numero": 22,
+                    "nombre": "22. The End of the Journey",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b9169a2db3e053d0e240ce435bed4436",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b9169a2db3e053d0e240ce435bed4436",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/45d2dfd4231957136fbbf371a4f35d05",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/45d2dfd4231957136fbbf371a4f35d05",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "numero": 23,
+                    "nombre": "23. The Dream Begins",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/97e9939ff15678a66c5e4a87169b17c0",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/97e9939ff15678a66c5e4a87169b17c0",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a1e34fc9a50b2f7dc1fe8231fe78efa3",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a1e34fc9a50b2f7dc1fe8231fe78efa3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "numero": 24,
+                    "nombre": "24. Mother's Rosario",
+                    "portada": "https:\/\/myanimelist.net\/images\/icon-banned-youtube.png",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0e1e7a0c2a309c5fdac8ec4c3123206b",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0e1e7a0c2a309c5fdac8ec4c3123206b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/01d99a092b6211ebecd76cfa2f0f672f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/01d99a092b6211ebecd76cfa2f0f672f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
