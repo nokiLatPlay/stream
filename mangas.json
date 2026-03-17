@@ -94,27 +94,6 @@
             "format": "pdf"
         },
         {
-            "id_mal": "4592",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/150864l.jpg",
-            "titulo": "Amon: Devilman Mokushiroku",
-            "titulo_original": "AMONデビルマン黙示録",
-            "titulo_english": "Amon: The Darkside of Devilman",
-            "etiquetas": "Action, Horror, Supernatural",
-            "type": "manga",
-            "manga_type": "manga",
-            "display_type": "Manga",
-            "created_at": "1999-01-01",
-            "updated_at": "2026-03-15T17:52:59.000Z",
-            "year": "1998",
-            "score": "6.8",
-            "chapters": "41",
-            "volumes": "6",
-            "status": "Finished",
-            "available_formats": [
-                "pdf"
-            ]
-        },
-        {
             "id_mal": "126634",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/237259l.jpg",
             "titulo": "S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita",
@@ -240,7 +219,28 @@
             "available_formats": [
                 "pdf"
             ]
+        },
+        {
+            "id_mal": "4592",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/150864l.jpg",
+            "titulo": "Amon: Devilman Mokushiroku",
+            "titulo_original": "AMONデビルマン黙示録",
+            "titulo_english": "Amon: The Darkside of Devilman",
+            "etiquetas": "Action, Horror, Supernatural",
+            "type": "manga",
+            "manga_type": "manga",
+            "display_type": "Manga",
+            "created_at": "1999-01-01",
+            "updated_at": "2026-03-17T07:51:34.000Z",
+            "year": "1998",
+            "score": "6.8",
+            "chapters": "41",
+            "volumes": "6",
+            "status": "Finished",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-17T07:16:31.000Z"
+    "lastUpdated": "2026-03-17T07:51:34.000Z"
 }
