@@ -7,7 +7,7 @@
     "etiquetas": "Adventure, Comedy, Fantasy",
     "year": "2019",
     "created_at": "2019-09-19",
-    "updated_at": "2026-03-15T17:40:12.000Z",
+    "updated_at": "2026-03-17T05:22:17.000Z",
     "type": "manga",
     "manga_type": "manga",
     "display_type": "Manga",
@@ -40,11 +40,23 @@
         "MangaONE"
     ],
     "available_formats": [
-        "pdf"
+        "pdf",
+        "cbz"
     ],
     "formats": [
         {
             "format": "pdf",
+            "chapter_groups": [
+                {
+                    "start": "1",
+                    "end": "60",
+                    "title": "",
+                    "servers": []
+                }
+            ]
+        },
+        {
+            "format": "cbz",
             "chapter_groups": [
                 {
                     "start": "1",
