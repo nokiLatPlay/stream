@@ -1,24 +1,6 @@
 {
     "data": [
         {
-            "id_mal": "121079",
-            "imagen": "https:\/\/myanimelist.net\/images\/manga\/1\/220586l.jpg",
-            "titulo": "Killing Stalking",
-            "titulo_original": "킬링 스토킹",
-            "titulo_english": "Killing Stalking",
-            "etiquetas": "Boys Love, Drama, Horror, Erotica",
-            "type": "manga",
-            "manga_type": "manhwa",
-            "display_type": "Manhwa",
-            "created_at": "2026-03-08",
-            "updated_at": "2026-03-08T00:58:18.000Z",
-            "year": "2016",
-            "score": "7.3",
-            "chapters": "67",
-            "volumes": "8",
-            "status": "Finished"
-        },
-        {
             "id_mal": "4592",
             "imagen": "https:\/\/myanimelist.net\/images\/manga\/2\/150864l.jpg",
             "titulo": "Amon: Devilman Mokushiroku",
@@ -206,7 +188,28 @@
             "available_formats": [
                 "pdf"
             ]
+        },
+        {
+            "id_mal": "121079",
+            "imagen": "https:\/\/myanimelist.net\/images\/manga\/1\/220586l.jpg",
+            "titulo": "Killing Stalking",
+            "titulo_original": "킬링 스토킹",
+            "titulo_english": "Killing Stalking",
+            "etiquetas": "Boys Love, Drama, Horror, Erotica",
+            "type": "manga",
+            "manga_type": "manhwa",
+            "display_type": "Manhwa",
+            "created_at": "2026-03-08",
+            "updated_at": "2026-03-17T08:45:08.000Z",
+            "year": "2016",
+            "score": "7.3",
+            "chapters": "67",
+            "volumes": "8",
+            "status": "Finished",
+            "available_formats": [
+                "pdf"
+            ]
         }
     ],
-    "lastUpdated": "2026-03-17 08:42:10"
+    "lastUpdated": "2026-03-17T08:45:09.000Z"
 }
