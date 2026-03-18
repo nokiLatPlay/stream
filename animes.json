@@ -300,10 +300,11 @@
             "etiquetas": "Action, Adventure, Fantasy",
             "type": "anime",
             "created_at": "2025-10-06",
-            "updated_at": "2026-03-15T15:37:04.000Z",
+            "updated_at": "2026-03-18T05:54:20.000Z",
             "year": "2025",
             "score": "7.5",
-            "episodes": "11"
+            "episodes": 11,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "57888",
@@ -1704,5 +1705,5 @@
             "status": "Finished Airing"
         }
     ],
-    "lastUpdated": "2026-03-18T05:54:17.000Z"
+    "lastUpdated": "2026-03-18T05:54:22.000Z"
 }
