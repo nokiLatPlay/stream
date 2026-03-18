@@ -218,10 +218,11 @@
             "etiquetas": "Action, Mystery",
             "type": "anime",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-15T15:33:36.000Z",
+            "updated_at": "2026-03-18T05:54:16.000Z",
             "year": "2025",
-            "score": "7.4",
-            "episodes": "12"
+            "score": "7.5",
+            "episodes": 12,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "54757",
@@ -1703,5 +1704,5 @@
             "status": "Finished Airing"
         }
     ],
-    "lastUpdated": "2026-03-18T05:54:11.000Z"
+    "lastUpdated": "2026-03-18T05:54:17.000Z"
 }
