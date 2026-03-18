@@ -166,10 +166,11 @@
             "etiquetas": "Adventure, Comedy, Fantasy, Gourmet",
             "type": "anime",
             "created_at": "2025-10-08",
-            "updated_at": "2026-03-15T15:31:14.000Z",
+            "updated_at": "2026-03-18T05:59:02.000Z",
             "year": "2025",
-            "score": "7.6",
-            "episodes": "12"
+            "score": "7.7",
+            "episodes": 12,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "61026",
@@ -1713,5 +1714,5 @@
             "status": "Finished Airing"
         }
     ],
-    "lastUpdated": "2026-03-18T05:58:57.000Z"
+    "lastUpdated": "2026-03-18T05:59:02.000Z"
 }
