@@ -430,10 +430,11 @@
             "etiquetas": "Drama, Fantasy, Gourmet, Romance",
             "type": "anime",
             "created_at": "2025-10-02",
-            "updated_at": "2026-03-15T15:46:13.000Z",
+            "updated_at": "2026-03-18T05:48:35.000Z",
             "year": "2025",
             "score": "6.8",
-            "episodes": "12"
+            "episodes": 12,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "60378",
@@ -1697,5 +1698,5 @@
             "status": "Finished Airing"
         }
     ],
-    "lastUpdated": "2026-03-18T05:48:31.000Z"
+    "lastUpdated": "2026-03-18T05:48:35.000Z"
 }
