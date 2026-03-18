@@ -6,22 +6,29 @@
     "etiquetas": "Romance, Sci-Fi",
     "year": "2025",
     "type": "anime",
-    "synopsis": "After waking from a long cryogenic sleep, high school student Akira Himegami finds himself in a world he no longer recognizes. The city lies in ruins from war, society is now governed by an organization called OWEL, and traditional marriage has been replaced by a new system known as \"Elsie.\"\r\n\r\nAs Akira struggles to comprehend this drastically changed future, a familiar figure appears before him—Yuugure, who bears a strong resemblance to his girlfriend Towasa. To his shock, Yuugure smiles gently and proposes: \"Akira... please marry me.\"\r\n\r\nConfused by her sudden proposal, Akira agrees to travel with Yuugure, holding onto hope that somewhere in this world, the real Towasa is still alive.\r\n\r\nAlong their journey, they encounter the evolving forms of love in this new era and reflect on what their bond truly means.\r\n\r\n(Source: MAL News)",
-    "score": "6.5",
+    "synopsis": "After waking from a long cryogenic sleep, high school student Akira Himegami finds himself in a world he no longer recognizes. The city lies in ruins from war, society is now governed by an organization called OWEL, and traditional marriage has been replaced by a new system known as \"Elsie.\"\n\nAs Akira struggles to comprehend this drastically changed future, a familiar figure appears before him—Yuugure, who bears a strong resemblance to his girlfriend Towasa. To his shock, Yuugure smiles gently and proposes: \"Akira... please marry me.\"\n\nConfused by her sudden proposal, Akira agrees to travel with Yuugure, holding onto hope that somewhere in this world, the real Towasa is still alive.\n\nAlong their journey, they encounter the evolving forms of love in this new era and reflect on what their bond truly means.\n\n(Source: MAL News)",
+    "score": "6.6",
     "episodes": "12",
-    "status": "",
+    "status": "Finished Airing",
     "duration": "23 min per ep",
-    "rating": "",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
         "P.A. Works"
     ],
-    "producers": [],
+    "producers": [
+        "MediaNet",
+        "Mainichi Broadcasting System",
+        "Movic",
+        "dugout",
+        "Myrica Music",
+        "Sankyo"
+    ],
     "aired_from": "",
     "aired_to": "",
     "aired_string": "",
     "created_at": "2025-10-03",
-    "updated_at": "2026-03-15T15:35:43.000Z",
+    "updated_at": "2026-03-18T05:53:59.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -39,84 +46,240 @@
                     "numero": 1,
                     "nombre": "01. Episodio 1",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ad9c5d79d9759c635f98e8e8bf2d4ca9",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ad9c5d79d9759c635f98e8e8bf2d4ca9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
                     "nombre": "02. Episodio 2",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/fc970bf4c9154ea9d9fff69af8924210",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/fc970bf4c9154ea9d9fff69af8924210",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
                     "nombre": "03. Episodio 3",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/2219302745fc84938846100d07e5d834",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/2219302745fc84938846100d07e5d834",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
                     "nombre": "04. Episodio 4",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a8cba00c85705b57953dc6d7aa3c6525",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a8cba00c85705b57953dc6d7aa3c6525",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "05",
                     "numero": 5,
                     "nombre": "05. Episodio 5",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/c369db16f04241c305573fb1ba42d601",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c369db16f04241c305573fb1ba42d601",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "06",
                     "numero": 6,
                     "nombre": "06. Episodio 6",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/25510c36ebb8d9b1a66b10406b34bb05",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/25510c36ebb8d9b1a66b10406b34bb05",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "07",
                     "numero": 7,
                     "nombre": "07. Episodio 7",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6188e1b5810cff57a37bd2b4e6acdf09",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6188e1b5810cff57a37bd2b4e6acdf09",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "08",
                     "numero": 8,
                     "nombre": "08. Episodio 8",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/88d2cdf90f88d1dbbb597558ab8c3eab",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/88d2cdf90f88d1dbbb597558ab8c3eab",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "09",
                     "numero": 9,
                     "nombre": "09. Episodio 9",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7149a0b0fd0fe2ddf42651da2b88ea8a",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7149a0b0fd0fe2ddf42651da2b88ea8a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "10",
                     "numero": 10,
                     "nombre": "10. Episodio 10",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0d94ca984138ea3416af8a6d9f8bd807",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0d94ca984138ea3416af8a6d9f8bd807",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "11",
                     "numero": 11,
                     "nombre": "11. Episodio 11",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/71649615284ada9969089bea6d4da7a2",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/71649615284ada9969089bea6d4da7a2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "12",
                     "numero": 12,
                     "nombre": "12. Episodio 12",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/90233171fb065db8d3fda9490e01254c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/90233171fb065db8d3fda9490e01254c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 }
             ]
         }
