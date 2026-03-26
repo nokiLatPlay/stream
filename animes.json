@@ -3211,18 +3211,19 @@
         },
         {
             "id_mal": "45DMC91",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/d9aqYyDymdl0HhexUQMT6dKUM4r.jpg",
+            "imagen": "",
             "titulo": "Devil May Cry",
             "titulo_original": "",
-            "etiquetas": "Animación, Action, Adventure, Sci-Fi, Fantasy",
+            "etiquetas": "",
             "type": "anime",
             "created_at": "2026-03-26",
-            "updated_at": "2026-03-26T05:21:30.000Z",
-            "year": "2025",
-            "score": "7.9",
-            "status": "Finalizado",
-            "episodes": "8"
+            "updated_at": "2026-03-26T05:30:01.000Z",
+            "year": "N\/A",
+            "score": "",
+            "episodes": 0,
+            "status": "",
+            "custom": true
         }
     ],
-    "lastUpdated": "2026-03-26T05:19:49.000Z"
+    "lastUpdated": "2026-03-26T05:30:01.000Z"
 }
