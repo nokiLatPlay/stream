@@ -440,15 +440,14 @@
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1168\/148347l.jpg",
             "titulo": "One Punch Man 3",
             "titulo_original": "ワンパンマン 3",
-            "year": "2025",
             "etiquetas": "Action, Comedy",
             "type": "anime",
+            "created_at": "2025-10-12",
+            "updated_at": "2026-03-26T08:30:55.000Z",
+            "year": "2025",
             "score": "4.8",
-            "episodes": 0,
-            "calidad": "HD",
-            "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "episodes": 12,
+            "status": "Finished Airing"
         },
         {
             "id_mal": "52967",
@@ -3225,5 +3224,5 @@
             "custom": true
         }
     ],
-    "lastUpdated": "2026-03-26T05:36:57.000Z"
+    "lastUpdated": "2026-03-26T08:30:55.000Z"
 }
