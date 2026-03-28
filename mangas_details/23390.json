@@ -57,15 +57,8 @@
                             "url": "https:\/\/cuty55.blogspot.com\/2025\/09\/blog-post.html?m=1#?o=5887733e62bca03b20b4a9196b684cef3c1bfe08da7cde305f10769d467026782a58fd0be6e5e36c765a0aaea98f083d80c755f17a2947f157842f4775c695763c860370e9941939d783be6aaa911e9e89144edff0a5398b",
                             "type": "zip",
                             "language": "Spanish"
-                        },
-                        {
-                            "server_id": 1,
-                            "group_id": 1,
-                            "name": "Drive",
-                            "url": "https:\/\/cuty55.blogspot.com\/2025\/09\/blog-post.html#?o=0d55f55e96fffaeb6ff36f50e7e47370da1b7b611d17b8deee744b22e57f877dd40a5cd3fd3394b8e0f6a0435b5e666b6e6f66aa456333e4dfce2c475c61fdff3e57a51cafbd2bf3b9dec076264e899babe6148da412cf7d",
-                            "type": "zip",
-                            "language": "Spanish"
                         }
+                        
                     ]
                 },
                 {
@@ -73,7 +66,16 @@
                     "start": "41",
                     "end": "70",
                     "title": "",
-                    "servers": []
+                    "servers": [
+                        {
+                            "server_id": 1,
+                            "group_id": 2,
+                            "name": "Drive",
+                            "url": "https:\/\/cuty55.blogspot.com\/2025\/09\/blog-post.html#?o=0d55f55e96fffaeb6ff36f50e7e47370da1b7b611d17b8deee744b22e57f877dd40a5cd3fd3394b8e0f6a0435b5e666b6e6f66aa456333e4dfce2c475c61fdff3e57a51cafbd2bf3b9dec076264e899babe6148da412cf7d",
+                            "type": "zip",
+                            "language": "Spanish"
+                        }
+                    ]
                 }
             ]
         }
