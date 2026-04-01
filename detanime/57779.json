@@ -1,0 +1,90 @@
+{
+    "id_mal": "57779",
+    "titulo": "Dorohedoro Season 2",
+    "titulo_original": "ドロヘドロ Season2",
+    "imagen": "https://myanimelist.net/images/anime/1603/155354.jpg",
+    "etiquetas": "Action, Comedy, Fantasy, Horror",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Second season of Dorohedoro.",
+    "score": " ",
+    "episodes": 3,
+    "duration": "Unknown",
+    "rating": "R - 17+ (violence & profanity)",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        "MAPPA"
+    ],
+    "producers": [],
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-01T12:07:33.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/657cad7c4bbd48aed499c6a239f05461",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/657cad7c4bbd48aed499c6a239f05461",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/343b2b8e58558a509c476525a6bea419",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/343b2b8e58558a509c476525a6bea419",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/598fab6239743c186cba39d2414f9ce6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/598fab6239743c186cba39d2414f9ce6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
