@@ -4834,21 +4834,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "26243",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/148979.jpg",
-            "titulo": "Owari no Seraph",
-            "titulo_original": "終わりのセラフ",
-            "year": "2015",
-            "etiquetas": "Action, Drama, Fantasy",
-            "type": "anime",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "created_at": "2015",
-            "updated_at": "2026-04-01T23:32:35.000Z",
-            "calidad": "HD",
-            "episodes": 12
-        },
-        {
             "id_mal": "28025",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/6\/68259.jpg",
             "titulo": "Tsukimonogatari",
@@ -5219,6 +5204,20 @@
             "score": "0.0",
             "status": " Finished Airing",
             "episodes": "1"
+        },
+        {
+            "id_mal": "26243",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/148979.jpg",
+            "titulo": "Owari no Seraph",
+            "titulo_original": "終わりのセラフ",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-04-02T13:41:32.000Z",
+            "year": "2015",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "episodes": "12"
         }
     ],
     "lastUpdated": "2026-04-01 11:33:35"
