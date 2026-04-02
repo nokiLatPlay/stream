@@ -1,0 +1,112 @@
+{
+    "id_mal": "28025",
+    "titulo": "Tsukimonogatari",
+    "titulo_original": "憑物語",
+    "imagen": "https://myanimelist.net/images/anime/6/68259.jpg",
+    "etiquetas": "Comedy, Mystery, Supernatural, Ecchi",
+    "year": "2014",
+    "type": "anime",
+    "synopsis": "Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.\n\nQuickly realizing what is wrong with him, Kagenui gives Araragi two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.\n\n[Written by MAL Rewrite]",
+    "score": "8.1",
+    "episodes": 4,
+    "duration": "26 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "source": "Light novel",
+    "status": "Finished Airing",
+    "studios": [
+        "Shaft"
+    ],
+    "producers": [
+        "Aniplex"
+    ],
+    "created_at": "2014",
+    "updated_at": "2026-04-01T23:32:52.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/46c2dec35b13ea84a35676708746cef7",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/46c2dec35b13ea84a35676708746cef7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/7fc50b59d8da492b790f526027da5a1c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/7fc50b59d8da492b790f526027da5a1c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/a17695f4231dc3926ca5eee0b1d1a141",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/a17695f4231dc3926ca5eee0b1d1a141",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/65c73db38b8f5877a3c55ba7090433d5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/65c73db38b8f5877a3c55ba7090433d5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
