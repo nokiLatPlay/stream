@@ -2,17 +2,17 @@
     "id_mal": "26243",
     "titulo": "Owari no Seraph",
     "titulo_original": "終わりのセラフ",
-    "imagen": "https://myanimelist.net/images/anime/1879/148979.jpg",
+    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/148979.jpg",
     "etiquetas": "Action, Drama, Fantasy",
     "year": "2015",
     "type": "anime",
-    "synopsis": "With the appearance of a mysterious virus that kills everyone above the age of 13, mankind becomes enslaved by previously hidden, power-hungry vampires who emerge in order to subjugate society with the promise of protecting the survivors, in exchange for donations of their blood.\n\nAmong these survivors are Yuuichirou and Mikaela Hyakuya, two young boys who are taken captive from an orphanage, along with other children whom they consider family. Discontent with being treated like livestock under the vampires' cruel reign, Mikaela hatches a rebellious escape plan that is ultimately doomed to fail. The only survivor to come out on the other side is Yuuichirou, who is found by the Moon Demon Company, a military unit dedicated to exterminating the vampires in Japan.\n\nMany years later, now a member of the Japanese Imperial Demon Army, Yuuichirou is determined to take revenge on the creatures that slaughtered his family, but at what cost?\n\n[Written by MAL Rewrite]",
+    "synopsis": "With the appearance of a mysterious virus that kills everyone above the age of 13, mankind becomes enslaved by previously hidden, power-hungry vampires who emerge in order to subjugate society with the promise of protecting the survivors, in exchange for donations of their blood.\r\n\r\nAmong these survivors are Yuuichirou and Mikaela Hyakuya, two young boys who are taken captive from an orphanage, along with other children whom they consider family. Discontent with being treated like livestock under the vampires' cruel reign, Mikaela hatches a rebellious escape plan that is ultimately doomed to fail. The only survivor to come out on the other side is Yuuichirou, who is found by the Moon Demon Company, a military unit dedicated to exterminating the vampires in Japan.\r\n\r\nMany years later, now a member of the Japanese Imperial Demon Army, Yuuichirou is determined to take revenge on the creatures that slaughtered his family, but at what cost?\r\n\r\n[Written by MAL Rewrite]",
     "score": "7.5",
-    "episodes": 12,
-    "duration": "23 min per ep",
-    "rating": "R - 17+ (violence & profanity)",
-    "source": "Manga",
+    "episodes": "12",
     "status": "Finished Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Manga",
     "studios": [
         "Wit Studio"
     ],
@@ -21,8 +21,11 @@
         "NBCUniversal Entertainment Japan",
         "Shueisha"
     ],
-    "created_at": "2015",
-    "updated_at": "2026-04-01T23:32:35.000Z",
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
+    "created_at": "2026-04-02",
+    "updated_at": "2026-04-02T12:48:51.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -32,19 +35,19 @@
                     "episode_id": "01",
                     "numero": 1,
                     "nombre": "Episodio 1",
-                    "portada": "",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8kBWeFGVx93RVcl5EK4uCln3qtk.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/9d1a341603d591f0468ca9ec158e0e74",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9d1a341603d591f0468ca9ec158e0e74"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/9d1a341603d591f0468ca9ec158e0e74",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9d1a341603d591f0468ca9ec158e0e74"
                         }
                     ]
                 },
@@ -56,15 +59,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/9984135bcc7b1d07c86e8e7b5b917c58",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9984135bcc7b1d07c86e8e7b5b917c58"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/9984135bcc7b1d07c86e8e7b5b917c58",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9984135bcc7b1d07c86e8e7b5b917c58"
                         }
                     ]
                 },
@@ -76,15 +79,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/87d373db97f7c3345019ed6b6edc7b69",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/87d373db97f7c3345019ed6b6edc7b69"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/87d373db97f7c3345019ed6b6edc7b69",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/87d373db97f7c3345019ed6b6edc7b69"
                         }
                     ]
                 },
@@ -96,15 +99,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/37bdbaf3e2d046b37a67e7f3264744cf",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/37bdbaf3e2d046b37a67e7f3264744cf"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/37bdbaf3e2d046b37a67e7f3264744cf",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/37bdbaf3e2d046b37a67e7f3264744cf"
                         }
                     ]
                 },
@@ -116,15 +119,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/7971c2c6b9185f55de52d14934c90169",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7971c2c6b9185f55de52d14934c90169"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7971c2c6b9185f55de52d14934c90169",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7971c2c6b9185f55de52d14934c90169"
                         }
                     ]
                 },
@@ -136,15 +139,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/ec3deddd88b25141fe811d8cf908d6f8",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ec3deddd88b25141fe811d8cf908d6f8"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/ec3deddd88b25141fe811d8cf908d6f8",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ec3deddd88b25141fe811d8cf908d6f8"
                         }
                     ]
                 },
@@ -156,15 +159,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/712954f2f00d40b0eff2fc011271f32a",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/712954f2f00d40b0eff2fc011271f32a"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/712954f2f00d40b0eff2fc011271f32a",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/712954f2f00d40b0eff2fc011271f32a"
                         }
                     ]
                 },
@@ -176,15 +179,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/d5128a16881bb3be79256b8024106e18",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d5128a16881bb3be79256b8024106e18"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d5128a16881bb3be79256b8024106e18",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d5128a16881bb3be79256b8024106e18"
                         }
                     ]
                 },
@@ -196,15 +199,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/1ef0c2581ce16d6f372fea1f7f704b6b",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1ef0c2581ce16d6f372fea1f7f704b6b"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/1ef0c2581ce16d6f372fea1f7f704b6b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1ef0c2581ce16d6f372fea1f7f704b6b"
                         }
                     ]
                 },
@@ -216,15 +219,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/77613b24a1fb73543feaf8c1124ad610",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/77613b24a1fb73543feaf8c1124ad610"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/77613b24a1fb73543feaf8c1124ad610",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/77613b24a1fb73543feaf8c1124ad610"
                         }
                     ]
                 },
@@ -236,15 +239,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/b4265763e29edb989e4a1af93bde1c3b",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b4265763e29edb989e4a1af93bde1c3b"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b4265763e29edb989e4a1af93bde1c3b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b4265763e29edb989e4a1af93bde1c3b"
                         }
                     ]
                 },
@@ -256,15 +259,15 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/499b08ec97858fb0b902faec6d468304",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/499b08ec97858fb0b902faec6d468304"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/499b08ec97858fb0b902faec6d468304",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/499b08ec97858fb0b902faec6d468304"
                         }
                     ]
                 }
