@@ -2,21 +2,24 @@
     "id_mal": "3272E",
     "titulo": "Hellsing",
     "titulo_original": " ",
-    "imagen": " ",
-    "etiquetas": " ",
-    "year": " ",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2fu1VDi6d4TMXzxjKxpYnsPUffR.jpg",
+    "etiquetas": " Action,Adventure, Animación, Misterio, Sci-Fi, Fantasy",
+    "year": " 2001",
     "type": "anime",
-    "synopsis": " ",
-    "score": " ",
-    "episodes": 13,
-    "duration": " ",
-    "rating": " ",
+    "synopsis": " Hellsing relata los esfuerzos de los misteriosos y secretos Caballeros Protestantes Reales, \"Hellsing\" y sus combates con vampiros, ghouls y otros enemigos sobrenaturales que amenazan al reino de Inglaterra.",
+    "score": "0.0",
+    "episodes": "13",
+    "status": "Finished Airing",
+    "duration": " 23 min",
+    "rating": "",
     "source": " ",
-    "status": " ",
     "studios": [],
     "producers": [],
-    "created_at": " ",
-    "updated_at": "2026-04-01T23:21:24.000Z",
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
+    "created_at": "2026-04-02",
+    "updated_at": "2026-04-02T12:14:55.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -27,416 +30,91 @@
                     "numero": 1,
                     "nombre": "Episodio 1",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/5a814faf4c66eb1da6e934a615573c0a",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/5a814faf4c66eb1da6e934a615573c0a",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/bb03a82e581729762a6329176c219257",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/bb03a82e581729762a6329176c219257",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
                     "nombre": "Episodio 2",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/e7edcba28dcd322e9e987ac072d28c92",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/e7edcba28dcd322e9e987ac072d28c92",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/a4040efb80fb2f79b919445360f55434",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/a4040efb80fb2f79b919445360f55434",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
                     "nombre": "Episodio 3",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0c1094d9cf522549754939ea7d045ca0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0c1094d9cf522549754939ea7d045ca0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/1faf2786280ad5d2fb8543244259b9cc",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1faf2786280ad5d2fb8543244259b9cc",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
                     "nombre": "Episodio 4",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/b2493e4792b3f0d266467514dd3d2b24",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b2493e4792b3f0d266467514dd3d2b24",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/ab087b912421de1febf12cc109fae542",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ab087b912421de1febf12cc109fae542",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "05",
                     "numero": 5,
                     "nombre": "Episodio 5",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/3e0bb35a16265fa2d2d1088bff6a725e",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/3e0bb35a16265fa2d2d1088bff6a725e",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/7da9ea41fe63302e20f4e25f37be2122",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/7da9ea41fe63302e20f4e25f37be2122",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "06",
                     "numero": 6,
                     "nombre": "Episodio 6",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/db869a33c93efa5ec18b23bd42223d79",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/db869a33c93efa5ec18b23bd42223d79",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/ccbe9d1d0928354552b2e1b71f5b97a4",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ccbe9d1d0928354552b2e1b71f5b97a4",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "07",
                     "numero": 7,
                     "nombre": "Episodio 7",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/29ba1e1381401e1833b939fed42ef946",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/29ba1e1381401e1833b939fed42ef946",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/8207853e5e81a75926569b3d57225a51",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/8207853e5e81a75926569b3d57225a51",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "08",
                     "numero": 8,
                     "nombre": "Episodio 8",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/843448115a53adf15b3c7733db75350a",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/843448115a53adf15b3c7733db75350a",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/a5986a1fd03b037c326a51fbeabea25b",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/a5986a1fd03b037c326a51fbeabea25b",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "09",
                     "numero": 9,
                     "nombre": "Episodio 9",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/7b22f9474bc796e654d40113473b3713",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7b22f9474bc796e654d40113473b3713",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/854e36e480761951117e5c030a0a255f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/854e36e480761951117e5c030a0a255f",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "10",
                     "numero": 10,
                     "nombre": "Episodio 10",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/d7d1b8046f7e53cc083ca9c27f2e53b1",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d7d1b8046f7e53cc083ca9c27f2e53b1",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/4448a0725c408b5af49fd5b35641d451",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/4448a0725c408b5af49fd5b35641d451",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "11",
                     "numero": 11,
                     "nombre": "Episodio 11",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/12601bf97765133cc085017a35c29625",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/12601bf97765133cc085017a35c29625",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/7291f69a5e2d44bacef1e267f700e007",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/7291f69a5e2d44bacef1e267f700e007",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "12",
                     "numero": 12,
                     "nombre": "Episodio 12",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/15e107ff7f7907c69fa628e2de9738d5",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/15e107ff7f7907c69fa628e2de9738d5",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/98198674a88308985bd4b4505d2bdbc2",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/98198674a88308985bd4b4505d2bdbc2",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 },
                 {
                     "episode_id": "13",
                     "numero": 13,
                     "nombre": "Episodio 13",
                     "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/85c18de39e9eef00568a32aa15819df1",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/85c18de39e9eef00568a32aa15819df1",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/f0da14344041e0df84506376407d5d24",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/f0da14344041e0df84506376407d5d24",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
+                    "enlaces": []
                 }
             ]
         }
