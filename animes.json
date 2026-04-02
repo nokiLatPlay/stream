@@ -4549,21 +4549,6 @@
             "episodes": 30
         },
         {
-            "id_mal": "F8EBD",
-            "imagen": " ",
-            "titulo": "Blood: The Last Vampire",
-            "titulo_original": " ",
-            "year": " ",
-            "etiquetas": " ",
-            "type": "anime",
-            "score": " ",
-            "status": " ",
-            "created_at": " ",
-            "updated_at": "2026-04-01T23:21:43.000Z",
-            "calidad": "HD",
-            "episodes": 1
-        },
-        {
             "id_mal": "2993",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/75242.jpg",
             "titulo": "Rosario to Vampire",
@@ -5220,6 +5205,20 @@
             "score": "0.0",
             "status": " Finished Airing",
             "episodes": "10"
+        },
+        {
+            "id_mal": "F8EBD",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zG4woL5SKyjKUrRq5GIjkyJlaBe.jpg",
+            "titulo": "Blood: The Last Vampire",
+            "titulo_original": " ",
+            "etiquetas": " Animación, Fantasía, Terror",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-04-02T12:21:06.000Z",
+            "year": " 2000",
+            "score": "0.0",
+            "status": " Finished Airing",
+            "episodes": "1"
         }
     ],
     "lastUpdated": "2026-04-01 11:33:35"
