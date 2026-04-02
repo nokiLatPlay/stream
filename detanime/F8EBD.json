@@ -1,0 +1,48 @@
+{
+    "id_mal": "F8EBD",
+    "titulo": "Blood: The Last Vampire",
+    "titulo_original": " ",
+    "imagen": " ",
+    "etiquetas": " ",
+    "year": " ",
+    "type": "anime",
+    "synopsis": " ",
+    "score": " ",
+    "episodes": 1,
+    "duration": " ",
+    "rating": " ",
+    "source": " ",
+    "status": " ",
+    "studios": [],
+    "producers": [],
+    "created_at": " ",
+    "updated_at": "2026-04-01T23:21:43.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/1c5b6ae584570357eb26e0a96e43f748",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/1c5b6ae584570357eb26e0a96e43f748",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
