@@ -4653,21 +4653,6 @@
             "episodes": 12
         },
         {
-            "id_mal": "31757",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1981\/112812.jpg",
-            "titulo": "Kizumonogatari II: Nekketsu-hen",
-            "titulo_original": "傷物語〈Ⅱ熱血篇〉",
-            "year": "2016",
-            "etiquetas": "Action, Mystery, Supernatural",
-            "type": "movie",
-            "score": "8.6",
-            "status": "Finished Airing",
-            "created_at": "2016",
-            "updated_at": "2026-04-01T23:27:54.000Z",
-            "calidad": "HD",
-            "episodes": 1
-        },
-        {
             "id_mal": "32668",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/78406.jpg",
             "titulo": "Noblesse: Awakening",
@@ -5231,7 +5216,22 @@
             "episodes": 1,
             "status": "",
             "calidad": "HD"
+        },
+        {
+            "id_mal": "31757",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1981\/112812.jpg",
+            "titulo": "Kizumonogatari II: Nekketsu-hen",
+            "titulo_original": "傷物語〈Ⅱ熱血篇〉",
+            "etiquetas": "Action, Mystery, Supernatural",
+            "type": "movie",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-04-03T02:00:23.000Z",
+            "year": "2016",
+            "score": "8.6",
+            "episodes": 1,
+            "status": "",
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-04-03T01:48:46.000Z"
+    "lastUpdated": "2026-04-03T02:00:23.000Z"
 }
