@@ -5116,20 +5116,6 @@
             "episodes": "10"
         },
         {
-            "id_mal": "405",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zG4woL5SKyjKUrRq5GIjkyJlaBe.jpg",
-            "titulo": "Blood: The Last Vampire",
-            "titulo_original": "BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)",
-            "etiquetas": "Award Winning, Horror, Supernatural",
-            "type": "movie",
-            "created_at": "2026-04-02",
-            "updated_at": "2026-04-02T12:21:06.000Z",
-            "year": " 2000",
-            "score": "6.8",
-            "status": " Finished Airing",
-            "episodes": "1"
-        },
-        {
             "id_mal": "26243",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/148979.jpg",
             "titulo": "Owari no Seraph",
@@ -5231,7 +5217,22 @@
             "episodes": 1,
             "status": "",
             "calidad": "HD"
+        },
+        {
+            "id_mal": "405",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zG4woL5SKyjKUrRq5GIjkyJlaBe.jpg",
+            "titulo": "Blood: The Last Vampire",
+            "titulo_original": "BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)",
+            "etiquetas": "Award Winning, Horror, Supernatural",
+            "type": "movie",
+            "created_at": "2008-11-18",
+            "updated_at": "2026-04-03T02:37:05.000Z",
+            "year": " 2000",
+            "score": "6.8",
+            "episodes": 1,
+            "status": "",
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-04-03T02:35:50.000Z"
+    "lastUpdated": "2026-04-03T02:37:05.000Z"
 }
