@@ -4593,21 +4593,6 @@
             "episodes": 11
         },
         {
-            "id_mal": "10681",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1159\/94216.jpg",
-            "titulo": "Blood-C: The Last Dark",
-            "titulo_original": "劇場版 ブラッドシー ザ ラスト ダーク",
-            "year": "2012",
-            "etiquetas": "Action, Horror, Supernatural",
-            "type": "movie",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2012",
-            "updated_at": "2026-04-01T23:25:01.000Z",
-            "calidad": "HD",
-            "episodes": 1
-        },
-        {
             "id_mal": "10490",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1691\/140716.jpg",
             "titulo": "Blood-C",
@@ -5231,7 +5216,22 @@
             "episodes": 1,
             "status": "",
             "calidad": "HD"
+        },
+        {
+            "id_mal": "10681",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1159\/94216.jpg",
+            "titulo": "Blood-C: The Last Dark",
+            "titulo_original": "劇場版 ブラッドシー ザ ラスト ダーク",
+            "etiquetas": "Action, Horror, Supernatural",
+            "type": "movie",
+            "created_at": "2002-06-02",
+            "updated_at": "2026-04-03T01:46:14.000Z",
+            "year": "2012",
+            "score": "7.2",
+            "episodes": 1,
+            "status": "",
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-04-03T01:44:10.000Z"
+    "lastUpdated": "2026-04-03T01:46:14.000Z"
 }
