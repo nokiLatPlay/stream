@@ -225,22 +225,6 @@
             "ts": 1774425820
         },
         {
-            "id_mal": "37765",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1195\/115685l.jpg",
-            "titulo": "Kidou Senshi Gundam: Senkou no Hathaway",
-            "titulo_original": "機動戦士ガンダム 閃光のハサウェイ",
-            "year": "2021",
-            "etiquetas": "Drama, Sci-Fi",
-            "type": "movie",
-            "score": "7.8",
-            "status": "",
-            "calidad": "HD",
-            "episodes": 0,
-            "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
-        },
-        {
             "id_mal": "38000",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1286\/99889l.jpg",
             "titulo": "Kimetsu no Yaiba",
@@ -5232,7 +5216,22 @@
             "episodes": 1,
             "status": "",
             "calidad": "HD"
+        },
+        {
+            "id_mal": "37765",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1195\/115685l.jpg",
+            "titulo": "Kidou Senshi Gundam: Senkou no Hathaway",
+            "titulo_original": "機動戦士ガンダム 閃光のハサウェイ",
+            "etiquetas": "Drama, Sci-Fi",
+            "type": "movie",
+            "created_at": "2011-06-11",
+            "updated_at": "2026-04-03T02:44:02.000Z",
+            "year": "2021",
+            "score": "7.8",
+            "episodes": 1,
+            "status": "",
+            "calidad": "HD"
         }
     ],
-    "lastUpdated": "2026-04-03T02:37:05.000Z"
+    "lastUpdated": "2026-04-03T02:44:02.000Z"
 }
