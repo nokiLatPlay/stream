@@ -3,36 +3,41 @@
     "titulo": "Blood: The Last Vampire",
     "titulo_original": "BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zG4woL5SKyjKUrRq5GIjkyJlaBe.jpg",
-    "etiquetas": "Award Winning, Horror, Gore, Vampire",
+    "etiquetas": "Award Winning, Horror, Supernatural",
     "year": " 2000",
+    "created_at": "2008-11-18",
+    "updated_at": "2026-04-03T02:37:05.000Z",
     "type": "movie",
+    "calidad": "HD",
     "synopsis": "Una nueva raza de vampiros ha surgido de la oscuridad. Están entre nosotros, acechando, sedientos de sangre en busca de nuevas víctimas. Una guerra silenciosa entre vampiros y humanos ha estallado. Una organización secreta ha sido designada para limpiar el mundo de esta amenaza. Entre sus mejores agentes se encuentra una misteriosa muchacha llamada Saya, cuyo carácter frío y calculador la convierten en la mejor cazadora de vampiros.",
-    "score": "6.9",
-    "episodes": "1",
-    "status": " Finished Airing",
+    "score": "6.8",
     "duration": " 48 min",
     "rating": "R+ - Mild Nudity",
     "source": "Original",
-    "studios": ["Production I.G"],
-    "producers": ["Aniplex", "Sony Interactive Entertainment", "Information-technology Promotion Agency"],
+    "studios": [
+        "Production I.G"
+    ],
+    "producers": [
+        "Aniplex",
+        "Sony Interactive Entertainment",
+        "Information-technology Promotion Agency"
+    ],
     "aired_from": "",
     "aired_to": "",
     "aired_string": "",
-    "created_at": "2026-04-02",
-    "updated_at": "2026-04-02T13:02:38.000Z",
-    "player_base": [],    
+    "player_base": [],
     "enlaces": [
-                        {
-                            "nombre": "Ver Online",
-                            "type": "mp4",
-                            "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1c5b6ae584570357eb26e0a96e43f748"
-                        },
-                        {
-                            "nombre": "Enlace",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/1c5b6ae584570357eb26e0a96e43f748"
-                        }
-                    ]
+        {
+            "nombre": "Ver Online",
+            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1c5b6ae584570357eb26e0a96e43f748",
+            "type": "mp4",
+            "language": "Sub"
+        },
+        {
+            "nombre": "Enlace",
+            "url": "https:\/\/player.zilla-networks.com\/play\/1c5b6ae584570357eb26e0a96e43f748",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
 }
