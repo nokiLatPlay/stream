@@ -1,0 +1,90 @@
+{
+    "id_mal": "54565",
+    "titulo": "Tensei shitara Slime Datta Ken: Coleus no Yume",
+    "titulo_original": "転生したらスライムだった件 コリウスの夢",
+    "imagen": "https://myanimelist.net/images/anime/1570/135813.jpg",
+    "etiquetas": "Action, Adventure, Comedy, Fantasy",
+    "year": "2023",
+    "type": "anime",
+    "synopsis": "The story takes place between the first and second season, where Rimuru confronts the swirling conspiracies in the Coleus kingdom.\n\n(Source: MAL News)",
+    "score": "7.6",
+    "episodes": 3,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        "8bit"
+    ],
+    "producers": [],
+    "created_at": "2023",
+    "updated_at": "2026-04-04T06:36:30.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/3216f1b11ba4f5208dd85c8119e17037",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/3216f1b11ba4f5208dd85c8119e17037",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/901dd457ed202b8074a9dce9fcf74a53",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/901dd457ed202b8074a9dce9fcf74a53",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/4a388d73f578ac48d23317a6ecf19c74",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/4a388d73f578ac48d23317a6ecf19c74",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
