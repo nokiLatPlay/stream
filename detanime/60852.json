@@ -1,0 +1,68 @@
+{
+    "id_mal": "60852",
+    "titulo": "Koori no Jouheki",
+    "titulo_original": "氷の城壁",
+    "imagen": "https://myanimelist.net/images/anime/1565/154933.jpg",
+    "etiquetas": "Comedy, Romance",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
+    "score": "7.6",
+    "episodes": 1,
+    "duration": "23 min",
+    "rating": null,
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Studio KAI"
+    ],
+    "producers": [
+        "TBS",
+        "Rakuonsha",
+        "Universal Music Japan",
+        "Nichion",
+        "ADK Emotions"
+    ],
+    "created_at": "2026",
+    "updated_at": "2026-04-04T06:25:43.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/6b47f5d64b7feff7917260583318be1c",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/6b47f5d64b7feff7917260583318be1c",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/3e84ad86fbfd42a255e41a16785006a1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/3e84ad86fbfd42a255e41a16785006a1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
