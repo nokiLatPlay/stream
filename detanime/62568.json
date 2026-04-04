@@ -1,0 +1,66 @@
+{
+    "id_mal": "62568",
+    "titulo": "Dr. Stone: Science Future Part 3",
+    "titulo_original": "Dr.STONE SCIENCE FUTURE 第3クール",
+    "imagen": "https://myanimelist.net/images/anime/1773/155779.jpg",
+    "etiquetas": "Adventure, Comedy",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Third part of Dr. Stone: Science Future.",
+    "score": "8.3",
+    "episodes": 1,
+    "duration": "24 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        "TMS Entertainment"
+    ],
+    "producers": [
+        "Magic Capsule",
+        "TOHO animation",
+        "Shueisha"
+    ],
+    "created_at": "2026",
+    "updated_at": "2026-04-04T06:25:54.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/1a0a7afc2bab42baffad855e4087f11b",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/1a0a7afc2bab42baffad855e4087f11b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/bd3e1b66beb897f4342dc0aa67c99ced",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/bd3e1b66beb897f4342dc0aa67c99ced",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
