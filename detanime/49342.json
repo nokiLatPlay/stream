@@ -1,0 +1,99 @@
+{
+    "id_mal": "49342",
+    "anime_id": "2345",
+    "titulo": "Shin Ikkitousen",
+    "titulo_original": "真・一騎当千",
+    "imagen": "https://myanimelist.net/images/anime/1248/122517.jpg",
+    "etiquetas": "Action, Ecchi",
+    "year": "2022",
+    "type": "anime",
+    "synopsis": "The reincarnation of Himiko, the former queen of Yamatai, has decided to wage war against all magatama wielders of Kanto. In order to recover her lost kingdom, she must gather the true Three Sacred Treasures of Japan.\n\nWhen Himiko's ally, Asaemon Yamada, ruthlessly attacks Nanyou Academy—which possesses the sacred sword Himiko is after—Chuubou Sonken, Hakufu Sonsaku's newfound sister, awakens her dragon but loses consciousness. Determined to save her sibling, Hakufu must recover her magatama at the Jofuku Temple—a legendary place where she will receive training that may cost her her life.\n\nAs the frontier between the living and the dead starts to vanish in Jofuku, the warriors of the Kanto region will have to unite in order to foil Himiko's mysterious plans.\n\n[Written by MAL Rewrite]",
+    "score": "5.9",
+    "episodes": 3,
+    "duration": "26 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "source": "Manga",
+    "status": "Finished Airing",
+    "studios": [
+        "Arms"
+    ],
+    "producers": [
+        "Genco",
+        "AT-X",
+        "Bushiroad",
+        "Shounen Gahousha",
+        "Daiichi Shokai",
+        "Kadokawa",
+        "Studio Signpost"
+    ],
+    "created_at": "2022-17-5",
+    "updated_at": "2026-04-05T00:51:43.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/2345/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/5534100ba22b406efa399173d2499a54",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/5534100ba22b406efa399173d2499a54",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/2345/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/1d9b70e835064824a35ec338ec85fac7",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/1d9b70e835064824a35ec338ec85fac7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/2345/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/a8a56fbe5432216e496fce2c28a9573d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/a8a56fbe5432216e496fce2c28a9573d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
