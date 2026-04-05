@@ -1,0 +1,16 @@
+{
+    "total_items": 450,
+    "total_pages": 3,
+    "items_per_page": 200,
+    "pages": [
+        {
+            "page_number": 1,
+            "path": "page/animes_page_1.json",
+            "item_count": 200,
+            "first_item_id": "12345",
+            "last_item_id": "12346"
+        },
+    
+    ],
+    "last_updated": "2024-01-15T10:30:00.000Z"
+}
