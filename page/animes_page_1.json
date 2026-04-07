@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 376,
+    "total_items": 377,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "62331",
+            "imagen": "https://myanimelist.net/images/anime/1607/156078.jpg",
+            "titulo": "Liar Game",
+            "titulo_original": "LIAR GAME",
+            "year": "2026",
+            "etiquetas": "Drama, Suspense",
+            "type": "anime",
+            "score": " ",
+            "status": "Not yet aired",
+            "created_at": "2026-7-4",
+            "updated_at": "2026-04-06T23:46:32.000Z",
+            "episodes": 1
+        },
         {
             "id_mal": "62927",
             "imagen": "https://myanimelist.net/images/anime/1381/153536.jpg",
@@ -2870,21 +2884,6 @@
             "created_at": "2025-04-04",
             "updated_at": "2026-03-26T04:48:21.000Z",
             "ts": 1774500501
-        },
-        {
-            "id_mal": "59819",
-            "imagen": "https://myanimelist.net/images/anime/1538/147930l.jpg",
-            "titulo": "Bye Bye, Earth 2nd Season",
-            "titulo_original": "ばいばい、アース 第2シーズン",
-            "year": "2025",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "episodes": 10,
-            "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:17.000Z",
-            "ts": 1774500497
         }
     ]
 }
