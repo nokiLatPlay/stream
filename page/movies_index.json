@@ -1,12 +1,12 @@
 {
-    "total_items": 10,
+    "total_items": 20,
     "total_pages": 1,
     "items_per_page": 200,
     "pages": [
         {
             "page_number": 1,
             "path": "page\/movies_page_1.json",
-            "item_count": 10,
+            "item_count": 20,
             "first_item_id": "33783",
             "last_item_id": "33783"
         }
