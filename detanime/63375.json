@@ -1,0 +1,67 @@
+{
+    "id_mal": "63375",
+    "anime_id": "3938",
+    "titulo": "Nippon Sangoku",
+    "titulo_original": "日本三國",
+    "imagen": "https://myanimelist.net/images/anime/1623/156387.jpg",
+    "etiquetas": "Drama",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.\n\nThe country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the others in a desperate attempt for total control over the remnants of Japanese land.\n\nAoteru Misumi is a low-ranking official who has stayed in the background for most of his life. He does not come from a prestigious military background or aristocracy, but Misumi has a strong ambition: to end the pointless bloodshed that afflicts the nation. He seeks to unify the fractured country, armed only with sharp insight and a persuasive voice that can rally the people.\n\nThe legend of the man who will become a brilliant military strategist starts now.\n\n(Source: MAL News)",
+    "score": "8.1",
+    "episodes": 1,
+    "duration": "24 min",
+    "rating": null,
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Studio Kafka"
+    ],
+    "producers": [
+        "Sound Team Don Juan",
+        "Twin Engine",
+        "Amazon MGM Studios"
+    ],
+    "created_at": "2026-5-4",
+    "updated_at": "2026-04-06T23:52:45.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3938/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/ff6631f8e31f9ad6a635974e60f11e08",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/ff6631f8e31f9ad6a635974e60f11e08",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/dbb417fbab82a3415b98bd2c5c0e5aee",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/dbb417fbab82a3415b98bd2c5c0e5aee",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
