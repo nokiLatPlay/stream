@@ -1,0 +1,54 @@
+{
+    "id_mal": "58877",
+    "anime_id": "3936",
+    "titulo": "Diamond no Ace: Act II Second Season",
+    "titulo_original": "ダイヤのA actⅡ Second Season",
+    "imagen": "https://myanimelist.net/images/anime/1594/154245.jpg",
+    "etiquetas": "Sports",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Sequel to Diamond no Ace: Act II.",
+    "score": "7.7",
+    "episodes": 1,
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        "OLM"
+    ],
+    "producers": [
+        "Kodansha",
+        "DAX Production"
+    ],
+    "created_at": "2026-5-4",
+    "updated_at": "2026-04-06T23:53:27.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3936/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/12a9eeec4d91a68c5c4cc6dfe41ffeb2",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/12a9eeec4d91a68c5c4cc6dfe41ffeb2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
