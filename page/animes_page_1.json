@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 377,
+    "total_items": 378,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "63375",
+            "imagen": "https://myanimelist.net/images/anime/1623/156387.jpg",
+            "titulo": "Nippon Sangoku",
+            "titulo_original": "日本三國",
+            "year": "2026",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "score": "8.1",
+            "status": "Currently Airing",
+            "created_at": "2026-5-4",
+            "updated_at": "2026-04-06T23:52:45.000Z",
+            "episodes": 1
+        },
         {
             "id_mal": "63310",
             "imagen": "https://myanimelist.net/images/anime/1373/155741.jpg",
@@ -2869,21 +2883,6 @@
             "created_at": "2025-04-04",
             "updated_at": "2026-03-26T04:49:35.000Z",
             "ts": 1774500575
-        },
-        {
-            "id_mal": "60377",
-            "imagen": "https://myanimelist.net/images/anime/1118/149222l.jpg",
-            "titulo": "Nazotoki wa Dinner no Ato de",
-            "titulo_original": "謎解きはディナーのあとで",
-            "year": "2025",
-            "etiquetas": "Comedy, Mystery",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:21.000Z",
-            "ts": 1774500501
         }
     ]
 }
