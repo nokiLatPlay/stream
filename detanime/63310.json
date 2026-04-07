@@ -1,0 +1,55 @@
+{
+    "id_mal": "63310",
+    "anime_id": "3940",
+    "titulo": "Ingoku Danchi",
+    "titulo_original": "インゴクダンチ",
+    "imagen": "https://myanimelist.net/images/anime/1373/155741.jpg",
+    "etiquetas": "Comedy, Supernatural, Erotica",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Yoshida is a tiny, frail high school graduate who became an unwilling manager of an apartment complex when his father, the former manager, injured himself. Unbeknownst to him, this apartment complex houses quite a few women with very... unusual sexual preferences. This becomes a problem when a mysterious entity begins giving \"Libido Cloth\" to these women—skimpy outfits that give them superpowers and cause them to go on lewd rampages! Will Yoshida be able to stop them?\n\n(Source: MU)",
+    "score": "5.6",
+    "episodes": 1,
+    "duration": "3 min per ep",
+    "rating": null,
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Elias"
+    ],
+    "producers": [
+        "Studio Mausu",
+        "WWWave",
+        "Deregula"
+    ],
+    "created_at": "2026-6-4",
+    "updated_at": "2026-04-06T23:47:10.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3940/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/d230b34b3cad096ef17984f14d7d578a",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/d230b34b3cad096ef17984f14d7d578a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
