@@ -1,0 +1,54 @@
+{
+    "id_mal": "53732",
+    "anime_id": "3954",
+    "titulo": "Hidarikiki no Eren",
+    "titulo_original": "左ききのエレン",
+    "imagen": "https://myanimelist.net/images/anime/1015/156388.jpg",
+    "etiquetas": "Drama",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "The story follows Koichi Asakura, a designer for an ad agency who works hard but receives no recognition. After being dropped from a project, he visits a place from his past, where he met Eren Yamagishi. Eren, meanwhile, is recognized as a genius left-handed graffiti artist in New York, while enduring the struggles that come from her own path in life.\n\n(Source: Crunchyroll)",
+    "score": " ",
+    "episodes": 1,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Web manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Production I.G",
+        "Signal.MD"
+    ],
+    "producers": [
+        "GAGA"
+    ],
+    "created_at": "2026-8-4",
+    "updated_at": "2026-04-07T14:53:29.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3954/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/7bf90b9ace335e7c48313234bd6b6edb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/7bf90b9ace335e7c48313234bd6b6edb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
