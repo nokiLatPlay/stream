@@ -1,13 +1,100 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 379,
+    "total_items": 380,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "63014",
+            "imagen": "https://myanimelist.net/images/anime/1199/156106.jpg",
+            "titulo": "Tadaima, Ojamasaremasu!",
+            "titulo_original": "ただいま、おじゃまされます！",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "score": " ",
+            "status": "Not yet aired",
+            "created_at": "2026-8-4",
+            "updated_at": "2026-04-07T15:43:16.000Z",
+            "episodes": 1
+        },
+        {
+            "id_mal": "62146",
+            "imagen": "https://myanimelist.net/images/anime/1656/156369l.jpg",
+            "titulo": "Isekai Nonbiri Nouka 2",
+            "titulo_original": "異世界のんびり農家2",
+            "etiquetas": "Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-04-06T22:34:33.000Z",
+            "year": "2026",
+            "score": "",
+            "status": "Not yet aired",
+            "episodes": "0"
+        },
+        {
+            "id_mal": "61687",
+            "imagen": "https://myanimelist.net/images/anime/1769/153376.jpg",
+            "titulo": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "titulo_original": "自称悪役令嬢な婚約者の観察記録。",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy, Romance",
+            "type": "anime",
+            "score": " ",
+            "status": "Not yet aired",
+            "created_at": "2026",
+            "updated_at": "2026-04-04T06:24:01.000Z",
+            "episodes": 1
+        },
+        {
+            "id_mal": "62512",
+            "imagen": "https://myanimelist.net/images/anime/1153/156029.jpg",
+            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "score": "Currently Airing",
+            "status": "Not yet aired",
+            "episodes": 1,
+            "created_at": "2026-04-01",
+            "updated_at": "2026-04-01T12:07:14.000Z",
+            "ts": 1775045234
+        },
+        {
+            "id_mal": "59708",
+            "imagen": "https://myanimelist.net/images/anime/1176/153626.jpg",
+            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+            "titulo_original": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+            "year": "2026",
+            "etiquetas": "Drama, Suspense",
+            "type": "anime",
+            "score": "Currently Airing",
+            "status": "Not yet aired",
+            "episodes": 4,
+            "created_at": "2026-04-01",
+            "updated_at": "2026-04-01T12:07:01.000Z",
+            "ts": 1775045221
+        },
+        {
+            "id_mal": "62825",
+            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
+            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+            "year": "2026",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": " ",
+            "status": "Not yet aired",
+            "episodes": 1,
+            "created_at": "2026-04-04",
+            "updated_at": "2026-04-01T01:36:08.000Z",
+            "ts": 1775007368
+        },
         {
             "id_mal": "63376",
             "imagen": "https://myanimelist.net/images/anime/1871/156005.jpg",
@@ -78,20 +165,6 @@
             "created_at": "2026-6-4",
             "updated_at": "2026-04-06T23:27:12.000Z",
             "episodes": 2
-        },
-        {
-            "id_mal": "62146",
-            "imagen": "https://myanimelist.net/images/anime/1656/156369l.jpg",
-            "titulo": "Isekai Nonbiri Nouka 2",
-            "titulo_original": "異世界のんびり農家2",
-            "etiquetas": "Fantasy, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-04-06T22:34:33.000Z",
-            "year": "2026",
-            "score": "",
-            "status": "Not yet aired",
-            "episodes": "0"
         },
         {
             "id_mal": "62048",
@@ -1746,20 +1819,6 @@
             "episodes": 1
         },
         {
-            "id_mal": "61687",
-            "imagen": "https://myanimelist.net/images/anime/1769/153376.jpg",
-            "titulo": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-            "titulo_original": "自称悪役令嬢な婚約者の観察記録。",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "anime",
-            "score": " ",
-            "status": "Not yet aired",
-            "created_at": "2026",
-            "updated_at": "2026-04-04T06:24:01.000Z",
-            "episodes": 1
-        },
-        {
             "id_mal": "59970",
             "imagen": "https://myanimelist.net/images/anime/1695/156389.jpg",
             "titulo": "Tensei shitara Slime Datta Ken 4th Season",
@@ -2569,36 +2628,6 @@
             "ts": 1775045253
         },
         {
-            "id_mal": "62512",
-            "imagen": "https://myanimelist.net/images/anime/1153/156029.jpg",
-            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "Currently Airing",
-            "status": "Not yet aired",
-            "episodes": 1,
-            "created_at": "2026-04-01",
-            "updated_at": "2026-04-01T12:07:14.000Z",
-            "ts": 1775045234
-        },
-        {
-            "id_mal": "59708",
-            "imagen": "https://myanimelist.net/images/anime/1176/153626.jpg",
-            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-            "titulo_original": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
-            "year": "2026",
-            "etiquetas": "Drama, Suspense",
-            "type": "anime",
-            "score": "Currently Airing",
-            "status": "Not yet aired",
-            "episodes": 4,
-            "created_at": "2026-04-01",
-            "updated_at": "2026-04-01T12:07:01.000Z",
-            "ts": 1775045221
-        },
-        {
             "id_mal": "57658",
             "imagen": "https://myanimelist.net/images/anime/1659/154920l.jpg",
             "titulo": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
@@ -2627,21 +2656,6 @@
             "created_at": "2026-03-31",
             "updated_at": "2026-04-01T01:41:31.000Z",
             "ts": 1775007691
-        },
-        {
-            "id_mal": "62825",
-            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
-            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-            "year": "2026",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "score": " ",
-            "status": "Not yet aired",
-            "episodes": 1,
-            "created_at": "2026-04-04",
-            "updated_at": "2026-04-01T01:36:08.000Z",
-            "ts": 1775007368
         },
         {
             "id_mal": "62342",
@@ -2867,21 +2881,6 @@
             "created_at": "2025-04-05",
             "updated_at": "2026-03-26T04:49:43.000Z",
             "ts": 1774500583
-        },
-        {
-            "id_mal": "50738",
-            "imagen": "https://myanimelist.net/images/anime/1074/147339l.jpg",
-            "titulo": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
-            "titulo_original": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
-            "year": "2025",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-04-05",
-            "updated_at": "2026-03-26T04:49:38.000Z",
-            "ts": 1774500578
         }
     ]
 }
