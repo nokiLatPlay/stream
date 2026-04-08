@@ -6,7 +6,7 @@
     "imagen": "https://myanimelist.net/images/anime/1276/102048.jpg",
     "etiquetas": "Drama, Sci-Fi",
     "year": "2019",
-    "type": "movie",
+    "type": "anime",
     "synopsis": "Episodes 4-6 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
     "score": "7.3",
     "episodes": 3,
@@ -22,20 +22,73 @@
         "King Records"
     ],
     "created_at": "2019-8-11",
-    "updated_at": "2026-04-07T19:56:37.000Z",
+    "updated_at": "2026-04-07T22:30:12.000Z",
     "player_base": [],
-    "enlaces": [
+    "temporadas": [
         {
-            "nombre": "Server 1",
-            "url": "https://player.zilla-networks.com/play/c121b159a6027e3d09524abb22992fb6",
-            "type": "embed",
-            "language": "Sub"
-        },
-        {
-            "nombre": "Server 2",
-            "url": "https://player.zilla-networks.com/m3u8/c121b159a6027e3d09524abb22992fb6",
-            "type": "mp4",
-            "language": "Sub"
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3946/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/c121b159a6027e3d09524abb22992fb6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/c121b159a6027e3d09524abb22992fb6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3946/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/c6a6f54d57d67111bd71c293912f2c72",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/c6a6f54d57d67111bd71c293912f2c72",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3946/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/d6dae2675296c140890f9188fa68c2a6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/d6dae2675296c140890f9188fa68c2a6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
