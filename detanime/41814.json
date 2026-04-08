@@ -22,20 +22,73 @@
         "King Records"
     ],
     "created_at": "2021-5-11",
-    "updated_at": "2026-04-07T19:55:55.000Z",
+    "updated_at": "2026-04-07T22:30:42.000Z",
     "player_base": [],
-    "enlaces": [
+    "temporadas": [
         {
-            "nombre": "Server 1",
-            "url": "https://player.zilla-networks.com/play/c97e814479721d48999dadcd94fc643d",
-            "type": "embed",
-            "language": "Sub"
-        },
-        {
-            "nombre": "Server 2",
-            "url": "https://player.zilla-networks.com/m3u8/c97e814479721d48999dadcd94fc643d",
-            "type": "mp4",
-            "language": "Sub"
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3948/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/c97e814479721d48999dadcd94fc643d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/c97e814479721d48999dadcd94fc643d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3948/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/4d52e49cf3cd3174ec94d2babaf80351",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/4d52e49cf3cd3174ec94d2babaf80351",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3948/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/9ad3602f7596846b04080cf1019aa79b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/9ad3602f7596846b04080cf1019aa79b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
