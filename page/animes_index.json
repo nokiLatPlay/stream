@@ -1,5 +1,5 @@
 {
-    "total_items": 381,
+    "total_items": 382,
     "total_pages": 2,
     "items_per_page": 200,
     "pages": [
@@ -7,16 +7,16 @@
             "page_number": 1,
             "path": "page/animes_page_1.json",
             "item_count": 200,
-            "first_item_id": "63014",
-            "last_item_id": "45DMC91"
+            "first_item_id": "56734",
+            "last_item_id": "47161"
         },
         {
             "page_number": 2,
             "path": "page/animes_page_2.json",
-            "item_count": 181,
-            "first_item_id": "60334",
+            "item_count": 182,
+            "first_item_id": "40046",
             "last_item_id": "62144"
         }
     ],
-    "last_updated": "2026-04-07T19:20:38.000Z"
+    "last_updated": "2026-04-07T19:46:34.000Z"
 }
