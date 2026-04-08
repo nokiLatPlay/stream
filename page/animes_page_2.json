@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 380,
+    "total_items": 381,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "60334",
+            "imagen": "https://myanimelist.net/images/anime/1564/150049l.jpg",
+            "titulo": "Anne Shirley",
+            "titulo_original": "アン・シャーリー",
+            "year": "2025",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 24,
+            "created_at": "2025-04-05",
+            "updated_at": "2026-03-26T04:49:43.000Z",
+            "ts": 1774500583
+        },
         {
             "id_mal": "50738",
             "imagen": "https://myanimelist.net/images/anime/1074/147339l.jpg",
