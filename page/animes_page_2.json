@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 384,
+    "total_items": 385,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "60582",
+            "imagen": "https://myanimelist.net/images/anime/1858/152354.jpg",
+            "titulo": "Cengjing You Yongshi",
+            "titulo_original": "曾经有勇士",
+            "year": "2025",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2025-10-31",
+            "updated_at": "2026-04-01T12:48:36.000Z",
+            "ts": 1775047716
+        },
         {
             "id_mal": "56906",
             "imagen": "https://myanimelist.net/images/anime/1150/155201.jpg",
