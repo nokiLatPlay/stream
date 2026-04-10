@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "There exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it.\n\nTouya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams.\n\nIn a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.\n\n(Source: Press Release)",
     "score": "6.6",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "23 min",
     "rating": null,
     "source": "Manga",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:24:52.000Z",
+    "updated_at": "2026-04-09T22:28:29.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/225ca469026ffd4a5d89e348be3b52da",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/97b81fb1921e34aaba941fd0fa1c77d5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/97b81fb1921e34aaba941fd0fa1c77d5",
                             "type": "mp4",
                             "language": "Sub"
                         }
