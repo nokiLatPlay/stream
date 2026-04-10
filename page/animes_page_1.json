@@ -1,7 +1,7 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 388,
+    "total_items": 387,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
@@ -9,18 +9,18 @@
     "prev_page": null,
     "data": [
         {
-            "id_mal": "60028",
-            "imagen": "https://myanimelist.net/images/anime/1229/155022.jpg",
-            "titulo": "Himekishi wa Barbaroi no Yome",
-            "titulo_original": "姫騎士は蛮族の嫁",
+            "id_mal": "62568",
+            "imagen": "https://myanimelist.net/images/anime/1773/155779.jpg",
+            "titulo": "Dr. Stone: Science Future Part 3",
+            "titulo_original": "Dr.STONE SCIENCE FUTURE 第3クール",
             "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Romance",
+            "etiquetas": "Adventure, Comedy",
             "type": "anime",
-            "score": " ",
+            "score": "8.3",
             "status": "Currently Airing",
-            "created_at": "2026-9-4",
-            "updated_at": "2026-04-09T22:26:50.000Z",
-            "episodes": 1
+            "created_at": "2026",
+            "updated_at": "2026-04-09T22:27:07.000Z",
+            "episodes": 3
         },
         {
             "id_mal": "62601",
@@ -203,20 +203,6 @@
             "status": "Currently Airing",
             "created_at": "2026",
             "updated_at": "2026-04-04T06:26:05.000Z",
-            "episodes": 1
-        },
-        {
-            "id_mal": "62568",
-            "imagen": "https://myanimelist.net/images/anime/1773/155779.jpg",
-            "titulo": "Dr. Stone: Science Future Part 3",
-            "titulo_original": "Dr.STONE SCIENCE FUTURE 第3クール",
-            "year": "2026",
-            "etiquetas": "Adventure, Comedy",
-            "type": "anime",
-            "score": "8.3",
-            "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-04T06:25:54.000Z",
             "episodes": 1
         },
         {
@@ -2876,6 +2862,21 @@
             "created_at": "2013",
             "updated_at": "2026-04-01T23:24:11.000Z",
             "ts": 1775085851
+        },
+        {
+            "id_mal": "18277",
+            "imagen": "https://myanimelist.net/images/anime/5/56163.jpg",
+            "titulo": "Strike the Blood",
+            "titulo_original": "ストライク・ザ・ブラッド",
+            "year": "2013",
+            "etiquetas": "Action, Fantasy, Ecchi",
+            "type": "anime",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 24,
+            "created_at": "2013",
+            "updated_at": "2026-04-01T23:23:48.000Z",
+            "ts": 1775085828
         }
     ]
 }
