@@ -1,7 +1,7 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 387,
+    "total_items": 388,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
@@ -9,18 +9,18 @@
     "prev_page": null,
     "data": [
         {
-            "id_mal": "61943",
-            "imagen": "https://myanimelist.net/images/anime/1401/156048.jpg",
-            "titulo": "Haibara-kun no Tsuyokute Seishun New Game",
-            "titulo_original": "灰原くんの強くて青春ニューゲーム",
+            "id_mal": "62983",
+            "imagen": "https://myanimelist.net/images/anime/1818/155506.jpg",
+            "titulo": "Marika-chan no Koukando wa Bukkowareteiru",
+            "titulo_original": "茉莉花ちゃんの好感度はぶっ壊れている",
             "year": "2026",
-            "etiquetas": "Comedy, Romance",
+            "etiquetas": "Comedy, Romance, Ecchi",
             "type": "anime",
-            "score": "6.8",
+            "score": "5.7",
             "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-09T22:28:45.000Z",
-            "episodes": 3
+            "created_at": "2026-6-4",
+            "updated_at": "2026-04-09T22:29:02.000Z",
+            "episodes": 1
         },
         {
             "id_mal": "62601",
@@ -245,6 +245,20 @@
             "status": "Currently Airing",
             "created_at": "2026",
             "updated_at": "2026-04-04T06:25:29.000Z",
+            "episodes": 1
+        },
+        {
+            "id_mal": "61943",
+            "imagen": "https://myanimelist.net/images/anime/1401/156048.jpg",
+            "titulo": "Haibara-kun no Tsuyokute Seishun New Game",
+            "titulo_original": "灰原くんの強くて青春ニューゲーム",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "created_at": "2026",
+            "updated_at": "2026-04-04T06:25:16.000Z",
             "episodes": 1
         },
         {
@@ -2862,21 +2876,6 @@
             "created_at": "2013",
             "updated_at": "2026-04-01T23:24:11.000Z",
             "ts": 1775085851
-        },
-        {
-            "id_mal": "18277",
-            "imagen": "https://myanimelist.net/images/anime/5/56163.jpg",
-            "titulo": "Strike the Blood",
-            "titulo_original": "ストライク・ザ・ブラッド",
-            "year": "2013",
-            "etiquetas": "Action, Fantasy, Ecchi",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "episodes": 24,
-            "created_at": "2013",
-            "updated_at": "2026-04-01T23:23:48.000Z",
-            "ts": 1775085828
         }
     ]
 }
