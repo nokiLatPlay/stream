@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
     "score": "7.6",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "23 min",
     "rating": null,
     "source": "Web manga",
@@ -24,7 +24,7 @@
         "ADK Emotions"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:25:43.000Z",
+    "updated_at": "2026-04-09T22:27:41.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -57,6 +57,38 @@
                         {
                             "nombre": "Server 4",
                             "url": "https://player.zilla-networks.com/m3u8/3e84ad86fbfd42a255e41a16785006a1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/108b9d2c5fb36254650c48062e1704f1",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/108b9d2c5fb36254650c48062e1704f1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/b7e51823cc0f073cea48a4a31a4cc705",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/b7e51823cc0f073cea48a4a31a4cc705",
                             "type": "mp4",
                             "language": "Sub"
                         }
