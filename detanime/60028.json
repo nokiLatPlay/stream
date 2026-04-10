@@ -1,0 +1,54 @@
+{
+    "id_mal": "60028",
+    "anime_id": "3973",
+    "titulo": "Himekishi wa Barbaroi no Yome",
+    "titulo_original": "姫騎士は蛮族の嫁",
+    "imagen": "https://myanimelist.net/images/anime/1229/155022.jpg",
+    "etiquetas": "Comedy, Fantasy, Romance",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!\n\n(Source: Kodansha USA)",
+    "score": " ",
+    "episodes": 1,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Jumondou"
+    ],
+    "producers": [
+        "Magic Capsule",
+        "Kadokawa"
+    ],
+    "created_at": "2026-9-4",
+    "updated_at": "2026-04-09T22:26:50.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3973/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/29477e18d1f6d725a80e1a4bc6ad1a5b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/29477e18d1f6d725a80e1a4bc6ad1a5b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
