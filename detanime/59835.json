@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Miyoshi Aimi and Nami Sometani are two high school girls who often find themselves talking about a boy in their class, Kirio. This lighthearted romantic comedy follows the daily lives of these two friends and rivals on a journey that, for now, seems to be heading everywhere but love.\n\n(Source: Comic Ruelle, translated)",
     "score": "6.2",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Web manga",
@@ -25,7 +25,7 @@
         "Studio Sound Bee"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:25:29.000Z",
+    "updated_at": "2026-04-09T22:27:58.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -46,6 +46,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/b977fd86a0792a5b2b3f55e24448a598",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/f1f37d821331c2de21afe728bdcd865f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/f1f37d821331c2de21afe728bdcd865f",
                             "type": "mp4",
                             "language": "Sub"
                         }
