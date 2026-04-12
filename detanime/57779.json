@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Dorohedoro.",
     "score": " ",
-    "episodes": 3,
+    "episodes": 4,
     "duration": "Unknown",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
@@ -18,7 +18,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-01T12:07:33.000Z",
+    "updated_at": "2026-04-12T00:17:38.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -79,6 +79,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/598fab6239743c186cba39d2414f9ce6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/f285d7e13b9b49c88cb689d90912ea74",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/f285d7e13b9b49c88cb689d90912ea74",
                             "type": "mp4",
                             "language": "Sub"
                         }
