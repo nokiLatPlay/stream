@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 1,
+    "total_items": 2,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": false,
     "next_page": null,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "37210",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1649\/93412.jpg",
+            "titulo": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+            "titulo_original": "異世界魔王と召喚少女の奴隷魔術",
+            "etiquetas": "Action, Comedy, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-04-12T01:12:12.000Z",
+            "year": "2018",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": "12"
+        },
         {
             "id_mal": "35936",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1473\/103737l.jpg",
