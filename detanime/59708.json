@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n\n(Source: Crunchyroll)",
     "score": " ",
-    "episodes": 4,
+    "episodes": 5,
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -20,7 +20,7 @@
         "Lantis"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-01T12:07:01.000Z",
+    "updated_at": "2026-04-11T23:22:22.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -101,6 +101,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/5fc683fe7191a6c81f702449cde9d501",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/5dfc28c79b327257ae2d7080c8ca14f8",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/5dfc28c79b327257ae2d7080c8ca14f8",
                             "type": "mp4",
                             "language": "Sub"
                         }
