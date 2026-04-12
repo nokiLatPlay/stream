@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 397,
+    "total_items": 398,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "52608",
+            "imagen": "https://myanimelist.net/images/anime/1071/135255.jpg",
+            "titulo": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+            "titulo_original": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+            "year": "2023",
+            "etiquetas": "Action, Fantasy, Romance",
+            "type": "anime",
+            "score": "6.7",
+            "status": "Currently Airing",
+            "created_at": "2023-3-4",
+            "updated_at": "2026-04-12T00:56:59.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "235E8",
             "imagen": " ",
@@ -2853,21 +2867,6 @@
             "created_at": "2015",
             "updated_at": "2026-04-01T23:30:49.000Z",
             "ts": 1775086249
-        },
-        {
-            "id_mal": "31181",
-            "imagen": "https://myanimelist.net/images/anime/8/76479.jpg",
-            "titulo": "Owarimonogatari",
-            "titulo_original": "終物語",
-            "year": "2015",
-            "etiquetas": "Comedy, Mystery, Supernatural",
-            "type": "anime",
-            "score": "8.4",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2015",
-            "updated_at": "2026-04-01T23:30:09.000Z",
-            "ts": 1775086209
         }
     ]
 }
