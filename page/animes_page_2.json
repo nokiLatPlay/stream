@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 395,
+    "total_items": 396,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "28927",
+            "imagen": "https://myanimelist.net/images/anime/9/76632.jpg",
+            "titulo": "Owari no Seraph: Nagoya Kessen-hen",
+            "titulo_original": "終わりのセラフ　名古屋決戦編",
+            "year": "2015",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2015",
+            "updated_at": "2026-04-01T23:28:58.000Z",
+            "ts": 1775086138
+        },
         {
             "id_mal": "32668",
             "imagen": "https://myanimelist.net/images/anime/5/78406.jpg",
