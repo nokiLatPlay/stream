@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 388,
+    "total_items": 389,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "17513",
+            "imagen": "https://myanimelist.net/images/anime/9/51989.jpg",
+            "titulo": "Diabolik Lovers",
+            "titulo_original": "DIABOLIK LOVERS",
+            "year": "2013",
+            "etiquetas": "Drama, Supernatural",
+            "type": "anime",
+            "score": "5.2",
+            "status": "Finished Airing",
+            "episodes": 6,
+            "created_at": "2013",
+            "updated_at": "2026-04-01T23:24:11.000Z",
+            "ts": 1775085851
+        },
         {
             "id_mal": "18277",
             "imagen": "https://myanimelist.net/images/anime/5/56163.jpg",
