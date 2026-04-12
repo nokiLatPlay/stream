@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 397,
+    "total_items": 398,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "31181",
+            "imagen": "https://myanimelist.net/images/anime/8/76479.jpg",
+            "titulo": "Owarimonogatari",
+            "titulo_original": "終物語",
+            "year": "2015",
+            "etiquetas": "Comedy, Mystery, Supernatural",
+            "type": "anime",
+            "score": "8.4",
+            "status": "Finished Airing",
+            "episodes": 13,
+            "created_at": "2015",
+            "updated_at": "2026-04-01T23:30:09.000Z",
+            "ts": 1775086209
+        },
         {
             "id_mal": "29974",
             "imagen": "https://myanimelist.net/images/anime/3/73657.jpg",
