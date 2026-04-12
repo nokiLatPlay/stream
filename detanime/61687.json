@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "For a natural genius like Crown Prince Cecil Glow Alfostar, every day is a bore. Knowledge and skills come far too easily for him, to the point that nothing can captivate his interest. However, this changes the day he meets someone who never fails to betray his expectations—his fiancée and self-proclaimed villainess Bertia Evil Nochesse.\n\nBertia claims that this world is that of an \"otome game.\" She has been reborn as the villainess, and it is her duty to impede the relationship between Cecil and the heroine. Never one to shy away from fate, she zealously takes to her evil role... to mixed results. Though she doesn't realize it, Bertia's supposedly \"evil deeds\" always come off as sincere and kind. Finally relieved of his melancholy, there is never a boring day for Cecil as he observes his unknowingly good-hearted fiancée.\n\n[Written by MAL Rewrite]",
     "score": " ",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "Unknown",
     "rating": null,
     "source": "Light novel",
@@ -20,7 +20,7 @@
         "AlphaPolis"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:24:01.000Z",
+    "updated_at": "2026-04-11T22:52:45.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -41,6 +41,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/7dbe669a75d1fb5967fe4e805a87624f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/8a77bde4c64f990b3cbcd4d429f549c1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/8a77bde4c64f990b3cbcd4d429f549c1",
                             "type": "mp4",
                             "language": "Sub"
                         }
