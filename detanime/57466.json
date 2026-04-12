@@ -1,0 +1,79 @@
+{
+    "id_mal": "57466",
+    "anime_id": "3928",
+    "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+    "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+    "imagen": "https://myanimelist.net/images/anime/1371/155054.jpg",
+    "etiquetas": "Fantasy",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
+    "score": "8.1",
+    "episodes": 2,
+    "duration": "23 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Light novel",
+    "status": "Currently Airing",
+    "studios": [
+        "Wit Studio"
+    ],
+    "producers": [
+        "Yomiuri Telecasting",
+        "Shochiku",
+        "Movic",
+        "KlockWorx",
+        "flying DOG",
+        "Yomiuri TV Enterprise",
+        "TO Books"
+    ],
+    "created_at": "2026-4-4",
+    "updated_at": "2026-04-11T22:47:43.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/7b7dec37e35ed27254f386bff08f1d99",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/7b7dec37e35ed27254f386bff08f1d99",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/560a23671dc538330db3726107b6aa6c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/560a23671dc538330db3726107b6aa6c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
