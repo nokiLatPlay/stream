@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 388,
+    "total_items": 389,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "60444",
+            "imagen": "https://myanimelist.net/images/anime/1364/155774.jpg",
+            "titulo": "Yowayowa Sensei",
+            "titulo_original": "よわよわ先生",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance, Ecchi",
+            "type": "anime",
+            "score": " ",
+            "status": "Currently Airing",
+            "created_at": "2026-11-4",
+            "updated_at": "2026-04-11T22:48:41.000Z",
+            "episodes": 1
+        },
         {
             "id_mal": "62246",
             "imagen": "https://myanimelist.net/images/anime/1756/151431.jpg",
@@ -525,6 +539,21 @@
             "ts": 1775043410
         },
         {
+            "id_mal": "62825",
+            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
+            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+            "year": "2026",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": " ",
+            "status": "Currently Airing",
+            "episodes": 1,
+            "created_at": "2026-04-04",
+            "updated_at": "2026-04-01T01:36:08.000Z",
+            "ts": 1775007368
+        },
+        {
             "id_mal": "62342",
             "imagen": "https://myanimelist.net/images/anime/1175/156007.jpg",
             "titulo": "Maid-san wa Taberu dake",
@@ -703,21 +732,6 @@
             "created_at": "2026-01-10",
             "updated_at": "2026-03-26T02:28:31.000Z",
             "ts": 1774492111
-        },
-        {
-            "id_mal": "62825",
-            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
-            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-            "year": "2026",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "score": " ",
-            "status": "Not yet aired",
-            "episodes": 4,
-            "created_at": "2026-04-04",
-            "updated_at": "2026-04-11T22:48:22.000Z",
-            "ts": 1775007368
         },
         {
             "id_mal": "53397",
@@ -2861,21 +2875,6 @@
             "created_at": "2013",
             "updated_at": "2026-04-01T23:24:46.000Z",
             "ts": 1775085886
-        },
-        {
-            "id_mal": "17513",
-            "imagen": "https://myanimelist.net/images/anime/9/51989.jpg",
-            "titulo": "Diabolik Lovers",
-            "titulo_original": "DIABOLIK LOVERS",
-            "year": "2013",
-            "etiquetas": "Drama, Supernatural",
-            "type": "anime",
-            "score": "5.2",
-            "status": "Finished Airing",
-            "episodes": 6,
-            "created_at": "2013",
-            "updated_at": "2026-04-01T23:24:11.000Z",
-            "ts": 1775085851
         }
     ]
 }
