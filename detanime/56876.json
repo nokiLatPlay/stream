@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
     "score": "8.3",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Toho Music"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:24:14.000Z",
+    "updated_at": "2026-04-11T22:53:04.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -43,6 +43,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/014e51e9a551de2f260258365821d5a8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/322e53006cf8040801781c614e0e9f01",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/322e53006cf8040801781c614e0e9f01",
                             "type": "mp4",
                             "language": "Sub"
                         }
