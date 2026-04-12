@@ -1,7 +1,7 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 392,
+    "total_items": 393,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
@@ -9,19 +9,18 @@
     "prev_page": null,
     "data": [
         {
-            "id_mal": "62512",
-            "imagen": "https://myanimelist.net/images/anime/1153/156029.jpg",
-            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+            "id_mal": "62604",
+            "imagen": "https://myanimelist.net/images/anime/1956/155456.jpg",
+            "titulo": "Otaku ni Yasashii Gal wa Inai!?",
+            "titulo_original": "オタクに優しいギャルはいない!?",
             "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
+            "etiquetas": "Comedy, Romance",
             "type": "anime",
-            "score": "",
+            "score": "7.5",
             "status": "Currently Airing",
-            "episodes": 2,
-            "created_at": "2026-04-01",
-            "updated_at": "2026-04-12T00:18:00.000Z",
-            "ts": 1775045234
+            "created_at": "2026-8-4",
+            "updated_at": "2026-04-12T00:18:28.000Z",
+            "episodes": 1
         },
         {
             "id_mal": "61831",
@@ -549,6 +548,21 @@
             "created_at": "2026-04-01",
             "updated_at": "2026-04-01T12:07:33.000Z",
             "ts": 1775045253
+        },
+        {
+            "id_mal": "62512",
+            "imagen": "https://myanimelist.net/images/anime/1153/156029.jpg",
+            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "score": "",
+            "status": "Currently Airing",
+            "episodes": 1,
+            "created_at": "2026-04-01",
+            "updated_at": "2026-04-01T12:07:14.000Z",
+            "ts": 1775045234
         },
         {
             "id_mal": "59708",
@@ -2857,21 +2871,6 @@
             "created_at": "2018",
             "updated_at": "2026-04-01T23:27:26.000Z",
             "ts": 1775086046
-        },
-        {
-            "id_mal": "4214",
-            "imagen": "https://myanimelist.net/images/anime/6/25093.jpg",
-            "titulo": "Rosario to Vampire Capu2",
-            "titulo_original": "ロザリオとバンパイア Capu2",
-            "year": "2008",
-            "etiquetas": "Comedy, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "score": "6.9",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2008",
-            "updated_at": "2026-04-01T23:26:49.000Z",
-            "ts": 1775086009
         }
     ]
 }
