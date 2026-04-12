@@ -1,27 +1,13 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 393,
+    "total_items": 392,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
-        {
-            "id_mal": "61316",
-            "imagen": "https://myanimelist.net/images/anime/1540/155824.jpg",
-            "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-            "titulo_original": "Re:ゼロから始める異世界生活 4th season",
-            "year": "2026",
-            "etiquetas": "Drama, Fantasy, Suspense",
-            "type": "anime",
-            "score": "8.7",
-            "status": "Currently Airing",
-            "created_at": "2026-8-4",
-            "updated_at": "2026-04-11T23:43:50.000Z",
-            "episodes": 1
-        },
         {
             "id_mal": "62485",
             "imagen": "https://myanimelist.net/images/anime/1393/156075.jpg",
@@ -520,21 +506,6 @@
             "ts": 1775047628
         },
         {
-            "id_mal": "61831",
-            "imagen": "https://myanimelist.net/images/anime/1738/156028.jpg",
-            "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-            "titulo_original": "最強の王様、二度目の人生は何をする? Season2",
-            "year": "2026",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "score": " ",
-            "status": "Currently Airing",
-            "episodes": 1,
-            "created_at": "2026-04-01",
-            "updated_at": "2026-04-01T12:07:48.000Z",
-            "ts": 1775045268
-        },
-        {
             "id_mal": "57779",
             "imagen": "https://myanimelist.net/images/anime/1603/155354.jpg",
             "titulo": "Dorohedoro Season 2",
@@ -788,6 +759,21 @@
             "created_at": "2026-01-10",
             "updated_at": "2026-03-26T02:28:31.000Z",
             "ts": 1774492111
+        },
+        {
+            "id_mal": "61831",
+            "imagen": "https://myanimelist.net/images/anime/1738/156028.jpg",
+            "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+            "titulo_original": "最強の王様、二度目の人生は何をする? Season2",
+            "year": "2026",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "score": " ",
+            "status": "Not yet aired",
+            "episodes": 2,
+            "created_at": "2026-04-01",
+            "updated_at": "2026-04-11T23:44:44.000Z",
+            "ts": 1775045268
         },
         {
             "id_mal": "53397",
@@ -2871,6 +2857,21 @@
             "created_at": "2018",
             "updated_at": "2026-04-01T23:27:26.000Z",
             "ts": 1775086046
+        },
+        {
+            "id_mal": "4214",
+            "imagen": "https://myanimelist.net/images/anime/6/25093.jpg",
+            "titulo": "Rosario to Vampire Capu2",
+            "titulo_original": "ロザリオとバンパイア Capu2",
+            "year": "2008",
+            "etiquetas": "Comedy, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 13,
+            "created_at": "2008",
+            "updated_at": "2026-04-01T23:26:49.000Z",
+            "ts": 1775086009
         }
     ]
 }
