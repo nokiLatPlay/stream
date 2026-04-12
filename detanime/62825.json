@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!\n\n(Source: AlphaPolis)",
     "score": " ",
-    "episodes": 1,
+    "episodes": 3,
     "duration": "Unknown",
     "rating": null,
     "source": "Light novel",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-04",
-    "updated_at": "2026-04-01T01:36:08.000Z",
+    "updated_at": "2026-04-11T22:48:22.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,46 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/7c3d6b187ff184de3c93e9c64baae40d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/0822b2f034f02601c7e23e80c71cdd23",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/0822b2f034f02601c7e23e80c71cdd23",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/140ad66aee61cb673307e314c410939c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/140ad66aee61cb673307e314c410939c",
                             "type": "mp4",
                             "language": "Sub"
                         }
