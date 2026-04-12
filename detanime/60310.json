@@ -1,0 +1,83 @@
+{
+    "id_mal": "60310",
+    "anime_id": "3929",
+    "titulo": "Mairimashita! Iruma-kun 4th Season",
+    "titulo_original": "魔入りました！入間くん 第4シリーズ",
+    "imagen": "https://myanimelist.net/images/anime/1434/154048.jpg",
+    "etiquetas": "Comedy, Fantasy",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
+    "score": "8.1",
+    "episodes": 2,
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Manga",
+    "status": "Currently Airing",
+    "studios": [
+        "Bandai Namco Pictures"
+    ],
+    "producers": [],
+    "created_at": "2026-4-4",
+    "updated_at": "2026-04-11T22:48:04.000Z",
+    "player_base": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3929/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/00e18f6417b76f436ea7cc0a114d5c0d",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/00e18f6417b76f436ea7cc0a114d5c0d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/d5f566aed7e5b67077c05116b1fad9fb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/d5f566aed7e5b67077c05116b1fad9fb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3929/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/f44079ae1cd9241c5f72fdeb0de667ea",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/f44079ae1cd9241c5f72fdeb0de667ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
