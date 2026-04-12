@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Okuto Nakamura is a timid and gloomy-looking student who cherishes only two things in this world: his pet octopus and his kind-hearted classmate, Aiki Hirose. Ever since the school entrance ceremony, Nakamura has admired his jovial classmate, albeit from a distance due to his poor social skills. After mustering up all the courage within him, he finally decides to talk to Hirose.\n\nDuring this first attempt to make contact, an instinctive mistake turns the idea of friendship into a distant dream, as he creates a hilarious impression on his crush. At school, students are expected to cooperate on numerous activities together, meaning Nakamura gets to spend extra time with Hirose. Given these opportunities, can he successfully redeem himself and accomplish his goal of becoming good friends with Hirose?\n\n[Written by MAL Rewrite]",
     "score": "7.7",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Manga",
@@ -23,7 +23,7 @@
         "Kinoshita Group Holdings"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T06:26:18.000Z",
+    "updated_at": "2026-04-12T00:19:06.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -46,6 +46,18 @@
                             "url": "https://player.zilla-networks.com/m3u8/46d06a59de4ff37e6a8608abd3af5cb6",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/13585b6ed9f33274b35d1b96a0347ccb",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/13585b6ed9f33274b35d1b96a0347ccb",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -64,6 +76,50 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/0de27536d30c796059793f80fa3d3ec4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/aafefefb4dab7a4151339f7261b759b0",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/aafefefb4dab7a4151339f7261b759b0",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/2a6976d78224104b61279d05a3accb59",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/2a6976d78224104b61279d05a3accb59",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/701d1d0827a934bd751461f8b94dc8ac",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/701d1d0827a934bd751461f8b94dc8ac",
                             "type": "mp4",
                             "language": "Sub"
                         }
