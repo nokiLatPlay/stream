@@ -1,13 +1,28 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 396,
+    "total_items": 397,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
     "next_page": null,
     "prev_page": 1,
     "data": [
+        {
+            "id_mal": "29974",
+            "imagen": "https://myanimelist.net/images/anime/3/73657.jpg",
+            "titulo": "Diabolik Lovers More,Blood",
+            "titulo_original": "DIABOLIK LOVERS MORE,BLOOD",
+            "year": "2015",
+            "etiquetas": "Drama, Supernatural",
+            "type": "anime",
+            "score": "5.5",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2015",
+            "updated_at": "2026-04-01T23:29:33.000Z",
+            "ts": 1775086173
+        },
         {
             "id_mal": "28927",
             "imagen": "https://myanimelist.net/images/anime/9/76632.jpg",
