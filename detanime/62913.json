@@ -8,8 +8,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "In a world where likes are currency and every viewer is a judge, OMGkawaiiAngel (also known as KAngel) is determined to become the ultimate \"Internet Angel.\" Yet beneath her pastel smile and lively streams, there's more than meets the eye.\n\n(Source: Crunchyroll)",
-    "score": "7.2",
-    "episodes": 1,
+    "score": "7.1",
+    "episodes": 2,
     "duration": "24 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
@@ -26,7 +26,7 @@
         "Yostar"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-06T23:54:37.000Z",
+    "updated_at": "2026-04-11T22:51:33.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -47,6 +47,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/12f833f98e1249f9e50e6ab3f2eaf476",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3932/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/cd06cbc2dc66db8ed3b8cc5598d49ebb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/cd06cbc2dc66db8ed3b8cc5598d49ebb",
                             "type": "mp4",
                             "language": "Sub"
                         }
