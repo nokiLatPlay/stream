@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)",
     "score": "7.4",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -18,12 +18,15 @@
         "Juvenage"
     ],
     "producers": [
+        "TV Asahi",
         "Half H.P Studio",
         "Nippon Columbia",
-        "Kadokawa"
+        "Contents Seed",
+        "Kadokawa",
+        "BS Asahi"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-06T23:55:01.000Z",
+    "updated_at": "2026-04-11T22:50:35.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -44,6 +47,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/546ad19c48f1407671505473058f49ab",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3931/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/71dd032c6bd83c2544140cdd1c09a768",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/71dd032c6bd83c2544140cdd1c09a768",
                             "type": "mp4",
                             "language": "Sub"
                         }
