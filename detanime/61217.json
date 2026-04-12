@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "By the mid-21st century, Tokyo's criminal underworld is ruled by Demon Lords—crime bosses who have undergone ether enhancement surgery, granting them terrifying superpowers. The only ones who can take them down are Heroes, bounty hunters who boost their own ether powers using the drug E3 (E-Three). With legalized killing as part of the job, being a Hero is less about justice and more about survival.\n\nYashiro, known as the Reaper, is one such Hero—an independent enforcer who works alone. That is, until Jougamine, a high school girl and self-proclaimed \"apprentice,\" forces her way into his life. Reluctantly taking her under his wing, Yashiro soon finds himself caught in a whirlwind of deadly conflicts.\n\n(Source: MAL News)",
     "score": "6.6",
-    "episodes": 12,
+    "episodes": 13,
     "duration": "22 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
@@ -22,7 +22,7 @@
         "Yostar"
     ],
     "created_at": "2026-01-11",
-    "updated_at": "2026-04-01T12:50:48.000Z",
+    "updated_at": "2026-04-11T22:51:07.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -263,6 +263,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/dc38a5b229797c78c866407a78551142",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/0d10387b9ff07035d0ef191ce3893add",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/0d10387b9ff07035d0ef191ce3893add",
                             "type": "mp4",
                             "language": "Sub"
                         }
