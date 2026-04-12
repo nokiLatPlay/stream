@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
     "score": " ",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "Unknown",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
@@ -20,7 +20,7 @@
         "Slow Curve"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-01T12:07:48.000Z",
+    "updated_at": "2026-04-11T23:44:44.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -41,6 +41,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/9fd369866450cb933c1ae31fc5ad6e94",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/96e75beca210d684f5bad66fc17640f4",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/96e75beca210d684f5bad66fc17640f4",
                             "type": "mp4",
                             "language": "Sub"
                         }
