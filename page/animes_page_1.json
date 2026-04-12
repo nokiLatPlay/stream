@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 390,
+    "total_items": 391,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "56646",
+            "imagen": "https://myanimelist.net/images/anime/1581/156641.jpg",
+            "titulo": "Hokuto no Ken: Fist of the North Star",
+            "titulo_original": "北斗の拳 -FIST OF THE NORTH STAR-",
+            "year": "2026",
+            "etiquetas": "Action, Drama, Sci-Fi",
+            "type": "anime",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "created_at": "2026-11-4",
+            "updated_at": "2026-04-11T22:54:18.000Z",
+            "episodes": 2
+        },
         {
             "id_mal": "62981",
             "imagen": "https://myanimelist.net/images/anime/1045/155698.jpg",
@@ -2859,21 +2873,6 @@
             "created_at": "2010",
             "updated_at": "2026-04-01T23:26:11.000Z",
             "ts": 1775085971
-        },
-        {
-            "id_mal": "10490",
-            "imagen": "https://myanimelist.net/images/anime/1691/140716.jpg",
-            "titulo": "Blood-C",
-            "titulo_original": "ブラッドシー",
-            "year": "2011",
-            "etiquetas": "Action, Horror, Mystery, Supernatural",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2011",
-            "updated_at": "2026-04-01T23:25:37.000Z",
-            "ts": 1775085937
         }
     ]
 }
