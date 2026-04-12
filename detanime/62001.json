@@ -8,8 +8,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
-    "score": "8.0",
-    "episodes": 1,
+    "score": "8.1",
+    "episodes": 2,
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
@@ -24,7 +24,7 @@
         "Peerless Gerbera"
     ],
     "created_at": "2026-4-4",
-    "updated_at": "2026-04-06T23:54:17.000Z",
+    "updated_at": "2026-04-11T22:49:55.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -57,6 +57,38 @@
                         {
                             "nombre": "Server 4",
                             "url": "https://player.zilla-networks.com/m3u8/502978eeed610e7ac73ed948ddcfccd8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3933/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/c7ad3c7c6bd23a3e23d1492c411c700f",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/c7ad3c7c6bd23a3e23d1492c411c700f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 3",
+                            "url": "https://player.zilla-networks.com/play/b4f967c0541cf27eb4bfa5083d36c856",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 4",
+                            "url": "https://player.zilla-networks.com/m3u8/b4f967c0541cf27eb4bfa5083d36c856",
                             "type": "mp4",
                             "language": "Sub"
                         }
