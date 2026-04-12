@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll)",
     "score": "8.2",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -20,7 +20,7 @@
         "Bandai Namco Filmworks"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-04T05:57:24.000Z",
+    "updated_at": "2026-04-11T22:53:20.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -31,21 +31,40 @@
                     "numero": 1,
                     "nombre": "01. Episodio 1",
                     "portada": "",
-                    
-    "enlaces": [
-        {
-            "nombre": "Server 1",
-            "url": "https://player.zilla-networks.com/play/5de659e76b93dad4d6d9424bf75dff8f",
-            "type": "embed",
-            "language": "Sub"
-        },
-        {
-            "nombre": "Server 2",
-            "url": "https://player.zilla-networks.com/m3u8/5de659e76b93dad4d6d9424bf75dff8f",
-            "type": "mp4",
-            "language": "Sub"
-        }
-    ]
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/5de659e76b93dad4d6d9424bf75dff8f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/5de659e76b93dad4d6d9424bf75dff8f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https://player.zilla-networks.com/play/97b570790b06728309871d0be8ba257b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https://player.zilla-networks.com/m3u8/97b570790b06728309871d0be8ba257b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 }
             ]
         }
