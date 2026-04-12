@@ -1,13 +1,27 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 394,
+    "total_items": 395,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "34420",
+            "imagen": "https://myanimelist.net/images/anime/1303/90909.jpg",
+            "titulo": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+            "titulo_original": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+            "year": "2018",
+            "etiquetas": "Gourmet",
+            "type": "anime",
+            "score": "7.5",
+            "status": "Currently Airing",
+            "created_at": "2018-13-4",
+            "updated_at": "2026-04-12T00:41:36.000Z",
+            "episodes": 24
+        },
         {
             "id_mal": "37210",
             "imagen": "https://myanimelist.net/images/anime/1649/93412.jpg",
@@ -2855,21 +2869,6 @@
             "created_at": "2015",
             "updated_at": "2026-04-01T23:28:58.000Z",
             "ts": 1775086138
-        },
-        {
-            "id_mal": "32668",
-            "imagen": "https://myanimelist.net/images/anime/5/78406.jpg",
-            "titulo": "Noblesse: Awakening",
-            "titulo_original": "Noblesse: Awakening",
-            "year": "2016",
-            "etiquetas": "Action, Supernatural",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "episodes": 1,
-            "created_at": "2016",
-            "updated_at": "2026-04-01T23:28:09.000Z",
-            "ts": 1775086089
         }
     ]
 }
