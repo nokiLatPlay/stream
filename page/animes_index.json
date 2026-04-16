@@ -1,29 +1,23 @@
 {
-    "total_items": 404,
+    "total_items": 405,
     "total_pages": 3,
     "items_per_page": 200,
     "pages": [
         {
             "page_number": 1,
-            "path": "page\/animes_page_1.json",
-            "item_count": 200,
-            "first_item_id": "62512",
-            "last_item_id": "52816"
+            "path": "page/animes_page_1.json",
+            "item_count": 200
         },
         {
             "page_number": 2,
-            "path": "page\/animes_page_2.json",
-            "item_count": 200,
-            "first_item_id": "54794",
-            "last_item_id": "34451"
+            "path": "page/animes_page_2.json",
+            "item_count": 200
         },
         {
             "page_number": 3,
-            "path": "page\/animes_page_3.json",
-            "item_count": 4,
-            "first_item_id": "57658",
-            "last_item_id": "52293"
+            "path": "page/animes_page_3.json",
+            "item_count": 5
         }
     ],
-    "last_updated": "2026-04-16T03:20:55.000Z"
+    "last_updated": "2026-04-16T03:26:57.000Z"
 }
