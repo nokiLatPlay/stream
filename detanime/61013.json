@@ -4,13 +4,13 @@
     "titulo": "Replica datte, Koi wo Suru.",
     "titulo_original": "レプリカだって、恋をする。",
     "imagen": "https://myanimelist.net/images/anime/1148/155671.jpg",
-    "etiquetas": "Drama, Romance, Supernatural",
+    "etiquetas": "Drama, Romance, Supernatural, School",
     "year": "2026",
     "type": "anime",
-    "synopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.\n\n(Source: Kadokawa)",
+    "synopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.  (Source: Kadokawa)",
     "score": "6.9",
-    "episodes": 1,
-    "duration": "Unknown",
+    "episodes": 2,
+    "duration": "24 min per ep",
     "rating": null,
     "source": "Light novel",
     "status": "Currently Airing",
@@ -21,7 +21,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T06:46:13.000Z",
+    "updated_at": "2026-04-16T08:17:01.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/63db9f5eae94f14e01b108e5f405962d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3956/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/1b994eea567dd458309e6f7d32c123ba",
                             "type": "mp4",
                             "language": "Sub"
                         }
