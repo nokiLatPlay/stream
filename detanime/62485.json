@@ -4,12 +4,12 @@
     "titulo": "Kanojo, Okarishimasu 5th Season",
     "titulo_original": "彼女、お借りします 第5期",
     "imagen": "https://myanimelist.net/images/anime/1393/156075.jpg",
-    "etiquetas": "Comedy, Romance",
+    "etiquetas": "Comedy, Romance, Adult Cast, Harem, Shounen",
     "year": "2026",
     "type": "anime",
     "synopsis": "Fifth season of Kanojo, Okarishimasu.",
     "score": "6.1",
-    "episodes": 1,
+    "episodes": 2,
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -25,7 +25,7 @@
         "DMM Music"
     ],
     "created_at": "2026-11-4",
-    "updated_at": "2026-04-11T23:23:39.000Z",
+    "updated_at": "2026-04-16T08:17:47.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -46,6 +46,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/65b01dd4633b581cd9cc74fda88ed7fe",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3967/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/180198b60f9d5622152ac7c8ad285257",
                             "type": "mp4",
                             "language": "Sub"
                         }
