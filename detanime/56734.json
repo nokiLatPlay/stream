@@ -4,13 +4,13 @@
     "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
     "titulo_original": "クラスで２番目に可愛い女の子と友だちになった",
     "imagen": "https://myanimelist.net/images/anime/1423/155713.jpg",
-    "etiquetas": "Romance",
+    "etiquetas": "Romance, School",
     "year": "2026",
     "type": "anime",
-    "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
+    "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.  (Source: MAL News)",
     "score": "7.6",
-    "episodes": 1,
-    "duration": "Unknown",
+    "episodes": 2,
+    "duration": "23 min per ep",
     "rating": null,
     "source": "Light novel",
     "status": "Currently Airing",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T06:43:56.000Z",
+    "updated_at": "2026-04-16T08:17:08.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/c4d9b96b668b6aeaa818890672eadf42",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3955/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/059f175ada2fa9be37a080ac1955b968",
                             "type": "mp4",
                             "language": "Sub"
                         }
