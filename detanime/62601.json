@@ -4,12 +4,12 @@
     "titulo": "Marriagetoxin",
     "titulo_original": "マリッジトキシン",
     "imagen": "https://myanimelist.net/images/anime/1927/154309.jpg",
-    "etiquetas": "Action",
+    "etiquetas": "Action, Adult Cast, Shounen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.\n\nHowever, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.\n\n\"...That's the first time anyone's ever proposed like that.\"\n\nAnd so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!\n\n(Source: Official site)",
-    "score": "7.5",
-    "episodes": 1,
+    "synopsis": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.  However, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.  \"...That's the first time anyone's ever proposed like that.\"  And so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!  (Source: Official site)",
+    "score": "7.6",
+    "episodes": 2,
     "duration": "23 min",
     "rating": null,
     "source": "Manga",
@@ -27,7 +27,7 @@
         "Bandai Namco Music Live"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-07T19:49:11.000Z",
+    "updated_at": "2026-04-16T08:16:55.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -48,6 +48,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/c2834f08bf9eb4e4ae911ac9aee6f96b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3957/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/bae26829e15a6e85f47811b30536b905",
                             "type": "mp4",
                             "language": "Sub"
                         }
