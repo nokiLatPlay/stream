@@ -4,13 +4,13 @@
     "titulo": "Liar Game",
     "titulo_original": "LIAR GAME",
     "imagen": "https://myanimelist.net/images/anime/1607/156078.jpg",
-    "etiquetas": "Drama, Suspense",
+    "etiquetas": "Drama, Suspense, High Stakes Game, Psychological, Strategy Game, Seinen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.\n\nOn that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.\n\nIn this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.\n\n[Written by MAL Rewrite]",
+    "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.  On that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.  In this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.  [Written by MAL Rewrite]",
     "score": "6.9",
-    "episodes": 1,
-    "duration": "Unknown",
+    "episodes": 2,
+    "duration": "23 min",
     "rating": null,
     "source": "Manga",
     "status": "Not yet aired",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T06:47:17.000Z",
+    "updated_at": "2026-04-16T08:19:05.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/e1f19b31f6dd3bdbd17b6041a7bc3bca",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3941/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/95f931d55b04e08e1bced83e44dc5ead",
                             "type": "mp4",
                             "language": "Sub"
                         }
