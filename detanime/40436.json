@@ -14,7 +14,7 @@
     "status": "Finished Airing",
     "spanish_status": "Finalizado",
     "created_at": "2026-01-01",
-    "updated_at": "2026-04-16T03:26:50.000Z",
+    "updated_at": "2026-04-16T06:41:42.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -189,5 +189,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "duration": "12 min per ep"
 }
