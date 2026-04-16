@@ -1,7 +1,7 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 570,
+    "total_items": 571,
     "items_per_page": 200,
     "has_next": false,
     "has_prev": true,
@@ -2514,36 +2514,6 @@
             "episodes": 22
         },
         {
-            "id_mal": "6201",
-            "slug": "princess-lover",
-            "imagen": "https://cdn.animeav1.com/covers/3018.jpg",
-            "titulo": "Princess Lover!",
-            "titulo_original": " ",
-            "year": "2009",
-            "etiquetas": " ",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2009-07-06",
-            "updated_at": "2026-04-16T06:46:57.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "5530",
-            "slug": "pandora-hearts",
-            "imagen": "https://cdn.animeav1.com/covers/3047.jpg",
-            "titulo": "Pandora Hearts",
-            "titulo_original": " ",
-            "year": "2009",
-            "etiquetas": " ",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2009-04-03",
-            "updated_at": "2026-04-16T06:43:42.000Z",
-            "episodes": 25
-        },
-        {
             "id_mal": "36652",
             "slug": "piano-no-mori-tv",
             "imagen": "https://cdn.animeav1.com/covers/3858.jpg",
@@ -2602,6 +2572,51 @@
             "created_at": "2006-07-03",
             "updated_at": "2026-04-16T06:03:55.000Z",
             "episodes": 13
+        },
+        {
+            "id_mal": "5530",
+            "slug": "pandora-hearts",
+            "imagen": "https://cdn.animeav1.com/covers/3047.jpg",
+            "titulo": "Pandora Hearts",
+            "titulo_original": " ",
+            "year": "2009",
+            "etiquetas": " ",
+            "type": "anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "created_at": "2009-04-03",
+            "updated_at": "2026-04-16T06:43:42.000Z",
+            "episodes": 25
+        },
+        {
+            "id_mal": "6201",
+            "slug": "princess-lover",
+            "imagen": "https://cdn.animeav1.com/covers/3018.jpg",
+            "titulo": "Princess Lover!",
+            "titulo_original": " ",
+            "year": "2009",
+            "etiquetas": " ",
+            "type": "anime",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "created_at": "2009-07-06",
+            "updated_at": "2026-04-16T06:46:57.000Z",
+            "episodes": 12
+        },
+        {
+            "id_mal": "34577",
+            "slug": "nanatsu-no-taizai-imashime-no-fukkatsu",
+            "imagen": "https://myanimelist.net/images/anime/11/90089.jpg",
+            "titulo": "The Seven Deadly Sins: Revival Of The Commandments",
+            "titulo_original": "七つの大罪 戒めの復活",
+            "year": "2018",
+            "etiquetas": "Action, Adventure, Fantasy, Shounen",
+            "type": "anime",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2018-01-13",
+            "updated_at": "2026-04-16T07:34:49.000Z",
+            "episodes": 24
         }
     ]
 }
