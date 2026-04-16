@@ -1,41 +1,13 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 570,
+    "total_items": 571,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": true,
     "next_page": 3,
     "prev_page": 1,
     "data": [
-        {
-            "id_mal": "10620",
-            "imagen": "https://myanimelist.net/images/anime/13/33465.jpg",
-            "titulo": "Mirai Nikki (TV)",
-            "titulo_original": "未来日記",
-            "year": "2026",
-            "etiquetas": "Action, Supernatural, Suspense",
-            "type": "tv-anime",
-            "score": "7.4",
-            "status": "Currently Airing",
-            "created_at": "2011-9-10",
-            "updated_at": "2026-04-12T09:13:32.000Z",
-            "episodes": 26
-        },
-        {
-            "id_mal": "14527",
-            "imagen": "https://myanimelist.net/images/anime/11/62919.jpg",
-            "titulo": "Medaka Box Abnormal",
-            "titulo_original": "めだかボックス アブノーマル",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Ecchi",
-            "type": "tv-anime",
-            "score": "7.4",
-            "status": "Currently Airing",
-            "created_at": "2012-11-10",
-            "updated_at": "2026-04-12T09:13:35.000Z",
-            "episodes": 12
-        },
         {
             "id_mal": "14833",
             "imagen": "https://myanimelist.net/images/anime/4/46041.jpg",
@@ -1748,21 +1720,6 @@
             "ts": 1775047628
         },
         {
-            "id_mal": "57779",
-            "imagen": "https://myanimelist.net/images/anime/1603/155354.jpg",
-            "titulo": "Dorohedoro Season 2",
-            "titulo_original": "ドロヘドロ Season2",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy, Horror",
-            "type": "anime",
-            "score": "8.3",
-            "status": "Currently Airing",
-            "episodes": 4,
-            "created_at": "2026-04-01",
-            "updated_at": "2026-04-16T06:44:17.000Z",
-            "ts": 1775045253
-        },
-        {
             "id_mal": "59708",
             "imagen": "https://myanimelist.net/images/anime/1176/153626.jpg",
             "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
@@ -1791,21 +1748,6 @@
             "created_at": "2026-03-31",
             "updated_at": "2026-04-12T09:17:25.000Z",
             "ts": 1775007691
-        },
-        {
-            "id_mal": "62825",
-            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
-            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-            "year": "2026",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Not yet aired",
-            "episodes": 3,
-            "created_at": "2026-04-04",
-            "updated_at": "2026-04-16T06:47:42.000Z",
-            "ts": 1775007368
         },
         {
             "id_mal": "62342",
@@ -2031,6 +1973,51 @@
             "episodes": "3"
         },
         {
+            "id_mal": "56734",
+            "slug": "",
+            "imagen": "https://myanimelist.net/images/anime/1423/155713.jpg",
+            "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "titulo_original": "クラスで２番目に可愛い女の子と友だちになった",
+            "year": "2026",
+            "etiquetas": "Romance",
+            "type": "anime",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "created_at": "2026-7-4",
+            "updated_at": "2026-04-16T06:43:57.000Z",
+            "episodes": 1
+        },
+        {
+            "id_mal": "57779",
+            "imagen": "https://myanimelist.net/images/anime/1603/155354.jpg",
+            "titulo": "Dorohedoro Season 2",
+            "titulo_original": "ドロヘドロ Season2",
+            "year": "2026",
+            "etiquetas": "Action, Comedy, Fantasy, Horror",
+            "type": "anime",
+            "score": "8.3",
+            "status": "Currently Airing",
+            "episodes": 4,
+            "created_at": "2026-04-01",
+            "updated_at": "2026-04-16T06:44:17.000Z",
+            "ts": 1775045253
+        },
+        {
+            "id_mal": "63469",
+            "slug": "",
+            "imagen": "https://myanimelist.net/images/anime/1813/155431.jpg",
+            "titulo": "Hyakki Yakoushou",
+            "titulo_original": "百鬼夜行抄",
+            "year": "2026",
+            "etiquetas": "Horror, Mystery, Romance, Supernatural",
+            "type": "anime",
+            "score": "5.4",
+            "status": "Currently Airing",
+            "created_at": "2026-7-4",
+            "updated_at": "2026-04-16T06:48:12.000Z",
+            "episodes": 1
+        },
+        {
             "id_mal": "62331",
             "slug": "",
             "imagen": "https://myanimelist.net/images/anime/1607/156078.jpg",
@@ -2044,6 +2031,21 @@
             "created_at": "2026-7-4",
             "updated_at": "2026-04-06T23:46:32.000Z",
             "episodes": 1
+        },
+        {
+            "id_mal": "62825",
+            "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
+            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+            "year": "2026",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": "6.5",
+            "status": "Not yet aired",
+            "episodes": 3,
+            "created_at": "2026-04-04",
+            "updated_at": "2026-04-16T06:47:42.000Z",
+            "ts": 1775007368
         },
         {
             "id_mal": "60765",
