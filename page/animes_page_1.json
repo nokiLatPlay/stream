@@ -1,13 +1,27 @@
 {
     "page": 1,
-    "total_pages": 2,
-    "total_items": 400,
+    "total_pages": 3,
+    "total_items": 401,
     "items_per_page": 200,
     "has_next": true,
     "has_prev": false,
     "next_page": 2,
     "prev_page": null,
     "data": [
+        {
+            "id_mal": "59199",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1564\/148380l.jpg",
+            "titulo": "Classic★Stars",
+            "titulo_original": "クラシック★スターズ",
+            "etiquetas": "",
+            "type": "anime",
+            "created_at": "2025-04-06",
+            "updated_at": "2026-04-16T01:02:51.000Z",
+            "year": "2025",
+            "score": "5.7",
+            "episodes": 13,
+            "status": "Finished Airing"
+        },
         {
             "id_mal": "58812",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1872\/150755l.jpg",
@@ -2990,21 +3004,6 @@
             "created_at": "2026-03-25",
             "updated_at": "2026-04-12T09:17:14.000Z",
             "ts": 1775047754
-        },
-        {
-            "id_mal": "62432",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1387\/154934l.jpg",
-            "titulo": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-            "titulo_original": "人外教室の人間嫌い教師",
-            "year": "2026",
-            "etiquetas": "Drama, Supernatural",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Currently Airing",
-            "episodes": 12,
-            "created_at": "2026-01-11",
-            "updated_at": "2026-04-12T09:17:12.000Z",
-            "ts": 1775047793
         }
     ]
 }
