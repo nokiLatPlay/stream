@@ -2,24 +2,27 @@
     "id_mal": "62512",
     "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "imagen": "https://myanimelist.net/images/anime/1153/156029.jpg",
+    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1153\/156029.jpg",
     "etiquetas": "Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The third season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
-    "score": " ",
-    "episodes": 3,
-    "duration": "Unknown",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Light novel",
+    "score": "",
+    "episodes": "3",
     "status": "Currently Airing",
+    "duration": "Unknown",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "Studio Gokumi",
         "AXsiZ"
     ],
     "producers": [],
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-16T03:18:29.000Z",
+    "updated_at": "2026-04-16T03:20:42.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -32,16 +35,10 @@
                     "portada": "",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/a639a3dfc087ae21e975449a87d57cc2",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a639a3dfc087ae21e975449a87d57cc2",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a639a3dfc087ae21e975449a87d57cc2"
                         }
                     ]
                 },
@@ -52,16 +49,10 @@
                     "portada": "",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/26ebc19616afbf0014877cbb338a53bc",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/26ebc19616afbf0014877cbb338a53bc",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/26ebc19616afbf0014877cbb338a53bc"
                         }
                     ]
                 },
@@ -72,10 +63,10 @@
                     "portada": "",
                     "enlaces": [
                         {
-                            "nombre": "HLS 1",
-                            "url": "https://player.zilla-networks.com/m3u8/b5c50f201a16da0020fdc2ad1cf3060a",
+                            "nombre": "Server 1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b5c50f201a16da0020fdc2ad1cf3060a"
                         }
                     ]
                 }
