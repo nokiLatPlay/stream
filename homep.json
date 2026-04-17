@@ -1,0 +1,28 @@
+{
+  "data": [
+     {
+      "id_tmdb": "1858",
+      "imagen": "https://image.tmdb.org/t/p/w342/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
+      "titulo": "Transformers",
+      "etiquetas": "Aventura, Ciencia ficción, Acción",
+      "categorías": "Aventura, Ciencia ficción, Acción",
+      "type": "movie",
+      "created_at": "2007-06-27",
+      "updated_at": "2025-09-09T05:54:32.390Z",
+      "calidad": "HD",
+      "year": "2007"
+    },
+    {
+      "id_tmdb": "129",
+      "imagen": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
+      "titulo": "El viaje de Chihiro",
+      "etiquetas": "Animación, Familia, Fantasía",
+      "categorías": "Animación, Familia, Fantasía",
+      "type": "movie",
+      "created_at": "2001-07-20",
+      "updated_at": "2025-09-08T21:54:35.268Z",
+      "calidad": "HD",
+      "year": "2001"
+    }
+  ]
+}
