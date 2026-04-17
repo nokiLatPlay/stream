@@ -1,6 +1,6 @@
 {
-  "data": {
-    "0": {
+  "data": [
+     {
       "id_tmdb": "1858",
       "imagen": "https://image.tmdb.org/t/p/w342/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
       "titulo": "Transformers",
@@ -12,7 +12,7 @@
       "calidad": "HD",
       "year": "2007"
     },
-    "1": {
+    {
       "id_tmdb": "129",
       "imagen": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
       "titulo": "El viaje de Chihiro",
@@ -6781,5 +6781,5 @@
       "updated_at": "2025-12-05T08:30:33.000Z",
       "year": "2021"
     }
-  }
+  ]
 }
