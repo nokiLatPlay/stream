@@ -3,12 +3,12 @@
     "titulo": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
     "titulo_original": "お隣の天使様にいつの間にか駄目人間にされていた件 2期制",
     "imagen": "https://myanimelist.net/images/anime/1989/154843.jpg",
-    "etiquetas": "Romance",
+    "etiquetas": "Romance, School",
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
-    "score": "8.3",
-    "episodes": 2,
+    "score": "8.1",
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Toho Music"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-11T22:53:04.000Z",
+    "updated_at": "2026-04-18T10:47:06.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -63,6 +63,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/322e53006cf8040801781c614e0e9f01",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/1f25738cc6bde41be109be376e033c64",
                             "type": "mp4",
                             "language": "Sub"
                         }
