@@ -4,12 +4,12 @@
     "titulo": "Mairimashita! Iruma-kun 4th Season",
     "titulo_original": "魔入りました！入間くん 第4シリーズ",
     "imagen": "https://myanimelist.net/images/anime/1434/154048.jpg",
-    "etiquetas": "Comedy, Fantasy",
+    "etiquetas": "Comedy, Fantasy, School, Shounen",
     "year": "2026",
     "type": "anime",
     "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
-    "score": "8.1",
-    "episodes": 2,
+    "score": "8.0",
+    "episodes": 3,
     "duration": "25 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-4-4",
-    "updated_at": "2026-04-11T22:48:04.000Z",
+    "updated_at": "2026-04-18T10:48:09.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -72,6 +72,26 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/f44079ae1cd9241c5f72fdeb0de667ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3929/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/5b227b7f5fd5422d7023aef2d83001df",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/549f0ea4d51d84264fd78b6eff254d65",
                             "type": "mp4",
                             "language": "Sub"
                         }
