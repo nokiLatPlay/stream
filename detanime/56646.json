@@ -4,12 +4,12 @@
     "titulo": "Hokuto no Ken: Fist of the North Star",
     "titulo_original": "北斗の拳 -FIST OF THE NORTH STAR-",
     "imagen": "https://myanimelist.net/images/anime/1581/156641.jpg",
-    "etiquetas": "Action, Drama, Sci-Fi",
+    "etiquetas": "Action, Drama, Sci-Fi, Gore, Martial Arts, Shounen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.\n\nWith the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.\n\nWhen all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins! \n\n(Source: Warner Bros. Japan, edited)",
-    "score": "6.6",
-    "episodes": 2,
+    "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.  With the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.  When all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins!   (Source: Warner Bros. Japan, edited)",
+    "score": "6.5",
+    "episodes": 4,
     "duration": "24 min",
     "rating": null,
     "source": "Manga",
@@ -26,7 +26,7 @@
         "arma bianca"
     ],
     "created_at": "2026-11-4",
-    "updated_at": "2026-04-11T22:54:18.000Z",
+    "updated_at": "2026-04-18T10:47:42.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -91,6 +91,46 @@
                         {
                             "nombre": "Server 4",
                             "url": "https://player.zilla-networks.com/m3u8/1aaabe5f8f8cf397fa015bf969994299",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3980/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/1b95dc3561e37f14053ced56f7aff3f4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/44799b11d1f085e7b12133273e0e9143",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/3980/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/6fb70a4d9b06c8a1bf879dded16775de",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/ea8fd9df01094c3c9970302214d6f2a1",
                             "type": "mp4",
                             "language": "Sub"
                         }
