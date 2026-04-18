@@ -3,13 +3,13 @@
     "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
     "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
     "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
-    "etiquetas": "Adventure, Comedy, Fantasy",
+    "etiquetas": "Adventure, Comedy, Fantasy, Isekai",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!\n\n(Source: AlphaPolis)",
+    "synopsis": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!  (Source: AlphaPolis)",
     "score": "6.5",
-    "episodes": 3,
-    "duration": "Unknown",
+    "episodes": 4,
+    "duration": "23 min",
     "rating": null,
     "source": "Light novel",
     "status": "Not yet aired",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-04",
-    "updated_at": "2026-04-16T06:47:41.000Z",
+    "updated_at": "2026-04-18T10:48:21.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -82,6 +82,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/140ad66aee61cb673307e314c410939c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/c79abdbfbb70f3d8714d66d51814a1f4",
                             "type": "mp4",
                             "language": "Sub"
                         }
