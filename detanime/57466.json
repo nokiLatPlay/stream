@@ -4,12 +4,12 @@
     "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
     "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
     "imagen": "https://myanimelist.net/images/anime/1371/155054.jpg",
-    "etiquetas": "Fantasy",
+    "etiquetas": "Fantasy, Isekai, Reincarnation",
     "year": "2026",
     "type": "anime",
     "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
-    "score": "8.1",
-    "episodes": 2,
+    "score": "8.0",
+    "episodes": 3,
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -27,7 +27,7 @@
         "TO Books"
     ],
     "created_at": "2026-4-4",
-    "updated_at": "2026-04-11T22:47:43.000Z",
+    "updated_at": "2026-04-18T10:48:00.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -68,6 +68,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/560a23671dc538330db3726107b6aa6c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/ea5bdc6c75520b2259da7b7519fcb9c6",
                             "type": "mp4",
                             "language": "Sub"
                         }
