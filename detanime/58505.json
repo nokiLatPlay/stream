@@ -2,12 +2,12 @@
     "id_mal": "58505",
     "titulo": "Mato Seihei no Slave 2",
     "titulo_original": "魔都精兵のスレイブ2",
-    "imagen": "https://myanimelist.net/images/anime/1668/148737l.jpg",
-    "etiquetas": "Action, Fantasy, Ecchi",
+    "imagen": "https://myanimelist.net/images/anime/1668/148737.jpg",
+    "etiquetas": "Action, Fantasy, Ecchi, Harem, Shounen",
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Mato Seihei no Slave.",
-    "score": "7.5",
+    "score": "7.4",
     "episodes": 12,
     "duration": "23 min per ep",
     "rating": "R+ - Mild Nudity",
@@ -25,7 +25,7 @@
         "Yostar"
     ],
     "created_at": "2026-01-08",
-    "updated_at": "2026-03-20T22:46:23.000Z",
+    "updated_at": "2026-04-19T07:31:42.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -226,6 +226,34 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/53aeabbb94f2a317411fef38b3f48fa0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/40fafae79020c70f7cf1c3a9fcd4e4d9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/6044db9ecc8ad3a1ace8f6fa3aebadb0",
                             "type": "mp4",
                             "language": "Sub"
                         }
