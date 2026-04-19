@@ -2,12 +2,12 @@
     "id_mal": "60692",
     "titulo": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
     "titulo_original": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-    "imagen": "https://myanimelist.net/images/anime/1629/153722l.jpg",
-    "etiquetas": "Action, Adventure, Fantasy",
+    "imagen": "https://myanimelist.net/images/anime/1629/153722.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Reincarnation",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Noah, the world's strongest six-year-old, holds the fortunate position of being the Thirteenth Prince of the emperor. Born with an infinite level cap and a cheat skill that allows him to add the abilities of those he commands to his own, he is unmatched. Reincarnated into a noble family, Noah thrives in an environment enriched with exceptional education and abundant resources, allowing his talents to blossom. However, behind the glamorous facade of aristocratic society lurks a world of conspiracies and power struggles.\n\n(Source: Pony Canyon)",
-    "score": "6.3",
+    "synopsis": "Noah Ararat is born into privilege as the 13th prince of an imperial dynasty and granted an existence most can only envy. After all, apart from the access to the empire's finest education and resources, Noah is a reincarnator with the memories of his previous life intact, blessed with an infinite level cap and an elite ability that allows him to utilize his subordinates' skills.  Within the imperial court, however, status alone offers no guarantee of safety. While Noah's overwhelming potential sets him apart from his siblings from the moment he begins his training, it also draws the attention of nobles whose interests extend far beyond governance. Inevitably, Noah must learn to navigate the expectations of royalty and the mechanics of his unusual power, as he realizes that privilege invites control as readily as it grants it.  [Written by MAL Rewrite]",
+    "score": "6.7",
     "episodes": 12,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -27,7 +27,7 @@
         "SB Creative"
     ],
     "created_at": "2026-01-08",
-    "updated_at": "2026-03-20T22:43:32.000Z",
+    "updated_at": "2026-04-19T07:30:03.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -248,6 +248,20 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/beb2865c46fc967690290631309c8129",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/c6bb33b9caf9fb0b461c36fc98d526a3",
                             "type": "mp4",
                             "language": "Sub"
                         }
