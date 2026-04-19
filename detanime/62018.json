@@ -7,10 +7,10 @@
     "etiquetas": "Comedy, Ecchi",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Meiko, a country girl, enrolls in a prestigious all-girls school under the condition that she joins a volunteer program. But instead of a typical school service, she finds herself living and working at a manga cafe!\n\nSurprisingly, life in a cramped booth isn't so bad—and with a staff full of cute high school girls, it might even be fun!\n\nCome enjoy the charm of a manga cafe filled with high school girls!\n\n(Source: MAL News)",
+    "synopsis": "Meiko, a country girl, enrolls in a prestigious all-girls school under the condition that she joins a volunteer program. But instead of a typical school service, she finds herself living and working at a manga cafe!  Surprisingly, life in a cramped booth isn't so bad—and with a staff full of cute high school girls, it might even be fun!  Come enjoy the charm of a manga cafe filled with high school girls!  (Source: MAL News)",
     "score": "6.6",
-    "episodes": 1,
-    "duration": "Unknown",
+    "episodes": 2,
+    "duration": "23 min per ep",
     "rating": null,
     "source": "Manga",
     "status": "Currently Airing",
@@ -21,7 +21,7 @@
         "Bushiroad"
     ],
     "created_at": "2026-12-4",
-    "updated_at": "2026-04-16T06:47:04.000Z",
+    "updated_at": "2026-04-19T12:57:26.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -42,6 +42,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/858d9cd2f744488e801a5a2a27a92ca8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3985/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/cbde82ed0018218250a561c279798444",
                             "type": "mp4",
                             "language": "Sub"
                         }
