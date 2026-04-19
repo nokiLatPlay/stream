@@ -2,11 +2,11 @@
     "id_mal": "61211",
     "titulo": "Mayonaka Heart Tune",
     "titulo_original": "真夜中ハートチューン",
-    "imagen": "https://myanimelist.net/images/anime/1769/152823l.jpg",
-    "etiquetas": "Comedy, Romance",
+    "imagen": "https://myanimelist.net/images/anime/1769/152823.jpg",
+    "etiquetas": "Comedy, Romance, Harem, School, Shounen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by \"Apollo.\" However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn't know what she looks like, or even what her real name is, but he manages to get some leads on her in his school's broadcasting club. That's where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four's dreams pan out?\n\n(Source: Kodansha USA)",
+    "synopsis": "Back in middle school, Arisu Yamabuki's only solace in life was a radio show hosted by a girl named Apollo. He used to faithfully tune into the program every night until she abruptly stopped broadcasting entirely. Despite having very few clues about Apollo's identity, Yamabuki has thoroughly investigated her, which eventually led him to enroll in the newly co-ed Furin High School, hoping to find her there.  Just as Yamabuki suspected, the broadcasting club's first announcement is made by the familiar voice he admires! Upon entering the club room, however, Yamabuki realizes that his search will not be that easy. The four members—Rikka Inohana, Shinobu Uzuki, Nene Himekawa, and Iko Kirino—all sound like Apollo in different ways.  Yamabuki joins the club primarily to find Apollo, but he soon discovers that each girl aspires to pursue her own career with her voice. Seeing that there is a lot of room for improvement, Yamabuki takes it upon himself to help the girls reach their individual goals—but he never stops looking for his favorite Apollo.  [Written by MAL Rewrite]",
     "score": "7.3",
     "episodes": 12,
     "duration": "23 min per ep",
@@ -28,7 +28,7 @@
         "INSPION Edge"
     ],
     "created_at": "2026-01-06",
-    "updated_at": "2026-03-18T11:03:43.000Z",
+    "updated_at": "2026-04-19T07:28:19.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -249,6 +249,20 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/d9afc775385a20600d46b4c3ba1654a4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/e0d89ad842cdc3d28ab33af24b38170e",
                             "type": "mp4",
                             "language": "Sub"
                         }
