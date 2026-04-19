@@ -4,12 +4,12 @@
     "titulo": "Kami no Niwatsuki Kusunoki-tei",
     "titulo_original": "神の庭付き楠木邸",
     "imagen": "https://myanimelist.net/images/anime/1974/156105.jpg",
-    "etiquetas": "Slice of Life, Supernatural",
+    "etiquetas": "Slice of Life, Supernatural, Adult Cast, Iyashikei, Mythology",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)",
+    "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?  (Source: Yen Press)",
     "score": "7.4",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -26,7 +26,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-11T22:50:35.000Z",
+    "updated_at": "2026-04-19T12:57:13.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -67,6 +67,20 @@
                         {
                             "nombre": "Server 2",
                             "url": "https://player.zilla-networks.com/m3u8/71dd032c6bd83c2544140cdd1c09a768",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3931/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/aff07461a37d79eefc8ed33acb892c6e",
                             "type": "mp4",
                             "language": "Sub"
                         }
