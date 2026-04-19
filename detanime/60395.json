@@ -2,12 +2,12 @@
     "id_mal": "60395",
     "titulo": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
     "titulo_original": "透明男と人間女～そのうち夫婦になるふたり～",
-    "imagen": "https://myanimelist.net/images/anime/1033/152494l.jpg",
-    "etiquetas": "Fantasy, Romance",
+    "imagen": "https://myanimelist.net/images/anime/1033/152494.jpg",
+    "etiquetas": "Fantasy, Romance, Adult Cast, Urban Fantasy, Workplace",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Yakou, a gentle human woman, works at a detective agency. Tounome is a smart and gentle invisible man. The invisible man's ability is perfect for detective work. However, the blind Yakou can still figure out where Tounome is, even if he disappears. Before they know it, the two become attracted to each other...?\n\n(Source: Seven Seas Entertainment)",
-    "score": "7.4",
+    "synopsis": "Yakou, a gentle human woman, works at a detective agency. Tounome is a smart and gentle invisible man. The invisible man's ability is perfect for detective work. However, the blind Yakou can still figure out where Tounome is, even if he disappears. Before they know it, the two become attracted to each other...?  (Source: Seven Seas Entertainment)",
+    "score": "7.6",
     "episodes": 12,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -25,7 +25,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-01-08",
-    "updated_at": "2026-03-20T22:46:51.000Z",
+    "updated_at": "2026-04-19T07:31:57.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -226,6 +226,34 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/18fdd77a8d6c0cb9b7118b4ec0bbd61e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/7aafa616e6957255c218ed3576cf2383",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/00d6f76f11ee40a2c80867e2d37cd1c0",
                             "type": "mp4",
                             "language": "Sub"
                         }
