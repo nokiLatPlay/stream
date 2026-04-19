@@ -2,17 +2,17 @@
     "id_mal": "62825",
     "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
     "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-    "imagen": "https://myanimelist.net/images/anime/1632/155095.jpg",
-    "etiquetas": "Adventure, Comedy, Fantasy, Isekai",
+    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1632\/155095.jpg",
+    "etiquetas": "Adventure, Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!  (Source: AlphaPolis)",
     "score": "6.5",
-    "episodes": 4,
+    "episodes": "4",
+    "status": "Currently Airing ",
     "duration": "23 min",
-    "rating": null,
+    "rating": "",
     "source": "Light novel",
-    "status": "Not yet aired",
     "studios": [
         "Studio Flad"
     ],
@@ -20,8 +20,11 @@
         "NBCUniversal Entertainment Japan",
         "Bit grooove promotion"
     ],
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
     "created_at": "2026-04-04",
-    "updated_at": "2026-04-18T10:48:21.000Z",
+    "updated_at": "2026-04-19T02:08:56.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -31,19 +34,19 @@
                     "episode_id": "01",
                     "numero": 1,
                     "nombre": "Episodio 1",
-                    "portada": "",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1pm98Zrlj1MELGldegJ5u9xe4Bl.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/7c3d6b187ff184de3c93e9c64baae40d",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7c3d6b187ff184de3c93e9c64baae40d"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7c3d6b187ff184de3c93e9c64baae40d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7c3d6b187ff184de3c93e9c64baae40d"
                         }
                     ]
                 },
@@ -51,19 +54,19 @@
                     "episode_id": "2",
                     "numero": 2,
                     "nombre": "Episodio 2",
-                    "portada": "",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/e11HvExlrbUnRKotJRTMUThLBy3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0822b2f034f02601c7e23e80c71cdd23",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0822b2f034f02601c7e23e80c71cdd23"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0822b2f034f02601c7e23e80c71cdd23",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0822b2f034f02601c7e23e80c71cdd23"
                         }
                     ]
                 },
@@ -71,19 +74,19 @@
                     "episode_id": "3",
                     "numero": 3,
                     "nombre": "Episodio 3",
-                    "portada": "",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ww5TPWeZQ9l78HO83LOuKe1uSZc.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/140ad66aee61cb673307e314c410939c",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/140ad66aee61cb673307e314c410939c"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/140ad66aee61cb673307e314c410939c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/140ad66aee61cb673307e314c410939c"
                         }
                     ]
                 },
@@ -91,13 +94,13 @@
                     "episode_id": "4",
                     "numero": 4,
                     "nombre": "Episodio 4",
-                    "portada": "",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kgndbDRcLyplbyzX0u6v854olDS.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/c79abdbfbb70f3d8714d66d51814a1f4",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c79abdbfbb70f3d8714d66d51814a1f4"
                         }
                     ]
                 }
