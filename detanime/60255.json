@@ -2,12 +2,12 @@
     "id_mal": "60255",
     "titulo": "Arne no Jikenbo",
     "titulo_original": "アルネの事件簿",
-    "imagen": "https://myanimelist.net/images/anime/1440/154894l.jpg",
-    "etiquetas": "Fantasy, Mystery",
+    "imagen": "https://myanimelist.net/images/anime/1440/154894.jpg",
+    "etiquetas": "Fantasy, Mystery, Vampire",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman's daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery. In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg,\" where non-humans live.\n\nLynn's world changes drastically when she encounters \"Arne,\" a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect?\n\n\"Come on, human. You may dance merrily under the crimson moon.\" \n\n(Source: Steam, edited)",
-    "score": "6.2",
+    "synopsis": "In the shadowy streets of Lügenberg—a city where humans and demihumans coexist in uneasy peace—an unusual detective agency operates far beyond the reach of common law. There, vampire investigator Arne Neuntöte pursues the uncanny, blurring the lines between violence and truth.  Everything begins to shift when Lynn Reinweiß, a noblewoman whose fascination with vampires outweighs her grasp of their danger, crosses paths with Arne. The two form an alliance in pursuit of bloody mysteries that emerge from Lügenberg's darkest corners as death and deception surface beneath the city's gothic veneer. Through each case they solve, Arne and Lynn discover time and again that truth is more elusive than what any surface can reveal.  [Written by MAL Rewrite]",
+    "score": "6.3",
     "episodes": 12,
     "duration": "22 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -27,7 +27,7 @@
         "Happinet Media Marketing"
     ],
     "created_at": "2026-01-07",
-    "updated_at": "2026-03-20T22:40:42.000Z",
+    "updated_at": "2026-04-19T07:28:45.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -248,6 +248,20 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/82ea09553e5ec374c152d940b294a82e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/3aee39aa061102c50d93340a014ada35",
                             "type": "mp4",
                             "language": "Sub"
                         }
