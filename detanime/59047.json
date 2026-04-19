@@ -2,11 +2,11 @@
     "id_mal": "59047",
     "titulo": "Tamon-kun Ima Docchi!?",
     "titulo_original": "多聞くん今どっち!?",
-    "imagen": "https://myanimelist.net/images/anime/1474/153320l.jpg",
-    "etiquetas": "Comedy, Romance",
+    "imagen": "https://myanimelist.net/images/anime/1474/153320.jpg",
+    "etiquetas": "Comedy, Romance, Idols (Male), Shoujo",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Idol group F/ACE has recently risen in popularity all thanks to Tamon Fukuhara—its handsome, wild, and talented leader. Seventeen-year-old Utage Kinoshita is one of the vocal fans who greatly admires F/ACE. As her life revolves around worshiping Tamon, Utage works at a housecleaning company to earn money and continue supporting him.\n\nWhen her coworker gets sick, Utage is assigned to a new client with the same name as Tamon. She believes it is merely a coincidence—until she comes face to face with the real celebrity! Her surprise only grows when she discovers that, unlike the extroverted superstar known to the public, Tamon is actually a gloomy guy with no friends or self-confidence.\n\nGiven that Utage's adoration for Tamon knows no bounds, she vows to keep his secret and stay by his side—but dealing with Tamon's contrasting behaviors in and out of work might be the toughest job out there.\n\n[Written by MAL Rewrite]",
+    "synopsis": "Seventeen-year-old Utage Kinoshita lives and breathes for her favorite idol group, F/ACE—but the group's center, Tamon Fukuhara, occupies a special place in her heart. Every waking moment Utage dedicates to the thoughts of the wild and sexy Tamon, even taking on a part-time housecleaning job just to afford her fangirl lifestyle.  What was supposed to be an ordinary job turns out to be anything but when Utage realizes she is cleaning the apartment of the very idol she so fervently admires! But adding to the surprise, Tamon is nothing like his on-stage persona; he suffers from severe anxiety and painfully low self-esteem. Keenly aware of the gap between their worlds, Utage cannot bear to see Tamon so depressed and decides to support him the best she can as his housekeeper.  As time passes, Utage becomes more and more privy to the aspects of Tamon's life he reveals to nobody else. And the bond that forms between them soon leaves Utage wondering if she has accidentally crossed the sacred line between fan and idol.  [Written by MAL Rewrite]",
     "score": "7.9",
     "episodes": 13,
     "duration": "23 min per ep",
@@ -23,7 +23,7 @@
         "King Records"
     ],
     "created_at": "2026-01-04",
-    "updated_at": "2026-03-18T10:56:47.000Z",
+    "updated_at": "2026-04-19T07:26:39.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -244,6 +244,34 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/0df1b78ef133262172bf3c513b87063a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/21efb9ce05bf23eabf7c6871eb4cd86c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/f5eb19bbdce8e1d660172fe59ed13bf7",
                             "type": "mp4",
                             "language": "Sub"
                         }
