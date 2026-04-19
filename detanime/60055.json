@@ -1,0 +1,54 @@
+{
+    "id_mal": "60055",
+    "anime_id": "3988",
+    "slug": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "titulo": "Mission: Yozakura Family Season 2",
+    "titulo_original": "夜桜さんちの大作戦 第2期",
+    "imagen": "https://myanimelist.net/images/anime/1230/155783.jpg",
+    "etiquetas": "Action, Comedy, Shounen",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "Second season of Yozakura-san Chi no Daisakusen.",
+    "duration": "24 min",
+    "score": "7.7",
+    "episodes": 2,
+    "status": "Currently Airing",
+    "spanish_status": "En emisión",
+    "created_at": "2026-04-12",
+    "updated_at": "2026-04-19T12:58:36.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "1",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3988/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/ad50ea1b1b01bd060cba92958a4d76e0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "2",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3988/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/f8cb84ed814aa807cc99ec366b384b1b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
