@@ -2,12 +2,12 @@
     "id_mal": "55830",
     "titulo": "Fate/strange Fake",
     "titulo_original": "Fate/strange Fake",
-    "imagen": "https://myanimelist.net/images/anime/1752/150192l.jpg",
-    "etiquetas": "Action, Fantasy",
+    "imagen": "https://myanimelist.net/images/anime/1752/150192.jpg",
+    "etiquetas": "Action, Fantasy, Urban Fantasy",
     "year": "2026",
     "type": "anime",
-    "synopsis": "A new Holy Grail War is emerging in Snowfield, Nevada, where mages from around the world summon Servants, heroic spirits drawn from myth and history, to fight on their behalf. However, this war seems to differ from previous ones. The organization behind it appears to have used data from the Fuyuki Grail War for their ritual, resulting in strange happenings. \n\nUnbeknownst to most participants, this budding conflict is actually a fake Grail War. There exists another set of seven true Servants who are summoned to fight in the genuine Holy Grail War. One of these Servants is a powerful Saber-class who saves the life of Ayaka Sajou, his apparent master, after being summoned. \n\nWith hidden agendas and unpredictable forces at play, the line between the fake and true Grail War becomes unclear, turning Snowfield into a dangerous battlefield.\n\n[Written by MAL Rewrite]",
-    "score": "8.5",
+    "synopsis": "A new Holy Grail War is emerging in Snowfield, Nevada, where mages from around the world summon Servants, heroic spirits drawn from myth and history, to fight on their behalf. However, this war seems to differ from previous ones. The organization behind it appears to have used data from the Fuyuki Grail War for their ritual, resulting in strange happenings.   Unbeknownst to most participants, this budding conflict is actually a fake Grail War. There exists another set of seven true Servants who are summoned to fight in the genuine Holy Grail War. One of these Servants is a powerful Saber-class who saves the life of Ayaka Sajou, his apparent master, after being summoned.   With hidden agendas and unpredictable forces at play, the line between the fake and true Grail War becomes unclear, turning Snowfield into a dangerous battlefield.  [Written by MAL Rewrite]",
+    "score": "8.3",
     "episodes": 13,
     "duration": "24 min per ep",
     "rating": "R - 17+ (violence & profanity)",
@@ -25,7 +25,7 @@
         "INSPION Edge"
     ],
     "created_at": "2026-01-03",
-    "updated_at": "2026-03-18T10:54:42.000Z",
+    "updated_at": "2026-04-19T07:26:27.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -246,6 +246,34 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/62674e57934627364219c62fa303f434",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/52963be1d92b3597109926426dc720ed",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/2cb5d740b2b18d8d5b516583084b4a8e",
                             "type": "mp4",
                             "language": "Sub"
                         }
