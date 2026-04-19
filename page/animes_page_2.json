@@ -9,6 +9,20 @@
     "prev_page": 1,
     "data": [
         {
+            "id_mal": "54913",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1212\/144711.jpg",
+            "titulo": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+            "titulo_original": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2024-2-7",
+            "updated_at": "2026-04-12T09:13:09.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "54233",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1455\/141858.jpg",
             "titulo": "Sasayaku You ni Koi wo Utau",
@@ -3001,22 +3015,6 @@
             "created_at": "2009-05-22",
             "updated_at": "2026-03-26T14:57:54.318393",
             "ts": 1774537074
-        },
-        {
-            "id_mal": "37987",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1825\/110716.jpg",
-            "titulo": "Violet Evergarden Movie",
-            "titulo_original": "劇場版 ヴァイオレット・エヴァーガーデン",
-            "year": "2020",
-            "etiquetas": "Award Winning, Drama",
-            "type": "movie",
-            "score": "8.8",
-            "status": "Finished Airing",
-            "created_at": "2020-09-18",
-            "updated_at": "2026-03-26T13:14:46.827981",
-            "episodes": 1,
-            "calidad": "HD"
         }
     ]
 }
