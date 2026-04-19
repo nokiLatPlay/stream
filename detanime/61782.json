@@ -2,11 +2,11 @@
     "id_mal": "61782",
     "titulo": "Kirei ni Shitemoraemasu ka.",
     "titulo_original": "綺麗にしてもらえますか。",
-    "imagen": "https://myanimelist.net/images/anime/1940/154234l.jpg",
-    "etiquetas": "Slice of Life",
+    "imagen": "https://myanimelist.net/images/anime/1940/154234.jpg",
+    "etiquetas": "Slice of Life, Seinen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "With an endearing protagonist and luscious art, this seaside slice-of-life story offers tranquility in the chaos of the modern world. For two years, Wakana Kinme has run a laundry service in the seaside resort town of Atami, where she's built a fulfilling life making friends with the locals and visiting hot springs. Although Wakana has no knowledge of her own past, her cleaning services safeguard memories imbued in customers' precious items.\n\n(Source: Square Enix)",
+    "synopsis": "In the quaint seaside resort town of Atami lies Kinme Cleaning, a laundry service run by Wakana Kinme. Despite having no memory of her life before moving there, Wakana has spent the past two years quietly building a new life among the locals. She tends to garments entrusted to her with gentle hands and meticulous care, each carrying memories far more fragile than the fabric itself.  Wakana becomes a familiar presence in the town as she shares small yet precious moments with everyone. The clothing she cleans tells stories of their owners' everyday lives, allowing her to safeguard their memories even as her own remain out of reach. As she continues to wash away stains both physical and psychological, her life becomes a gentle testament to the comfort found in ordinary moments—and to the idea that even without a past, she can still belong.  [Written by MAL Rewrite]",
     "score": "6.9",
     "episodes": 12,
     "duration": "23 min per ep",
@@ -29,7 +29,7 @@
         "Happinet Media Marketing"
     ],
     "created_at": "2026-01-05",
-    "updated_at": "2026-03-18T11:01:56.000Z",
+    "updated_at": "2026-04-19T07:27:51.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -250,6 +250,20 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/51e12a274a0ff9a3cd8d9e7125ee8ac4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/659b0583c2cdf364227042acf94be5a9",
                             "type": "mp4",
                             "language": "Sub"
                         }
