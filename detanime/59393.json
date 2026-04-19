@@ -2,13 +2,13 @@
     "id_mal": "59393",
     "titulo": "Niwatori Fighter",
     "titulo_original": "ニワトリ・ファイター",
-    "imagen": "https://myanimelist.net/images/anime/1666/150983l.jpg",
-    "etiquetas": "Action, Comedy",
+    "imagen": "https://myanimelist.net/images/anime/1666/150983.jpg",
+    "etiquetas": "Action, Comedy, Anthropomorphic",
     "year": "2026",
     "type": "anime",
-    "synopsis": "The neighborhood cock of the walk is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!\r\n\r\n(Source: VIZ Media)",
-    "score": "7.2",
-    "episodes": "2",
+    "synopsis": "The neighborhood cock of the walk is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!  (Source: VIZ Media)",
+    "score": "6.9",
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -25,7 +25,7 @@
     "aired_to": "",
     "aired_string": "",
     "created_at": "2026-03-15",
-    "updated_at": "2026-04-04T20:17:35.000Z",
+    "updated_at": "2026-04-19T12:58:07.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -124,6 +124,60 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/e5df83c974e2754fd9af0cbd778e76c7"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/3ca76489bc34cf42420c2f4fae702c53",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/31b56d84719503057cc6e80aeb6c0de1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/4b1b3393d29b2c906ca01e00f6cffed4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/7f1415360d1df7f2c637e6c970ce2298",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "6",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/db5e95f02d0d23a16a6b9322c545365e",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
