@@ -1,25 +1,39 @@
 {
     "id_mal": "61931",
-    "anime_id": "3951",
     "titulo": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
     "titulo_original": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
-    "imagen": "https://myanimelist.net/images/anime/1916/155657.jpg",
-    "etiquetas": "Fantasy, Isekai, Villainess, Josei",
+    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1916\/155657.jpg",
+    "etiquetas": "Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
-    "score": "7.3",
-    "episodes": 3,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Light novel",
+    "score": "7.2",
+    "episodes": "3",
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "OLM"
     ],
-    "producers": [],
-    "created_at": "2026-7-4",
-    "updated_at": "2026-04-22T13:50:17.000Z",
+    "producers": [
+        "Mainichi Broadcasting System",
+        "Movic",
+        "DAX Production",
+        "Tokyo MX",
+        "BS11",
+        "Ichijinsha",
+        "Nichion",
+        "MAGNET",
+        "AQUA ARIS",
+        "Pia",
+        "FuRyu Pictures"
+    ],
+    "aired_from": "",
+    "aired_to": "",
+    "aired_string": "",
+    "created_at": "2026-04-07",
+    "updated_at": "2026-04-22T15:17:38.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -28,48 +42,48 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3951/1.jpg",
+                    "nombre": "La Reina Cruel y el Prometido",
+                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0b7994fa19d070513a5a87c1d09a30d8",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0b7994fa19d070513a5a87c1d09a30d8"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0b7994fa19d070513a5a87c1d09a30d8",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0b7994fa19d070513a5a87c1d09a30d8"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3951/2.jpg",
+                    "nombre": "La Reina Cruel Habla",
+                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/b3671f185822e344857263238c55ed01",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b3671f185822e344857263238c55ed01"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https://cdn.animeav1.com/screenshots/3951/3.jpg",
+                    "nombre": "La Reina Cruel y la Verdad",
+                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/b41a1c15404bd813fea1b236994541af",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b41a1c15404bd813fea1b236994541af"
                         }
                     ]
                 }
