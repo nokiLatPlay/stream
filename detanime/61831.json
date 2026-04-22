@@ -2,15 +2,15 @@
     "id_mal": "61831",
     "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
     "titulo_original": "最強の王様、二度目の人生は何をする? Season2",
-    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156028.jpg",
-    "etiquetas": "Fantasy",
+    "imagen": "https://myanimelist.net/images/anime/1738/156028.jpg",
+    "etiquetas": "Fantasy, Isekai, Reincarnation",
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
-    "score": "0.0",
-    "episodes": "3",
+    "score": "5.8",
+    "episodes": 4,
     "status": "Currently Airing",
-    "duration": "24 min por ep.",
+    "duration": "22 min",
     "rating": "",
     "source": "Other",
     "studios": [
@@ -23,7 +23,7 @@
     "aired_to": "",
     "aired_string": "",
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-16T02:53:22.000Z",
+    "updated_at": "2026-04-22T13:53:36.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -39,25 +39,25 @@
                             "nombre": "Server 1",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/9fd369866450cb933c1ae31fc5ad6e94"
+                            "url": "https://player.zilla-networks.com/play/9fd369866450cb933c1ae31fc5ad6e94"
                         },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9fd369866450cb933c1ae31fc5ad6e94"
+                            "url": "https://player.zilla-networks.com/m3u8/9fd369866450cb933c1ae31fc5ad6e94"
                         },
                         {
                             "nombre": "Server 3",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/mega.nz\/embed\/NzwjzbqA#LGJTBWEIwLVCr6usSUYlTUfJV-Bd2pGNDQTjT_UKWR0"
+                            "url": "https://mega.nz/embed/NzwjzbqA#LGJTBWEIwLVCr6usSUYlTUfJV-Bd2pGNDQTjT_UKWR0"
                         },
                         {
                             "nombre": "Server 4",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/www.mp4upload.com\/embed-m00a4u0a2esb.html"
+                            "url": "https://www.mp4upload.com/embed-m00a4u0a2esb.html"
                         }
                     ]
                 },
@@ -71,25 +71,25 @@
                             "nombre": "Server 1",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/96e75beca210d684f5bad66fc17640f4"
+                            "url": "https://player.zilla-networks.com/play/96e75beca210d684f5bad66fc17640f4"
                         },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/96e75beca210d684f5bad66fc17640f4"
+                            "url": "https://player.zilla-networks.com/m3u8/96e75beca210d684f5bad66fc17640f4"
                         },
                         {
                             "nombre": "Server 3",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/mega.nz\/embed\/nt5hxLoa#JnGwSXY5uPpnWg5iRMhCvzCFQiq1A7mywC76Jdb9PUI"
+                            "url": "https://mega.nz/embed/nt5hxLoa#JnGwSXY5uPpnWg5iRMhCvzCFQiq1A7mywC76Jdb9PUI"
                         },
                         {
                             "nombre": "Server 4",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/www.mp4upload.com\/embed-2y9ag1gttvt4.html"
+                            "url": "https://www.mp4upload.com/embed-2y9ag1gttvt4.html"
                         }
                     ]
                 },
@@ -103,13 +103,27 @@
                             "nombre": "Server 1",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/b1f373b6a405f40d90bce07caa39dd56"
+                            "url": "https://player.zilla-networks.com/play/b1f373b6a405f40d90bce07caa39dd56"
                         },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b1f373b6a405f40d90bce07caa39dd56"
+                            "url": "https://player.zilla-networks.com/m3u8/b1f373b6a405f40d90bce07caa39dd56"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/935541ebe8f19d6bb063b61d9c45098d",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
