@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.  (Source: MU)",
     "score": "5.4",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "4 min",
     "rating": null,
     "source": "Manga",
@@ -20,7 +20,7 @@
     ],
     "producers": [],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T08:16:33.000Z",
+    "updated_at": "2026-04-22T13:51:20.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -55,6 +55,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/a8e7913ade04713bf2959f886ce4097e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3958/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/9e30950ad1fc1c46238ca14a8d4df384",
                             "type": "mp4",
                             "language": "Sub"
                         }
