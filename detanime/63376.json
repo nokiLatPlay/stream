@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "The protagonist of the tale, simply referred to as \"I,\" experiences an endless cycle of reincarnation. The narrative takes place in a different universe where people are free to select their next form. However, the waiting list for popular roles, like \"Demon King\" or \"Hero with Cheat Skills and a Harem,\" has reached 50,000 years due to a recent spike in applications.  The protagonist decides to repeatedly reincarnate into increasingly strange forms because he refuses to wait. These roles include the rib of a hero in charge of a harem, a hermit crab, a vegetable, and even an explosive used to blow up blissfully happy couples.  (Source: MAL News)",
     "score": "6.2",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "22 min",
     "rating": null,
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Takarajimasha"
     ],
     "created_at": "2026-8-4",
-    "updated_at": "2026-04-16T08:17:29.000Z",
+    "updated_at": "2026-04-22T13:52:04.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -57,6 +57,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/fcdbbc7c8cb4eac7e3d51d5a9692eb51",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3952/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/e5087307e9da74f826e98fa5683d5c4a",
                             "type": "mp4",
                             "language": "Sub"
                         }
