@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "The story follows Koichi Asakura, a designer for an ad agency who works hard but receives no recognition. After being dropped from a project, he visits a place from his past, where he met Eren Yamagishi. Eren, meanwhile, is recognized as a genius left-handed graffiti artist in New York, while enduring the struggles that come from her own path in life.  (Source: Crunchyroll)",
     "score": "6.5",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "25 min per ep",
     "rating": null,
     "source": "Web manga",
@@ -22,7 +22,7 @@
         "GAGA"
     ],
     "created_at": "2026-8-4",
-    "updated_at": "2026-04-16T08:17:16.000Z",
+    "updated_at": "2026-04-22T13:51:33.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -57,6 +57,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/81332b4d2c7c6f4ac2b59bd25aa660a4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3954/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/325513337d33792ae2fe168b19e35bc2",
                             "type": "mp4",
                             "language": "Sub"
                         }
