@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.  (Source: Kadokawa)",
     "score": "6.9",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "24 min per ep",
     "rating": null,
     "source": "Light novel",
@@ -21,7 +21,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T08:17:01.000Z",
+    "updated_at": "2026-04-22T13:50:53.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -56,6 +56,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/1b994eea567dd458309e6f7d32c123ba",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3956/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/6423e3d70bb8d457a054829373ab1e26",
                             "type": "mp4",
                             "language": "Sub"
                         }
