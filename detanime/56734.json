@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.  (Source: MAL News)",
     "score": "7.6",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Light novel",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T08:17:08.000Z",
+    "updated_at": "2026-04-22T13:51:07.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -56,6 +56,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/059f175ada2fa9be37a080ac1955b968",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3955/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/19276cd7b49a66f05d700ba1354bbefe",
                             "type": "mp4",
                             "language": "Sub"
                         }
