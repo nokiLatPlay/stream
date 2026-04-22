@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
     "score": "7.3",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-7-4",
-    "updated_at": "2026-04-16T08:16:39.000Z",
+    "updated_at": "2026-04-22T13:50:17.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -54,6 +54,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/b3671f185822e344857263238c55ed01",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3951/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/b41a1c15404bd813fea1b236994541af",
                             "type": "mp4",
                             "language": "Sub"
                         }
