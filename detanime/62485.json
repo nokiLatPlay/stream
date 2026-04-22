@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Fifth season of Kanojo, Okarishimasu.",
     "score": "6.1",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -25,7 +25,7 @@
         "DMM Music"
     ],
     "created_at": "2026-11-4",
-    "updated_at": "2026-04-16T08:17:47.000Z",
+    "updated_at": "2026-04-22T13:52:30.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -60,6 +60,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/180198b60f9d5622152ac7c8ad285257",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3967/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/21ad1b4eef22200ccba191f483a59b00",
                             "type": "mp4",
                             "language": "Sub"
                         }
