@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.  (Source: Kadokawa)",
     "score": "8.7",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
@@ -26,7 +26,7 @@
         "DAXEL"
     ],
     "created_at": "2026-8-4",
-    "updated_at": "2026-04-16T08:18:05.000Z",
+    "updated_at": "2026-04-22T13:52:43.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -63,6 +63,26 @@
                             "url": "https://player.zilla-networks.com/m3u8/2270bd6b44f7a291670dd66a1d81d258",
                             "type": "mp4",
                             "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3968/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/b056d204c5716792256be64581e5beb7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https://player.zilla-networks.com/m3u8/b3990d9b7a75c7b5ba9d21a91e2d58f2",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 }
