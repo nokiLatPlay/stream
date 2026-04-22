@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Maria, the daughter of a duke, grew up believing she would one day inherit her father's dukedom. Accordingly, she focused her attentions on honing her martial arts prowess, while thoughts of marriage fell by the wayside. But the arrival of a baby brother in her family means she's losing her role as heir! Now that she's decided it's time to marry after all, she's arrived a little late to the game! Are there even any eligible bachelors left?  Upon going to study abroad in a neighboring country where she might still stand a chance at getting hitched, she's bewildered when the crown prince there declares before all that his engagement to her is null and void! Wait... what engagement?!  Apparently, he's mistaken her for the wrong girl! But once that's all cleared up and he catches sight of her knocking out a whole pack of bandits, it turns out that this prince may have a thing for ass-kicking young ladies after all.  (Source: Square Enix)",
     "score": "7.3",
-    "episodes": 3,
+    "episodes": 4,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Light novel",
@@ -26,7 +26,7 @@
         "DMM.com"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-16T08:18:22.000Z",
+    "updated_at": "2026-04-22T14:27:38.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -81,6 +81,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/23adcf3952343383ef30a0216ef870e2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "4",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/2ba5129de88b21196c1c82b5be0aaaf8",
                             "type": "mp4",
                             "language": "Sub"
                         }
