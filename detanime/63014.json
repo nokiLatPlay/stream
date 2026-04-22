@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "So is this what it means to have roommates now?! Office worker Rinko, 24, lives alone and is secretly an otaku. One day, her apartment gets connected to the two neighboring rooms through a \"hole\" in the wall.  In the room on the left is a fresh-faced yet mysterious guy who is overly-sweet to Rinko.  The room on the right is occupied by a guy with violent tendencies who is similarly mysterious... But wait! \"I... I think I know him!\" Rinko's only source of solitude, her apartment, has been turned upside down. Now, every day is full of heart-pounding surprises!  (Source: MangaPlaza)",
     "score": "6.6",
-    "episodes": 2,
+    "episodes": 3,
     "duration": "22 min",
     "rating": null,
     "source": "Web manga",
@@ -21,7 +21,7 @@
         "NTT Solmare"
     ],
     "created_at": "2026-8-4",
-    "updated_at": "2026-04-16T08:17:22.000Z",
+    "updated_at": "2026-04-22T13:51:47.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -56,6 +56,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/10628a9cfe54cc9c498d8ad6f2e7bfc0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "3",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3953/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/6b86ee5e0d58028e15f6d8d002262662",
                             "type": "mp4",
                             "language": "Sub"
                         }
