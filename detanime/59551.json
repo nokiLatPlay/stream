@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Okuto Nakamura is a timid and gloomy-looking student who cherishes only two things in this world: his pet octopus and his kind-hearted classmate, Aiki Hirose. Ever since the school entrance ceremony, Nakamura has admired his jovial classmate, albeit from a distance due to his poor social skills. After mustering up all the courage within him, he finally decides to talk to Hirose.  During this first attempt to make contact, an instinctive mistake turns the idea of friendship into a distant dream, as he creates a hilarious impression on his crush. At school, students are expected to cooperate on numerous activities together, meaning Nakamura gets to spend extra time with Hirose. Given these opportunities, can he successfully redeem himself and accomplish his goal of becoming good friends with Hirose?  [Written by MAL Rewrite]",
     "score": "7.8",
-    "episodes": 4,
+    "episodes": 5,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Manga",
@@ -23,7 +23,7 @@
         "Kinoshita Group Holdings"
     ],
     "created_at": "2026",
-    "updated_at": "2026-04-16T08:18:31.000Z",
+    "updated_at": "2026-04-22T13:53:49.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -134,6 +134,20 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/a6acbdf9c9b480e77bc6008583cbb603",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "5",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://player.zilla-networks.com/m3u8/78c3e336a52728a0228ad3b1275c6d01",
                             "type": "mp4",
                             "language": "Sub"
                         }
