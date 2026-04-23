@@ -1,6 +1,6 @@
 {
   "data": [
-     {
+    "0": {
       "id_tmdb": "1858",
       "imagen": "https://image.tmdb.org/t/p/w342/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
       "titulo": "Transformers",
@@ -12,7 +12,7 @@
       "calidad": "HD",
       "year": "2007"
     },
-    {
+   "1":  {
       "id_tmdb": "129",
       "imagen": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
       "titulo": "El viaje de Chihiro",
@@ -24,7 +24,7 @@
       "calidad": "HD",
       "year": "2001"
     },
-    "2": {
+   "2": {
       "id_tmdb": "196",
       "imagen": "https://image.tmdb.org/t/p/w342/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",
       "titulo": "Volver al Futuro 3",
@@ -48,7 +48,7 @@
       "calidad": "HD",
       "year": "1984"
     },
-    "4": {
+  "4": {
       "id_tmdb": "297",
       "imagen": "https://image.tmdb.org/t/p/w342/z2jzFfXTXnZ7oytCiIEieSXDb1b.jpg",
       "titulo": "¿Conoces a Joe Black?",
@@ -84,7 +84,7 @@
       "calidad": "HD",
       "year": "1997"
     },
-    "7": {
+     "7": {
       "id_tmdb": "331",
       "imagen": "https://image.tmdb.org/t/p/w342/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",
       "titulo": "Parque Jurásico III",
@@ -108,7 +108,7 @@
       "calidad": "HD",
       "year": "2004"
     },
-    "9": {
+     "9": {
       "id_tmdb": "497",
       "imagen": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
       "titulo": "Milagros Inesperados",
@@ -6751,7 +6751,7 @@
       "updated_at": "2025-12-05T07:19:50.000Z",
       "year": "2019"
     },
-    "628": {
+    "628":{
       "id_tmdb": "45544",
       "imagen": "https://image.tmdb.org/t/p/w500/iGhK7nsUsiHcGv1tvIBPjzDLabC.jpg",
       "titulo": "La princesa abandonada",
@@ -6761,7 +6761,7 @@
       "updated_at": "2025-12-05T07:25:52.000Z",
       "year": "2003"
     },
-    "629": {
+     "629": {
       "id_tmdb": "60863",
       "imagen": "https://image.tmdb.org/t/p/w500/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
       "titulo": "Haikyuu!! Los ases del vóley",
@@ -6771,7 +6771,7 @@
       "updated_at": "2025-12-05T07:30:41.000Z",
       "year": "2014"
     },
-    "630": {
+  "630":  {
       "id_tmdb": "94605",
       "imagen": "https://image.tmdb.org/t/p/w500/i1vSPUbiBe2iK2HapGDfHItBFlC.jpg",
       "titulo": "Arcane",
