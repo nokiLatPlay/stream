@@ -5,9 +5,21 @@
     "items_per_page": 200,
     "has_next": true,
     "has_prev": true,
-    "next_page": 3,
-    "prev_page": 1,
     "data": [
+        {
+            "id_mal": "33487",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/83709.jpg",
+            "titulo": "Masamune-kun no Revenge",
+            "titulo_original": "政宗くんのリベンジ",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance",
+            "type": "tv-anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2017-5-1",
+            "updated_at": "2026-04-12T09:13:52.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "31442",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/78339.jpg",
@@ -609,20 +621,6 @@
             "score": "7.2",
             "status": "Currently Airing",
             "episodes": 2
-        },
-        {
-            "id_mal": "62146",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
-            "titulo": "Isekai Nonbiri Nouka 2",
-            "titulo_original": "異世界のんびり農家2",
-            "etiquetas": "Fantasy, Slice of Life",
-            "type": "tv-anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-04-12T09:12:18.000Z",
-            "year": "2026",
-            "score": "",
-            "status": "Currently Airing",
-            "episodes": 0
         },
         {
             "id_mal": "63310",
