@@ -9,6 +9,20 @@
     "prev_page": null,
     "data": [
         {
+            "id_mal": "51553",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1726\/155542.jpg",
+            "titulo": "Tongari Boushi no Atelier",
+            "titulo_original": "とんがり帽子のアトリエ",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-30",
+            "updated_at": "2026-04-30T04:22:23.000Z",
+            "year": "2026",
+            "score": "8.8",
+            "status": "Currently Airing",
+            "episodes": "2"
+        },
+        {
             "id_mal": "61831",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156028.jpg",
             "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
@@ -2909,20 +2923,6 @@
             "created_at": "2017-5-1",
             "updated_at": "2026-04-12T09:13:52.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "31442",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/78339.jpg",
-            "titulo": "Musaigen no Phantom World",
-            "titulo_original": "無彩限のファントム・ワールド",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy, Ecchi",
-            "type": "tv-anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2016-7-1",
-            "updated_at": "2026-04-12T09:13:47.000Z",
-            "episodes": 13
         }
     ]
 }
