@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 598,
+    "total_items": 599,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61114",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1710\/150907.webp",
+            "titulo": "Beastars Final Season Part 2",
+            "titulo_original": "BEASTARS (新章)",
+            "etiquetas": "Drama, Shounen, Suspenso, Antropomórfico, Psicológico",
+            "type": "anime",
+            "created_at": "2026-03-07",
+            "updated_at": "2026-05-01T00:34:29.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62146",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
@@ -2905,20 +2919,6 @@
             "created_at": "2020-7-1",
             "updated_at": "2026-04-12T09:13:55.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "39196",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1009\/103187.jpg",
-            "titulo": "Mairimashita! Iruma-kun",
-            "titulo_original": "魔入りました！入間くん",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2019-5-10",
-            "updated_at": "2026-04-12T09:13:53.000Z",
-            "episodes": 23
         }
     ]
 }
