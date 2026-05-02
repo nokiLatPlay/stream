@@ -1,9 +1,23 @@
 {
     "page": 1,
-    "total_pages": 3,
-    "total_items": 600,
+    "total_pages": 4,
+    "total_items": 601,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61150",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187387-dbi9hPNKyA35.jpg",
+            "titulo": "Onmyo Kaiten Re:verse",
+            "titulo_original": "陰陽廻天 Re:バース",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-07-03",
+            "updated_at": "2026-05-01T23:32:59.000Z",
+            "year": "2025",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "49469",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136880-2sAQF6OtPE5M.png",
@@ -2904,20 +2918,6 @@
             "status": "Finished Airing",
             "created_at": "2021-9-7",
             "updated_at": "2026-04-12T09:13:58.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "40397",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1448\/108514.jpg",
-            "titulo": "Maoujou de Oyasumi",
-            "titulo_original": "魔王城でおやすみ",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "created_at": "2020-6-10",
-            "updated_at": "2026-04-12T09:13:56.000Z",
             "episodes": 12
         }
     ]
