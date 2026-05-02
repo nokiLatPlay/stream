@@ -1,9 +1,25 @@
 {
     "page": 3,
-    "total_pages": 3,
-    "total_items": 600,
+    "total_pages": 4,
+    "total_items": 601,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "3848",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1709\/135258.jpg",
+            "titulo": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+            "titulo_original": "ＯＮＥ ＰＩＥＣＥ（ワンピース） エピソードオブチョッパー＋冬に咲く、奇跡の桜",
+            "year": "2008",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2008-03-01",
+            "updated_at": "2026-03-28T09:50:56.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "4155",
             "slug": "",
@@ -3025,21 +3041,6 @@
             "status": "",
             "created_at": "2025-10-12",
             "updated_at": "2026-03-07T15:39:46.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60765",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1810\/153334l.jpg",
-            "titulo": "Kimi to Koete Koi ni Naru",
-            "titulo_original": "キミと越えて恋になる",
-            "year": "2025",
-            "etiquetas": "Fantasy, Romance",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2025-10-14",
-            "updated_at": "2026-03-07T15:39:13.000Z",
             "episodes": 12
         }
     ]
