@@ -1,9 +1,23 @@
 {
     "page": 2,
-    "total_pages": 3,
-    "total_items": 600,
+    "total_pages": 4,
+    "total_items": 601,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40397",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1448\/108514.jpg",
+            "titulo": "Maoujou de Oyasumi",
+            "titulo_original": "魔王城でおやすみ",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "tv-anime",
+            "score": "8.0",
+            "status": "Finished Airing",
+            "created_at": "2020-6-10",
+            "updated_at": "2026-04-12T09:13:56.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "40483",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1558\/104666.jpg",
@@ -2966,22 +2980,6 @@
             "status": "Finished Airing",
             "created_at": "2007-03-03",
             "updated_at": "2026-03-28T09:51:07.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "3848",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1709\/135258.jpg",
-            "titulo": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
-            "titulo_original": "ＯＮＥ ＰＩＥＣＥ（ワンピース） エピソードオブチョッパー＋冬に咲く、奇跡の桜",
-            "year": "2008",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2008-03-01",
-            "updated_at": "2026-03-28T09:50:56.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
