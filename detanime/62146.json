@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Isekai Nonbiri Nouka.",
     "score": "7.5",
-    "episodes": 4,
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-04T05:39:28.000Z",
+    "updated_at": "2026-05-04T13:50:43.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -79,6 +79,20 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/913c719f7d713be8ef65c4f285a69276"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Otro día de paz",
+                    "portada": "https://image.tmdb.org/t/p/w300/7Ox0WlkiBTEYUKfFQ8JT6Y8yC2g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e0bf4ed9ed54bbd248d58bf50e582fed"
                         }
                     ]
                 }
