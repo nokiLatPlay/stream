@@ -1,6 +1,5 @@
 {
     "id_mal": "56734",
-    "anime_id": "3955",
     "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
     "titulo_original": "クラスで２番目に可愛い女の子と友だちになった",
     "imagen": "https://myanimelist.net/images/anime/1423/155713.jpg",
@@ -9,20 +8,19 @@
     "type": "anime",
     "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.  (Source: MAL News)",
     "score": "7.6",
-    "episodes": 3,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Light novel",
+    "episodes": 4,
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "Connect"
     ],
     "producers": [
         "Bit grooove promotion"
     ],
-    "created_at": "2026-7-4",
-    "updated_at": "2026-04-22T13:51:07.000Z",
-    "player_base": [],
+    "created_at": "",
+    "updated_at": "2026-05-04T05:20:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -30,48 +28,62 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Una chica llamada Umi Asanagi",
                     "portada": "https://cdn.animeav1.com/screenshots/3955/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/c4d9b96b668b6aeaa818890672eadf42",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/play/c4d9b96b668b6aeaa818890672eadf42"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/c4d9b96b668b6aeaa818890672eadf42",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c4d9b96b668b6aeaa818890672eadf42"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Umi Asanagi y Yuu Amami",
                     "portada": "https://cdn.animeav1.com/screenshots/3955/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/059f175ada2fa9be37a080ac1955b968",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/059f175ada2fa9be37a080ac1955b968"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "La segunda más linda de la clase",
                     "portada": "https://cdn.animeav1.com/screenshots/3955/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/19276cd7b49a66f05d700ba1354bbefe",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/19276cd7b49a66f05d700ba1354bbefe"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Los dos en el festival",
+                    "portada": "https://image.tmdb.org/t/p/w300/iri2PYj7xDpYsyHnFTTtTn60glE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0a9312809e569d6d45984d4baa7e04d4"
                         }
                     ]
                 }
