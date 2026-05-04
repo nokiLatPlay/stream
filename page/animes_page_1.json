@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59983",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1190\/155788.jpg",
+            "titulo": "Wistoria: Wand And Sword Season 2",
+            "titulo_original": "杖と剣のウィストリア Season 2",
+            "etiquetas": "Action, Fantasy, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-05-04T04:56:25.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "61150",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187387-dbi9hPNKyA35.jpg",
             "titulo": "Onmyo Kaiten Re:verse",
@@ -231,21 +245,6 @@
             "created_at": "2026-04-12",
             "updated_at": "2026-04-19T12:58:36.000Z",
             "episodes": 2
-        },
-        {
-            "id_mal": "59983",
-            "slug": "tsue-to-tsurugi-no-wistoria-season-2",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1190\/155788.jpg",
-            "titulo": "Wistoria: Wand And Sword Season 2",
-            "titulo_original": "杖と剣のウィストリア Season 2",
-            "year": "2026",
-            "etiquetas": "Action, Fantasy, School, Shounen",
-            "type": "anime",
-            "score": "8.0",
-            "status": "Currently Airing",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-04-19T12:57:55.000Z",
-            "episodes": 3
         },
         {
             "id_mal": "41710",
