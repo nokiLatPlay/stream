@@ -1,7 +1,5 @@
 {
     "id_mal": "59983",
-    "anime_id": "3939",
-    "slug": "tsue-to-tsurugi-no-wistoria-season-2",
     "titulo": "Wistoria: Wand And Sword Season 2",
     "titulo_original": "杖と剣のウィストリア Season 2",
     "imagen": "https://myanimelist.net/images/anime/1190/155788.jpg",
@@ -9,56 +7,79 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
-    "duration": "23 min",
     "score": "8.0",
     "episodes": 3,
     "status": "Currently Airing",
-    "spanish_status": "En emisión",
+    "duration": "23 min",
+    "rating": "",
+    "source": "",
+    "studios": [],
+    "producers": [],
     "created_at": "2026-04-12",
-    "updated_at": "2026-04-19T12:57:55.000Z",
+    "updated_at": "2026-05-04T04:56:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
             "capitulos": [
                 {
-                    "episode_id": "0",
-                    "numero": 0,
-                    "nombre": "Episodio 0",
-                    "portada": "https://cdn.animeav1.com/screenshots/3939/0.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/ce22f80b897a8c42d6e12ca54cc2ca6a",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "1",
+                    "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3939/1.jpg",
+                    "nombre": "Día de la barrera",
+                    "portada": "https://image.tmdb.org/t/p/w300/8wdsRr0OpzUFmJdICvhM5nbgGk4.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/de319914054bf1293dab408cbc3c07d0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/de319914054bf1293dab408cbc3c07d0"
+                        },
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/3bdc78b5b00b898b594122514fea87e1"
                         }
                     ]
                 },
                 {
-                    "episode_id": "2",
+                    "episode_id": "02",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3939/2.jpg",
+                    "nombre": "Comienza la fiesta infernal",
+                    "portada": "https://image.tmdb.org/t/p/w300/agHni8bXYgbfgubrY8CZOunuNNP.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/a64663e91a6948eaa7417b6decda6a5a",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a64663e91a6948eaa7417b6decda6a5a"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Un solo hechizo mágico",
+                    "portada": "https://image.tmdb.org/t/p/w300/sfBgO2EmJgmhVN21Qb83WFUvQtJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5fff1d7de75ed44679a69c45000a8eb3"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Y la historia comienza",
+                    "portada": "https://image.tmdb.org/t/p/w300/uQ4JpkO41ep8y2qrTC2A35SQb8P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/2c0c5c2d4c972406b7b71c3ec313bbcd"
                         }
                     ]
                 }
