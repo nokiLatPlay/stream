@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "56734",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1423\/155713.jpg",
+            "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "titulo_original": "クラスで２番目に可愛い女の子と友だちになった",
+            "etiquetas": "Romance, School",
+            "type": "anime",
+            "created_at": "",
+            "updated_at": "2026-05-04T05:20:30.000Z",
+            "year": "2026",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "62601",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
             "titulo": "Marriagetoxin",
@@ -854,21 +868,6 @@
             "created_at": "2026-04-01",
             "updated_at": "2026-04-16T06:44:17.000Z",
             "ts": 1775045253
-        },
-        {
-            "id_mal": "56734",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1423\/155713.jpg",
-            "titulo": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "titulo_original": "クラスで２番目に可愛い女の子と友だちになった",
-            "year": "2026",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Currently Airing",
-            "created_at": "2026-7-4",
-            "updated_at": "2026-04-16T06:43:57.000Z",
-            "episodes": 1
         },
         {
             "id_mal": "5530",
