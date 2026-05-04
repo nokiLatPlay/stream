@@ -2,13 +2,13 @@
     "id_mal": "62601",
     "titulo": "Marriagetoxin",
     "titulo_original": "マリッジトキシン",
-    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
+    "imagen": "https://myanimelist.net/images/anime/1927/154309.jpg",
     "etiquetas": "Action",
     "year": "2026",
     "type": "anime",
     "synopsis": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.  However, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.  \"...That's the first time anyone's ever proposed like that.\"  And so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!  (Source: Official site)",
     "score": "7.6",
-    "episodes": "3",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -25,12 +25,8 @@
         "Bandai Namco Filmworks",
         "Bandai Namco Music Live"
     ],
-    "aired_from": "",
-    "aired_to": "",
-    "aired_string": "",
     "created_at": "2026-04-07",
-    "updated_at": "2026-04-22T16:36:38.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-04T05:10:51.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -38,48 +34,56 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3957\/1.jpg",
+                    "nombre": "La búsqueda de novia por parte del maestro de venenos",
+                    "portada": "https://cdn.animeav1.com/screenshots/3957/1.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/c2834f08bf9eb4e4ae911ac9aee6f96b"
-                        },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c2834f08bf9eb4e4ae911ac9aee6f96b"
+                            "url": "https://player.zilla-networks.com/m3u8/c2834f08bf9eb4e4ae911ac9aee6f96b"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3957\/2.jpg",
+                    "nombre": "¿Qué es \"Charm\", después de todo?",
+                    "portada": "https://cdn.animeav1.com/screenshots/3957/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bae26829e15a6e85f47811b30536b905"
+                            "url": "https://player.zilla-networks.com/m3u8/bae26829e15a6e85f47811b30536b905"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3957\/3.jpg",
+                    "nombre": "Mi primera",
+                    "portada": "https://cdn.animeav1.com/screenshots/3957/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7e669564235403225356a3a055ecb545"
+                            "url": "https://player.zilla-networks.com/m3u8/7e669564235403225356a3a055ecb545"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "El maestro del sonido",
+                    "portada": "https://image.tmdb.org/t/p/w300/hnOyBoq0Pn58eownfFLu5nzQi1f.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1bc0a2327b2eb68ef0e5e80812d05ee5"
                         }
                     ]
                 }
