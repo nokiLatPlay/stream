@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "51553",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/FE7g7DyOHD2oRxRXV2WXI7UtNl.jpg",
+            "titulo": "Tongari Boushi no Atelier",
+            "titulo_original": "とんがり帽子のアトリエ",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-05-04T13:53:42.000Z",
+            "year": "2026",
+            "score": "8.9",
+            "status": "Currently Airing",
+            "episodes": 6
+        },
+        {
             "id_mal": "62146",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
             "titulo": "Isekai Nonbiri Nouka 2",
@@ -101,20 +115,6 @@
             "score": "7.2",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "51553",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/FE7g7DyOHD2oRxRXV2WXI7UtNl.jpg",
-            "titulo": "Tongari Boushi no Atelier",
-            "titulo_original": "とんがり帽子のアトリエ",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-04-30T04:30:37.000Z",
-            "year": "2026",
-            "score": "8.8",
-            "status": "Currently Airing",
-            "episodes": "5"
         },
         {
             "id_mal": "61831",
