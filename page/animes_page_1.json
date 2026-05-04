@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62601",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
+            "titulo": "Marriagetoxin",
+            "titulo_original": "マリッジトキシン",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-05-04T05:10:51.000Z",
+            "year": "2026",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "59983",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1190\/155788.jpg",
             "titulo": "Wistoria: Wand And Sword Season 2",
@@ -101,20 +115,6 @@
             "score": "5.8",
             "status": "Currently Airing",
             "episodes": "5"
-        },
-        {
-            "id_mal": "62601",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
-            "titulo": "Marriagetoxin",
-            "titulo_original": "マリッジトキシン",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-04-22T16:36:38.000Z",
-            "year": "2026",
-            "score": "7.6",
-            "status": "Currently Airing",
-            "episodes": "3"
         },
         {
             "id_mal": "61931",
