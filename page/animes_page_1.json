@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "58820",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
+            "titulo": "Awajima Hyakkei",
+            "titulo_original": "淡島百景",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-05-04T15:32:13.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "61425",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1484\/155726.jpg",
             "titulo": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
@@ -2902,20 +2916,6 @@
             "created_at": "2021-17-4",
             "updated_at": "2026-04-12T09:14:00.000Z",
             "episodes": 21
-        },
-        {
-            "id_mal": "42340",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1753\/116290.jpg",
-            "titulo": "Meikyuu Black Company",
-            "titulo_original": "迷宮ブラックカンパニー",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2021-9-7",
-            "updated_at": "2026-04-12T09:13:58.000Z",
-            "episodes": 12
         }
     ]
 }
