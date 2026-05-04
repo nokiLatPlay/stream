@@ -1,6 +1,5 @@
 {
     "id_mal": "61425",
-    "anime_id": "3942",
     "titulo": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
     "titulo_original": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
     "imagen": "https://myanimelist.net/images/anime/1484/155726.jpg",
@@ -9,11 +8,11 @@
     "type": "anime",
     "synopsis": "Sakuradaimon takes his role on the school's Public Morals Committee very seriously. Every day, he dutifully checks students' appearances at the school gate—most often scolding Kohinata, a rule-breaking girl with bright hair and a short skirt.  Though she finds his constant lecturing annoying, everything changes when she discovers that Sakuradaimon is actually a bit of a mess himself.  A lighthearted short romantic comedy about a strict committee member, a bold classmate, and the chaotic school life that brings them together.  (Source: MAL News)",
     "score": "7.5",
-    "episodes": 3,
+    "episodes": 5,
+    "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "Zero-G"
     ],
@@ -29,9 +28,8 @@
         "ADK Marketing Solutions",
         "Saber Links"
     ],
-    "created_at": "2026-6-4",
-    "updated_at": "2026-04-22T13:49:31.000Z",
-    "player_base": [],
+    "created_at": "",
+    "updated_at": "2026-05-04T14:01:41.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -39,48 +37,76 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "El delegado de clase es un torpe/Las amigas de la colegiala se involucran con el torpe/El torpe delegado de clase y el representante de salud",
                     "portada": "https://cdn.animeav1.com/screenshots/3942/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/6b7009ff0ccfe0acd8f24202745acfd7",
                             "type": "embed",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/play/6b7009ff0ccfe0acd8f24202745acfd7"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6b7009ff0ccfe0acd8f24202745acfd7",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6b7009ff0ccfe0acd8f24202745acfd7"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "La torpe monitora de clase y la auxiliar de biblioteca/El tiempo que pasó almorzando con la torpe",
                     "portada": "https://cdn.animeav1.com/screenshots/3942/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/ae4431d56760b7ce6d64262ad6f2a60e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ae4431d56760b7ce6d64262ad6f2a60e"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "La chica mayor que es cercana al torpe/El consejo estudiantil de la escuela del torpe",
                     "portada": "https://cdn.animeav1.com/screenshots/3942/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/c1d2b7e75d3b33ebd5052663edab5328",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c1d2b7e75d3b33ebd5052663edab5328"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Un día libre con el torpe/El torpe se ve envuelto en una batalla callejera",
+                    "portada": "https://image.tmdb.org/t/p/w300/lweACcGxPjaVPoDBOhSZOyk3R8t.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c8b601e10a0732d1f7f46ba5e6ebb6ab"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "La torpe representante de salud y la colegiala que se resbala a menudo/tomando más lecciones complementarias con la torpe el día que su hermana pequeña está de visita en la escuela de la torpe.",
+                    "portada": "https://image.tmdb.org/t/p/w300/kxLqPQny4radLr0dZJQdkolGHrE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ee1ec9e4b8d909144398553466a8e8e2"
                         }
                     ]
                 }
