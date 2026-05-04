@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "42340",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1753\/116290.jpg",
+            "titulo": "Meikyuu Black Company",
+            "titulo_original": "迷宮ブラックカンパニー",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "tv-anime",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "2021-9-7",
+            "updated_at": "2026-04-12T09:13:58.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "40397",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1448\/108514.jpg",
             "titulo": "Maoujou de Oyasumi",
@@ -1608,21 +1622,6 @@
             "created_at": "2026-4-4",
             "updated_at": "2026-04-11T22:47:43.000Z",
             "episodes": 2
-        },
-        {
-            "id_mal": "58820",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1747\/156361.jpg",
-            "titulo": "Awajima Hyakkei",
-            "titulo_original": "淡島百景",
-            "year": "2026",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "score": " ",
-            "status": "Currently Airing",
-            "created_at": "2026-10-4",
-            "updated_at": "2026-04-09T22:28:14.000Z",
-            "episodes": 1
         },
         {
             "id_mal": "58832",
