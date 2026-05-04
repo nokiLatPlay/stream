@@ -2,13 +2,13 @@
     "id_mal": "62331",
     "titulo": "Liar Game",
     "titulo_original": "LIAR GAME",
-    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
+    "imagen": "https://myanimelist.net/images/anime/1607/156078.jpg",
     "etiquetas": "Drama, Suspense",
     "year": "2026",
     "type": "anime",
     "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.  On that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.  In this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.  [Written by MAL Rewrite]",
     "score": "6.8",
-    "episodes": "3",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -19,12 +19,8 @@
     "producers": [
         "Bit grooove promotion"
     ],
-    "aired_from": "",
-    "aired_to": "",
-    "aired_string": "",
     "created_at": "2026-04-07",
-    "updated_at": "2026-04-22T15:10:47.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-04T13:57:37.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -33,19 +29,19 @@
                     "episode_id": "1",
                     "numero": 1,
                     "nombre": "El estafador legendario",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3941\/1.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/3941/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
                             "type": "embed",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/e1f19b31f6dd3bdbd17b6041a7bc3bca"
+                            "url": "https://player.zilla-networks.com/play/e1f19b31f6dd3bdbd17b6041a7bc3bca"
                         },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e1f19b31f6dd3bdbd17b6041a7bc3bca"
+                            "url": "https://player.zilla-networks.com/m3u8/e1f19b31f6dd3bdbd17b6041a7bc3bca"
                         }
                     ]
                 },
@@ -53,13 +49,13 @@
                     "episode_id": "2",
                     "numero": 2,
                     "nombre": "Sacudida",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3941\/2.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/3941/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/95f931d55b04e08e1bced83e44dc5ead"
+                            "url": "https://player.zilla-networks.com/m3u8/95f931d55b04e08e1bced83e44dc5ead"
                         }
                     ]
                 },
@@ -67,13 +63,41 @@
                     "episode_id": "3",
                     "numero": 3,
                     "nombre": "Desenlace",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3941\/3.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/3941/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7e092f6956bd47c4825e549e496b39c1"
+                            "url": "https://player.zilla-networks.com/m3u8/7e092f6956bd47c4825e549e496b39c1"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "La minoría manda",
+                    "portada": "https://image.tmdb.org/t/p/w300/tevAHIaNSN0q8HHsimuWddYWSun.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/49ca65f9ee117b58c0a485d152c27a4e"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Alianza",
+                    "portada": "https://image.tmdb.org/t/p/w300/7Etta1358Gl5FSxicjUt57Dr8Rk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/974663bb1ad94bbe111ea6fd6b3b326a"
                         }
                     ]
                 }
