@@ -1,28 +1,26 @@
 {
     "id_mal": "58820",
-    "anime_id": "3971",
     "titulo": "Awajima Hyakkei",
     "titulo_original": "淡島百景",
-    "imagen": "https://myanimelist.net/images/anime/1747/156361.jpg",
+    "imagen": "https://image.tmdb.org/t/p/w342/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
     "etiquetas": "Drama",
     "year": "2026",
     "type": "anime",
-    "synopsis": "This omnibus adolescent drama is about a group of young girls who all attend a \"girls-only musical school,\" recounting the formative years they shared, at times shifting between different characters' viewpoints and time.\n\nAwajima Musical School Training Camp, dubbed the \"boarding house,\" is where young girls gather from all over Japan to perform on stage. Tabata Wakana aspires to be a musical star; housemaster Takehara Kinue attends to carry on her best friend's wishes; beautiful Okabe Emi is a scholarship student who is always at the center of attention; and Ibuki Katsurako, who became a teacher at the school though originally from a family of actresses.\n\nThe unique environment of the musical school is simultaneously a respite space for these aspiring girls and also a harsh battleground that pits young students against each other. It is a place where perseverance can lead to blossoming talents, but also to a cruel reality at times. The clear depiction and psychological portrayal allow the subtle inner workings of each character to come through.\n\n(Source: Japan Media Arts Festival, edited)",
+    "synopsis": "En la Escuela de Ópera de Awajima, chicas de todo Japón se esfuerzan por ganarse un lugar en el escenario. Wakana se guía por su pasión por el teatro musical, mientras que Kinue estudia con disciplina y serenidad. Emi, estudiante becada, atrae la atención de todos, pero sobre todo de Keiko, quien lidia con la admiración y las comparaciones. A través de perspectivas cambiantes, sus días entrelazados exploran la ambición, la amistad y el autodescubrimiento.",
     "score": "6.9",
-    "episodes": 1,
-    "duration": "Unknown",
-    "rating": null,
-    "source": "Web manga",
+    "episodes": 4,
     "status": "Currently Airing",
+    "duration": "24 min",
+    "rating": "",
+    "source": "Web manga",
     "studios": [
         "Madhouse"
     ],
     "producers": [
         "Kadokawa"
     ],
-    "created_at": "2026-10-4",
-    "updated_at": "2026-04-16T06:44:45.000Z",
-    "player_base": [],
+    "created_at": "2026-04-10",
+    "updated_at": "2026-05-04T15:32:13.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -30,20 +28,56 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Tabata y el Príncipe Takehara / Kinue Takehara y Ryouko Ueda",
                     "portada": "https://cdn.animeav1.com/screenshots/3971/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/6f29cabc9747d60a62f74e7374902af9",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6f29cabc9747d60a62f74e7374902af9",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6f29cabc9747d60a62f74e7374902af9"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Emi Okabe y Yukie Onoda / Katsurako Ibuki y Wakana Tabata",
+                    "portada": "https://image.tmdb.org/t/p/w300/57XzUoX6v4mYhxxHhgQfkoqdw0c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/9bb3165d3730b1768d67afc43e243e3a"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Katsurako Ibuki y Natsuko Kusanagi / Ruriko Yamaji y Natsuko Kusanagi",
+                    "portada": "https://image.tmdb.org/t/p/w300/7IiAYCez5wzFO3TE1A0axgU87LN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/65318f0bf491bca3a04fea325ed8efba"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Kayo Yomogida y Saori Yamagata / Wakana Tabata y Saeko Tabata / Takuto Kashiwagi y Sayaka Yoshimura",
+                    "portada": "https://image.tmdb.org/t/p/w300/bto3BzWbZcC7L5I3JV1PoLJTXb6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/059133fcd6b70769a5ba21053b721ea3"
                         }
                     ]
                 }
