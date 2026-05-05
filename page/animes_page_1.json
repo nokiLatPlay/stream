@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59047",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1474\/153320.jpg",
+            "titulo": "Tamon-kun Ima Docchi!?",
+            "titulo_original": "多聞くん今どっち!?",
+            "etiquetas": "Comedy, Romance, Idols (Male), Shoujo",
+            "type": "anime",
+            "created_at": "2026-01-04",
+            "updated_at": "2026-05-05T03:36:05.000Z",
+            "year": "2026",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "60602",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1419\/154458.jpg",
             "titulo": "MF Ghost 3rd Season",
@@ -2901,20 +2915,6 @@
             "status": "Finished Airing",
             "created_at": "2023-8-4",
             "updated_at": "2026-04-12T09:14:15.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "48981",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1203\/134079.jpg",
-            "titulo": "Mahou Shoujo Magical Destroyers",
-            "titulo_original": "魔法少女マジカルデストロイヤーズ",
-            "year": "2026",
-            "etiquetas": "Action, Suspense",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2023-8-4",
-            "updated_at": "2026-04-12T09:14:14.000Z",
             "episodes": 12
         }
     ]
