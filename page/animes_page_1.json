@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62126",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1421\/154342.jpg",
+            "titulo": "SI-VIS: The Sound of Heroes",
+            "titulo_original": "SI-VIS: The Sound of Heroes",
+            "etiquetas": "Action, Music, Super Power",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-05-04T21:12:44.000Z",
+            "year": "2025",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
+        {
             "id_mal": "59978",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1921\/154528l.jpg",
             "titulo": "Sousou no Frieren 2nd Season",
@@ -2901,20 +2915,6 @@
             "status": "Finished Airing",
             "created_at": "2022-8-4",
             "updated_at": "2026-04-12T09:14:03.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "48483",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1277\/117155.jpg",
-            "titulo": "Mieruko-chan",
-            "titulo_original": "見える子ちゃん",
-            "year": "2026",
-            "etiquetas": "Comedy, Horror",
-            "type": "tv-anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2021-3-10",
-            "updated_at": "2026-04-12T09:14:01.000Z",
             "episodes": 12
         }
     ]
