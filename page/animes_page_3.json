@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "461",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1017\/97698.jpg",
+            "titulo": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+            "titulo_original": "ワンピース 珍獣島のチョッパー王国",
+            "year": "2002",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2002-03-02",
+            "updated_at": "2026-03-28T09:52:03.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "462",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1100\/116767.jpg",
@@ -1063,21 +1079,6 @@
             "created_at": "2026-01-05",
             "updated_at": "2026-03-18T10:56:54.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "60810",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1704\/154459l.jpg",
-            "titulo": "Majutsushi Kunon wa Mieteiru",
-            "titulo_original": "魔術師クノンは見えている",
-            "year": "2026",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "score": "6.6",
-            "status": "Currently Airing",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-03-18T10:56:50.000Z",
-            "episodes": 13
         },
         {
             "id_mal": "59047",
