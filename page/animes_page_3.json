@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "464",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1328\/147315.jpg",
+            "titulo": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+            "titulo_original": "ワンピース オマツリ男爵と秘密の島",
+            "year": "2005",
+            "etiquetas": "Action, Adventure, Drama, Fantasy",
+            "type": "movie",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2005-03-05",
+            "updated_at": "2026-03-28T09:51:28.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "465",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/20927.jpg",
@@ -1105,21 +1121,6 @@
             "created_at": "2025-10-08",
             "updated_at": "2026-03-18T10:49:50.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "61159",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1455\/152139l.jpg",
-            "titulo": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "titulo_original": "東島丹三郎は仮面ライダーになりたい",
-            "year": "2025",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Currently Airing",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-03-18T10:48:42.000Z",
-            "episodes": 24
         },
         {
             "id_mal": "61884",
