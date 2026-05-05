@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61333",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1393\/151603.jpg",
+            "titulo": "Ao no Miburo: Serizawa Ansatsu-hen",
+            "titulo_original": "青のミブロ 芹沢暗殺編",
+            "etiquetas": "Action, Historical, Samurai, Shounen",
+            "type": "anime",
+            "created_at": "2025-12-20",
+            "updated_at": "2026-05-04T21:42:51.000Z",
+            "year": "2025",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "episodes": 14
+        },
+        {
             "id_mal": "61159",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1455\/152139l.jpg",
             "titulo": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
@@ -2901,20 +2915,6 @@
             "status": "Finished Airing",
             "created_at": "2022-6-10",
             "updated_at": "2026-04-12T09:14:06.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "50172",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1228\/125011.jpg",
-            "titulo": "Mob Psycho 100 III",
-            "titulo_original": "モブサイコ100 III",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Supernatural",
-            "type": "tv-anime",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "created_at": "2022-6-10",
-            "updated_at": "2026-04-12T09:14:05.000Z",
             "episodes": 12
         }
     ]
