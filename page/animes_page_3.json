@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "2107",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/13\/21760.jpg",
+            "titulo": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+            "titulo_original": "劇場版ワンピース エピソードオブアラバスタ 砂漠の王女と海賊たち",
+            "year": "2007",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2007-03-03",
+            "updated_at": "2026-03-28T09:51:07.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "3848",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1709\/135258.jpg",
@@ -1388,21 +1404,6 @@
             "created_at": "2025-07-10",
             "updated_at": "2026-03-18T06:12:30.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "59978",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1921\/154528l.jpg",
-            "titulo": "Sousou no Frieren 2nd Season",
-            "titulo_original": "葬送のフリーレン 第2期",
-            "year": "2026",
-            "etiquetas": "Adventure, Drama, Fantasy",
-            "type": "anime",
-            "score": "9.2",
-            "status": "Currently Airing",
-            "created_at": "2026-01-15",
-            "updated_at": "2026-03-18T06:11:55.000Z",
-            "episodes": "10"
         },
         {
             "id_mal": "61694",
