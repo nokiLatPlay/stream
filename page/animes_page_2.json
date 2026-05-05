@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "49784",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1688\/128720.jpg",
+            "titulo": "Mairimashita! Iruma-kun 3rd Season",
+            "titulo_original": "魔入りました！入間くん",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "tv-anime",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2022-8-10",
+            "updated_at": "2026-04-12T09:14:09.000Z",
+            "episodes": 21
+        },
+        {
             "id_mal": "50923",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1256\/128714.jpg",
             "titulo": "Mushikaburi-hime",
@@ -2953,22 +2967,6 @@
             "status": "Finished Airing",
             "created_at": "2001-03-03",
             "updated_at": "2026-03-28T09:52:13.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "461",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1017\/97698.jpg",
-            "titulo": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
-            "titulo_original": "ワンピース 珍獣島のチョッパー王国",
-            "year": "2002",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2002-03-02",
-            "updated_at": "2026-03-28T09:52:03.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
