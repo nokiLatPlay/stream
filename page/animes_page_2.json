@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "48842",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1093\/121114.jpg",
+            "titulo": "Mahoutsukai Reimeiki",
+            "titulo_original": "魔法使い黎明期",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "tv-anime",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "created_at": "2022-8-4",
+            "updated_at": "2026-04-12T09:14:03.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "48483",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1277\/117155.jpg",
             "titulo": "Mieruko-chan",
@@ -2959,22 +2973,6 @@
             "status": "Finished Airing",
             "created_at": "2004-03-06",
             "updated_at": "2026-03-28T09:51:39.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "464",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1328\/147315.jpg",
-            "titulo": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
-            "titulo_original": "ワンピース オマツリ男爵と秘密の島",
-            "year": "2005",
-            "etiquetas": "Action, Adventure, Drama, Fantasy",
-            "type": "movie",
-            "score": "7.8",
-            "status": "Finished Airing",
-            "created_at": "2005-03-05",
-            "updated_at": "2026-03-28T09:51:28.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
