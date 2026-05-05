@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "463",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/2\/25413.jpg",
+            "titulo": "One Piece Movie 05: Norowareta Seiken",
+            "titulo_original": "ワンピース呪われた聖剣",
+            "year": "2004",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2004-03-06",
+            "updated_at": "2026-03-28T09:51:39.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "464",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1328\/147315.jpg",
@@ -1090,21 +1106,6 @@
             "status": "Currently Airing",
             "created_at": "2026-01-04",
             "updated_at": "2026-03-18T10:49:58.000Z",
-            "episodes": 0
-        },
-        {
-            "id_mal": "61333",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1393\/151603l.jpg",
-            "titulo": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "titulo_original": "青のミブロ 芹沢暗殺編",
-            "year": "2025",
-            "etiquetas": "Action",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Currently Airing",
-            "created_at": "2025-12-20",
-            "updated_at": "2026-03-18T10:49:53.000Z",
             "episodes": 0
         },
         {
