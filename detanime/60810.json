@@ -9,10 +9,10 @@
     "synopsis": "Kunon Gurion is born without sight. Refusing to accept blindness as an unchangeable fate, he devotes himself to water magic. His series of personal experiments quickly reveals his talents, as Kunon's grasp of magic grows at a pace that surpasses even those tasked with teaching him.  Through constant trial and invention, he develops methods of perceiving the world that do not rely on ordinary vision, reshaping water into constructs that allow him to navigate his surroundings. His ingenuity and rapid progress soon draw attention beyond his lessons, setting him on a path of discovery that tests the very limits of possibility—as well as of his own body.  [Written by MAL Rewrite]",
     "score": "6.6",
     "episodes": 13,
+    "status": "Finished Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
-    "status": "Currently Airing",
     "studios": [
         "Platinum Vision"
     ],
@@ -29,8 +29,7 @@
         "REMOW"
     ],
     "created_at": "2026-01-04",
-    "updated_at": "2026-04-19T07:26:51.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-05T03:11:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -38,254 +37,182 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Episodio 1",
-                    "portada": "",
+                    "nombre": "El mundo en colores",
+                    "portada": "https://image.tmdb.org/t/p/w300/uYILq8NgHdWiO6d3IWJOVVUe1xP.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/c54fea6d311780238b7ea802bd17f581",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/c54fea6d311780238b7ea802bd17f581",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c54fea6d311780238b7ea802bd17f581"
                         }
                     ]
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "02. Episodio 2",
-                    "portada": "",
+                    "nombre": "A la escuela para niños nobles",
+                    "portada": "https://image.tmdb.org/t/p/w300/2MnxkJtvp8LMAHj2Mutmat6Pagl.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/b89924772e857f300b31d7b5de9a427e",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b89924772e857f300b31d7b5de9a427e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b89924772e857f300b31d7b5de9a427e"
                         }
                     ]
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "03. Episodio 3",
-                    "portada": "",
+                    "nombre": "Graduación y ¿qué sigue?",
+                    "portada": "https://image.tmdb.org/t/p/w300/mN3eNHcwJ6jndDWob4LUbQ8svcj.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/049a8d82f066dee24106ed090f3ba487",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/049a8d82f066dee24106ed090f3ba487",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/049a8d82f066dee24106ed090f3ba487"
                         }
                     ]
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
-                    "nombre": "04. Episodio 4",
-                    "portada": "",
+                    "nombre": "Hacia el castillo",
+                    "portada": "https://image.tmdb.org/t/p/w300/omq9WuNk0fLK13ucOy8AXbHzh2j.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/e66949f90c1dd2d4261380e720c0aee6",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/e66949f90c1dd2d4261380e720c0aee6",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e66949f90c1dd2d4261380e720c0aee6"
                         }
                     ]
                 },
                 {
                     "episode_id": "05",
                     "numero": 5,
-                    "nombre": "05. Episodio 5",
-                    "portada": "",
+                    "nombre": "Todo un niño y un nuevo maestro",
+                    "portada": "https://image.tmdb.org/t/p/w300/a8kzQBvQdQP8KVkMJD0xUbjXMSL.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/cc14919ab99b6b905b77d793e9ece53b",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/cc14919ab99b6b905b77d793e9ece53b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/cc14919ab99b6b905b77d793e9ece53b"
                         }
                     ]
                 },
                 {
                     "episode_id": "06",
                     "numero": 6,
-                    "nombre": "06. Episodio 6",
-                    "portada": "",
+                    "nombre": "Entrenamiento increíble y resultados increíbles",
+                    "portada": "https://image.tmdb.org/t/p/w300/6nZfix49KYWZSvdxIHAEf0unDqI.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/730a0e8b099b6746504a71cf1d540b88",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/730a0e8b099b6746504a71cf1d540b88",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/730a0e8b099b6746504a71cf1d540b88"
                         }
                     ]
                 },
                 {
                     "episode_id": "07",
                     "numero": 7,
-                    "nombre": "07. Episodio 7",
-                    "portada": "",
+                    "nombre": "Kunon el Hechicero puede ver",
+                    "portada": "https://image.tmdb.org/t/p/w300/w9RvbxFYaPfeQaR6jdRQKDIOQBq.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/e70a2705d32dde0bf9db0caa89743ee5",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/e70a2705d32dde0bf9db0caa89743ee5",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e70a2705d32dde0bf9db0caa89743ee5"
                         }
                     ]
                 },
                 {
                     "episode_id": "08",
                     "numero": 8,
-                    "nombre": "08. Episodio 8",
-                    "portada": "",
+                    "nombre": "Despedidas y holas y Dirashik",
+                    "portada": "https://image.tmdb.org/t/p/w300/nhjb77kE0kkCeb5iJCq7XlYBo30.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/897eb29a21e1d0288fcd7bd79ea985b6",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/897eb29a21e1d0288fcd7bd79ea985b6",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/897eb29a21e1d0288fcd7bd79ea985b6"
                         }
                     ]
                 },
                 {
                     "episode_id": "09",
                     "numero": 9,
-                    "nombre": "09. Episodio 9",
-                    "portada": "",
+                    "nombre": "La clase avanzada",
+                    "portada": "https://image.tmdb.org/t/p/w300/gIhdZCZc7ZTz7cY6o1C0aYZ7EWD.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/77b642ccc9abcdd5d1adff9cc815e310",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/77b642ccc9abcdd5d1adff9cc815e310",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/77b642ccc9abcdd5d1adff9cc815e310"
                         }
                     ]
                 },
                 {
                     "episode_id": "10",
                     "numero": 10,
-                    "nombre": "10. Episodio 10",
-                    "portada": "",
+                    "nombre": "El problema financiero del santo",
+                    "portada": "https://image.tmdb.org/t/p/w300/49uFR53ISv40CZ2WgpxGHgvxtE.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/c83b75487030a284b0714dcff5d8aaf4",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/c83b75487030a284b0714dcff5d8aaf4",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c83b75487030a284b0714dcff5d8aaf4"
                         }
                     ]
                 },
                 {
                     "episode_id": "11",
                     "numero": 11,
-                    "nombre": "11. Episodio 11",
-                    "portada": "",
+                    "nombre": "Volar y asarse y ser invitado",
+                    "portada": "https://image.tmdb.org/t/p/w300/z0hZd1K4l3XyjaSg4cl50lZaV4b.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/0ceb10a813cb44238b0845132601582c",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0ceb10a813cb44238b0845132601582c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0ceb10a813cb44238b0845132601582c"
                         }
                     ]
                 },
                 {
                     "episode_id": "12",
                     "numero": 12,
-                    "nombre": "12. Episodio 12",
-                    "portada": "",
+                    "nombre": "Hadas comprobando la respuesta",
+                    "portada": "https://image.tmdb.org/t/p/w300/tVCIs7giy5LhwHYPI0RNbeUOBMh.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/190955f65cf66540c5d6c9a9860ac2d5",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/190955f65cf66540c5d6c9a9860ac2d5",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/190955f65cf66540c5d6c9a9860ac2d5"
                         }
                     ]
                 },
                 {
                     "episode_id": "13",
                     "numero": 13,
-                    "nombre": "Episodio 13",
-                    "portada": "",
+                    "nombre": "El alborotador sin precedentes",
+                    "portada": "https://image.tmdb.org/t/p/w300/tYn0cVgpXIAaeBZvdH4Hkynu5AE.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/a9201673c8ce41d18cba6760b38c9b65",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a9201673c8ce41d18cba6760b38c9b65"
                         }
                     ]
                 }
