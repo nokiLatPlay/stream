@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "459",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1770\/97704.jpg",
+            "titulo": "One Piece Movie 01",
+            "titulo_original": "ONE PIECE",
+            "year": "2000",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2000-03-04",
+            "updated_at": "2026-03-28T09:52:23.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "460",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1939\/97699.jpg",
@@ -1095,21 +1111,6 @@
             "created_at": "2026-01-05",
             "updated_at": "2026-03-18T10:56:54.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "59047",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1474\/153320l.jpg",
-            "titulo": "Tamon-kun Ima Docchi!?",
-            "titulo_original": "多聞くん今どっち!?",
-            "year": "2026",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "7.9",
-            "status": "Currently Airing",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-03-18T10:56:47.000Z",
-            "episodes": 13
         },
         {
             "id_mal": "61067",
