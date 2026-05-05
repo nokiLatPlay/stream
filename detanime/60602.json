@@ -6,13 +6,13 @@
     "etiquetas": "Drama, Racing, Seinen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Round 3 of the MFG competition is heating up on the final race day at the Peninsula Manazuru track. Despite starting at the very front of the pack, MFG rookie Kanata Katagiri has difficulty getting the most out of his Toyota 86 GT due to an injury unknown to his competitors. Falling further behind, Kanata finds himself in a desperate situation that only stirs up unwanted memories.  At the head of the race, a vicious battle takes place between the two top drivers in the competition—Michael Beckenbauer and Kouki Sawatari—for the first spot on the podium. Given their aggressive and absurd driving, anyone daring to surpass either of them will have to match their level of pride until the very end. But when all hope seems lost for Kanata, a legendary competitive spirit awakens within him, and it may just push him to overcome his physical limitations and climb back to the top.  [Written by MAL Rewrite]",
+    "synopsis": "La tercera ronda de la competición MFG se calienta en la jornada final en el circuito Peninsula Manazuru. A pesar de partir en primera posición, el novato de MFG, Kanata Katagiri, tiene dificultades para sacar el máximo partido a su Toyota 86 GT debido a una lesión desconocida para sus competidores. Al quedarse cada vez más rezagado, Kanata se encuentra en una situación desesperada que solo le trae malos recuerdos.\r\n\r\nEn cabeza de carrera, se libra una feroz batalla entre los dos mejores pilotos de la competición —Michael Beckenbauer y Kouki Sawatari— por el primer puesto del podio. Dada su conducción agresiva y temeraria, cualquiera que se atreva a superarlos tendrá que igualar su orgullo hasta el final. Pero cuando toda esperanza parece perdida para Kanata, un legendario espíritu competitivo despierta en él, y podría impulsarlo a superar sus limitaciones físicas y volver a la cima.\r\n",
     "score": "7.8",
     "episodes": 13,
+    "status": "Finished Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "Felix Film"
     ],
@@ -25,8 +25,7 @@
         "Techno Sound"
     ],
     "created_at": "2026-01-04",
-    "updated_at": "2026-04-19T07:26:12.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-05T03:24:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -34,248 +33,182 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Episodio 1",
-                    "portada": "",
+                    "nombre": "Regreso milagroso",
+                    "portada": "https://image.tmdb.org/t/p/w300/vb5gKxUVL663FF2y8EVoC95VKrH.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6973209b394838b6df17e97acb5fd175",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6973209b394838b6df17e97acb5fd175",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6973209b394838b6df17e97acb5fd175"
                         }
                     ]
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "02. Episodio 2",
-                    "portada": "",
+                    "nombre": "bola de fuego",
+                    "portada": "https://image.tmdb.org/t/p/w300/1WupfhO5t7pZ82COocdsuuoiPlj.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/69229caed95129ec24739ddcdb192b9e",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/69229caed95129ec24739ddcdb192b9e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/69229caed95129ec24739ddcdb192b9e"
                         }
                     ]
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "03. Episodio 3",
-                    "portada": "",
+                    "nombre": "En la última vuelta",
+                    "portada": "https://image.tmdb.org/t/p/w300/kEeXFS0IoWr4srIx6Gw7a0ujyiN.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/b44966a1e306997a87233afd95676518",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b44966a1e306997a87233afd95676518",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b44966a1e306997a87233afd95676518"
                         }
                     ]
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
-                    "nombre": "04. Episodio 4",
-                    "portada": "",
+                    "nombre": "Su primer beso",
+                    "portada": "https://image.tmdb.org/t/p/w300/7d6tmvZNlMNqokBGboXLrEpDPGx.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/0da5f1179ff46e96a0acccec296be13d",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0da5f1179ff46e96a0acccec296be13d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0da5f1179ff46e96a0acccec296be13d"
                         }
                     ]
                 },
                 {
                     "episode_id": "05",
                     "numero": 5,
-                    "nombre": "05. Episodio 5",
-                    "portada": "",
+                    "nombre": "Camión Kei de la abuela",
+                    "portada": "https://image.tmdb.org/t/p/w300/u5JaTxFL6D3roZHHkO4Xj7ma98G.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/122f1a08fa93f89f2beec7ac3b8c6689",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/122f1a08fa93f89f2beec7ac3b8c6689",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/122f1a08fa93f89f2beec7ac3b8c6689"
                         }
                     ]
                 },
                 {
                     "episode_id": "06",
                     "numero": 6,
-                    "nombre": "06. Episodio 6",
-                    "portada": "",
+                    "nombre": "El milagro de las 13:09",
+                    "portada": "https://image.tmdb.org/t/p/w300/wtcD9LKFeLCtGSnmbI5VSN3z8QC.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/f20975c854d9fc65b7edb78459a5c7bf",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/f20975c854d9fc65b7edb78459a5c7bf",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f20975c854d9fc65b7edb78459a5c7bf"
                         }
                     ]
                 },
                 {
                     "episode_id": "07",
                     "numero": 7,
-                    "nombre": "07. Episodio 7",
-                    "portada": "",
+                    "nombre": "El fin del verano",
+                    "portada": "https://image.tmdb.org/t/p/w300/d0HxDR9kNwK2LkC5d8XyqSnamYP.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/839922ef0bc94f0ae35205df3117dd1d",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/839922ef0bc94f0ae35205df3117dd1d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/839922ef0bc94f0ae35205df3117dd1d"
                         }
                     ]
                 },
                 {
                     "episode_id": "08",
                     "numero": 8,
-                    "nombre": "08. Episodio 8",
-                    "portada": "",
+                    "nombre": "Las chispas vuelan",
+                    "portada": "https://image.tmdb.org/t/p/w300/bXcCwAkZicL9YKjHIvlwHE9t6uV.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/d18d3cc92c2813c476238573e3d99932",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d18d3cc92c2813c476238573e3d99932",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d18d3cc92c2813c476238573e3d99932"
                         }
                     ]
                 },
                 {
                     "episode_id": "09",
                     "numero": 9,
-                    "nombre": "09. Episodio 9",
-                    "portada": "",
+                    "nombre": "La bala roja",
+                    "portada": "https://image.tmdb.org/t/p/w300/7opnbTcuBcfpKHhe64y9moaLTCq.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/b44c132138fba62d15cd731aff8d527a",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b44c132138fba62d15cd731aff8d527a",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b44c132138fba62d15cd731aff8d527a"
                         }
                     ]
                 },
                 {
                     "episode_id": "10",
                     "numero": 10,
-                    "nombre": "10. Episodio 10",
-                    "portada": "",
+                    "nombre": "La impaciencia del rey",
+                    "portada": "https://image.tmdb.org/t/p/w300/cWtn25LditIpRyTSyzxlS1TE2Nb.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/8815d306c6778c2d7b2c9c45aa932065",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/8815d306c6778c2d7b2c9c45aa932065",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8815d306c6778c2d7b2c9c45aa932065"
                         }
                     ]
                 },
                 {
                     "episode_id": "11",
                     "numero": 11,
-                    "nombre": "11. Episodio 11",
-                    "portada": "",
+                    "nombre": "El tren más fuerte",
+                    "portada": "https://image.tmdb.org/t/p/w300/cukiC8fYMBpF1E0mpuOBwNVJa4C.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/4ad8c2bfac1570dbbe6e9c953fbd6220",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/4ad8c2bfac1570dbbe6e9c953fbd6220",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4ad8c2bfac1570dbbe6e9c953fbd6220"
                         }
                     ]
                 },
                 {
                     "episode_id": "12",
                     "numero": 12,
-                    "nombre": "Episodio 12",
-                    "portada": "",
+                    "nombre": "Las fintas en el aire",
+                    "portada": "https://image.tmdb.org/t/p/w300/228z9bydvrC5IhepqWSYKCiX821.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/d14bc18f79cd1ffd118afe1b681971ff",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d14bc18f79cd1ffd118afe1b681971ff"
                         }
                     ]
                 },
                 {
                     "episode_id": "13",
                     "numero": 13,
-                    "nombre": "Episodio 13",
-                    "portada": "",
+                    "nombre": "El grupo líder se divide",
+                    "portada": "https://image.tmdb.org/t/p/w300/rDvk3jrOa2zNkEGFB3SI1ofpHG8.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/4e2ad803eb7404c19ddcf867e059d303",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4e2ad803eb7404c19ddcf867e059d303"
                         }
                     ]
                 }
