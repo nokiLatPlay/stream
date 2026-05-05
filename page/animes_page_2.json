@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "48981",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1203\/134079.jpg",
+            "titulo": "Mahou Shoujo Magical Destroyers",
+            "titulo_original": "魔法少女マジカルデストロイヤーズ",
+            "year": "2026",
+            "etiquetas": "Action, Suspense",
+            "type": "tv-anime",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "created_at": "2023-8-4",
+            "updated_at": "2026-04-12T09:14:14.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "52955",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1532\/135155.jpg",
             "titulo": "Mahoutsukai no Yome Season 2",
@@ -2949,22 +2963,6 @@
             "status": "Finished Airing",
             "created_at": "1986-03-08",
             "updated_at": "2026-03-28T09:52:34.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "459",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1770\/97704.jpg",
-            "titulo": "One Piece Movie 01",
-            "titulo_original": "ONE PIECE",
-            "year": "2000",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2000-03-04",
-            "updated_at": "2026-03-28T09:52:23.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
