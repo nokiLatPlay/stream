@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "54738",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1873\/137212.jpg",
+            "titulo": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+            "titulo_original": "魔術士オーフェンはぐれ旅 聖域編",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Drama, Fantasy",
+            "type": "tv-anime",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "created_at": "2023-12-4",
+            "updated_at": "2026-04-12T09:14:17.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "52211",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1218\/135107.jpg",
@@ -2947,22 +2961,6 @@
             "status": "Finished Airing",
             "created_at": "2021-07-16",
             "updated_at": "2026-03-28T09:52:45.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "1358",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/2\/25067.jpg",
-            "titulo": "Hokuto no Ken Movie",
-            "titulo_original": "北斗の拳",
-            "year": "1986",
-            "etiquetas": "Action, Drama, Sci-Fi",
-            "type": "movie",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "1986-03-08",
-            "updated_at": "2026-03-28T09:52:34.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
