@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "1358",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/2\/25067.jpg",
+            "titulo": "Hokuto no Ken Movie",
+            "titulo_original": "北斗の拳",
+            "year": "1986",
+            "etiquetas": "Action, Drama, Sci-Fi",
+            "type": "movie",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "1986-03-08",
+            "updated_at": "2026-03-28T09:52:34.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "459",
             "slug": "",
@@ -3034,21 +3050,6 @@
             "status": "Finished Airing",
             "created_at": "2025-10-08",
             "updated_at": "2026-03-07T15:40:04.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60933",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1888\/151887l.jpg",
-            "titulo": "Chanto Suenai Kyuuketsuki-chan",
-            "titulo_original": "ちゃんと吸えない吸血鬼ちゃん",
-            "year": "2025",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.8",
-            "status": "",
-            "created_at": "2025-10-12",
-            "updated_at": "2026-03-07T15:39:46.000Z",
             "episodes": 12
         }
     ]
