@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59828",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx181182-lnlfAByYD7X6.png",
+            "titulo": "Shoushimin Series 2nd Season",
+            "titulo_original": "小市民シリーズ 第2期",
+            "etiquetas": "Mystery, Psychological, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-05-09",
+            "updated_at": "2026-05-09T04:47:16.000Z",
+            "year": "2025",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "50923",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1256\/128714.jpg",
@@ -2901,20 +2915,6 @@
             "status": "Finished Airing",
             "created_at": "2023-3-7",
             "updated_at": "2026-04-12T09:14:19.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "54738",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1873\/137212.jpg",
-            "titulo": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "titulo_original": "魔術士オーフェンはぐれ旅 聖域編",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Drama, Fantasy",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2023-12-4",
-            "updated_at": "2026-04-12T09:14:17.000Z",
             "episodes": 12
         }
     ]
