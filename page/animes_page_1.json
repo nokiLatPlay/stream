@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "50923",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1256\/128714.jpg",
+            "titulo": "Mushikaburi-hime",
+            "titulo_original": "虫かぶり姫",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "",
+            "updated_at": "2026-05-09T00:15:39.000Z",
+            "year": "2022",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "59047",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1474\/153320.jpg",
             "titulo": "Tamon-kun Ima Docchi!?",
@@ -2901,20 +2915,6 @@
             "status": "Finished Airing",
             "created_at": "2023-12-4",
             "updated_at": "2026-04-12T09:14:17.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "52211",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1218\/135107.jpg",
-            "titulo": "Mashle",
-            "titulo_original": "マッシュル-MASHLE-",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2023-8-4",
-            "updated_at": "2026-04-12T09:14:15.000Z",
             "episodes": 12
         }
     ]
