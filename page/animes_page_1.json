@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 605,
+    "total_items": 606,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53447",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx156092-yHqgQZOF2mbg.jpg",
+            "titulo": "Tu Bian Yingxiong X",
+            "titulo_original": "凸变英雄X",
+            "etiquetas": "Action, Drama, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2026-05-10",
+            "updated_at": "2026-05-10T18:59:42.000Z",
+            "year": "2026",
+            "score": "8.5",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "59597",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx180367-GlRuB2lG7Kaa.jpg",
@@ -2902,20 +2916,6 @@
             "created_at": "2024-4-1",
             "updated_at": "2026-04-12T09:14:26.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "50586",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1845\/134817.jpg",
-            "titulo": "Migi to Dali",
-            "titulo_original": "ミギとダリ",
-            "year": "2026",
-            "etiquetas": "Comedy, Mystery, Suspense",
-            "type": "tv-anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2023-2-10",
-            "updated_at": "2026-04-12T09:14:24.000Z",
-            "episodes": 13
         }
     ]
 }
