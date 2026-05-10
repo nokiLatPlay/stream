@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 604,
+    "total_items": 605,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51179",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1898\/138005.jpg",
+            "titulo": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "titulo_original": "無職転生 II ～異世界行ったら本気だす～",
+            "year": "2026",
+            "etiquetas": "Adventure, Drama, Fantasy, Ecchi",
+            "type": "tv-anime",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "created_at": "2023-10-7",
+            "updated_at": "2026-04-12T09:14:22.000Z",
+            "episodes": 24
+        },
         {
             "id_mal": "53848",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1824\/140568.jpg",
@@ -2941,22 +2955,6 @@
             "status": "Finished Airing",
             "created_at": "2008-10-18",
             "updated_at": "2026-03-28T09:53:19.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "13271",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/6\/53073.jpg",
-            "titulo": "Hunter x Hunter Movie 1: Phantom Rouge",
-            "titulo_original": "劇場版 HUNTER×HUNTER 緋色の幻影（ファントム・ルージュ）",
-            "year": "2013",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2013-01-12",
-            "updated_at": "2026-03-28T09:53:09.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
