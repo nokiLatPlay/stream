@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 603,
+    "total_items": 604,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53848",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1824\/140568.jpg",
+            "titulo": "Megumi no Daigo: Kyuukoku no Orange",
+            "titulo_original": "め組の大吾 救国のオレンジ",
+            "year": "2026",
+            "etiquetas": "Action, Drama",
+            "type": "tv-anime",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "created_at": "2023-30-9",
+            "updated_at": "2026-04-12T09:14:20.000Z",
+            "episodes": 23
+        },
         {
             "id_mal": "51498",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1667\/135587.jpg",
@@ -2943,22 +2957,6 @@
             "status": "Finished Airing",
             "created_at": "2013-01-12",
             "updated_at": "2026-03-28T09:53:09.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "19951",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/10\/62337.jpg",
-            "titulo": "Hunter x Hunter Movie 2: The Last Mission",
-            "titulo_original": "劇場版 HUNTERxHUNTER THE LAST MISSION",
-            "year": "2013",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2013-12-27",
-            "updated_at": "2026-03-28T09:52:55.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
