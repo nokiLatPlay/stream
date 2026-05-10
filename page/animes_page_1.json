@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 603,
+    "total_items": 604,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59744",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx180825-trzjP1VDF19U.jpg",
+            "titulo": "Maebashi Witches",
+            "titulo_original": "前橋ウィッチーズ",
+            "etiquetas": "Drama, Mahou Shoujo, Music, Supernatural",
+            "type": "anime",
+            "created_at": "2026-05-09",
+            "updated_at": "2026-05-09T20:24:53.000Z",
+            "year": "2025",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "56038",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx167336-KpGIIBie71OX.png",
@@ -2902,20 +2916,6 @@
             "created_at": "2023-10-7",
             "updated_at": "2026-04-12T09:14:22.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "53848",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1824\/140568.jpg",
-            "titulo": "Megumi no Daigo: Kyuukoku no Orange",
-            "titulo_original": "め組の大吾 救国のオレンジ",
-            "year": "2026",
-            "etiquetas": "Action, Drama",
-            "type": "tv-anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2023-30-9",
-            "updated_at": "2026-04-12T09:14:20.000Z",
-            "episodes": 23
         }
     ]
 }
