@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 602,
+    "total_items": 603,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44807",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1081\/115716.jpg",
+            "titulo": "Ryuu to Sobakasu no Hime",
+            "titulo_original": "竜とそばかすの姫",
+            "year": "2021",
+            "etiquetas": "Drama, Fantasy, Sci-Fi",
+            "type": "movie",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2021-07-16",
+            "updated_at": "2026-03-28T09:52:45.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "1358",
             "slug": "",
@@ -3036,21 +3052,6 @@
             "updated_at": "2026-03-15T04:32:45.000Z",
             "episodes": 1,
             "calidad": "HD"
-        },
-        {
-            "id_mal": "59623",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1104\/151524l.jpg",
-            "titulo": "Wandance",
-            "titulo_original": "ワンダンス",
-            "year": "2025",
-            "etiquetas": "Sports",
-            "type": "anime",
-            "score": "6.9",
-            "status": "Finished Airing",
-            "created_at": "2025-10-08",
-            "updated_at": "2026-03-07T15:40:04.000Z",
-            "episodes": 12
         }
     ]
 }
