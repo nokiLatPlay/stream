@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Isekai Nonbiri Nouka.",
     "score": "7.5",
-    "episodes": 5,
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-04T13:50:43.000Z",
+    "updated_at": "2026-05-14T06:49:55.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -93,6 +93,20 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/e0bf4ed9ed54bbd248d58bf50e582fed"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Buen día para los visitantes",
+                    "portada": "https://image.tmdb.org/t/p/w300/xrCw7kTkxukqsllQ652US2R6grx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8bb4a73d15b3d33d60bac940d2e3fece"
                         }
                     ]
                 }
