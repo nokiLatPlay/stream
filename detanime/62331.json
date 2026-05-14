@@ -6,9 +6,9 @@
     "etiquetas": "Drama, Suspense",
     "year": "2026",
     "type": "anime",
-    "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.  On that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.  In this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.  [Written by MAL Rewrite]",
+    "synopsis": "La estudiante universitaria Nao Kanzaki siempre ha hecho honor al significado de su nombre: \"tontamente honesta\". Sin embargo, tras abrir un paquete inesperado con cien millones de yenes, acepta sin querer una invitación al \"Juego del Mentiroso\". En este torneo, se anima a los participantes a traicionar y engañar a sus oponentes para ganar una enorme cantidad de dinero; por el contrario, perder les acarreará una deuda de por vida. Sin ninguna esperanza, su única opción es buscar la ayuda de un estafador. Ese mismo día, el infame timador Shinichi Akiyama sale finalmente de la cárcel. Este antiguo estudiante de psicología es conocido por haber llevado a la quiebra a una empresa entera, y Nao cree que es su única oportunidad de escapar de su terrible situación. Al principio, Shinichi duda en cometer otro delito, ignorando a Nao y su petición. Pero al ver su desesperación y persistencia, accede a ayudarla. En este mundo fraudulento, Nao y Shinichi tienen sus propios motivos. Sin embargo, pronto descubren la verdadera naturaleza no solo del juego, sino también de todos los involucrados. [Escrito por MAL Rewrite]",
     "score": "6.8",
-    "episodes": 5,
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-05-04T13:57:37.000Z",
+    "updated_at": "2026-05-14T06:56:13.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -98,6 +98,20 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/974663bb1ad94bbe111ea6fd6b3b326a"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Iniciativa",
+                    "portada": "https://image.tmdb.org/t/p/w300/egcH44fuz3m0109fc8lcXtutmTL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c8c769bca983b4b379342fbae1125e51"
                         }
                     ]
                 }
