@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "53434",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1346\/141203.jpg",
+            "titulo": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+            "titulo_original": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
+            "year": "2026",
+            "etiquetas": "Action, Fantasy, Romance",
+            "type": "tv-anime",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2024-5-4",
+            "updated_at": "2026-04-12T09:14:37.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "57502",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1538\/140687.jpg",
             "titulo": "Meiji Gekken: 1874",
@@ -1696,21 +1710,6 @@
             "status": "Currently Airing",
             "created_at": "2026-8-4",
             "updated_at": "2026-04-12T00:18:28.000Z",
-            "episodes": 1
-        },
-        {
-            "id_mal": "61316",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1540\/155824.jpg",
-            "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-            "titulo_original": "Re:ゼロから始める異世界生活 4th season",
-            "year": "2026",
-            "etiquetas": "Drama, Fantasy, Suspense",
-            "type": "anime",
-            "score": "8.7",
-            "status": "Currently Airing",
-            "created_at": "2026-8-4",
-            "updated_at": "2026-04-11T23:43:50.000Z",
             "episodes": 1
         },
         {
