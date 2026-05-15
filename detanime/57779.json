@@ -8,18 +8,17 @@
     "type": "anime",
     "synopsis": "Second season of Dorohedoro.",
     "score": "8.3",
-    "episodes": 6,
+    "episodes": 9,
+    "status": "Currently Airing",
     "duration": "26 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "MAPPA"
     ],
     "producers": [],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-22T13:53:06.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-15T06:41:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -27,108 +26,126 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "¡USEMOS NUESTROS RECURSOS CON CUIDADO/HORROR! BAILE DE LA MATADURA DE LA MANSIÓN SANGRIENTA",
+                    "portada": "https://image.tmdb.org/t/p/w300/sa27UhRUAkx45sGPPj8HPWeNkaz.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/657cad7c4bbd48aed499c6a239f05461",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/657cad7c4bbd48aed499c6a239f05461",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/657cad7c4bbd48aed499c6a239f05461"
                         }
                     ]
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "MEOTO ZENZAI / MASTEMA SUBNADE / EL TRÁGICO CUENTO DE LOS OJOS BIZCOS",
+                    "portada": "https://image.tmdb.org/t/p/w300/eYrkuWDRBB6ou8mEslr29Zgya83.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/343b2b8e58558a509c476525a6bea419",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/343b2b8e58558a509c476525a6bea419",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/343b2b8e58558a509c476525a6bea419"
                         }
                     ]
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "DULCE HOGAR / JUVENTUD BRILLANTE / LOS RECUERDOS SIGUEN DANDO VUELTAS Y VUELTAS / VUELVE A CASA",
+                    "portada": "https://image.tmdb.org/t/p/w300/8WCQqCGEx3cL6jSM93GicxNXq9p.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/598fab6239743c186cba39d2414f9ce6",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/598fab6239743c186cba39d2414f9ce6",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/598fab6239743c186cba39d2414f9ce6"
                         }
                     ]
                 },
                 {
                     "episode_id": "4",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "",
+                    "nombre": "LOS ESCARABAJOS DORADOS SON RICOS / LINDO CARNICERO / PUERTA AL PASADO",
+                    "portada": "https://image.tmdb.org/t/p/w300/1PkWmwdbtPVGfaPe7jPZxL6cNAJ.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/f285d7e13b9b49c88cb689d90912ea74",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/f285d7e13b9b49c88cb689d90912ea74",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f285d7e13b9b49c88cb689d90912ea74"
                         }
                     ]
                 },
                 {
                     "episode_id": "5",
                     "numero": 5,
-                    "nombre": "Episodio 5",
-                    "portada": "",
+                    "nombre": "ENCUENTRO BAJO LA LLUVIA / COMPAÑEROS DE VIAJE / ÚLTIMA NOCHE PARA DOS",
+                    "portada": "https://image.tmdb.org/t/p/w300/jCTymybqm48wv7yYPGJibJKpELR.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/46efe40650d1758d576b06d0ecabc08d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/46efe40650d1758d576b06d0ecabc08d"
                         }
                     ]
                 },
                 {
                     "episode_id": "6",
                     "numero": 6,
-                    "nombre": "Episodio 6",
-                    "portada": "",
+                    "nombre": "DESPEDIDA CAIMÁN / BURBUJAS DE MEMORIA",
+                    "portada": "https://image.tmdb.org/t/p/w300/k7czt5b867KEseSUMKEfJu931Kp.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/e04892e46dff09c4abfad58332e7a586",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e04892e46dff09c4abfad58332e7a586"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "MI PLAN SECRETO / EXPEDICIÓN BRUZA / REUNIÓN DEFORMADA",
+                    "portada": "https://image.tmdb.org/t/p/w300/AoCSwOYwVIVAzpUXH8bLQR6RxvR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7194d83bf176d0e216b51ad772e0ca1d"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "CHOQUE DEL CAOS / CAJA NEGRA / HABITACIÓN 501",
+                    "portada": "https://image.tmdb.org/t/p/w300/naBmqKvSZvMAX6VlOVBwwJheeyE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/76b0bb98437f3a26153f1cedceda3d11"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "MOSH PIT / OJOS BRUTOS EN LAS NOTICIAS",
+                    "portada": "https://image.tmdb.org/t/p/w300/czhNUbqaMX2eMcOzWED9JfKay7R.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/47fe5bb75bda028faabbbdf75d3af7f6"
                         }
                     ]
                 }
