@@ -6,12 +6,12 @@
     "etiquetas": "Action",
     "year": "2026",
     "type": "anime",
-    "synopsis": "For centuries, the Poison Masters have perfected the art of assassination. Among them, the Gero family stands as one of the five most powerful families of Masters, wielding unmatched skill and influence. Hikaru Gero, heir to this infamous bloodline, has lived his life deep in the shadows of the underworld, far removed from love or marriage.  However, to ensure the Poison Master bloodline does not die out, the head of the Gero family declares that Hikaru's sister will be forced to bear an heir. Soon after, Hikaru crosses paths with Mei Kinosaki, a brilliant marriage swindler who also happens to be his current assassination target. Determined to protect his sister and solve the succession problem himself, Hikaru makes an unexpected request on the spot—asking Mei to help him get married.  \"...That's the first time anyone's ever proposed like that.\"  And so, with the cunning marriage swindler Mei as his advisor, the elite assassin Hikaru sets out on the toughest mission for love. His goal? The ultimate marriage. The most unlikely duo—an assassin and a marriage swindler—take on the world's toughest mission for love!  (Source: Official site)",
+    "synopsis": "Durante siglos, los Maestros del Veneno han perfeccionado el arte del asesinato. Entre ellos, la familia Gero se erige como una de las cinco familias de Maestros más poderosas, con una habilidad e influencia inigualables. Hikaru Gero, heredero de este infame linaje, ha vivido su vida en las sombras del inframundo, lejos del amor o el matrimonio. Sin embargo, para asegurar que el linaje de los Maestros del Veneno no se extinga, el jefe de la familia Gero declara que la hermana de Hikaru se verá obligada a dar a luz a un heredero. Poco después, Hikaru se cruza con Mei Kinosaki, una brillante estafadora matrimonial que también resulta ser su objetivo de asesinato. Decidido a proteger a su hermana y resolver el problema de la sucesión por sí mismo, Hikaru hace una petición inesperada en el acto: pedirle a Mei que lo ayude a casarse. \"...Es la primera vez que alguien propone algo así\". Y así, con la astuta estafadora matrimonial Mei como consejera, el asesino de élite Hikaru se embarca en la misión más difícil por amor. ¿Su objetivo? El matrimonio definitivo. ¡La pareja más improbable —un asesino y un estafador matrimonial— se embarcan en la misión más difícil del mundo por amor! (Fuente: Sitio web oficial)",
     "score": "7.6",
     "episodes": 4,
     "status": "Currently Airing",
     "duration": "23 min",
-    "rating": "",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
         "Bones Film"
@@ -26,7 +26,7 @@
         "Bandai Namco Music Live"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-05-04T05:12:12.000Z",
+    "updated_at": "2026-05-15T05:31:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -84,6 +84,34 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/1bc0a2327b2eb68ef0e5e80812d05ee5"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Señor Chladni",
+                    "portada": "https://image.tmdb.org/t/p/w300/b6fuXkVzJicFLLeBxJv17XkYp3o.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6c19a2dd403706cf6d80728e11fbbb54"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "junto conmigo",
+                    "portada": "https://image.tmdb.org/t/p/w300/pENXPNl3BZzp7bEbouYuP2T4knR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/688499f4115d01b7bb1606ae1254929c"
                         }
                     ]
                 }
