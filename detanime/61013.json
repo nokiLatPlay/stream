@@ -1,28 +1,26 @@
 {
     "id_mal": "61013",
-    "anime_id": "3956",
     "titulo": "Replica datte, Koi wo Suru.",
     "titulo_original": "レプリカだって、恋をする。",
     "imagen": "https://myanimelist.net/images/anime/1148/155671.jpg",
     "etiquetas": "Drama, Romance, Supernatural, School",
     "year": "2026",
     "type": "anime",
-    "synopsis": "On days when Sunao is sick, or not feeling like going to school, she is called to take her place. She was born to this world when Sunao wished to have a substitute. No one knows that she exists, but she tries to do her best for Sunao whenever she is called. One day she talks with Sanada, one of her classmates. They become friends, but soon he notices that she is different from the original Sunao...he was the first one who did. She tells him to talk with her only when she has her hair half-up. Sanada does like she told him, and they enjoy their time together. As they become closer, she realizes that she has special feelings toward Sanada. But she doesn't know what will happen to her...if she, a replica, falls in love.  (Source: Kadokawa)",
+    "synopsis": "Los días en que Sunao está enferma o no tiene ganas de ir a la escuela, la llaman para que la reemplace. Nació cuando Sunao deseó tener una sustituta. Nadie sabe de su existencia, pero ella se esfuerza al máximo por Sunao cada vez que la llaman. Un día, conversa con Sanada, uno de sus compañeros de clase. Se hacen amigos, pero pronto él nota que ella es diferente de la Sunao original... fue el primero en darse cuenta. Ella le pide que solo hable con ella cuando tenga el cabello semirecogido. Sanada obedece y disfrutan de su tiempo juntos. A medida que se acercan, ella se da cuenta de que siente algo especial por Sanada. Pero no sabe qué le sucederá... si ella, una réplica, se enamora. (Fuente: Kadokawa)",
     "score": "6.9",
-    "episodes": 3,
-    "duration": "24 min per ep",
-    "rating": null,
-    "source": "Light novel",
+    "episodes": 6,
     "status": "Currently Airing",
+    "duration": "24 min per ep",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "Voil"
     ],
     "producers": [
         "Kadokawa"
     ],
-    "created_at": "2026-7-4",
-    "updated_at": "2026-04-22T13:50:53.000Z",
-    "player_base": [],
+    "created_at": "2026-04-07",
+    "updated_at": "2026-05-15T05:19:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -34,16 +32,10 @@
                     "portada": "https://cdn.animeav1.com/screenshots/3956/1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/63db9f5eae94f14e01b108e5f405962d",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/63db9f5eae94f14e01b108e5f405962d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/63db9f5eae94f14e01b108e5f405962d"
                         }
                     ]
                 },
@@ -55,9 +47,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/1b994eea567dd458309e6f7d32c123ba",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1b994eea567dd458309e6f7d32c123ba"
                         }
                     ]
                 },
@@ -69,9 +61,51 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/6423e3d70bb8d457a054829373ab1e26",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6423e3d70bb8d457a054829373ab1e26"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Una réplica llora",
+                    "portada": "https://image.tmdb.org/t/p/w300/7af7bXZ5TK23XtsdRUscJl1PvTJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/9e7589fdda9666f84f19740e4355ae69"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Una réplica de los sueños",
+                    "portada": "https://image.tmdb.org/t/p/w300/olp1rkt7xqZrWirBHcQhUTy8tyk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d92fdc493c383cf50b740cd9fb7663d8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Una réplica se sacude",
+                    "portada": "https://image.tmdb.org/t/p/w300/hHlkzYpuVMa2kNCz2Zn76hLzyDE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/9f541ac6b347c8c3dc79ce9413d88f11"
                         }
                     ]
                 }
