@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63469",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1813\/155431.jpg",
+            "titulo": "Hyakki Yakoushou",
+            "titulo_original": "百鬼夜行抄",
+            "etiquetas": "Horror, Mystery, Romance, Supernatural, Historical, Shoujo",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-05-15T05:09:55.000Z",
+            "year": "2026",
+            "score": "5.4",
+            "status": "Currently Airing",
+            "episodes": 6
+        },
+        {
             "id_mal": "56960",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6sVFq75rlu38zQNgpmltcjBL8vO.jpg",
             "titulo": " Mom, I'm Sorry",
@@ -761,21 +775,6 @@
             "created_at": "2026-04-14",
             "updated_at": "2026-04-16T08:16:46.000Z",
             "episodes": 1
-        },
-        {
-            "id_mal": "63469",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1813\/155431.jpg",
-            "titulo": "Hyakki Yakoushou",
-            "titulo_original": "百鬼夜行抄",
-            "year": "2026",
-            "etiquetas": "Horror, Mystery, Romance, Supernatural",
-            "type": "anime",
-            "score": "5.4",
-            "status": "Currently Airing",
-            "created_at": "2026-7-4",
-            "updated_at": "2026-04-16T08:16:33.000Z",
-            "episodes": 2
         },
         {
             "id_mal": "30363",
