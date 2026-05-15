@@ -6,13 +6,13 @@
     "etiquetas": "Comedy, Romance",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Maria, the daughter of a duke, grew up believing she would one day inherit her father's dukedom. Accordingly, she focused her attentions on honing her martial arts prowess, while thoughts of marriage fell by the wayside. But the arrival of a baby brother in her family means she's losing her role as heir! Now that she's decided it's time to marry after all, she's arrived a little late to the game! Are there even any eligible bachelors left?  Upon going to study abroad in a neighboring country where she might still stand a chance at getting hitched, she's bewildered when the crown prince there declares before all that his engagement to her is null and void! Wait... what engagement?!  Apparently, he's mistaken her for the wrong girl! But once that's all cleared up and he catches sight of her knocking out a whole pack of bandits, it turns out that this prince may have a thing for ass-kicking young ladies after all.  (Source: Square Enix)",
+    "synopsis": "María, hija de un duque, creció creyendo que algún día heredaría el ducado de su padre. Por ello, centró su atención en perfeccionar sus habilidades en artes marciales, dejando de lado la idea del matrimonio. ¡Pero la llegada de un hermanito a la familia significa que está perdiendo su derecho a heredera! Ahora que ha decidido que es hora de casarse, ¡llega un poco tarde! ¿Acaso quedan solteros disponibles? Al irse a estudiar al extranjero a un país vecino donde aún podría tener la oportunidad de casarse, se queda perpleja cuando el príncipe heredero declara públicamente que su compromiso con ella queda anulado. ¡Un momento... ¿qué compromiso?! ¡Al parecer, la ha confundido con otra chica! Pero una vez aclarado todo y al verla derrotar a un grupo de bandidos, resulta que este príncipe sí que tiene debilidad por las jóvenes luchadoras. (Fuente: Square Enix)",
     "score": "7.3",
-    "episodes": 4,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Light novel",
+    "episodes": 7,
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "TROYCA"
     ],
@@ -25,9 +25,8 @@
         "BS11",
         "DMM.com"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-22T14:27:38.000Z",
-    "player_base": [],
+    "created_at": "2026-04-02",
+    "updated_at": "2026-05-15T09:26:21.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -35,68 +34,98 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "Cómo busqué una captura prometedora",
+                    "portada": "https://image.tmdb.org/t/p/w300/n9rRszA6gkXgTClC8gSdxpPfwTt.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0b37d76bfc0b87e65be408752096f31d",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0b37d76bfc0b87e65be408752096f31d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0b37d76bfc0b87e65be408752096f31d"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Cómo atrapé al que se escapó",
+                    "portada": "https://image.tmdb.org/t/p/w300/jCyW6iDSDWPKNMvAWc1FIqzXzeV.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/8f84889b424c0f230d8bb5cddfb196e7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/8f84889b424c0f230d8bb5cddfb196e7",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8f84889b424c0f230d8bb5cddfb196e7"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "Cómo me entrené para convertirme en dama",
+                    "portada": "https://image.tmdb.org/t/p/w300/xnCWD8A6j1Thp3JBA20xuppdJbE.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/23adcf3952343383ef30a0216ef870e2",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/23adcf3952343383ef30a0216ef870e2"
                         }
                     ]
                 },
                 {
                     "episode_id": "4",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "",
+                    "nombre": "Cómo se atribuló el que se escapó",
+                    "portada": "https://image.tmdb.org/t/p/w300/7w3dFZh4rmaIT0RkGSOiatp2y2l.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/2ba5129de88b21196c1c82b5be0aaaf8",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/2ba5129de88b21196c1c82b5be0aaaf8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Cómo visitó su casa el que se escapó",
+                    "portada": "https://image.tmdb.org/t/p/w300/SLM4ph9plRkLSUqCdHX9AZdHLb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f654b3832c44a773b57119f90c69d2fe"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Cómo la que se escapó peleó con su padre",
+                    "portada": "https://image.tmdb.org/t/p/w300/2fJi1OfxNlYTvrCka5Etwb2Fu56.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7e6ee498e2e981584f8346821416dd55"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Los puños del que se escapó",
+                    "portada": "https://image.tmdb.org/t/p/w300/klFjBKNjSDPQRrEEdBlJIWud5qk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ded429b4e17ba0cdf7f949b8458c2b89"
                         }
                     ]
                 }
