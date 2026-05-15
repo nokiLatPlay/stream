@@ -2,13 +2,13 @@
     "id_mal": "61931",
     "titulo": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
     "titulo_original": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
-    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1916\/155657.jpg",
+    "imagen": "https://myanimelist.net/images/anime/1916/155657.jpg",
     "etiquetas": "Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
     "score": "7.2",
-    "episodes": "3",
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -29,12 +29,8 @@
         "Pia",
         "FuRyu Pictures"
     ],
-    "aired_from": "",
-    "aired_to": "",
-    "aired_string": "",
     "created_at": "2026-04-07",
-    "updated_at": "2026-04-22T15:17:38.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-15T05:14:42.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -43,19 +39,13 @@
                     "episode_id": "1",
                     "numero": 1,
                     "nombre": "La Reina Cruel y el Prometido",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/1.jpg",
+                    "portada": "https://image.tmdb.org/t/p/w300/r9EvUmDpNTFJzRoeCHsqzOQy6l3.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Server 1",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/0b7994fa19d070513a5a87c1d09a30d8"
-                        },
                         {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0b7994fa19d070513a5a87c1d09a30d8"
+                            "url": "https://player.zilla-networks.com/m3u8/0b7994fa19d070513a5a87c1d09a30d8"
                         }
                     ]
                 },
@@ -63,13 +53,13 @@
                     "episode_id": "2",
                     "numero": 2,
                     "nombre": "La Reina Cruel Habla",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/2.jpg",
+                    "portada": "https://image.tmdb.org/t/p/w300/bD0VkguvSl4KfHpCjukAt15HQUY.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b3671f185822e344857263238c55ed01"
+                            "url": "https://player.zilla-networks.com/m3u8/b3671f185822e344857263238c55ed01"
                         }
                     ]
                 },
@@ -77,13 +67,55 @@
                     "episode_id": "3",
                     "numero": 3,
                     "nombre": "La Reina Cruel y la Verdad",
-                    "portada": "https:\/\/cdn.animeav1.com\/screenshots\/3951\/3.jpg",
+                    "portada": "https://image.tmdb.org/t/p/w300/nEWZLWXH01vV6t7e5PhREyWt7TP.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "type": "mp4",
                             "language": "Sub",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b41a1c15404bd813fea1b236994541af"
+                            "url": "https://player.zilla-networks.com/m3u8/b41a1c15404bd813fea1b236994541af"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "La Reina Cruel hace una declaración",
+                    "portada": "https://image.tmdb.org/t/p/w300/3ulgOnDVXH9d3CiaYJrfFH98kAl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/95a435abf7b246fe18f68299da1bed1b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "La reina cruel se da cuenta y es notada",
+                    "portada": "https://image.tmdb.org/t/p/w300/3pEHaZHgMYaSsjy9dm0Sy1jszqW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/618ef830e40b04de48c9ecfceea7e677"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "La reina audaz y el alcohol",
+                    "portada": "https://image.tmdb.org/t/p/w300/4rI54huGP4SmX5QjTjH5XbmCZtq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/96f11f4aea050d45e00dac0214a67454"
                         }
                     ]
                 }
