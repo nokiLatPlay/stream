@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "57502",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1538\/140687.jpg",
+            "titulo": "Meiji Gekken: 1874",
+            "titulo_original": "明治撃剣－1874－",
+            "year": "2026",
+            "etiquetas": "Action",
+            "type": "tv-anime",
+            "score": "6.3",
+            "status": "Finished Airing",
+            "created_at": "2024-14-1",
+            "updated_at": "2026-04-12T09:14:35.000Z",
+            "episodes": 10
+        },
+        {
             "id_mal": "52816",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1380\/139745.jpg",
             "titulo": "Majo to Yajuu",
@@ -1025,20 +1039,6 @@
             "status": "Currently Airing",
             "created_at": "2026-11-4",
             "updated_at": "2026-04-12T09:11:47.000Z",
-            "episodes": 1
-        },
-        {
-            "id_mal": "62485",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1393\/156075.jpg",
-            "titulo": "Kanojo, Okarishimasu 5th Season",
-            "titulo_original": "彼女、お借りします 第5期",
-            "year": "2026",
-            "etiquetas": "Comedy, Romance",
-            "type": "tv-anime",
-            "score": "6.1",
-            "status": "Currently Airing",
-            "created_at": "2026-11-4",
-            "updated_at": "2026-04-12T09:11:46.000Z",
             "episodes": 1
         },
         {
