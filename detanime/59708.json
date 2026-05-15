@@ -6,13 +6,13 @@
     "etiquetas": "Drama, Suspense, Psychological, School",
     "year": "2026",
     "type": "anime",
-    "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?  (Source: Crunchyroll)",
+    "synopsis": "Al comenzar su segundo año en la Escuela Secundaria de Formación Avanzada, Ayanokouji y sus compañeros se enfrentan a una serie de exámenes y a un grupo de alumnos de primer año bastante peculiares. Tendrán que conocerse rápidamente, ya que el primer examen especial empareja a los alumnos de primer y segundo año en una prueba escrita, ¡y solo los de segundo año se arriesgan a la expulsión si su equipo obtiene un mal resultado! ¿Y lo peor? Parece que uno de los nuevos alumnos de primer año también pertenece a la Sala Blanca. ¿Podrá Ayanokouji evitar la expulsión mientras descubre la identidad de este enemigo oculto? (Fuente: Crunchyroll)",
     "score": "8.2",
-    "episodes": 7,
+    "episodes": 10,
+    "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
-    "status": "Not yet aired",
     "studios": [
         "Lerche"
     ],
@@ -20,8 +20,7 @@
         "Lantis"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-04-22T13:52:18.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-15T06:18:04.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,128 +28,140 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "Asesino de la habitación blanca",
+                    "portada": "https://image.tmdb.org/t/p/w300/yl8210bV4qRUPBpGFmEHRbkG8sU.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/7b7ab1d5e2d12217df3d056261ba7f61",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7b7ab1d5e2d12217df3d056261ba7f61",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7b7ab1d5e2d12217df3d056261ba7f61"
                         }
                     ]
                 },
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Contrato y Pago",
+                    "portada": "https://image.tmdb.org/t/p/w300/yBSNdrbiSSY0IF617InFvQXw6c3.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/1c4beec1d477d47a5e9ac10f427283f4",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/1c4beec1d477d47a5e9ac10f427283f4",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1c4beec1d477d47a5e9ac10f427283f4"
                         }
                     ]
                 },
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "Determinación de un líder",
+                    "portada": "https://image.tmdb.org/t/p/w300/7MqipjUXmGfMZKnwpxR2hnwcmfS.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/4d99a5a80e8bf0ef433036a7c2371670",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/4d99a5a80e8bf0ef433036a7c2371670",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4d99a5a80e8bf0ef433036a7c2371670"
                         }
                     ]
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "",
+                    "nombre": "¿A quién se dirige la espada?",
+                    "portada": "https://image.tmdb.org/t/p/w300/frVQkedKhzY9gmVCydEiG7VJ48F.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/5fc683fe7191a6c81f702449cde9d501",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/5fc683fe7191a6c81f702449cde9d501",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5fc683fe7191a6c81f702449cde9d501"
                         }
                     ]
                 },
                 {
                     "episode_id": "5",
                     "numero": 5,
-                    "nombre": "Episodio 5",
-                    "portada": "",
+                    "nombre": "El hombre de los 20 millones",
+                    "portada": "https://image.tmdb.org/t/p/w300/uk28bwhtbaV2fuiNMkr9fz7kANB.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/5dfc28c79b327257ae2d7080c8ca14f8",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/5dfc28c79b327257ae2d7080c8ca14f8",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5dfc28c79b327257ae2d7080c8ca14f8"
                         }
                     ]
                 },
                 {
                     "episode_id": "6",
                     "numero": 6,
-                    "nombre": "Episodio 6",
-                    "portada": "",
+                    "nombre": "Una turbulenta batalla por el reclutamiento",
+                    "portada": "https://image.tmdb.org/t/p/w300/fsQZd0BndTQlqd94i9FSk4zkffq.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/74f55b0cc7dac7bf7c1dea5555d39bf8",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/74f55b0cc7dac7bf7c1dea5555d39bf8"
                         }
                     ]
                 },
                 {
                     "episode_id": "7",
                     "numero": 7,
-                    "nombre": "Episodio 7",
-                    "portada": "",
+                    "nombre": "Trazar",
+                    "portada": "https://image.tmdb.org/t/p/w300/2eMWwzG6LfRecO8XKb6fcVbXRfk.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/bfe64a23ec65d688ff4177cd104d8e38",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/bfe64a23ec65d688ff4177cd104d8e38"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "El tema de la mirada de los dragones",
+                    "portada": "https://image.tmdb.org/t/p/w300/ghtGd2fgz9H7BTUSIqFQo1BoQrg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/282ae41e98d25ee3f90b8abbc9ab1285"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Un comienzo inquietante",
+                    "portada": "https://image.tmdb.org/t/p/w300/dnu4b8i36fQNzWEEAiuubwNa4yl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1d741a7b499e77b5dc70e36fcceb926c"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Amor incomunicado",
+                    "portada": "https://image.tmdb.org/t/p/w300/bTBXjugnBi2JDJ878Lbm1Zgjktn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/58d1dd619e8fd5c07b74aff7ec7d5729"
                         }
                     ]
                 }
