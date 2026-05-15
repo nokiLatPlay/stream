@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61067",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1296\/152147l.jpg",
+            "titulo": "Ninja to Gokudou",
+            "titulo_original": "忍者と極道",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-10-08",
+            "updated_at": "2026-05-15T06:01:52.000Z",
+            "year": "2025",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "63014",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1199\/156106.jpg",
             "titulo": "Tadaima, Ojamasaremasu!",
@@ -2900,20 +2914,6 @@
             "created_at": "2024-12-1",
             "updated_at": "2026-04-12T09:14:33.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "54794",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1859\/140210.jpg",
-            "titulo": "Metallic Rouge",
-            "titulo_original": "メタリックルージュ",
-            "year": "2026",
-            "etiquetas": "Action, Sci-Fi",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2024-11-1",
-            "updated_at": "2026-04-12T09:14:32.000Z",
-            "episodes": 13
         }
     ]
 }
