@@ -1,19 +1,18 @@
 {
     "id_mal": "62604",
-    "anime_id": "3966",
     "titulo": "Otaku ni Yasashii Gal wa Inai!?",
     "titulo_original": "オタクに優しいギャルはいない!?",
     "imagen": "https://myanimelist.net/images/anime/1956/155456.jpg",
     "etiquetas": "Comedy, Romance, Otaku Culture, School, Seinen",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!  (Source: Yen Press)",
+    "synopsis": "Les presentamos a Takuya Seo, un otaku que se sienta detrás de las chicas populares de la clase, Ijichi y Amane. Dado que pertenecen a diferentes \"clases\", uno no esperaría que tuvieran mucho en común. Pero cuando sus mundos chocan por una goma de borrar prestada, Takuya se le escapa su anime favorito, y Amane... no tarda en corregirlo. Dice que no es fan, pero su conocimiento de la serie sugiere lo contrario. ¿Podría ser... otra friki? (Fuente: Yen Press)",
     "score": "7.5",
-    "episodes": 3,
+    "episodes": 6,
+    "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "TMS Entertainment"
     ],
@@ -24,9 +23,8 @@
         "ADK Emotions",
         "BS Asahi"
     ],
-    "created_at": "2026-8-4",
-    "updated_at": "2026-04-22T13:53:19.000Z",
-    "player_base": [],
+    "created_at": "2026-04-08",
+    "updated_at": "2026-05-15T08:50:05.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -34,48 +32,84 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3966/1.jpg",
+                    "nombre": "¿Puede una chica ser amable con un otaku?",
+                    "portada": "https://image.tmdb.org/t/p/w300/ziYIT4EiW83dAFDWE1nkIMYKPiB.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/d169357f633a5ed787917a6cb064f31c",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d169357f633a5ed787917a6cb064f31c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d169357f633a5ed787917a6cb064f31c"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3966/2.jpg",
+                    "nombre": "¿Es mi habitación un lugar de reunión para chicas?",
+                    "portada": "https://image.tmdb.org/t/p/w300/u8VEMMDGviIRkeqR2CUxiHTYgbI.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/1f77928adb1d130970ed256c57e8820d",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1f77928adb1d130970ed256c57e8820d"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https://cdn.animeav1.com/screenshots/3966/3.jpg",
+                    "nombre": "¿Quieres venir?",
+                    "portada": "https://image.tmdb.org/t/p/w300/raxzSfZAsl6Ixh8EQnt0qy9tr1s.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/dd69829664103aa30a814e305b4da49c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/dd69829664103aa30a814e305b4da49c"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "vamos al karaoke",
+                    "portada": "https://image.tmdb.org/t/p/w300/6iXch6lx0SxreHrMXpDNWT5Cm5m.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0cbf4a8caf1747836f90ce51f06244c8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "¿Entonces? ¿Te gustan nuestros trajes de baño?",
+                    "portada": "https://image.tmdb.org/t/p/w300/zU2lsfWZ0ij2h7B8FsBAk85YkV4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4eabf0b273118b58eebeae352e9a3897"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "¿Amar?",
+                    "portada": "https://image.tmdb.org/t/p/w300/svktbxkLoBjgdeGThq7Cvt4UOIK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/384cbe08cfdf7c2897745ad855e5d37a"
                         }
                     ]
                 }
