@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61839",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/155958.jpg",
+            "titulo": "I Want To End This Love Game",
+            "titulo_original": "愛してるゲームを終わらせたい",
+            "etiquetas": "Comedy, Romance, School",
+            "type": "anime",
+            "created_at": "2026-04-14",
+            "updated_at": "2026-05-15T05:27:28.000Z",
+            "year": "2026",
+            "score": "7.3",
+            "status": "Currently Airing",
+            "episodes": 5
+        },
+        {
             "id_mal": "61013",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1148\/155671.jpg",
             "titulo": "Replica datte, Koi wo Suru.",
@@ -774,21 +788,6 @@
             "created_at": "2026-11-4",
             "updated_at": "2026-04-18T10:47:42.000Z",
             "episodes": 4
-        },
-        {
-            "id_mal": "61839",
-            "slug": "aishiteru-game-wo-owarasetai",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/155958.jpg",
-            "titulo": "I Want To End This Love Game",
-            "titulo_original": "愛してるゲームを終わらせたい",
-            "year": "2026",
-            "etiquetas": "Comedy, Romance, School",
-            "type": "anime",
-            "score": "7.3",
-            "status": "Currently Airing",
-            "created_at": "2026-04-14",
-            "updated_at": "2026-04-16T08:16:46.000Z",
-            "episodes": 1
         },
         {
             "id_mal": "30363",
