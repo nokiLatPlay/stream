@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63014",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1199\/156106.jpg",
+            "titulo": "Tadaima, Ojamasaremasu!",
+            "titulo_original": "ただいま、おじゃまされます！",
+            "etiquetas": "Comedy, Romance, Adult Cast, Otaku Culture, Shoujo",
+            "type": "anime",
+            "created_at": "2026-04-08",
+            "updated_at": "2026-05-15T05:54:55.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 6
+        },
+        {
             "id_mal": "53732",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1015\/156388.jpg",
             "titulo": "Hidarikiki no Eren",
@@ -2900,20 +2914,6 @@
             "created_at": "2024-11-1",
             "updated_at": "2026-04-12T09:14:32.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "55998",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1207\/140800.jpg",
-            "titulo": "Momochi-san Chi no Ayakashi Ouji",
-            "titulo_original": "百千さん家のあやかし王子",
-            "year": "2026",
-            "etiquetas": "Romance, Supernatural",
-            "type": "tv-anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "created_at": "2024-6-1",
-            "updated_at": "2026-04-12T09:14:30.000Z",
-            "episodes": 12
         }
     ]
 }
