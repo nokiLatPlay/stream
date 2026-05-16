@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "57876",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1814\/143744.jpg",
+            "titulo": "Maougun Saikyou no Majutsushi wa Ningen datta",
+            "titulo_original": "魔王軍最強の魔術師は人間だった",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "created_at": "2024-3-7",
+            "updated_at": "2026-04-12T09:14:40.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "50713",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1100\/142255.jpg",
             "titulo": "Mahouka Koukou no Rettousei 3rd Season",
@@ -1844,21 +1858,6 @@
             "status": "Currently Airing",
             "created_at": "2026-9-4",
             "updated_at": "2026-04-09T22:27:25.000Z",
-            "episodes": 1
-        },
-        {
-            "id_mal": "60028",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1229\/155022.jpg",
-            "titulo": "Himekishi wa Barbaroi no Yome",
-            "titulo_original": "姫騎士は蛮族の嫁",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "anime",
-            "score": " ",
-            "status": "Currently Airing",
-            "created_at": "2026-9-4",
-            "updated_at": "2026-04-09T22:26:50.000Z",
             "episodes": 1
         },
         {
