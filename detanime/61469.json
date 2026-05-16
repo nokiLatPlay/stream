@@ -6,13 +6,13 @@
     "etiquetas": "Action, Adventure, Mystery, Supernatural",
     "year": "2026",
     "type": "anime",
-    "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+    "synopsis": "En el Viejo Oeste americano, la carrera más grande del mundo está a punto de comenzar. Miles de personas se alinean en San Diego para recorrer más de seis mil kilómetros con la esperanza de ganar el gran premio de cincuenta millones de dólares. Con la era del caballo llegando a su fin, los participantes pueden usar cualquier tipo de vehículo que deseen. Los competidores tendrán que soportar condiciones extenuantes, recorriendo hasta cien kilómetros diarios a través de páramos inexplorados. La Carrera de la Bola de Acero es un evento verdaderamente único.\r\n\r\nEl joven Johnny Joestar, un ex jinete lisiado, ha llegado a San Diego para presenciar el inicio de la carrera. Allí se encuentra con Gyro Zeppeli, un corredor que lleva dos bolas de acero en la cintura en lugar de una pistola. Johnny presencia cómo Gyro usa una de sus bolas de acero para desatar un poder fantástico, obligando a un hombre a dispararse a sí mismo durante un duelo. En medio de la acción, Johnny toca la bola de acero y siente una fuerza que recorre sus piernas, permitiéndole ponerse de pie por primera vez en dos años. Decidido a descubrir el secreto de las bolas de acero, Johnny decide participar en la carrera, dando inicio así a su peculiar aventura a través de Estados Unidos en la Carrera de las Bolas de Acero.\r\n\r\n[Escrito por MAL Rewrite]",
     "score": "9.2",
     "episodes": 1,
+    "status": "Currently Airing",
     "duration": "47 min",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "David Production"
     ],
@@ -22,8 +22,7 @@
         "ONEMUSIC"
     ],
     "created_at": "2026-03-19",
-    "updated_at": "2026-04-01T12:47:08.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-16T02:26:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -31,32 +30,20 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "LA CARRERA DE LA BOLA DE ACERO",
+                    "portada": "https://image.tmdb.org/t/p/w300/4ATJwDwspxLCYEZaRbCpIyxd7Wo.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/9d611e1f945154dd5eae2545ffc5aa94",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/9d611e1f945154dd5eae2545ffc5aa94",
                             "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/1cbf1573eaaef3f77b38be17bbe662d0",
-                            "type": "embed",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/9d611e1f945154dd5eae2545ffc5aa94"
                         },
                         {
                             "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1cbf1573eaaef3f77b38be17bbe662d0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1cbf1573eaaef3f77b38be17bbe662d0"
                         }
                     ]
                 }
