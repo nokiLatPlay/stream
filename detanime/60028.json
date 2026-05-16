@@ -1,6 +1,5 @@
 {
     "id_mal": "60028",
-    "anime_id": "3973",
     "titulo": "Himekishi wa Barbaroi no Yome",
     "titulo_original": "姫騎士は蛮族の嫁",
     "imagen": "https://myanimelist.net/images/anime/1229/155022.jpg",
@@ -9,11 +8,11 @@
     "type": "anime",
     "synopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!  (Source: Kodansha USA)",
     "score": "7.0",
-    "episodes": 2,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Manga",
+    "episodes": 6,
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Manga",
     "studios": [
         "Jumondou"
     ],
@@ -21,9 +20,8 @@
         "Magic Capsule",
         "Kadokawa"
     ],
-    "created_at": "2026-9-4",
-    "updated_at": "2026-04-16T08:18:37.000Z",
-    "player_base": [],
+    "created_at": "2026-04-09",
+    "updated_at": "2026-05-16T02:33:43.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -31,34 +29,84 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3973/1.jpg",
+                    "nombre": "La princesa guerrera derrotada y tomada cautiva",
+                    "portada": "https://image.tmdb.org/t/p/w300/2x1YW3lLKX9U2A7kK6YcovNbOub.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/29477e18d1f6d725a80e1a4bc6ad1a5b",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/29477e18d1f6d725a80e1a4bc6ad1a5b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/29477e18d1f6d725a80e1a4bc6ad1a5b"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3973/2.jpg",
+                    "nombre": "Miedo a lo desconocido",
+                    "portada": "https://image.tmdb.org/t/p/w300/1NmSX9Gpuh7BoVpFh6jWC6LhCBX.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/726e4f409fc794811ba3e6bfcb19930b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/726e4f409fc794811ba3e6bfcb19930b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Ser guerrero es ser hipócrita",
+                    "portada": "https://image.tmdb.org/t/p/w300/4diwccMl3bcEcvTG8YApQ2uvIok.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e2e4ac9207684d979bc5429dda4cba2f"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Una fiesta para beber despeja la niebla",
+                    "portada": "https://image.tmdb.org/t/p/w300/3r42i5eQQQ7YxXmaihjFu709kBC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/db04e4744710bcfaa7cccc4ac230cd3c"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Manos que rezan por el conflicto venidero",
+                    "portada": "https://image.tmdb.org/t/p/w300/8TIB6Ko5Qdfgb5IzjsUdl0hXVkn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e2ab4794222db8f1f21d1be3ccc59924"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Desastres provocados por el hombre",
+                    "portada": "https://image.tmdb.org/t/p/w300/yU8PqPP4cXZqeyYD5TxDWzjc5k4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1854c56db2c5ed651f74d5e0829887fe"
                         }
                     ]
                 }
