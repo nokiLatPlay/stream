@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59551",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1201\/155682.jpg",
+            "titulo": "Ganbare! Nakamura-kun!!",
+            "titulo_original": "ガンバレ！中村くん!!",
+            "etiquetas": "Boys Love, Comedy, School",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-05-15T19:02:36.000Z",
+            "year": "2026",
+            "score": "7.8",
+            "status": "Currently Airing",
+            "episodes": 8
+        },
+        {
             "id_mal": "61831",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156028.jpg",
             "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
@@ -605,20 +619,6 @@
             "score": "8.1",
             "status": "Finished Airing",
             "episodes": "8"
-        },
-        {
-            "id_mal": "59551",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1201\/155682.jpg",
-            "titulo": "Ganbare! Nakamura-kun!!",
-            "titulo_original": "ガンバレ！中村くん!!",
-            "year": "2026",
-            "etiquetas": "Boys Love, Comedy",
-            "type": "anime",
-            "score": "7.8",
-            "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-22T13:53:49.000Z",
-            "episodes": 5
         },
         {
             "id_mal": "62852",
