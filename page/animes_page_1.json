@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62568",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1773\/155779.jpg",
+            "titulo": "Dr. Stone: Science Future Part 3",
+            "titulo_original": "Dr.STONE SCIENCE FUTURE 第3クール",
+            "etiquetas": "Adventure, Comedy",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-05-17T05:23:09.000Z",
+            "year": "2026",
+            "score": "8.3",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "60028",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1229\/155022.jpg",
             "titulo": "Himekishi wa Barbaroi no Yome",
@@ -2546,20 +2560,6 @@
             "status": "Currently Airing",
             "created_at": "2026",
             "updated_at": "2026-04-12T09:15:36.000Z",
-            "episodes": 2
-        },
-        {
-            "id_mal": "62568",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1773\/155779.jpg",
-            "titulo": "Dr. Stone: Science Future Part 3",
-            "titulo_original": "Dr.STONE SCIENCE FUTURE 第3クール",
-            "year": "2026",
-            "etiquetas": "Adventure, Comedy",
-            "type": "tv-anime",
-            "score": "8.3",
-            "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-12T09:15:33.000Z",
             "episodes": 2
         },
         {
