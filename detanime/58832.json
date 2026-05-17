@@ -1,19 +1,18 @@
 {
     "id_mal": "58832",
-    "anime_id": "3972",
     "titulo": "Kujima Utaeba Ie Hororo",
     "titulo_original": "クジマ歌えば家ほろろ",
     "imagen": "https://myanimelist.net/images/anime/1352/155195.jpg",
     "etiquetas": "Comedy, Supernatural",
     "year": "2026",
     "type": "anime",
-    "synopsis": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...\n\n(Source: Shogakukan, translated)",
+    "synopsis": "En otoño de su primer año de secundaria, Arata Kouda conoce a Kujima, una extraña criatura que se parece un poco a un pájaro. Como Kujima tiene hambre, Arata lo lleva a casa... Pero debido a que su hermano mayor reprobó los exámenes de ingreso, Kujima se deja llevar por la situación y termina viviendo a costa de los Kouda. Dice que solo será hasta que pase el invierno y llegue el calor de la primavera, pero...\r\n\r\n(Fuente: Shogakukan, traducción)",
     "score": "6.3",
-    "episodes": 1,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Manga",
+    "episodes": 6,
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "PG-13 ",
+    "source": "Manga",
     "studios": [
         "Studio Hibari"
     ],
@@ -21,9 +20,8 @@
         "flying DOG",
         "Alouette Studio"
     ],
-    "created_at": "2026-9-4",
-    "updated_at": "2026-04-09T22:27:25.000Z",
-    "player_base": [],
+    "created_at": "2026-04-09",
+    "updated_at": "2026-05-17T05:29:48.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -31,20 +29,84 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3972/1.jpg",
+                    "nombre": "El primer Blin que hagas será un bulto",
+                    "portada": "https://image.tmdb.org/t/p/w300/al6ZTjBdWwjYkGaeGz6Q6COtOZ3.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/a75028f573edbe23b961fda62931d6e7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a75028f573edbe23b961fda62931d6e7",
+                            "nombre": "Enlace 1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a75028f573edbe23b961fda62931d6e7"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Un cuervo imitando a un cormorán",
+                    "portada": "https://image.tmdb.org/t/p/w300/yXYxLsNWYcfSmlOzG6lJ3RVqo54.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/45e23e694bf692d2314d1dc5773c3726"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "No nacen dos pájaros con la misma pluma",
+                    "portada": "https://image.tmdb.org/t/p/w300/dA4ORtUhYTu7CagY5sC6tQq0BOw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a97f6307aa0da9a6977ce521ee76dca6"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "El pájaro del norte construye su nido en una rama del norte",
+                    "portada": "https://image.tmdb.org/t/p/w300/gbiXDDHOJLY66TJKTZyVE5E1k31.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/81e335c4bd2d4e76b93822d2e285a8a7"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "La verdad surge de la falsedad",
+                    "portada": "https://image.tmdb.org/t/p/w300/fqsrDqwYDZWkcdnexSuDEB6NHWA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/2de7a9ddd1fafa801fa6ec64fff43f33"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Primero Monte Fuji, Segundo Kujima, Tercero Berenjena",
+                    "portada": "https://image.tmdb.org/t/p/w300/zLBLUDnHGFGm8fso0hjOhXypyEC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5f7f2684c9a01ea54423e8eaacdf313b"
                         }
                     ]
                 }
