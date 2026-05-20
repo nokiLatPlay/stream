@@ -6,13 +6,13 @@
     "etiquetas": "Comedy, Romance",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
+    "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\r\n\r\n(Source: LINE Digital Frontier, translated)",
     "score": "7.6",
-    "episodes": 2,
-    "duration": "23 min",
-    "rating": null,
-    "source": "Web manga",
+    "episodes": 7,
     "status": "Currently Airing",
+    "duration": "23 min",
+    "rating": "",
+    "source": "Web manga",
     "studios": [
         "Studio KAI"
     ],
@@ -23,9 +23,8 @@
         "Nichion",
         "ADK Emotions"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-09T22:27:41.000Z",
-    "player_base": [],
+    "created_at": "2026-04-02",
+    "updated_at": "2026-05-20T14:57:44.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -33,64 +32,140 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "Líneas y paredes",
+                    "portada": "https://image.tmdb.org/t/p/w300/xAUiRr8Q4NQKSqX0SMNMkwVbvcb.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/6b47f5d64b7feff7917260583318be1c",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6b47f5d64b7feff7917260583318be1c",
                             "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/3e84ad86fbfd42a255e41a16785006a1",
-                            "type": "embed",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/6b47f5d64b7feff7917260583318be1c"
                         },
                         {
                             "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/3e84ad86fbfd42a255e41a16785006a1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/3e84ad86fbfd42a255e41a16785006a1"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Cerrajero",
+                    "portada": "https://image.tmdb.org/t/p/w300/cJWxtODFHxCUKsnCXy2Kp86dzHw.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/108b9d2c5fb36254650c48062e1704f1",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/108b9d2c5fb36254650c48062e1704f1",
                             "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/b7e51823cc0f073cea48a4a31a4cc705",
-                            "type": "embed",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/108b9d2c5fb36254650c48062e1704f1"
                         },
                         {
                             "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/b7e51823cc0f073cea48a4a31a4cc705",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b7e51823cc0f073cea48a4a31a4cc705"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "3+(←)1",
+                    "portada": "https://image.tmdb.org/t/p/w300/qYKosyOOSbxA0Gxsg6ZGzZqs4Lm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/8c5a3c4cf8b5e942ab6c2ec8251965d9"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d9449dba7bced027b4937733da1dbc8c"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Impenetrable",
+                    "portada": "https://image.tmdb.org/t/p/w300/90ZEbUGOQPuGV5zbSfpnJHohAQq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/803f432a1dbbaa2493f74292e940bede"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/bb0fa55d431d5782239250d8d3c2801a"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Cambiar",
+                    "portada": "https://image.tmdb.org/t/p/w300/p8DGb1cjIhakmWORa61PFRSsWDo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/cb85d18ab272085fb42dbbda83f03efc"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7c2e7bf00647ca8aa69ca14bf0ba772b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Nuevo semestre",
+                    "portada": "https://image.tmdb.org/t/p/w300/9vbKmuW6ZuMOmYnmI3mluYaFrq3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/520e27567a2dca7109e63dd4dbfc1f94"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0c82d77771c7ea0fd6e1865bb1635093"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Soledad y Soledad",
+                    "portada": "https://image.tmdb.org/t/p/w300/l9gsJ2Hv6xYHCXNnFgexMhYkJvy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/beed9c93aac415821bff5ac7337b7f38"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/fd3b002b836a0ad0346f3182213a29c1"
                         }
                     ]
                 }
