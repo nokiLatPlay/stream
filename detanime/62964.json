@@ -6,13 +6,13 @@
     "etiquetas": "Mystery, Romance",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery...\n\n(Source: Yen Press)",
+    "synopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery...\r\n\r\n(Source: Yen Press)",
     "score": "6.7",
-    "episodes": 2,
-    "duration": "24 min",
-    "rating": null,
-    "source": "Light novel",
+    "episodes": 7,
     "status": "Currently Airing",
+    "duration": "24 min",
+    "rating": "",
+    "source": "Light novel",
     "studios": [
         "LIDENFILMS"
     ],
@@ -21,9 +21,8 @@
         "Nichion",
         "INSPION Edge"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-09T22:29:34.000Z",
-    "player_base": [],
+    "created_at": "2026-04-03",
+    "updated_at": "2026-05-20T15:07:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -31,40 +30,98 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "El caso del asesinato de la reina Irie (1)",
+                    "portada": "https://image.tmdb.org/t/p/w300/yfueZsEIowxJPyfCeKns4dbxT4t.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/de662f54d50529076fd43bd93963d4b7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/de662f54d50529076fd43bd93963d4b7",
+                            "nombre": "Enlace 1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/de662f54d50529076fd43bd93963d4b7"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "El caso del asesinato de la reina Irie (2)",
+                    "portada": "https://image.tmdb.org/t/p/w300/dTuhaYZPNxkqoSiezRdoJocZUgN.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0289228b9b016fcbcbc96f0403939f98",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0289228b9b016fcbcbc96f0403939f98",
+                            "nombre": "Enlace 1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0289228b9b016fcbcbc96f0403939f98"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Asesinato en el Teatro Crimson",
+                    "portada": "https://image.tmdb.org/t/p/w300/vHyreJY8DHSJkz29V7eDhdZr7RZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/bf7c3b22d8d1c886af3bcb924d47439b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "El asesinato del hotel Kowloon (1)",
+                    "portada": "https://image.tmdb.org/t/p/w300/nC1K64ibFUOTQLWEwCIpF20Tn8A.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6a2a14f1d0b73cb0df0dc5310907fb7b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "El asesinato del hotel Kowloon (2)",
+                    "portada": "https://image.tmdb.org/t/p/w300/r7ZX15PYx1xe2MNUavMvooDEoio.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/fbed1f5d93700506216ea9541ac6bcdb"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "El parque de la noria devoradora de hombres (1)",
+                    "portada": "https://image.tmdb.org/t/p/w300/gfIu3wfpzWhRKrt7im7C182mAmx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e7d8a42313bf956ae97498a767e0e8fd"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "El parque de la noria devoradora de hombres (2)",
+                    "portada": "https://image.tmdb.org/t/p/w300/3bq2J5lrDJocznPSOr1gYoiotmJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1cc94b7c74bd94656dc5ea317fadb17b"
                         }
                     ]
                 }
