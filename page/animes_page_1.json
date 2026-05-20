@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60852",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1565\/154933.jpg",
+            "titulo": "Koori no Jouheki",
+            "titulo_original": "氷の城壁",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-05-20T14:57:44.000Z",
+            "year": "2026",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "58832",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1352\/155195.jpg",
             "titulo": "Kujima Utaeba Ie Hororo",
@@ -2560,20 +2574,6 @@
             "status": "Currently Airing",
             "created_at": "2026",
             "updated_at": "2026-04-12T09:15:38.000Z",
-            "episodes": 2
-        },
-        {
-            "id_mal": "60852",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1565\/154933.jpg",
-            "titulo": "Koori no Jouheki",
-            "titulo_original": "氷の城壁",
-            "year": "2026",
-            "etiquetas": "Comedy, Romance",
-            "type": "tv-anime",
-            "score": "7.6",
-            "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-12T09:15:36.000Z",
             "episodes": 2
         },
         {
