@@ -25,7 +25,7 @@
         "Studio Sound Bee"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-05-20T22:34:41.000Z",
+    "updated_at": "2026-05-20T22:36:46.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -63,35 +63,70 @@
                     "numero": 3,
                     "nombre": "Dragón Kirio",
                     "portada": "https://image.tmdb.org/t/p/w300/xZSp7T1Uj7zKxSFolnCqHzWei2I.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/9ead72ce7e362f72bb5ad90c2dfb6596"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "04",
                     "numero": 4,
                     "nombre": "Momentos atesorados",
                     "portada": "https://image.tmdb.org/t/p/w300/iNEMsdilpArc6WgM1bmW87A8AWf.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ea213e21aaae8bd356055365bfef906b"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "05",
                     "numero": 5,
                     "nombre": "¿Puedo apoyarte?",
                     "portada": "https://image.tmdb.org/t/p/w300/iQHpnSyoNB3RFCPM1G9LO2tUSxI.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1a037a72d61d872cae40b50ca0499f30"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "06",
                     "numero": 6,
                     "nombre": "Misterios",
                     "portada": "https://image.tmdb.org/t/p/w300/9rGSXk7eBjUwx1RzkypTd1PCEii.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/71513ce50bd3e07869177865304c556d"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "07",
                     "numero": 7,
                     "nombre": "Magia de viaje escolar",
                     "portada": "https://image.tmdb.org/t/p/w300/x1AqCm1Y27PHG5PExZI72cbhwdT.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "embed",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/09c28b722217abe3338d0aac6c6898a0"
+                        }
+                    ]
                 }
             ]
         }
