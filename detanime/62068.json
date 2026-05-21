@@ -2,26 +2,25 @@
     "id_mal": "62068",
     "titulo": "Snowball Earth",
     "titulo_original": "スノウボールアース",
-    "imagen": "https://myanimelist.net/images/anime/1786/156390.jpg",
+    "imagen": "https://image.tmdb.org/t/p/w342/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
     "etiquetas": "Adventure, Sci-Fi, Mecha, Seinen",
     "year": "2026",
     "type": "anime",
     "synopsis": "Yukio was destroyed in battle and Tetsuo survived in an escape pod. After eight years in cold sleep, the escape pod finally lands back on Earth. But when Tetsuo emerges he finds a world in ruins, entirely frozen beneath a blanket of ice and snow—snowball Earth! What happened to humanity, how did the planet freeze over, and will Tetsuo be able to keep his last promise to Yukio?  (Source: VIZ Media)",
     "score": "6.6",
-    "episodes": 3,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Manga",
+    "episodes": 7,
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Manga",
     "studios": [
         "Studio KAI"
     ],
     "producers": [
         "dugout"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-18T10:47:23.000Z",
-    "player_base": [],
+    "created_at": "2026-04-03",
+    "updated_at": "2026-05-21T03:07:29.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,60 +28,140 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "EL SALVADOR QUE NO PUDO TRAER LA SALVACIÓN",
+                    "portada": "https://image.tmdb.org/t/p/w300/s5gRSK1ZG63d9rTDb2y0u28BSla.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/b7f4c3042caadb657a49ecda70ba48f4",
-                            "type": "embed",
-                            "language": "Sub"
+                            "nombre": "Server 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b7f4c3042caadb657a49ecda70ba48f4"
                         },
                         {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b7f4c3042caadb657a49ecda70ba48f4",
-                            "type": "mp4",
-                            "language": "Sub"
+                            "nombre": "Enlace 1",
+                            "type": "embed",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/23e6c8ac97b3a6f04c82e0280f599164"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "ENCUENTROS",
+                    "portada": "https://image.tmdb.org/t/p/w300/3c47j2qNIrimYGwq8fpNvfjuij0.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/936111156cfed4d974b0b0f397601e00",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/40a26856b22f6dbae680f721e6ea7487"
                         },
                         {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/936111156cfed4d974b0b0f397601e00",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/936111156cfed4d974b0b0f397601e00"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "MI PRIMER AMIGO",
+                    "portada": "https://image.tmdb.org/t/p/w300/oibi8IPT6MA0tp7IkzKIreedC37.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/294b757eb787cb7087220c1d75fe8ad0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/294b757eb787cb7087220c1d75fe8ad0"
                         },
                         {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/866ded23ddb0401ea2028db61393478c",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/866ded23ddb0401ea2028db61393478c"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "EL DOMADOR DE KAIJU Y LA LATA DE PIÑA",
+                    "portada": "https://image.tmdb.org/t/p/w300/9nt9ZOZMLAUjkcTPr9qzkIi0tSr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/25493e85def87c82fbc174f13dba8a7e"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1d3db328426782a569e6d62279430d27"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "¡BUEN TRABAJO!",
+                    "portada": "https://image.tmdb.org/t/p/w300/eQE71El5GIuGh36VOCmRQUzEFAo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/5b54a171efe5fa183fac8f25030eab96"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/252bde00dc1350c7f90378feff3a2e8e"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "MÁS ALLÁ DE LA LOCURA",
+                    "portada": "https://image.tmdb.org/t/p/w300/d6lMEBWetNpzDAwN3ggDJJO7Syh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/595e5fb554619bf34c95a844f654001f"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/426beb4657713cece19a4f0357936530"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "EL COSTO DEL CORAJE",
+                    "portada": "https://image.tmdb.org/t/p/w300/g53Z5n6Cf5RFvt9zfSDMBvBUDBe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/c45c06df33ef8bec811a23c3d1be3c4a"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d118e3a12cc1bae7f770b1c9bdbe5ef1"
                         }
                     ]
                 }
