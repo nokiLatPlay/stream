@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En la Escuela de Ópera de Awajima, chicas de todo Japón se esfuerzan por ganarse un lugar en el escenario. Wakana se guía por su pasión por el teatro musical, mientras que Kinue estudia con disciplina y serenidad. Emi, estudiante becada, atrae la atención de todos, pero sobre todo de Keiko, quien lidia con la admiración y las comparaciones. A través de perspectivas cambiantes, sus días entrelazados exploran la ambición, la amistad y el autodescubrimiento.",
     "score": "6.9",
-    "episodes": 4,
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-10",
-    "updated_at": "2026-05-04T15:32:13.000Z",
+    "updated_at": "2026-05-20T22:15:32.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -78,6 +78,34 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/059133fcd6b70769a5ba21053b721ea3"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Asami Ohkubo / Midori Asaka y Leo Asagami",
+                    "portada": "https://image.tmdb.org/t/p/w300/hZ1JqWCU91Dlb96GLo8v00N0xb1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/2874a89bfab4c1710eb6df6d2b82d713"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Historias de fantasmas de Awajima",
+                    "portada": "https://image.tmdb.org/t/p/w300/7row0U0bGgpT9myQbcP77gaGdhN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/65b9d90429f4266c4125d701d0320433"
                         }
                     ]
                 }
