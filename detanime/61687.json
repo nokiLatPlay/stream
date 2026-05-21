@@ -2,26 +2,25 @@
     "id_mal": "61687",
     "titulo": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "titulo_original": "自称悪役令嬢な婚約者の観察記録。",
-    "imagen": "https://myanimelist.net/images/anime/1769/153376.jpg",
+    "imagen": "https://image.tmdb.org/t/p/w342/xlpYhXiyX52t6Dtg1fFN0CqLbK4.jpg",
     "etiquetas": "Comedy, Romance, Villainess",
     "year": "2026",
     "type": "anime",
     "synopsis": "For a natural genius like Crown Prince Cecil Glow Alfostar, every day is a bore. Knowledge and skills come far too easily for him, to the point that nothing can captivate his interest. However, this changes the day he meets someone who never fails to betray his expectations—his fiancée and self-proclaimed villainess Bertia Evil Nochesse.  Bertia claims that this world is that of an \"otome game.\" She has been reborn as the villainess, and it is her duty to impede the relationship between Cecil and the heroine. Never one to shy away from fate, she zealously takes to her evil role... to mixed results. Though she doesn't realize it, Bertia's supposedly \"evil deeds\" always come off as sincere and kind. Finally relieved of his melancholy, there is never a boring day for Cecil as he observes his unknowingly good-hearted fiancée.  [Written by MAL Rewrite]",
     "score": "7.2",
-    "episodes": 3,
+    "episodes": 7,
+    "status": "Currently Airing",
     "duration": "23 min per ep",
-    "rating": null,
+    "rating": "",
     "source": "Light novel",
-    "status": "Not yet aired",
     "studios": [
         "Ashi Productions"
     ],
     "producers": [
         "AlphaPolis"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-18T10:46:56.000Z",
-    "player_base": [],
+    "created_at": "2026-04-06",
+    "updated_at": "2026-05-21T02:40:44.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,54 +28,98 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "Un registro de observación del encuentro con una autoproclamada villana.",
+                    "portada": "https://image.tmdb.org/t/p/w300/fyQZ3eD69Yv53GTAZmxyUhWtBtF.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/7dbe669a75d1fb5967fe4e805a87624f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7dbe669a75d1fb5967fe4e805a87624f",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7dbe669a75d1fb5967fe4e805a87624f"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Un registro de observación del debut en la sociedad de la autoproclamada villana",
+                    "portada": "https://image.tmdb.org/t/p/w300/AimSGj5g3fTlcPvrfZTx6gKd4yo.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/8a77bde4c64f990b3cbcd4d429f549c1",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/8a77bde4c64f990b3cbcd4d429f549c1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8a77bde4c64f990b3cbcd4d429f549c1"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "Un registro de observación de una villana autoproclamada y su ingreso a la escuela.",
+                    "portada": "https://image.tmdb.org/t/p/w300/9cDtRCpKSd1oiKVRp6s3j4ChHbD.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/01afdfbfcb122174e116695a5e07dece",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/01afdfbfcb122174e116695a5e07dece"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Un registro de observación de una autoproclamada villana y Cupido del amor.",
+                    "portada": "https://image.tmdb.org/t/p/w300/slNpzyBKx8Rg6QGgtw1Af0tHBFn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1442f1d933ef8282031ed0caa85837f6"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Un registro de observación de una villana autoproclamada y sus primeros sentimientos.",
+                    "portada": "https://image.tmdb.org/t/p/w300/ftlXmaXg9Dvcc1ySzlt9iajGvr1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6d8d54928bc7e7f40d2757469b879227"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Un registro de observación de una autoproclamada villana y la resolución del asunto.",
+                    "portada": "https://image.tmdb.org/t/p/w300/qbgt2Ngi5cA5mMTobyLg4r46dz4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e0072e79028e9d9417986668ea489e5b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Un registro de observación de una autoproclamada villana y odio.",
+                    "portada": "https://image.tmdb.org/t/p/w300/17Bbgk6fk0KN6PHarwvkoCGAl9Y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6d49ea19b64f525ec769036be0dee6c8"
                         }
                     ]
                 }
