@@ -8,20 +8,19 @@
     "type": "anime",
     "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!  (Source: Crunchyroll)",
     "score": "8.2",
-    "episodes": 3,
+    "episodes": 6,
+    "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "8bit"
     ],
     "producers": [
         "Bandai Namco Filmworks"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-18T10:47:14.000Z",
-    "player_base": [],
+    "created_at": "2026-04-03",
+    "updated_at": "2026-05-21T02:55:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,54 +28,108 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Episodio 1",
-                    "portada": "",
+                    "nombre": "Nuevos dias",
+                    "portada": "https://image.tmdb.org/t/p/w300/gb4p6xHYwN3c4gYlnVzvpFtlOB8.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/5de659e76b93dad4d6d9424bf75dff8f",
-                            "type": "embed",
-                            "language": "Sub"
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5de659e76b93dad4d6d9424bf75dff8f"
                         },
                         {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/5de659e76b93dad4d6d9424bf75dff8f",
+                            "nombre": "Enlace 2",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/402912366f15439f4b42ea1206a5c2be"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "La mazmorra evoluciona",
+                    "portada": "https://image.tmdb.org/t/p/w300/nRLCpzRP359dz7u475PlzOuT9zW.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/97b570790b06728309871d0be8ba257b",
-                            "type": "embed",
-                            "language": "Sub"
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/97b570790b06728309871d0be8ba257b"
                         },
                         {
-                            "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/97b570790b06728309871d0be8ba257b",
+                            "nombre": "Enlace 2",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/aac4d4c7361053a7b963f7872dd76770"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "Se forma el equipo Avatar",
+                    "portada": "https://image.tmdb.org/t/p/w300/tm0pmQIOdzW5choXRITpHgYGGSC.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/07b4de15968af5f21872d502596d9659",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/07b4de15968af5f21872d502596d9659"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6b966de527c8b14cf3d89eff5c31d3dc"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Invitación",
+                    "portada": "https://image.tmdb.org/t/p/w300/wzYc59SeMxQUIrb01D3BwIAj90c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/aa3afcada557188afbc2c6f7d54c42c8"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/864ce8373dcdb77a05734f4f9d897af3"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "El primer paso",
+                    "portada": "https://image.tmdb.org/t/p/w300/ztpuWTZbiM0aXFlUSGdhk1Q17zk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1fd8b144bf3f87d6527eb42ad7d3ef38"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "El Consejo de Occidente",
+                    "portada": "https://image.tmdb.org/t/p/w300/27GSNADh5MnmkTwHC8pmi3SOW7G.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c0eacebfcd38707fc8dd9cedda5a7815"
                         }
                     ]
                 }
