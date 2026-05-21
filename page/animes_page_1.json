@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62068",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
+            "titulo": "Snowball Earth",
+            "titulo_original": "スノウボールアース",
+            "etiquetas": "Adventure, Sci-Fi, Mecha, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-05-21T03:07:29.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "59970",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1695\/156389.jpg",
             "titulo": "Tensei shitara Slime Datta Ken 4th Season",
@@ -2588,20 +2602,6 @@
             "created_at": "2014-07-05",
             "updated_at": "2026-04-12T09:15:54.000Z",
             "ts": 1775188303
-        },
-        {
-            "id_mal": "62068",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1786\/156390.jpg",
-            "titulo": "Snowball Earth",
-            "titulo_original": "スノウボールアース",
-            "year": "2026",
-            "etiquetas": "Adventure, Sci-Fi",
-            "type": "tv-anime",
-            "score": "6.6",
-            "status": "Currently Airing",
-            "created_at": "2026",
-            "updated_at": "2026-04-12T09:15:46.000Z",
-            "episodes": 2
         },
         {
             "id_mal": "57353",
