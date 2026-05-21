@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62983",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1818\/155506.jpg",
+            "titulo": "Marika-chan no Koukando wa Bukkowareteiru",
+            "titulo_original": "茉莉花ちゃんの好感度はぶっ壊れている",
+            "etiquetas": "Comedy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-05-20T23:14:56.000Z",
+            "year": "2026",
+            "score": "5.7",
+            "status": "Currently Airing",
+            "episodes": 5
+        },
+        {
             "id_mal": "63304",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1056\/154990.jpg",
             "titulo": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
@@ -2896,20 +2910,6 @@
             "status": "Finished Airing",
             "created_at": "2024-13-10",
             "updated_at": "2026-04-12T09:14:46.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "56400",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1667\/145393.jpg",
-            "titulo": "Maou-sama, Retry! R",
-            "titulo_original": "魔王様、リトライ! R",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "tv-anime",
-            "score": "5.9",
-            "status": "Finished Airing",
-            "created_at": "2024-5-10",
-            "updated_at": "2026-04-12T09:14:44.000Z",
             "episodes": 12
         }
     ]
