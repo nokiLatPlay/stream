@@ -6,13 +6,13 @@
     "etiquetas": "Action, Fantasy",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Nobody wants \"Grubby Forager\" Rudd on their adventuring team. His nickname—and his stench—come from his constant treks into the Noxious Labyrinth to gather medicinal herbs, a job he survives only thanks to his status immunity skill. When he's finally recruited as a party porter, things seem to be looking up... Until a deadly dungeon monster appears and his fake allies use him as bait before abandoning him! Wounded, destitute, and barely surviving the attack, Rudd breaks a forbidden taboo to stay alive: eating monsters. But the more he devours, the more power he gains, kicking off a thrilling, adventurous gourmet fantasy!\n\n(Source: Square Enix)",
+    "synopsis": "Nobody wants \"Grubby Forager\" Rudd on their adventuring team. His nickname—and his stench—come from his constant treks into the Noxious Labyrinth to gather medicinal herbs, a job he survives only thanks to his status immunity skill. When he's finally recruited as a party porter, things seem to be looking up... Until a deadly dungeon monster appears and his fake allies use him as bait before abandoning him! Wounded, destitute, and barely surviving the attack, Rudd breaks a forbidden taboo to stay alive: eating monsters. But the more he devours, the more power he gains, kicking off a thrilling, adventurous gourmet fantasy!\r\n\r\n(Source: Square Enix)",
     "score": "4.3",
-    "episodes": 2,
-    "duration": "13 min",
-    "rating": null,
-    "source": "Web manga",
+    "episodes": 7,
     "status": "Currently Airing",
+    "duration": "13 min",
+    "rating": "",
+    "source": "Web manga",
     "studios": [
         "Imagica Infos",
         "Imageworks Studio"
@@ -20,9 +20,8 @@
     "producers": [
         "DAX Production"
     ],
-    "created_at": "2026",
-    "updated_at": "2026-04-09T22:29:19.000Z",
-    "player_base": [],
+    "created_at": "2026-04-03",
+    "updated_at": "2026-05-20T22:55:10.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -30,40 +29,98 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "Carroñero de miasma",
+                    "portada": "https://image.tmdb.org/t/p/w300/tvpWetxwqxTUsaH27f0qzjuWBL1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/e1d1050ba2200f911402abda2db48131",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/e1d1050ba2200f911402abda2db48131",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e1d1050ba2200f911402abda2db48131"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Devorador de monstruos",
+                    "portada": "https://image.tmdb.org/t/p/w300/tvpWetxwqxTUsaH27f0qzjuWBL1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/c47067ff1dfdae91b7da256515704b2f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/c47067ff1dfdae91b7da256515704b2f",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c47067ff1dfdae91b7da256515704b2f"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Hoja Carmesí",
+                    "portada": "https://image.tmdb.org/t/p/w300/rubZ0hgAzPG5c4ZmwvcmpmjGpof.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6ee6ec8a0d181bd16d0aa7153e838942"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Caza de aventureros",
+                    "portada": "https://image.tmdb.org/t/p/w300/gPSs1ebppBhCOxS8ses1CSdQmhv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/acb4992d2493df97b7693b640896dd11"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Elysia de la Tormenta de Jade",
+                    "portada": "https://image.tmdb.org/t/p/w300/wztwg7CCsmVlB4OrZfddxSu2T6J.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/efbff6405299384b9c1ad6cc3f9cc0ab"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Formación de partidos",
+                    "portada": "https://image.tmdb.org/t/p/w300/ozIfZkcUHDSz5bpUZRhqZF3d5mp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/91ac437ff074969b46f85601bf71c3c8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "La primera misión de asesinato",
+                    "portada": "https://image.tmdb.org/t/p/w300/y0JEoULNOOpZbe2SVzG1OWen2AN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/fab5b4dabc28f8192bd4104ed36826d3"
                         }
                     ]
                 }
