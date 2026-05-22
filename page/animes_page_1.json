@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60310",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
+            "titulo": "Mairimashita! Iruma-kun 4th Season",
+            "titulo_original": "魔入りました！入間くん 第4シリーズ",
+            "etiquetas": "Comedy, Fantasy, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-05-22T06:57:07.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "57466",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3xFcgiT7t4LDw5Cad8SiVkhKzW2.jpg",
             "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
@@ -2894,20 +2908,6 @@
             "status": "Finished Airing",
             "created_at": "2019-23-10",
             "updated_at": "2026-04-12T09:14:54.000Z",
-            "episodes": 10
-        },
-        {
-            "id_mal": "45556",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1884\/111224.jpg",
-            "titulo": "Wu Liuqi: Xuanwu Guo Pian",
-            "titulo_original": "伍六七之玄武国篇",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Comedy, Drama, Mystery",
-            "type": "tv-anime",
-            "score": "8.4",
-            "status": "Finished Airing",
-            "created_at": "2021-21-1",
-            "updated_at": "2026-04-12T09:14:53.000Z",
             "episodes": 10
         }
     ]
