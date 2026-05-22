@@ -1,6 +1,5 @@
 {
     "id_mal": "56646",
-    "anime_id": "3980",
     "titulo": "Hokuto no Ken: Fist of the North Star",
     "titulo_original": "北斗の拳 -FIST OF THE NORTH STAR-",
     "imagen": "https://myanimelist.net/images/anime/1581/156641.jpg",
@@ -9,11 +8,11 @@
     "type": "anime",
     "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.  With the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.  When all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins!   (Source: Warner Bros. Japan, edited)",
     "score": "6.5",
-    "episodes": 4,
-    "duration": "24 min",
-    "rating": null,
-    "source": "Manga",
+    "episodes": 8,
     "status": "Currently Airing",
+    "duration": "24 min",
+    "rating": "",
+    "source": "Manga",
     "studios": [
         "TMS Entertainment"
     ],
@@ -25,9 +24,8 @@
         "Sammy",
         "arma bianca"
     ],
-    "created_at": "2026-11-4",
-    "updated_at": "2026-04-18T10:47:42.000Z",
-    "player_base": [],
+    "created_at": "2026-04-11",
+    "updated_at": "2026-05-22T02:47:00.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -35,104 +33,160 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3980/1.jpg",
+                    "nombre": "Un grito desde el corazón",
+                    "portada": "https://image.tmdb.org/t/p/w300/b5A4d5X4Xjx4hCOnQoJY6T9wBtR.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/90214421fe76a8c14485e55f18718e87",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/90214421fe76a8c14485e55f18718e87",
                             "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/1306ae95ad587da497c9ab66e0e4c5ee",
-                            "type": "embed",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/90214421fe76a8c14485e55f18718e87"
                         },
                         {
                             "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1306ae95ad587da497c9ab66e0e4c5ee",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1306ae95ad587da497c9ab66e0e4c5ee"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3980/2.jpg",
+                    "nombre": "Un mañana mejor",
+                    "portada": "https://image.tmdb.org/t/p/w300/gkP4RUKsGZKAnmIXAyD4KRExg64.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/d9d56c7024b06c552c0b952086fd1729",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d9d56c7024b06c552c0b952086fd1729",
                             "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "url": "https://player.zilla-networks.com/play/1aaabe5f8f8cf397fa015bf969994299",
-                            "type": "embed",
-                            "language": "Sub"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/d9d56c7024b06c552c0b952086fd1729"
                         },
                         {
                             "nombre": "Server 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1aaabe5f8f8cf397fa015bf969994299",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1aaabe5f8f8cf397fa015bf969994299"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https://cdn.animeav1.com/screenshots/3980/3.jpg",
+                    "nombre": "Cruz del Sur",
+                    "portada": "https://image.tmdb.org/t/p/w300/n3ejRLpeIlp8H7PaJL9sTka1Dwm.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/1b95dc3561e37f14053ced56f7aff3f4",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1b95dc3561e37f14053ced56f7aff3f4"
                         },
                         {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/44799b11d1f085e7b12133273e0e9143",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/44799b11d1f085e7b12133273e0e9143"
                         }
                     ]
                 },
                 {
                     "episode_id": "4",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "https://cdn.animeav1.com/screenshots/3980/4.jpg",
+                    "nombre": "Llamas de obsesión",
+                    "portada": "https://image.tmdb.org/t/p/w300/P0sc6cbhzpTH5rj8CVklpck20w.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/6fb70a4d9b06c8a1bf879dded16775de",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6fb70a4d9b06c8a1bf879dded16775de"
                         },
                         {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/ea8fd9df01094c3c9970302214d6f2a1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ea8fd9df01094c3c9970302214d6f2a1"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Cruz sangrienta",
+                    "portada": "https://image.tmdb.org/t/p/w300/wPZLTtqI3293Au0aiAa6H8Obdr4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/ed0129bd480d847eb40bbb1580bafb66"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/36734c8341bb6c1924fdfc0d4acf8a16"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "La tierra de Dios",
+                    "portada": "https://image.tmdb.org/t/p/w300/8sTDOdavBG6FneEcmnpb5EXiAQR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/8c8e426e4affb7baf2816b5319ff6fe3"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5aed95698c2cefa8aef791ce64b10201"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "El asesino definitivo",
+                    "portada": "https://image.tmdb.org/t/p/w300/9bBKCNGgAEvxSfgAQyqj7dHlGm0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/6fdca48ac749aa5d7fede3fac1765039"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4c3211a45ecff55a5377d04a3b59ed1e"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Mensajero de la Patria",
+                    "portada": "https://image.tmdb.org/t/p/w300/40JRyftxwD58FljkS23UvZ3HHQI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/bb76fe32b02bb5b0ce3e88eb40873ede"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/fc6dbb5d7654c483cd7fa880007805c6"
                         }
                     ]
                 }
