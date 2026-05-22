@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62981",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
+            "titulo": "Kami no Shizuku",
+            "titulo_original": "神の雫",
+            "etiquetas": "Drama, Gourmet, Mystery, Adult Cast, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-05-22T00:33:23.000Z",
+            "year": "2026",
+            "score": "6.2",
+            "status": "Currently Airing",
+            "episodes": 6
+        },
+        {
             "id_mal": "62068",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
             "titulo": "Snowball Earth",
@@ -2896,20 +2910,6 @@
             "created_at": "2024-2-10",
             "updated_at": "2026-04-12T09:14:49.000Z",
             "episodes": 10
-        },
-        {
-            "id_mal": "59393",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983l.jpg",
-            "titulo": "Niwatori Fighter",
-            "titulo_original": "ニワトリ・ファイター",
-            "etiquetas": "Action, Comedy",
-            "type": "tv-anime",
-            "created_at": "2026-03-15",
-            "updated_at": "2026-04-12T09:14:47.000Z",
-            "year": "2026",
-            "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": "2"
         }
     ]
 }
