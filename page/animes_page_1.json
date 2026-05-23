@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 606,
+    "total_items": 607,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60523",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185544-V9XoC8yJ906f.jpg",
+            "titulo": "Tsuihousha Shokudou e Youkoso!",
+            "titulo_original": "",
+            "etiquetas": "Adventure, Comedy, Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-05-22",
+            "updated_at": "2026-05-22T22:27:32.000Z",
+            "year": 2025,
+            "score": "6.9",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "62825",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uLwuthrFzc4pY1rK67LenxxKgdw.jpg",
@@ -2895,20 +2909,6 @@
             "created_at": "2018-25-4",
             "updated_at": "2026-04-12T09:14:56.000Z",
             "episodes": 14
-        },
-        {
-            "id_mal": "40784",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1962\/153860.jpg",
-            "titulo": "Wu Liuqi: Zui Qiang Fa Xing Shi",
-            "titulo_original": "伍六七之最强发型师",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Drama, Mystery",
-            "type": "tv-anime",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "created_at": "2019-23-10",
-            "updated_at": "2026-04-12T09:14:54.000Z",
-            "episodes": 10
         }
     ]
 }
