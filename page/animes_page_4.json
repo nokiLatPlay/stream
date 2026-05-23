@@ -1,9 +1,25 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 607,
+    "total_items": 608,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59489",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1127\/146604l.jpg",
+            "titulo": "Kaijuu 8-gou Movie",
+            "titulo_original": "怪獣8号",
+            "year": "2025",
+            "etiquetas": "Action, Fantasy, Sci-Fi",
+            "type": "movie",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2025-03-28",
+            "updated_at": "2026-03-15T17:14:32.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "61595",
             "slug": "",
