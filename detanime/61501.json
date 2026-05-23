@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Kanan is a demon who descends upon the human world with one goal: to feast on the sweetest delicacy of all—young human souls. Disguised as a high schooler, she sets her sights on her first target, an unassuming boy named Youji Kyougi. But just as she prepares to claim her meal, things take a very unexpected turn.  Instead of devouring him, Kanan ends up forming a \"romantic contract\" with Youji. For someone who's lived for millennia without experiencing love, navigating high school romance proves more terrifying than any hunt. Between awkward dates, hand-holding mishaps, and feelings she can't quite name, the once-proud demon finds herself flustered at every turn.  A supernatural romcom about a lovestruck demon and the boy who was supposed to be her prey—sweet, chaotic, and full of firsts.  (Source: MAL News)",
     "score": "7.2",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -25,7 +25,7 @@
         "Crunchyroll"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-19T12:56:10.000Z",
+    "updated_at": "2026-05-23T00:25:25.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -80,6 +80,62 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/0e273e1616368a86fb56930714eda5ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Ami el cupido contundente",
+                    "portada": "https://image.tmdb.org/t/p/w300/jevmjlvi7OrFvtysc5ctvtxWgUk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8d99a11b7aadcbd80b25718d85325d75",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Kanan y el santo",
+                    "portada": "https://image.tmdb.org/t/p/w300/vQI7v4FNHKxcuygxwDn30ktrgOV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/46e21694ccbbb89350d963c4474d2d81",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "La primera vez que Kanan salta",
+                    "portada": "https://image.tmdb.org/t/p/w300/bKs1KKH0gToxfPuNzS0TIb5exHD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a4d91f7cf391ff5cd9479c863777f876",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Las vacaciones de verano de Kanan",
+                    "portada": "https://image.tmdb.org/t/p/w300/lueD3qzakhamEZp7snpApX52bUc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/95ad3653dac2c82ab530b8a32289c1d0",
                             "type": "mp4",
                             "language": "Sub"
                         }
