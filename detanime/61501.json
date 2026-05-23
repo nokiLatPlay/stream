@@ -24,7 +24,7 @@
         "Crunchyroll"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-05-23T01:32:14.000Z",
+    "updated_at": "2026-05-23T01:36:29.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -48,7 +48,14 @@
                     "numero": 2,
                     "nombre": "Ami ha llegado",
                     "portada": "https://cdn.animeav1.com/screenshots/3930/2.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0f929898a8fb74e19f685890d9c8c162"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "3",
@@ -69,7 +76,14 @@
                     "numero": 4,
                     "nombre": "Ami el cupido contundente",
                     "portada": "https://image.tmdb.org/t/p/w300/jevmjlvi7OrFvtysc5ctvtxWgUk.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8d99a11b7aadcbd80b25718d85325d75"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "05",
@@ -90,7 +104,14 @@
                     "numero": 6,
                     "nombre": "La primera vez que Kanan salta",
                     "portada": "https://image.tmdb.org/t/p/w300/bKs1KKH0gToxfPuNzS0TIb5exHD.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a4d91f7cf391ff5cd9479c863777f876"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "07",
