@@ -1,6 +1,5 @@
 {
     "id_mal": "62391",
-    "anime_id": "3984",
     "titulo": "Kill Ao",
     "titulo_original": "キルアオ",
     "imagen": "https://myanimelist.net/images/anime/1899/156600.jpg",
@@ -10,19 +9,18 @@
     "synopsis": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!  Before he can even process what happened, his boss delivers a new order: \"In that body, infiltrate a middle school.\" What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?  (Source: Official site)",
     "score": "7.4",
     "episodes": 6,
-    "duration": "23 min per ep",
-    "rating": null,
-    "source": "Manga",
     "status": "Currently Airing",
+    "duration": "23 min per ep",
+    "rating": "",
+    "source": "Manga",
     "studios": [
         "Cue"
     ],
     "producers": [
         "DMM pictures"
     ],
-    "created_at": "2026-11-4",
-    "updated_at": "2026-05-23T00:06:00.000Z",
-    "player_base": [],
+    "created_at": "2026-04-11",
+    "updated_at": "2026-05-23T00:11:47.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -30,34 +28,28 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "vamos a la escuela",
                     "portada": "https://cdn.animeav1.com/screenshots/3984/1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/2f1989c2e4aa964fa93c2deb744a4c5b",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/2f1989c2e4aa964fa93c2deb744a4c5b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/2f1989c2e4aa964fa93c2deb744a4c5b"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Noren Mitsuoka",
                     "portada": "https://cdn.animeav1.com/screenshots/3984/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/f29884735187b1943e716cc66dc1af11",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f29884735187b1943e716cc66dc1af11"
                         }
                     ]
                 },
@@ -69,9 +61,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/fab93723534da595d51c5b917366ffed",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/fab93723534da595d51c5b917366ffed"
                         }
                     ]
                 },
@@ -83,9 +75,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/e332951d8ecf4a02ea22a5208b55fb5d",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e332951d8ecf4a02ea22a5208b55fb5d"
                         }
                     ]
                 },
@@ -97,9 +89,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/cca6faab7a0c9ffdc08ec413a015e985",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/cca6faab7a0c9ffdc08ec413a015e985"
                         }
                     ]
                 },
@@ -111,9 +103,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/4af119ee23e77fd18f591e2a05c07f39",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4af119ee23e77fd18f591e2a05c07f39"
                         }
                     ]
                 }
