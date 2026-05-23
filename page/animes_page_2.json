@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 607,
+    "total_items": 608,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "38409",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1620\/94968.jpg",
+            "titulo": "Cike Wu Liuqi",
+            "titulo_original": "刺客伍六七",
+            "year": "2026",
+            "etiquetas": "Action, Comedy, Drama, Mystery, Romance",
+            "type": "tv-anime",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "created_at": "2018-25-4",
+            "updated_at": "2026-04-12T09:14:56.000Z",
+            "episodes": 14
+        },
         {
             "id_mal": "40784",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1962\/153860.jpg",
@@ -2925,22 +2939,6 @@
             "status": "Finished Airing",
             "created_at": "2019-05-10",
             "updated_at": "2026-03-28T09:54:03.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "33520",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1771\/109284.jpg",
-            "titulo": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
-            "titulo_original": "甲鉄城のカバネリ 総集編｛後編｝燃える命",
-            "year": "2017",
-            "etiquetas": "Action, Fantasy, Horror, Suspense",
-            "type": "movie",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2017-01-07",
-            "updated_at": "2026-03-28T09:53:50.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
