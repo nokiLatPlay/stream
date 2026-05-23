@@ -1,22 +1,28 @@
 {
     "id_mal": "60444",
     "titulo": "Yowa Yowa Sensei",
-    "titulo_original": "",
+    "titulo_original": "よわよわ先生",
     "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg",
     "etiquetas": "Comedy, Ecchi, Romance",
-    "year": 2026,
+    "year": "2026",
     "type": "anime",
-    "synopsis": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.\n<br><br>\n(Source: HIDIVE)",
+    "synopsis": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.\r\n<br><br>\r\n(Source: HIDIVE)",
     "score": "6.2",
-    "episodes": 12,
-    "status": "RELEASING",
-    "duration": "",
-    "rating": "",
-    "source": "",
-    "studios": [],
-    "producers": [],
+    "episodes": 6,
+    "status": "Currently Airing",
+    "duration": "23 min. per ep.",
+    "rating": "R+ - Mild Nudity",
+    "source": "Manga",
+    "studios": [
+        "Brain's Base"
+    ],
+    "producers": [
+        "Lantis",
+        "Half H.P Studio",
+        "Nikkatsu"
+    ],
     "created_at": "2026-05-22",
-    "player_base": [],
+    "updated_at": "2026-05-22T23:59:17.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -24,34 +30,28 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/3983/1.jpg",
+                    "nombre": "Sensei espeluznante y aterrador",
+                    "portada": "https://image.tmdb.org/t/p/w300/5Iu2IDpmPxIsyiYbsP01vzfR1Z6.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/0adf67bfc94e0abcf3eb86e2fb6e38bf",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/0adf67bfc94e0abcf3eb86e2fb6e38bf",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/0adf67bfc94e0abcf3eb86e2fb6e38bf"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/3983/2.jpg",
+                    "nombre": "Débil y debilucho después de la escuela",
+                    "portada": "https://image.tmdb.org/t/p/w300/khmt70xuPcdw6Ht7ifPSwZiPbTM.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/3277c31d2cd705431c5297b2ad7230fa",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/3277c31d2cd705431c5297b2ad7230fa"
                         }
                     ]
                 },
@@ -63,9 +63,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/19ba3768f367d3dca2f05054f082dabb",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/19ba3768f367d3dca2f05054f082dabb"
                         }
                     ]
                 },
@@ -77,9 +77,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/4eb862caa073c0df68455d84259a347e",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4eb862caa073c0df68455d84259a347e"
                         }
                     ]
                 },
@@ -91,9 +91,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f22e7bb1d186cd07801c1cefbe809ece",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f22e7bb1d186cd07801c1cefbe809ece"
                         }
                     ]
                 },
@@ -105,15 +105,13 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/587a6632ad655a0ee52acb4211c1c418",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/587a6632ad655a0ee52acb4211c1c418"
                         }
                     ]
                 }
             ]
         }
-    ],
-    "enlaces": [],
-    "updated_at": "2026-05-22T23:35:53.000Z"
+    ]
 }
