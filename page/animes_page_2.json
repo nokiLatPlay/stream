@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "58059",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1281\/144104.jpg",
+            "titulo": "Tsue to Tsurugi no Wistoria",
+            "titulo_original": "杖と剣のウィストリア",
+            "year": "2026",
+            "etiquetas": "Action, Fantasy",
+            "type": "tv-anime",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2024",
+            "updated_at": "2026-04-12T09:15:01.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "4726",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/75647.jpg",
             "titulo": "Druaga no Tou: The Sword of Uruk",
@@ -1137,20 +1151,6 @@
             "created_at": "2026-6-4",
             "updated_at": "2026-04-12T09:12:13.000Z",
             "episodes": 1
-        },
-        {
-            "id_mal": "61501",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996.jpg",
-            "titulo": "Kanan-sama wa Akumade Choroi",
-            "titulo_original": "カナン様はあくまでチョロい",
-            "year": "2026",
-            "etiquetas": "Comedy, Romance, Supernatural",
-            "type": "tv-anime",
-            "score": "7.3",
-            "status": "Currently Airing",
-            "created_at": "2026-5-4",
-            "updated_at": "2026-04-12T09:12:12.000Z",
-            "episodes": 2
         },
         {
             "id_mal": "53397",
