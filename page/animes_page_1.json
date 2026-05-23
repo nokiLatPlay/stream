@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59745",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1192\/148314.jpg",
+            "titulo": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Supernatural, Ecchi",
+            "type": "anime",
+            "created_at": "2025-7-4",
+            "updated_at": "2026-05-23T01:54:08.000Z",
+            "year": "2025",
+            "score": "5.5",
+            "status": "Currently Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "61501",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996.jpg",
             "titulo": "Kanan-sama wa Akumade Choroi",
@@ -2894,20 +2908,6 @@
             "status": "Finished Airing",
             "created_at": "2022",
             "updated_at": "2026-04-12T09:15:04.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "50184",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1506\/138529.jpg",
-            "titulo": "Seiken Gakuin no Makentsukai",
-            "titulo_original": "聖剣学院の魔剣使い",
-            "year": "2026",
-            "etiquetas": "Action, Fantasy",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2023",
-            "updated_at": "2026-04-12T09:15:03.000Z",
             "episodes": 12
         }
     ]
