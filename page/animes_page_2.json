@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 608,
+    "total_items": 609,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49891",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1191\/127909.jpg",
+            "titulo": "Tensei shitara Ken deshita",
+            "titulo_original": "転生したら剣でした",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2022",
+            "updated_at": "2026-04-12T09:15:04.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "50184",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1506\/138529.jpg",
@@ -2921,22 +2935,6 @@
             "status": "Finished Airing",
             "created_at": "2016-12-31",
             "updated_at": "2026-03-28T09:54:13.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "34544",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1749\/99713.jpg",
-            "titulo": "Koutetsujou no Kabaneri Movie 3: Unato Kessen",
-            "titulo_original": "甲鉄城のカバネリ～海門決戦～",
-            "year": "2019",
-            "etiquetas": "Action, Fantasy, Horror, Suspense",
-            "type": "movie",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2019-05-10",
-            "updated_at": "2026-03-28T09:54:03.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
