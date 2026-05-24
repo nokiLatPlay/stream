@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "55994",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1360\/153020.jpg",
+            "titulo": "Sword Art Online Alternative: Gun Gale Online II",
+            "titulo_original": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+            "year": "2026",
+            "etiquetas": "Action",
+            "type": "tv-anime",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "2024",
+            "updated_at": "2026-04-12T09:15:11.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "36474",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1993\/93837.jpg",
             "titulo": "Sword Art Online: Alicization",
@@ -1877,21 +1891,6 @@
             "status": "Currently Airing",
             "created_at": "2026-5-4",
             "updated_at": "2026-04-11T22:51:33.000Z",
-            "episodes": 2
-        },
-        {
-            "id_mal": "62050",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1974\/156105.jpg",
-            "titulo": "Kami no Niwatsuki Kusunoki-tei",
-            "titulo_original": "神の庭付き楠木邸",
-            "year": "2026",
-            "etiquetas": "Slice of Life, Supernatural",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Currently Airing",
-            "created_at": "2026-5-4",
-            "updated_at": "2026-04-11T22:50:35.000Z",
             "episodes": 2
         },
         {
