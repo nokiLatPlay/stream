@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?  (Source: Yen Press)",
     "score": "7.4",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -26,7 +26,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-19T12:57:13.000Z",
+    "updated_at": "2026-05-24T10:50:19.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -35,7 +35,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Un dios de la montaña visita el jardín de los dioses",
                     "portada": "https://cdn.animeav1.com/screenshots/3931/1.jpg",
                     "enlaces": [
                         {
@@ -55,7 +55,7 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "El Santuario en la Montaña y el Árbol Sagrado en el Jardín",
                     "portada": "https://cdn.animeav1.com/screenshots/3931/2.jpg",
                     "enlaces": [
                         {
@@ -75,12 +75,68 @@
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "Entrenamiento de energía eólica en la Tierra Sagrada",
                     "portada": "https://cdn.animeav1.com/screenshots/3931/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/aff07461a37d79eefc8ed33acb892c6e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Hacia el otro mundo para exorcizar el espíritu maligno",
+                    "portada": "https://image.tmdb.org/t/p/w300/yjnxV4iXSsWp6eyLfTvGTNySsKz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b9c2ae7b00604c2216ef7c3f17fc4a9f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "El Reino Kami de la Diosa y el poder de sellar cosas",
+                    "portada": "https://image.tmdb.org/t/p/w300/GWVFIpiaAa5H3Pe88gm3y2uDbq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7a93437620e244a9e8ce7ed0f8be2a2a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Bienvenido al jardín de primavera",
+                    "portada": "https://image.tmdb.org/t/p/w300/gGnU9IRS3n5hKn9LYMIRRckIcIE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/38dd50583f3fa4e95dc1a45bd2dcf084",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "La clave para desbloquear el poder está en los recuerdos",
+                    "portada": "https://image.tmdb.org/t/p/w300/nBNGLDxCsg3y71hiZY3RvdgGJKm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/265907511d6171f9342d672ea4428823",
                             "type": "mp4",
                             "language": "Sub"
                         }
