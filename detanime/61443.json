@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Winter was once the only season in the world-but such an existence was too lonely to bear, and so it created Spring to love. Before long, the earth wished for more time to rest in the cycle, and Summer and Autumn were born. The ones who carry the cycle are called the Agents of the Four Seasons. Hinagiku, the Agent of Spring, disappeared from this land ten years ago, taking the season of spring with her. Now, after incredible hardship, she has returned to restore the cycle to its proper state-and, as in the myth passed down since the dawn of time, she sends her love to Winter.  (Source: Yen Press)",
     "score": "7.8",
-    "episodes": 4,
+    "episodes": 8,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-03-29",
-    "updated_at": "2026-04-19T12:56:22.000Z",
+    "updated_at": "2026-05-24T10:59:25.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -31,8 +31,8 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "",
+                    "nombre": "La danza de la primavera",
+                    "portada": "https://image.tmdb.org/t/p/w300/qATBj96Go33wiVhlBsksmz3lRn4.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
@@ -45,14 +45,20 @@
                             "url": "https://player.zilla-networks.com/m3u8/fb16bfa9361fefe6bc47d4ffa1c94e95",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b10d3f84da97f43095a08e2f1b2c76d2",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "",
+                    "nombre": "Nieve persistente",
+                    "portada": "https://image.tmdb.org/t/p/w300/t3mCmOgXU0bxGFjE0iSSeQaicFv.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
@@ -71,8 +77,8 @@
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "",
+                    "nombre": "Un vistazo",
+                    "portada": "https://image.tmdb.org/t/p/w300/61MAm9NSe16VQc7WLoCFiqLcXAx.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
@@ -91,12 +97,80 @@
                 {
                     "episode_id": "4",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "",
+                    "nombre": "Calma de la mañana",
+                    "portada": "https://image.tmdb.org/t/p/w300/dW1Oe7ytckCfP9kwxHXk3xIvnkP.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/797a4e79e6b09f2962f3fc0300fe2f2a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8b237932df39d69294d46e56d5272368",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "solos juntos",
+                    "portada": "https://image.tmdb.org/t/p/w300/3sWZUYS6ZV3RDBZKDxpsv01kM4x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9d2cc71e39ab920303a606b45b7f572d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/39b9dec036c67c38340c0f779244b62d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Un lugar para llamar hogar",
+                    "portada": "https://image.tmdb.org/t/p/w300/hV3t2AfErS6pAlwXL1j0wM9ura6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c9b35cad646352759554de47074914fb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Oscuridad",
+                    "portada": "https://image.tmdb.org/t/p/w300/9UoCV8PT6XhgLQIePYUA3i0ii1T.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7dea487729a7d41e300d0ec204275a94",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "lluvia de primavera",
+                    "portada": "https://image.tmdb.org/t/p/w300/y4mI3Y0SvQ6DJWq8nRJXNP2ubsq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3c5cb91a991c4970f850cdac12065c88",
                             "type": "mp4",
                             "language": "Sub"
                         }
