@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.  On an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.  Before the woman can capture him, Yuru is rescued by a man named Ryuu \"Dera\" Tadera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.  [Written by MAL Rewrite]",
     "score": "8.1",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
@@ -24,7 +24,7 @@
         "Peerless Gerbera"
     ],
     "created_at": "2026-4-4",
-    "updated_at": "2026-04-19T12:55:56.000Z",
+    "updated_at": "2026-05-24T05:24:19.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -33,7 +33,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Asa y Yuru",
                     "portada": "https://cdn.animeav1.com/screenshots/3933/1.jpg",
                     "enlaces": [
                         {
@@ -65,7 +65,7 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Dera y Hana",
                     "portada": "https://cdn.animeav1.com/screenshots/3933/2.jpg",
                     "enlaces": [
                         {
@@ -109,6 +109,68 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/ae339c9f520e52444e32ee3b3d04eb50",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Jin y Yuru",
+                    "portada": "https://image.tmdb.org/t/p/w300/6WCbLI0MHDfj0IK0FqbNtRo4LcF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/79ab3012ce09897a23e42bf929d0a419",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9796f8bc741b4cfbd1e585a78bfa72e6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "liebre y tortuga",
+                    "portada": "https://image.tmdb.org/t/p/w300/rJglh3uAggZWJfCRFzNUC5ke3n8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5541ef3ca2f653debe5327718b2824aa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "El clan Kagemori y los asaltantes desconocidos",
+                    "portada": "https://image.tmdb.org/t/p/w300/nEO2bR899rXEWC6knDOTE0ifiZO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1e27cbc4ce14e751a6bf18f897c23207",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Asa y romper",
+                    "portada": "https://image.tmdb.org/t/p/w300/wVNtnq1DD8cdF7wrBqpfmUOnG3a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3dbe13ddfe25382d0e924f9c21daddb6",
                             "type": "mp4",
                             "language": "Sub"
                         }
