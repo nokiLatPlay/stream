@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In a world where likes are currency and every viewer is a judge, OMGkawaiiAngel (also known as KAngel) is determined to become the ultimate \"Internet Angel.\" Yet beneath her pastel smile and lively streams, there's more than meets the eye.  (Source: Crunchyroll)",
     "score": "7.0",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "24 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
@@ -26,7 +26,7 @@
         "Yostar"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-19T12:56:46.000Z",
+    "updated_at": "2026-05-24T11:07:24.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -35,7 +35,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Ella es una reina asesina",
                     "portada": "https://cdn.animeav1.com/screenshots/3932/1.jpg",
                     "enlaces": [
                         {
@@ -49,13 +49,19 @@
                             "url": "https://player.zilla-networks.com/m3u8/12f833f98e1249f9e50e6ab3f2eaf476",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b6a7f25fd7a9b726c6592ec63ca95d2e",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Solo nosotros dos",
                     "portada": "https://cdn.animeav1.com/screenshots/3932/2.jpg",
                     "enlaces": [
                         {
@@ -69,18 +75,86 @@
                             "url": "https://player.zilla-networks.com/m3u8/cd06cbc2dc66db8ed3b8cc5598d49ebb",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/91ec930c6b9dc73f1fc6151459b673c5",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "SOBREDOSIS DE INTERNET",
                     "portada": "https://cdn.animeav1.com/screenshots/3932/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/25b3217eec2c84e089faf298feb5a9ac",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c0e5a45efa39d13b7b4b7754feb57c03",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Londres llamando",
+                    "portada": "https://image.tmdb.org/t/p/w300/5WGUtzjyiSuNMgIXJp8GmhMK8iu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/860a297bf2d1a8f2f51951fef5782638",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Lo que",
+                    "portada": "https://image.tmdb.org/t/p/w300/eDYu3KaoP05ySZ13bLc8ufxx8J3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/34edb5371c9a24ab23dad73ec3f5ae54",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Date la vuelta y cuenta 2 diez",
+                    "portada": "https://image.tmdb.org/t/p/w300/yKzc5Fbs9YtplankcUMN2syGHhv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ec58dc803f9e74beb09af4ebf8e13b2d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Deslízate dentro de esta casa",
+                    "portada": "https://image.tmdb.org/t/p/w300/8ZZTLQ2RJSIergj3gUdvhaLRxUq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/895959da0493f8f975e01708b9237c34",
                             "type": "mp4",
                             "language": "Sub"
                         }
