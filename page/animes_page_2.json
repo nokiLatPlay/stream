@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "41488",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1458\/117607.jpg",
+            "titulo": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+            "titulo_original": "転スラ日記 転生したらスライムだった件",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "tv-anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "created_at": "2021",
+            "updated_at": "2026-04-12T09:15:13.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "55994",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1360\/153020.jpg",
             "titulo": "Sword Art Online Alternative: Gun Gale Online II",
@@ -1877,21 +1891,6 @@
             "created_at": "2026-12-4",
             "updated_at": "2026-04-11T22:51:51.000Z",
             "episodes": 1
-        },
-        {
-            "id_mal": "62913",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1755\/154935.jpg",
-            "titulo": "Needy Girl Overdose",
-            "titulo_original": "NEEDY GIRL OVERDOSE",
-            "year": "2026",
-            "etiquetas": "",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Currently Airing",
-            "created_at": "2026-5-4",
-            "updated_at": "2026-04-11T22:51:33.000Z",
-            "episodes": 2
         },
         {
             "id_mal": "34438",
