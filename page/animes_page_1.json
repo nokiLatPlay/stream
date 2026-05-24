@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62913",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1755\/154935.jpg",
+            "titulo": "Needy Girl Overdose",
+            "titulo_original": "",
+            "etiquetas": "Otaku Culture",
+            "type": "anime",
+            "created_at": "2026-5-4",
+            "updated_at": "2026-05-24T11:07:24.000Z",
+            "year": "2026",
+            "score": "7.0",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "61443",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1993\/156385.jpg",
             "titulo": "Shunkashuutou Daikousha: Haru no Mai",
@@ -2894,20 +2908,6 @@
             "created_at": "2021",
             "updated_at": "2026-04-12T09:15:17.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "41488",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1458\/117607.jpg",
-            "titulo": "Tensura Nikki: Tensei shitara Slime Datta Ken",
-            "titulo_original": "転スラ日記 転生したらスライムだった件",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2021",
-            "updated_at": "2026-04-12T09:15:13.000Z",
-            "episodes": 12
         }
     ]
 }
