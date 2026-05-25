@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The neighborhood cock of the walk is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!  (Source: VIZ Media)",
     "score": "6.9",
-    "episodes": 6,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -25,7 +25,7 @@
     "aired_to": "",
     "aired_string": "",
     "created_at": "2026-03-15",
-    "updated_at": "2026-04-19T12:58:07.000Z",
+    "updated_at": "2026-05-25T08:45:15.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -34,7 +34,7 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Episodio 1",
+                    "nombre": "Un gallo entre grúas",
                     "portada": "https://cdn.animeav1.com/screenshots/3812/1.jpg",
                     "enlaces": [
                         {
@@ -66,7 +66,7 @@
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "El pájaro enjaulado",
                     "portada": "https://cdn.animeav1.com/screenshots/3812/2.jpg",
                     "enlaces": [
                         {
@@ -98,7 +98,7 @@
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "La parábola de los tres pájaros",
                     "portada": "https://cdn.animeav1.com/screenshots/3812/3.jpg",
                     "enlaces": [
                         {
@@ -130,8 +130,8 @@
                 {
                     "episode_id": "4",
                     "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "",
+                    "nombre": "Alojarse en el deseo",
+                    "portada": "https://image.tmdb.org/t/p/w300/jSZC01O12OCKpURE0St60mIIg6c.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -150,8 +150,8 @@
                 {
                     "episode_id": "5",
                     "numero": 5,
-                    "nombre": "Episodio 5",
-                    "portada": "",
+                    "nombre": "Los Motley Flock Scatters",
+                    "portada": "https://image.tmdb.org/t/p/w300/7I1S2W5ghy5fvfQIvMi5w1xqFh1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -170,13 +170,93 @@
                 {
                     "episode_id": "6",
                     "numero": 6,
-                    "nombre": "Episodio 6",
-                    "portada": "",
+                    "nombre": "Construido como un gallinero de ladrillos",
+                    "portada": "https://image.tmdb.org/t/p/w300/sGDL3BRvJjYBTkfMw0nHhhoN7lp.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/db5e95f02d0d23a16a6b9322c545365e",
                             "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Creciendo sobre una pluma",
+                    "portada": "https://image.tmdb.org/t/p/w300/1ju3h4519MiGQIjvuRGBWC6d57g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f6cd2482870bae80b8add6f5e9d86d22",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/21b56ab59c40f809640d5610db302ecf",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "No todas las plumas contienen una canción",
+                    "portada": "https://image.tmdb.org/t/p/w300/vmuSBgxbQQFQgTXUBzZDKpDqahM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cefec09ce25f91e22db577763807c26b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3a0a4358a3ed59afe29399623c89b7e1",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Gone to the Birds",
+                    "portada": "https://image.tmdb.org/t/p/w300/fr0xjUYgDBA5QiphQ4ux90P2uVg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/51e4b21dba320493ef660f7519b5ff0d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d93e37b124162806117a5c1353c7d8da",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Para hacer retroceder a un pájaro en una esquina",
+                    "portada": "https://image.tmdb.org/t/p/w300/dA5tPMNj9sPJmOsMwP9qOrt9Jw2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f7a250706462beef87aa9f817cee742a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/62689104b99dd57371a69ef9e597bdd8",
+                            "type": "embed",
                             "language": "Sub"
                         }
                     ]
