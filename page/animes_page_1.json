@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59342",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1637\/148197.jpg",
+            "titulo": "Hell Teacher: Jigoku Sensei Nube",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Horror, Supernatural, Mythology, School, Shounen",
+            "type": "anime",
+            "created_at": "2025-07-02",
+            "updated_at": "2026-05-25T09:37:56.000Z",
+            "year": "2025",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "59369",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx179706-NvVrmMxnDatB.jpg",
             "titulo": "Lycoris Recoil: Friends are thieves of time.",
@@ -1355,21 +1369,6 @@
             "created_at": "2026-01-08",
             "updated_at": "2026-04-19T07:30:03.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "59342",
-            "slug": "jigoku-sensei-nube-2025",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1637\/148197.jpg",
-            "titulo": "Hell Teacher: Jigoku Sensei Nube",
-            "titulo_original": "地獄先生ぬ～べ～",
-            "year": "2025",
-            "etiquetas": "Comedy, Horror, Supernatural, Mythology, School, Shounen",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2025-07-02",
-            "updated_at": "2026-04-19T07:29:41.000Z",
-            "episodes": 13
         },
         {
             "id_mal": "14749",
