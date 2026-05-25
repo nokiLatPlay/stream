@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 611,
+    "total_items": 612,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57353",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1537\/152271.jpg",
+            "titulo": "Mofa Gongzhu de Xiao Fannao",
+            "titulo_original": "魔法公主的小烦恼",
+            "year": "2026",
+            "etiquetas": "Drama, Fantasy",
+            "type": "tv-anime",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2025",
+            "updated_at": "2026-04-12T09:15:30.000Z",
+            "episodes": 16
+        },
         {
             "id_mal": "49818",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1952\/149229.jpg",
@@ -2908,22 +2922,6 @@
             "status": "Finished Airing",
             "created_at": "1998-09-05",
             "updated_at": "2026-03-28T09:54:48.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "16664",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1935\/93606.jpg",
-            "titulo": "Kaguya-hime no Monogatari",
-            "titulo_original": "かぐや姫の物語",
-            "year": "2013",
-            "etiquetas": "Award Winning, Fantasy",
-            "type": "movie",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "created_at": "2013-11-23",
-            "updated_at": "2026-03-28T09:54:37.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
