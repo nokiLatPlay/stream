@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Sequel to Diamond no Ace: Act II.",
     "score": "8.1",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
@@ -22,7 +22,7 @@
         "DAX Production"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-19T12:58:22.000Z",
+    "updated_at": "2026-05-25T08:50:39.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -31,7 +31,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Justo delante.",
                     "portada": "https://cdn.animeav1.com/screenshots/3936/1.jpg",
                     "enlaces": [
                         {
@@ -51,7 +51,7 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Para el equipo",
                     "portada": "https://cdn.animeav1.com/screenshots/3936/2.jpg",
                     "enlaces": [
                         {
@@ -65,12 +65,68 @@
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "El camino del vencedor",
                     "portada": "https://cdn.animeav1.com/screenshots/3936/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/bd31510f1c5ef495605bb06f62645ada",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Rugido",
+                    "portada": "https://image.tmdb.org/t/p/w300/zPrELz13111CHxWrEg2bUyBnxMp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/960644ff4d604e519e8a67f8ce2ab2f3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Algo no cuadraba",
+                    "portada": "https://image.tmdb.org/t/p/w300/zw2hELllIkS46nGlQZ4idrR2fvi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9fc50b3d350553d9483f9fde8362ffd0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "The Unveiling",
+                    "portada": "https://image.tmdb.org/t/p/w300/l8lsXvlrF4E3mZqcUGn7AGnh5xk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a82f19b1fc74eeefff9344563f1bf6cd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Qué se ha acumulado",
+                    "portada": "https://image.tmdb.org/t/p/w300/vk2xL8cyuMfMhWYjvkK44pUeeER.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3e44014a4af7f27316b0d34ffbb66044",
                             "type": "mp4",
                             "language": "Sub"
                         }
