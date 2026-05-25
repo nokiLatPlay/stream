@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62018",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933.jpg",
+            "titulo": "Ichijouma Mankitsugurashi!",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Ecchi",
+            "type": "anime",
+            "created_at": "2026-12-4",
+            "updated_at": "2026-05-25T07:53:34.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 6
+        },
+        {
             "id_mal": "61217",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1821\/154043.jpg",
             "titulo": "Yuusha no Kuzu",
@@ -2892,20 +2906,6 @@
             "status": "Finished Airing",
             "created_at": "2024",
             "updated_at": "2026-04-12T09:15:18.000Z",
-            "episodes": 24
-        },
-        {
-            "id_mal": "39551",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1271\/109841.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken 2nd Season",
-            "titulo_original": "転生したらスライムだった件",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "8.3",
-            "status": "Finished Airing",
-            "created_at": "2021",
-            "updated_at": "2026-04-12T09:15:17.000Z",
             "episodes": 24
         }
     ]
