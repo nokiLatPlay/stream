@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 611,
+    "total_items": 612,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59205",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx178869-qiEz0gQD8H5N.png",
+            "titulo": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+            "titulo_original": "",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2026-05-25",
+            "updated_at": "2026-05-25T09:44:29.000Z",
+            "year": "2026",
+            "score": "7.7",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "59342",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1637\/148197.jpg",
@@ -2891,20 +2905,6 @@
             "created_at": "2014-07-05",
             "updated_at": "2026-04-12T09:15:54.000Z",
             "ts": 1775188303
-        },
-        {
-            "id_mal": "57353",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1537\/152271.jpg",
-            "titulo": "Mofa Gongzhu de Xiao Fannao",
-            "titulo_original": "魔法公主的小烦恼",
-            "year": "2026",
-            "etiquetas": "Drama, Fantasy",
-            "type": "tv-anime",
-            "score": "7.8",
-            "status": "Finished Airing",
-            "created_at": "2025",
-            "updated_at": "2026-04-12T09:15:30.000Z",
-            "episodes": 16
         }
     ]
 }
