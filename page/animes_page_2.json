@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "56752",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1496\/147189.jpg",
+            "titulo": "Shiguang Dailiren: Yingdu Pian",
+            "titulo_original": "時光代理人 英都篇",
+            "year": "2026",
+            "etiquetas": "Drama",
+            "type": "tv-anime",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "created_at": "2024",
+            "updated_at": "2026-04-12T09:15:24.000Z",
+            "episodes": 6
+        },
+        {
             "id_mal": "57192",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1535\/139699.jpg",
             "titulo": "Yeosin Gangnim",
@@ -2009,21 +2023,6 @@
             "created_at": "2015-9-1",
             "updated_at": "2026-04-07T19:52:16.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "63375",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1623\/156387.jpg",
-            "titulo": "Nippon Sangoku",
-            "titulo_original": "日本三國",
-            "year": "2026",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "score": "8.1",
-            "status": "Currently Airing",
-            "created_at": "2026-5-4",
-            "updated_at": "2026-04-06T23:52:45.000Z",
-            "episodes": 1
         },
         {
             "id_mal": "33783",
