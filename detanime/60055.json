@@ -11,11 +11,11 @@
     "synopsis": "Second season of Yozakura-san Chi no Daisakusen.",
     "duration": "24 min",
     "score": "7.7",
-    "episodes": 2,
+    "episodes": 6,
     "status": "Currently Airing",
     "spanish_status": "En emisión",
     "created_at": "2026-04-12",
-    "updated_at": "2026-04-19T12:58:36.000Z",
+    "updated_at": "2026-05-25T08:17:22.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -23,7 +23,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Ai llega a la familia Yozakura/ Mini Kyoichiro",
                     "portada": "https://cdn.animeav1.com/screenshots/3988/1.jpg",
                     "enlaces": [
                         {
@@ -37,13 +37,69 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Ganadores y perdedores",
                     "portada": "https://cdn.animeav1.com/screenshots/3988/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https://player.zilla-networks.com/m3u8/f8cb84ed814aa807cc99ec366b384b1b",
                             "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "El equipo de vigilancia de seguridad de Big Bro Shinzo",
+                    "portada": "https://image.tmdb.org/t/p/w300/eRPzPOUf5s8GTpssXCfa3zZeCeC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2669fdd27522dad22374af29608aae76",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Examen de Avance de Espía",
+                    "portada": "https://image.tmdb.org/t/p/w300/buG9BVk50Opr9BotYd4lzEJVctr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3ea56d2c33f80f238cdd6789b3289dfd",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "El fruto de la paciencia",
+                    "portada": "https://image.tmdb.org/t/p/w300/iyOWb73UWl4i17yLT94h9bvBg9R.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e56bc3c90f3c446344bad9cb52eb3e4f",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Flores de cerezo",
+                    "portada": "https://image.tmdb.org/t/p/w300/t5wxs9dlUQ7jeHGP9VjWopXYQiz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/654c78047615dddddb51f4fed28521e1",
+                            "type": "embed",
                             "language": "Sub"
                         }
                     ]
