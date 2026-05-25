@@ -20,12 +20,8 @@
         "Rakuonsha",
         "Bandai Namco Filmworks"
     ],
-    "aired_from": "",
-    "aired_to": "",
-    "aired_string": "",
     "created_at": "2026-04-05",
-    "updated_at": "2026-05-25T08:10:30.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-25T08:26:19.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -36,12 +32,6 @@
                     "nombre": "Nanoka y Mao",
                     "portada": "https://image.tmdb.org/t/p/w300/8djC95hvi1KoMnw3VwtYW7la2sF.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/play/0eb8c51af439bfcffa833cb3a35c04fc"
-                        },
                         {
                             "nombre": "Enlace 2",
                             "type": "mp4",
@@ -57,16 +47,10 @@
                     "portada": "https://image.tmdb.org/t/p/w300/1yMO27ew7Nzq6uvFgSP2ShshLYc.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/b32fc6030cad8a8c264afd99bfcb5c8e",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/b32fc6030cad8a8c264afd99bfcb5c8e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b32fc6030cad8a8c264afd99bfcb5c8e"
                         }
                     ]
                 },
@@ -78,9 +62,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/84658ae2767b7c26ec89c2a0d80749c0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/84658ae2767b7c26ec89c2a0d80749c0"
                         }
                     ]
                 },
@@ -92,9 +76,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f7977b15ec73b005d2341f56485c562d",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f7977b15ec73b005d2341f56485c562d"
                         }
                     ]
                 },
@@ -106,9 +90,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/6ea48161ed52d6aa8329774a0aaa816d",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6ea48161ed52d6aa8329774a0aaa816d"
                         }
                     ]
                 },
@@ -120,9 +104,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/ccdc4eaa671bd0482206ec3f417ed499",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ccdc4eaa671bd0482206ec3f417ed499"
                         }
                     ]
                 },
@@ -134,9 +118,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/62860cebf80c73f8c6002757d6e6b684",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/62860cebf80c73f8c6002757d6e6b684"
                         }
                     ]
                 }
