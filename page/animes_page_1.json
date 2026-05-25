@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "58877",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1594\/154245.jpg",
+            "titulo": "Diamond no Ace: Act II Second Season",
+            "titulo_original": "",
+            "etiquetas": "Sports, School, Team Sports, Shounen",
+            "type": "anime",
+            "created_at": "2026-5-4",
+            "updated_at": "2026-05-25T08:50:41.000Z",
+            "year": "2026",
+            "score": "8.1",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "59393",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983.jpg",
             "titulo": "Niwatori Fighter",
@@ -2892,20 +2906,6 @@
             "created_at": "2024",
             "updated_at": "2026-04-12T09:15:24.000Z",
             "episodes": 6
-        },
-        {
-            "id_mal": "57192",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1535\/139699.jpg",
-            "titulo": "Yeosin Gangnim",
-            "titulo_original": "여신강림",
-            "year": "2026",
-            "etiquetas": "Comedy, Drama, Romance",
-            "type": "tv-anime",
-            "score": "6.6",
-            "status": "Finished Airing",
-            "created_at": "2024",
-            "updated_at": "2026-04-12T09:15:23.000Z",
-            "episodes": 13
         }
     ]
 }
