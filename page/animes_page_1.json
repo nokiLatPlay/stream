@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62048",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386.jpg",
+            "titulo": "Mao",
+            "titulo_original": "",
+            "etiquetas": "Mystery, Supernatural, Historical, Mythology, Time Travel, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-05-25T08:10:31.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "62018",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933.jpg",
             "titulo": "Ichijouma Mankitsugurashi!",
@@ -2893,20 +2907,6 @@
             "created_at": "2023",
             "updated_at": "2026-04-12T09:15:20.000Z",
             "episodes": 3
-        },
-        {
-            "id_mal": "53580",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1211\/143476.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken 3rd Season",
-            "titulo_original": "転生したらスライムだった件 第3期",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "tv-anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2024",
-            "updated_at": "2026-04-12T09:15:18.000Z",
-            "episodes": 24
         }
     ]
 }
