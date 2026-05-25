@@ -1,6 +1,5 @@
 {
     "id_mal": "58877",
-    "anime_id": "3936",
     "titulo": "Diamond no Ace: Act II Second Season",
     "titulo_original": "ダイヤのA actⅡ Second Season",
     "imagen": "https://myanimelist.net/images/anime/1594/154245.jpg",
@@ -10,10 +9,10 @@
     "synopsis": "Sequel to Diamond no Ace: Act II.",
     "score": "8.1",
     "episodes": 7,
+    "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
     "studios": [
         "OLM"
     ],
@@ -21,9 +20,8 @@
         "Kodansha",
         "DAX Production"
     ],
-    "created_at": "2026-5-4",
-    "updated_at": "2026-05-25T08:50:39.000Z",
-    "player_base": [],
+    "created_at": "2026-04-05",
+    "updated_at": "2026-05-25T09:01:23.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -35,16 +33,10 @@
                     "portada": "https://cdn.animeav1.com/screenshots/3936/1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https://player.zilla-networks.com/play/12a9eeec4d91a68c5c4cc6dfe41ffeb2",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Server 2",
-                            "url": "https://player.zilla-networks.com/m3u8/12a9eeec4d91a68c5c4cc6dfe41ffeb2",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/12a9eeec4d91a68c5c4cc6dfe41ffeb2"
                         }
                     ]
                 },
@@ -56,9 +48,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/d53b5bd037438346e84bba68304d3b97",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d53b5bd037438346e84bba68304d3b97"
                         }
                     ]
                 },
@@ -70,9 +62,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/bd31510f1c5ef495605bb06f62645ada",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/bd31510f1c5ef495605bb06f62645ada"
                         }
                     ]
                 },
@@ -84,9 +76,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/960644ff4d604e519e8a67f8ce2ab2f3",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/960644ff4d604e519e8a67f8ce2ab2f3"
                         }
                     ]
                 },
@@ -98,9 +90,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/9fc50b3d350553d9483f9fde8362ffd0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/9fc50b3d350553d9483f9fde8362ffd0"
                         }
                     ]
                 },
@@ -112,9 +104,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/a82f19b1fc74eeefff9344563f1bf6cd",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a82f19b1fc74eeefff9344563f1bf6cd"
                         }
                     ]
                 },
@@ -126,9 +118,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/3e44014a4af7f27316b0d34ffbb66044",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/3e44014a4af7f27316b0d34ffbb66044"
                         }
                     ]
                 }
