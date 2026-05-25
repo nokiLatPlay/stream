@@ -21,12 +21,8 @@
         "Sola Entertainment",
         "Bushiroad Move"
     ],
-    "aired_from": "",
-    "aired_to": "",
-    "aired_string": "",
     "created_at": "2026-03-15",
-    "updated_at": "2026-05-25T08:45:15.000Z",
-    "player_base": [],
+    "updated_at": "2026-05-25T08:52:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -38,22 +34,10 @@
                     "portada": "https://cdn.animeav1.com/screenshots/3812/1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Enlace 1",
-                            "type": "embed",
-                            "language": "Latino",
-                            "url": "https://player.zilla-networks.com/play/835214cf730c9ce7395301160cfe44ee"
-                        },
-                        {
                             "nombre": "Enlace 2",
                             "type": "mp4",
                             "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/835214cf730c9ce7395301160cfe44ee"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/play/6a2812258719871c8306757ca8a8d6f5"
                         },
                         {
                             "nombre": "Enlace 4",
@@ -70,22 +54,10 @@
                     "portada": "https://cdn.animeav1.com/screenshots/3812/2.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "type": "embed",
-                            "language": "Latino",
-                            "url": "https://player.zilla-networks.com/play/1af4eded70960c7f474b55b44d9a4024"
-                        },
-                        {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/1af4eded70960c7f474b55b44d9a4024"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/play/022ab624ca2e755e069db75990d02dad"
                         },
                         {
                             "nombre": "Server 4",
@@ -102,22 +74,10 @@
                     "portada": "https://cdn.animeav1.com/screenshots/3812/3.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "type": "embed",
-                            "language": "Latino",
-                            "url": "https://player.zilla-networks.com/play/046a4e092e5ae3a840934a5969b2b047"
-                        },
-                        {
                             "nombre": "Server 2",
                             "type": "mp4",
                             "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/046a4e092e5ae3a840934a5969b2b047"
-                        },
-                        {
-                            "nombre": "Server 3",
-                            "type": "embed",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/play/e5df83c974e2754fd9af0cbd778e76c7"
                         },
                         {
                             "nombre": "Server 4",
@@ -135,15 +95,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/3ca76489bc34cf42420c2f4fae702c53",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/3ca76489bc34cf42420c2f4fae702c53"
                         },
                         {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/31b56d84719503057cc6e80aeb6c0de1",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/31b56d84719503057cc6e80aeb6c0de1"
                         }
                     ]
                 },
@@ -155,15 +115,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/4b1b3393d29b2c906ca01e00f6cffed4",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/4b1b3393d29b2c906ca01e00f6cffed4"
                         },
                         {
                             "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/7f1415360d1df7f2c637e6c970ce2298",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7f1415360d1df7f2c637e6c970ce2298"
                         }
                     ]
                 },
@@ -175,9 +135,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/m3u8/db5e95f02d0d23a16a6b9322c545365e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/db5e95f02d0d23a16a6b9322c545365e"
                         }
                     ]
                 },
@@ -189,15 +149,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f6cd2482870bae80b8add6f5e9d86d22",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/f6cd2482870bae80b8add6f5e9d86d22"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/21b56ab59c40f809640d5610db302ecf",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/21b56ab59c40f809640d5610db302ecf"
                         }
                     ]
                 },
@@ -209,15 +169,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/cefec09ce25f91e22db577763807c26b",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/cefec09ce25f91e22db577763807c26b"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/3a0a4358a3ed59afe29399623c89b7e1",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/3a0a4358a3ed59afe29399623c89b7e1"
                         }
                     ]
                 },
@@ -229,15 +189,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/51e4b21dba320493ef660f7519b5ff0d",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/51e4b21dba320493ef660f7519b5ff0d"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/d93e37b124162806117a5c1353c7d8da",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d93e37b124162806117a5c1353c7d8da"
                         }
                     ]
                 },
@@ -249,15 +209,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f7a250706462beef87aa9f817cee742a",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/f7a250706462beef87aa9f817cee742a"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/62689104b99dd57371a69ef9e597bdd8",
-                            "type": "embed",
-                            "language": "Sub"
+                            "type": "mp4",
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/62689104b99dd57371a69ef9e597bdd8"
                         }
                     ]
                 }
