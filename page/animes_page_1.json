@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 609,
+    "total_items": 610,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60658",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185939-hqt1He153el8.jpg",
+            "titulo": "Hibi wa Sugiredo Meshi Umashi",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-05-25",
+            "updated_at": "2026-05-25T09:16:26.000Z",
+            "year": "2026",
+            "score": "7.7",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "63375",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1623\/156387.jpg",
@@ -2892,20 +2906,6 @@
             "created_at": "2025",
             "updated_at": "2026-04-12T09:15:28.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "50139",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1500\/151301.jpg",
-            "titulo": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "titulo_original": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
-            "year": "2026",
-            "etiquetas": "Fantasy",
-            "type": "tv-anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2025",
-            "updated_at": "2026-04-12T09:15:26.000Z",
-            "episodes": 8
         }
     ]
 }
