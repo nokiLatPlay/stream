@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.  The country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the others in a desperate attempt for total control over the remnants of Japanese land.  Aoteru Misumi is a low-ranking official who has stayed in the background for most of his life. He does not come from a prestigious military background or aristocracy, but Misumi has a strong ambition: to end the pointless bloodshed that afflicts the nation. He seeks to unify the fractured country, armed only with sharp insight and a persuasive voice that can rally the people.  The legend of the man who will become a brilliant military strategist starts now.  (Source: MAL News)",
     "score": "8.4",
-    "episodes": 3,
+    "episodes": 7,
     "duration": "24 min",
     "rating": null,
     "source": "Web manga",
@@ -23,7 +23,7 @@
         "Amazon MGM Studios"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-04-19T12:58:47.000Z",
+    "updated_at": "2026-05-25T09:10:42.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -32,7 +32,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Un juramento de paz",
                     "portada": "https://cdn.animeav1.com/screenshots/3938/1.jpg",
                     "enlaces": [
                         {
@@ -64,7 +64,7 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Toryumon",
                     "portada": "https://cdn.animeav1.com/screenshots/3938/2.jpg",
                     "enlaces": [
                         {
@@ -84,7 +84,7 @@
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "Consejo Imperial",
                     "portada": "https://cdn.animeav1.com/screenshots/3938/3.jpg",
                     "enlaces": [
                         {
@@ -96,6 +96,86 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https://player.zilla-networks.com/m3u8/33e792a5a4133068f9829dac6772a3f1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "El golpe de Seii",
+                    "portada": "https://image.tmdb.org/t/p/w300/4VkIjPNAQZv7XAhl4m2E0VvhPKm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/45a3226cf60d30e2b3822183251863c4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/59460927f23fe7768380090ff8374d31",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "El Cuerpo General de Borderland sale",
+                    "portada": "https://image.tmdb.org/t/p/w300/tJJmbGKL6hJ1sHbYUrTLP0wA5LY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3544aa02a4f9f76b4e476574849f443d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4d96dd08ac590e9bcbe7733ee5125646",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Víspera de la guerra",
+                    "portada": "https://image.tmdb.org/t/p/w300/keSGg8zg3TREzppo1p0Zn2esV6X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b896de51c4725311c9a18e47e24f3b3f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/acad17c61245953cf966a127561de067",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "La redada nocturna de Kanazawa",
+                    "portada": "https://image.tmdb.org/t/p/w300/ftr7C1Ho7DwGPG427DELehBjVNZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6c366358f9e24c8b53f940d17ffcbb0e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ae785fcdc9ec5ae9ab9ae7d70824c995",
                             "type": "mp4",
                             "language": "Sub"
                         }
