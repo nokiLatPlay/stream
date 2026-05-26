@@ -1,22 +1,40 @@
 {
     "id_mal": "35849",
     "titulo": "Darling in the Franxx",
-    "titulo_original": "",
+    "titulo_original": "ダーリン・イン・ザ・フランキス",
     "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99423-8MBxtwCeHf8B.png",
     "etiquetas": "Action, Drama, Mecha, Psychological, Romance",
-    "year": "2026",
+    "year": "2018",
     "type": "anime",
-    "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n<br><br>\n(Source: Crunchyroll)",
+    "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\r\n<br><br>\r\n(Source: Crunchyroll)",
     "score": "6.9",
     "episodes": 24,
-    "status": "FINISHED",
-    "duration": "",
-    "rating": "",
-    "source": "",
-    "studios": [],
-    "producers": [],
-    "created_at": "2026-05-26",
-    "player_base": [],
+    "status": "Finished Airing",
+    "duration": "24 min. per ep.",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Original",
+    "studios": [
+        "A-1 Pictures",
+        "Trigger",
+        "CloverWorks"
+    ],
+    "producers": [
+        "Aniplex",
+        "Khara",
+        "Movic",
+        "Half H.P Studio",
+        "Ultra Super Pictures",
+        "Lucent Pictures Entertainment",
+        "Tokyo MX",
+        "Nagoya Broadcasting Network",
+        "Asahi Broadcasting",
+        "BS11",
+        "Lawson",
+        "ABC Animation",
+        "Rialto Entertainment"
+    ],
+    "created_at": "2018-01-18",
+    "updated_at": "2026-05-26T05:55:56.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,9 +47,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/52a6e26cf8dd00c797db110d619e28ca",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/52a6e26cf8dd00c797db110d619e28ca"
                         }
                     ]
                 },
@@ -43,9 +61,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/85d62618ee8d6e21a5e50b3586b35f70",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/85d62618ee8d6e21a5e50b3586b35f70"
                         }
                     ]
                 },
@@ -57,9 +75,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/d92d24074460e30736fe9a8b78bc61bf",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d92d24074460e30736fe9a8b78bc61bf"
                         }
                     ]
                 },
@@ -71,9 +89,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/e5a078482d561ea3ddee7def213888bc",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e5a078482d561ea3ddee7def213888bc"
                         }
                     ]
                 },
@@ -85,9 +103,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/09c3bc7ea907be5a65ae77aba4cb6655",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/09c3bc7ea907be5a65ae77aba4cb6655"
                         }
                     ]
                 },
@@ -99,9 +117,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/6d8d6f45266c4b82f096b753894140fa",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6d8d6f45266c4b82f096b753894140fa"
                         }
                     ]
                 },
@@ -113,9 +131,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/a1891ab1bb60c7157eefd47e25b1e28b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/a1891ab1bb60c7157eefd47e25b1e28b"
                         }
                     ]
                 },
@@ -127,9 +145,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/56307d730805e0448ede6cc73db34609",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/56307d730805e0448ede6cc73db34609"
                         }
                     ]
                 },
@@ -141,9 +159,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/e59d3f7ddb008deb176f253eed1d9981",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e59d3f7ddb008deb176f253eed1d9981"
                         }
                     ]
                 },
@@ -155,9 +173,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/8e7618298350bfb8becf4b73548b07ff",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/8e7618298350bfb8becf4b73548b07ff"
                         }
                     ]
                 },
@@ -169,9 +187,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/6bff3d8ea804788714c5d17c5efbe878",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6bff3d8ea804788714c5d17c5efbe878"
                         }
                     ]
                 },
@@ -183,9 +201,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/b143ba0428bb8015873c425c5391d546",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b143ba0428bb8015873c425c5391d546"
                         }
                     ]
                 },
@@ -197,9 +215,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/ebe637de2a59d51224eb79f3278c85bf",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/ebe637de2a59d51224eb79f3278c85bf"
                         }
                     ]
                 },
@@ -211,9 +229,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/20f2b818873bf4a0d25365091f3c9172",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/20f2b818873bf4a0d25365091f3c9172"
                         }
                     ]
                 },
@@ -225,9 +243,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/542dd549e92f27f54364ed226239d59e",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/542dd549e92f27f54364ed226239d59e"
                         }
                     ]
                 },
@@ -239,9 +257,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/252a6eb35d744ba820c355bfadb04f3c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/252a6eb35d744ba820c355bfadb04f3c"
                         }
                     ]
                 },
@@ -253,9 +271,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/041bcef8f5499b206bbc049e9773889c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/041bcef8f5499b206bbc049e9773889c"
                         }
                     ]
                 },
@@ -267,9 +285,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/7580de3d99bf0c56f9e7738c71e1f561",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7580de3d99bf0c56f9e7738c71e1f561"
                         }
                     ]
                 },
@@ -281,9 +299,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/d8396dc93d6ffa583e5e45c6e8b762cb",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/d8396dc93d6ffa583e5e45c6e8b762cb"
                         }
                     ]
                 },
@@ -295,9 +313,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/134073463f71b9a3f5bb31da410c3ee9",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/134073463f71b9a3f5bb31da410c3ee9"
                         }
                     ]
                 },
@@ -309,9 +327,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/48fee358423b382bee73a99a79fc72a0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/48fee358423b382bee73a99a79fc72a0"
                         }
                     ]
                 },
@@ -323,9 +341,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/b35d014815bfd0d1da641e6e0ebf790c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/b35d014815bfd0d1da641e6e0ebf790c"
                         }
                     ]
                 },
@@ -337,9 +355,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/4c2a6f62ac47c66549756db9350df56b",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/4c2a6f62ac47c66549756db9350df56b"
                         }
                     ]
                 },
@@ -351,15 +369,13 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f31861036ade8f48ee87eb4b3a5b38c6",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/f31861036ade8f48ee87eb4b3a5b38c6"
                         }
                     ]
                 }
             ]
         }
-    ],
-    "enlaces": [],
-    "updated_at": "2026-05-26T05:51:27.000Z"
+    ]
 }
