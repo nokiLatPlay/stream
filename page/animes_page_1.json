@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 612,
+    "total_items": 613,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35849",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx99423-8MBxtwCeHf8B.png",
+            "titulo": "Darling in the Franxx",
+            "titulo_original": "",
+            "etiquetas": "Action, Drama, Mecha, Psychological, Romance",
+            "type": "anime",
+            "created_at": "2026-05-26",
+            "updated_at": "2026-05-26T05:51:29.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "FINISHED",
+            "episodes": 24
+        },
         {
             "id_mal": "21",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
@@ -2889,21 +2903,6 @@
             "created_at": "2006-02-10",
             "updated_at": "2026-04-12T09:15:57.000Z",
             "ts": 1775137627
-        },
-        {
-            "id_mal": "21881",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1223\/121999l.jpg",
-            "titulo": "Sword Art Online II",
-            "titulo_original": "ソードアート・オンライン II",
-            "year": "2014",
-            "etiquetas": "Action, Adventure, Fantasy, Romance",
-            "type": "tv-anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": 24,
-            "created_at": "2014-07-05",
-            "updated_at": "2026-04-12T09:15:54.000Z",
-            "ts": 1775188303
         }
     ]
 }
