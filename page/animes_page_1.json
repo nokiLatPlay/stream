@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62342",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1175\/156007.jpg",
+            "titulo": "Maid-san wa Taberu dake",
+            "titulo_original": "",
+            "etiquetas": "Gourmet, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-03-31",
+            "updated_at": "2026-05-26T19:25:10.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 8
+        },
+        {
             "id_mal": "35849",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx99423-8MBxtwCeHf8B.png",
             "titulo": "Darling in the Franxx",
@@ -2303,21 +2317,6 @@
             "created_at": "2022-01-08",
             "updated_at": "2026-04-12T09:17:30.000Z",
             "ts": 1774542059
-        },
-        {
-            "id_mal": "62342",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1175\/156007.jpg",
-            "titulo": "Maid-san wa Taberu dake",
-            "titulo_original": "メイドさんは食べるだけ",
-            "year": "2026",
-            "etiquetas": "Gourmet, Slice of Life",
-            "type": "anime",
-            "score": "0.0",
-            "status": "Currently Airing",
-            "episodes": 1,
-            "created_at": "2026-03-31",
-            "updated_at": "2026-04-12T09:17:29.000Z",
-            "ts": 1775007164
         },
         {
             "id_mal": "56906",
