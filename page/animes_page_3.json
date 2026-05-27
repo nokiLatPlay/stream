@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 613,
+    "total_items": 614,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "2890",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1331\/138727.jpg",
+            "titulo": "Gake no Ue no Ponyo",
+            "titulo_original": "崖の上のポニョ",
+            "year": "2008",
+            "etiquetas": "Adventure, Award Winning, Fantasy",
+            "type": "movie",
+            "score": "8.0",
+            "status": "Finished Airing",
+            "created_at": "2008-07-19",
+            "updated_at": "2026-03-28T09:55:00.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "420",
             "slug": "",
@@ -3035,22 +3051,6 @@
             "status": "Finished Airing",
             "created_at": "2024-08-02",
             "updated_at": "2026-03-15T17:18:31.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "55748",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1476\/142232l.jpg",
-            "titulo": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen",
-            "titulo_original": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編",
-            "year": "2024",
-            "etiquetas": "Slice of Life",
-            "type": "movie",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2024-09-06",
-            "updated_at": "2026-03-15T17:18:13.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
