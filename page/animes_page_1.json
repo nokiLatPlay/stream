@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63310",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1373\/155741.jpg",
+            "titulo": "Ingoku Danchi",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Supernatural, Erotica",
+            "type": "anime",
+            "created_at": "2026-6-4",
+            "updated_at": "2026-05-26T19:42:19.000Z",
+            "year": "2026",
+            "score": "5.6",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "62852",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658.jpg",
             "titulo": "Ghost Concert: Missing Songs",
@@ -2885,21 +2899,6 @@
             "created_at": "2015-04-04",
             "updated_at": "2026-04-12T09:16:01.000Z",
             "ts": 1775137292
-        },
-        {
-            "id_mal": "777",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/jNvRdwCiW2C5LawxfHzyuXMtKsL.jpg",
-            "titulo": "Hellsing Ultimate",
-            "titulo_original": "HELLSING OVA",
-            "year": "2006",
-            "etiquetas": " Animación, Drama y Sci-Fi, Fantasy",
-            "type": "anime",
-            "score": "8.3",
-            "status": "Finished Airing",
-            "episodes": 10,
-            "created_at": "2006-02-10",
-            "updated_at": "2026-04-12T09:15:57.000Z",
-            "ts": 1775137627
         }
     ]
 }
