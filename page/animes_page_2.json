@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 613,
+    "total_items": 614,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "26243",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/148979.jpg",
+            "titulo": "Owari no Seraph",
+            "titulo_original": "終わりのセラフ",
+            "year": "2015",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2015-04-04",
+            "updated_at": "2026-04-12T09:16:01.000Z",
+            "ts": 1775137292
+        },
         {
             "id_mal": "777",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/jNvRdwCiW2C5LawxfHzyuXMtKsL.jpg",
@@ -2906,22 +2921,6 @@
             "status": "Finished Airing",
             "created_at": "2019-09-07",
             "updated_at": "2026-03-28T09:55:12.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "2890",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1331\/138727.jpg",
-            "titulo": "Gake no Ue no Ponyo",
-            "titulo_original": "崖の上のポニョ",
-            "year": "2008",
-            "etiquetas": "Adventure, Award Winning, Fantasy",
-            "type": "movie",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "created_at": "2008-07-19",
-            "updated_at": "2026-03-28T09:55:00.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
