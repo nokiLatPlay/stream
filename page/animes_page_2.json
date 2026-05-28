@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "42897",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1695\/111486.jpg",
+            "titulo": "Horimiya",
+            "titulo_original": "ホリミヤ",
+            "year": "2021",
+            "etiquetas": "Romance",
+            "type": "anime",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "episodes": 13,
+            "created_at": "2021",
+            "updated_at": "2026-04-12T09:16:14.000Z",
+            "ts": 1775086927
+        },
+        {
             "id_mal": "40961",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1558\/113940.jpg",
             "titulo": "Hortensia Saga",
@@ -2901,22 +2916,6 @@
             "status": "Finished Airing",
             "created_at": "2022-05-20",
             "updated_at": "2026-03-28T09:56:09.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "46420",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1096\/113360.jpg",
-            "titulo": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
-            "titulo_original": "劇場版 七つの大罪 光に呪われし者たち",
-            "year": "2021",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2021-07-02",
-            "updated_at": "2026-03-28T09:55:59.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
