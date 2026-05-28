@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 615,
+    "total_items": 616,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "39030",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1736\/103512.jpg",
+            "titulo": "Hataage! Kemono Michi",
+            "titulo_original": "旗揚! けものみち",
+            "year": "2019",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "score": "6.6",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2019",
+            "updated_at": "2026-04-12T09:16:05.000Z",
+            "ts": 1775087109
+        },
         {
             "id_mal": "39326",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1430\/102439.jpg",
@@ -2904,22 +2919,6 @@
             "status": "Finished Airing",
             "created_at": "2020-02-01",
             "updated_at": "2026-03-28T09:55:35.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "13391",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/3\/87919.jpg",
-            "titulo": "Rakuen Tsuihou",
-            "titulo_original": "楽園追放 -Expelled from Paradise-",
-            "year": "2014",
-            "etiquetas": "Sci-Fi",
-            "type": "movie",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2014-11-15",
-            "updated_at": "2026-03-28T09:55:23.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
