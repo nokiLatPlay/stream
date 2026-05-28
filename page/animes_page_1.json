@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 617,
+    "total_items": 618,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59636",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx180516-lebpoKLkw6E3.jpg",
+            "titulo": "Uma Musume: Cinderella Gray",
+            "titulo_original": "ウマ娘 シンデレラグレイ",
+            "etiquetas": "Drama, Sports",
+            "type": "anime",
+            "created_at": "2025-04-06",
+            "updated_at": "2026-05-28T07:28:31.000Z",
+            "year": 2025,
+            "score": "8.5",
+            "status": "FINISHED",
+            "episodes": 13
+        },
         {
             "id_mal": "60449",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx185213-RKQN0qxKlqd6.jpg",
@@ -2880,21 +2894,6 @@
             "created_at": "2021",
             "updated_at": "2026-04-12T09:16:14.000Z",
             "ts": 1775086927
-        },
-        {
-            "id_mal": "40961",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1558\/113940.jpg",
-            "titulo": "Hortensia Saga",
-            "titulo_original": "オルタンシア・サーガ",
-            "year": "2021",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "5.8",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2021",
-            "updated_at": "2026-04-12T09:16:12.000Z",
-            "ts": 1775086962
         }
     ]
 }
