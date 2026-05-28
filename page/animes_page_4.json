@@ -1,9 +1,25 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 614,
+    "total_items": 615,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56196",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1480\/143549l.jpg",
+            "titulo": "Boku no Hero Academia the Movie 4: You're Next",
+            "titulo_original": "僕のヒーローアカデミアTHE MOVIE ユアネクスト",
+            "year": "2024",
+            "etiquetas": "Action",
+            "type": "movie",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2024-08-02",
+            "updated_at": "2026-03-15T17:18:31.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "55748",
             "slug": "",
