@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 616,
+    "total_items": 617,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "39576",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1699\/110724.jpg",
+            "titulo": "Goblin Slayer: Goblin's Crown",
+            "titulo_original": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+            "year": "2020",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2020-02-01",
+            "updated_at": "2026-03-28T09:55:35.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "13391",
             "slug": "",
@@ -3035,22 +3051,6 @@
             "status": "Finished Airing",
             "created_at": "2024-05-24",
             "updated_at": "2026-03-15T17:19:44.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "58125",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/142633l.jpg",
-            "titulo": "Look Back",
-            "titulo_original": "ルックバック",
-            "year": "2024",
-            "etiquetas": "Drama",
-            "type": "movie",
-            "score": "8.6",
-            "status": "Finished Airing",
-            "created_at": "2024-06-28",
-            "updated_at": "2026-03-15T17:19:15.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
