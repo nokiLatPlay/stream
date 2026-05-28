@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 617,
+    "total_items": 618,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35946",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1444\/91899.jpg",
+            "titulo": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+            "titulo_original": "劇場版 七つの大罪 天空の囚われ人",
+            "year": "2018",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2018-08-18",
+            "updated_at": "2026-03-28T09:55:47.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "39576",
             "slug": "",
@@ -3035,22 +3051,6 @@
             "status": "Finished Airing",
             "created_at": "2024-05-10",
             "updated_at": "2026-03-15T17:21:03.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "57647",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1427\/142210l.jpg",
-            "titulo": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
-            "titulo_original": "ウマ娘 プリティーダービー 新時代の扉",
-            "year": "2024",
-            "etiquetas": "Sports",
-            "type": "movie",
-            "score": "8.6",
-            "status": "Finished Airing",
-            "created_at": "2024-05-24",
-            "updated_at": "2026-03-15T17:19:44.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
