@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 614,
+    "total_items": 615,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58833",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx177509-LzpyXGnjitvF.jpg",
+            "titulo": "Kakushite! Makina-san!!",
+            "titulo_original": "かくして！ マキナさん!!",
+            "etiquetas": "Comedy, Ecchi, Mecha, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2026-05-28",
+            "updated_at": "2026-05-28T06:08:36.000Z",
+            "year": 2025,
+            "score": "5.2",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "60140",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx183133-SSeg5j1UrMDG.png",
@@ -2883,21 +2897,6 @@
             "created_at": "2019",
             "updated_at": "2026-04-12T09:16:05.000Z",
             "ts": 1775087109
-        },
-        {
-            "id_mal": "39326",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1430\/102439.jpg",
-            "titulo": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
-            "titulo_original": "可愛ければ変態でも好きになってくれますか？",
-            "year": "2019",
-            "etiquetas": "Comedy, Romance, Ecchi",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2019",
-            "updated_at": "2026-04-12T09:16:03.000Z",
-            "ts": 1775087145
         }
     ]
 }
