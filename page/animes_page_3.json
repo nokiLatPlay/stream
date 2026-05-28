@@ -5,6 +5,22 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "46420",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1096\/113360.jpg",
+            "titulo": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+            "titulo_original": "劇場版 七つの大罪 光に呪われし者たち",
+            "year": "2021",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2021-07-02",
+            "updated_at": "2026-03-28T09:55:59.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "35946",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1444\/91899.jpg",
@@ -610,21 +626,6 @@
             "created_at": "2025-01-04",
             "updated_at": "2026-03-26T15:55:34.000Z",
             "ts": 1774540534
-        },
-        {
-            "id_mal": "5781",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/2\/20345.jpg",
-            "titulo": "Isekai no Seikishi Monogatari",
-            "titulo_original": "異世界の聖機師物語",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Ecchi",
-            "type": "anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2009-05-22",
-            "updated_at": "2026-03-26T14:57:54.318393",
-            "ts": 1774537074
         },
         {
             "id_mal": "37987",
