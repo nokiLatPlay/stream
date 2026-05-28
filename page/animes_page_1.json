@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "5781",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/2\/20345.jpg",
+            "titulo": "Isekai no Seikishi Monogatari",
+            "titulo_original": "異世界の聖機師物語",
+            "etiquetas": "Comedy, Fantasy, Ecchi",
+            "type": "anime",
+            "created_at": "2009-05-22",
+            "updated_at": "2026-05-28T07:43:17.000Z",
+            "year": "2009",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "61269",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1776\/151242l.jpg",
             "titulo": "Digimon Beatbreak",
@@ -2878,21 +2892,6 @@
             "created_at": "2023",
             "updated_at": "2026-04-12T09:16:15.000Z",
             "ts": 1775086890
-        },
-        {
-            "id_mal": "42897",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1695\/111486.jpg",
-            "titulo": "Horimiya",
-            "titulo_original": "ホリミヤ",
-            "year": "2021",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2021",
-            "updated_at": "2026-04-12T09:16:14.000Z",
-            "ts": 1775086927
         }
     ]
 }
