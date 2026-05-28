@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 615,
+    "total_items": 616,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "13391",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/3\/87919.jpg",
+            "titulo": "Rakuen Tsuihou",
+            "titulo_original": "楽園追放 -Expelled from Paradise-",
+            "year": "2014",
+            "etiquetas": "Sci-Fi",
+            "type": "movie",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2014-11-15",
+            "updated_at": "2026-03-28T09:55:23.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "40211",
             "slug": "",
@@ -3035,22 +3051,6 @@
             "status": "Finished Airing",
             "created_at": "2024-06-28",
             "updated_at": "2026-03-15T17:19:15.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "52107",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1903\/142810l.jpg",
-            "titulo": "Mononoke Movie 1: Karakasa",
-            "titulo_original": "劇場版モノノ怪 唐傘",
-            "year": "2024",
-            "etiquetas": "Horror, Mystery, Supernatural, Suspense",
-            "type": "movie",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "created_at": "2024-07-26",
-            "updated_at": "2026-03-15T17:18:53.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
