@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Sakuradaimon se toma muy en serio su papel en el Comité de Moral Pública de la escuela. Todos los días, revisa diligentemente la apariencia de los estudiantes en la puerta, regañando con frecuencia a Kohinata, una chica rebelde de pelo brillante y falda corta. Aunque a ella le molestan sus constantes sermones, todo cambia cuando descubre que Sakuradaimon también es un poco desordenado. Una comedia romántica corta y desenfadada sobre un estricto miembro del comité, una compañera de clase atrevida y la caótica vida escolar que los une. (Fuente: MAL News)",
     "score": "7.5",
-    "episodes": 6,
+    "episodes": 7,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Saber Links"
     ],
     "created_at": "",
-    "updated_at": "2026-05-14T06:53:52.000Z",
+    "updated_at": "2026-05-30T03:09:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -121,6 +121,20 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/5519597d31ee836b401dbafa7f3cbd1d"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Divirtiéndose en la playa con los torpes",
+                    "portada": "https://image.tmdb.org/t/p/w300/kFUzS7Hs3rxjKYMjYsZJlp49n9x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1b2e61df59ec728e59d109c9dc63b907",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
