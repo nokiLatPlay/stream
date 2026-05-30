@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 623,
+    "total_items": 624,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60168",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1191\/152368l.jpg",
+            "titulo": "Watashi wo Tabetai, Hitodenashi",
+            "titulo_original": "私を喰べたい、ひとでなし",
+            "year": "2025",
+            "etiquetas": "Drama, Girls Love, Supernatural",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2025-10-02",
+            "updated_at": "2026-03-16T06:13:12.000Z",
+            "episodes": 13
+        },
         {
             "id_mal": "60969",
             "slug": "",
