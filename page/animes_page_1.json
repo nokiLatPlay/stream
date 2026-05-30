@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 619,
+    "total_items": 620,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59322",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx179541-lZwENMAHZS9Y.jpg",
+            "titulo": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+            "titulo_original": "白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます",
+            "etiquetas": "Comedy, Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2025-04-20",
+            "updated_at": "2026-05-30T08:03:13.000Z",
+            "year": 2025,
+            "score": "6.4",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "61425",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1484\/155726.jpg",
@@ -2875,21 +2889,6 @@
             "created_at": "2023",
             "updated_at": "2026-04-12T09:16:21.000Z",
             "ts": 1775086754
-        },
-        {
-            "id_mal": "54856",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1007\/136277.jpg",
-            "titulo": "Horimiya: Piece",
-            "titulo_original": "ホリミヤ -piece-",
-            "year": "2023",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2023",
-            "updated_at": "2026-04-12T09:16:20.000Z",
-            "ts": 1775086791
         }
     ]
 }
