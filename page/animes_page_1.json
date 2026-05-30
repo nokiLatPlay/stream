@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 624,
+    "total_items": 625,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "31580",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21341-Pyc7SkMEuGsl.jpg",
+            "titulo": "Ajin",
+            "titulo_original": "亜人",
+            "etiquetas": "Action, Horror, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2016-01-16",
+            "updated_at": "2026-05-30T10:19:54.000Z",
+            "year": 2016,
+            "score": "7.1",
+            "status": "FINISHED",
+            "episodes": 13
+        },
         {
             "id_mal": "32105",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21499-JCxvIXc27mVT.jpg",
@@ -2870,21 +2884,6 @@
             "created_at": "2016",
             "updated_at": "2026-04-12T09:16:30.000Z",
             "ts": 1775086577
-        },
-        {
-            "id_mal": "57892",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1914\/143630.jpg",
-            "titulo": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-            "titulo_original": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
-            "year": "2024",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2024",
-            "updated_at": "2026-04-12T09:16:28.000Z",
-            "ts": 1775086609
         }
     ]
 }
