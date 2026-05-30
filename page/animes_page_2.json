@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 621,
+    "total_items": 622,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "54362",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1610\/138189.jpg",
+            "titulo": "Hametsu no Oukoku",
+            "titulo_original": "はめつのおうこく",
+            "year": "2023",
+            "etiquetas": "Action, Drama, Fantasy, Sci-Fi",
+            "type": "anime",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2023",
+            "updated_at": "2026-04-12T09:16:23.000Z",
+            "ts": 1775086691
+        },
         {
             "id_mal": "51318",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1800\/135847.jpg",
@@ -2902,21 +2917,6 @@
             "created_at": "2026-01-12",
             "updated_at": "2026-04-01T01:37:41.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "59517",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1015\/151233l.jpg",
-            "titulo": "Chitose-kun wa Ramune Bin no Naka",
-            "titulo_original": "千歳くんはラムネ瓶のなか",
-            "year": "2025",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "7.3",
-            "status": "Currently Airing",
-            "created_at": "2025-10-07",
-            "updated_at": "2026-04-01T01:36:46.000Z",
-            "episodes": 13
         }
     ]
 }
