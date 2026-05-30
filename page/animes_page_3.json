@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 624,
+    "total_items": 625,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61942",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1592\/154049l.jpg",
+            "titulo": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+            "titulo_original": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+            "year": "2026",
+            "etiquetas": "Action",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Currently Airing",
+            "created_at": "2026-01-05",
+            "updated_at": "2026-04-01T01:38:48.000Z",
+            "episodes": 13
+        },
         {
             "id_mal": "55772",
             "slug": "",
@@ -3035,21 +3050,6 @@
             "status": "Finished Airing",
             "created_at": "2025-10-03",
             "updated_at": "2026-03-16T06:14:43.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61773",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1148\/150376l.jpg",
-            "titulo": "Let's Play: Quest-darake no My Life",
-            "titulo_original": "Let's Play クエストだらけのマイライフ",
-            "year": "2025",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2025-10-02",
-            "updated_at": "2026-03-16T06:14:39.000Z",
             "episodes": 12
         }
     ]
