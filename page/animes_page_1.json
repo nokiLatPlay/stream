@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 625,
+    "total_items": 626,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "38555",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx104647-dMGZSavRxHcM.jpg",
+            "titulo": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…",
+            "titulo_original": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+            "etiquetas": "Comedy, Fantasy, Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2020-04-05",
+            "updated_at": "2026-05-30T11:31:48.000Z",
+            "year": 2020,
+            "score": "7.3",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "62146",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
@@ -2869,21 +2883,6 @@
             "created_at": "2020",
             "updated_at": "2026-04-12T09:16:31.000Z",
             "ts": 1775086541
-        },
-        {
-            "id_mal": "31845",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/7\/80262.jpg",
-            "titulo": "Masou Gakuen HxH",
-            "titulo_original": "魔装学園H×H",
-            "year": "2016",
-            "etiquetas": "Action, Comedy, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "score": "6.1",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2016",
-            "updated_at": "2026-04-12T09:16:30.000Z",
-            "ts": 1775086577
         }
     ]
 }
