@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 623,
+    "total_items": 624,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "32105",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21499-JCxvIXc27mVT.jpg",
+            "titulo": "Sousei no Onmyouji",
+            "titulo_original": "双星の陰陽師",
+            "etiquetas": "Action, Adventure, Comedy, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2016-04-06",
+            "updated_at": "2026-05-30T10:14:59.000Z",
+            "year": 2016,
+            "score": "6.9",
+            "status": "FINISHED",
+            "episodes": 50
+        },
         {
             "id_mal": "2800",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx2800-YbzQOTWszvst.png",
@@ -2871,21 +2885,6 @@
             "created_at": "2024",
             "updated_at": "2026-04-12T09:16:28.000Z",
             "ts": 1775086609
-        },
-        {
-            "id_mal": "57891",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1714\/145320.jpg",
-            "titulo": "Hitoribocchi no Isekai Kouryaku",
-            "titulo_original": "ひとりぼっちの異世界攻略",
-            "year": "2024",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2024",
-            "updated_at": "2026-04-12T09:16:27.000Z",
-            "ts": 1775086644
         }
     ]
 }
