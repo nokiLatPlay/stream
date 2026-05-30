@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Isekai Nonbiri Nouka.",
     "score": "7.5",
-    "episodes": 6,
+    "episodes": 7,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-14T06:49:55.000Z",
+    "updated_at": "2026-05-30T03:04:10.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -107,6 +107,20 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/8bb4a73d15b3d33d60bac940d2e3fece"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Expedición a las aguas termales",
+                    "portada": "https://image.tmdb.org/t/p/w300/b93GYzMOOuniLS2ElIyS220lXyj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9fd4b986f13501783ed691c5537c3ac4",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
