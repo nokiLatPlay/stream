@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 618,
+    "total_items": 619,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44524",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1490\/126919.jpg",
+            "titulo": "Isekai Meikyuu de Harem wo",
+            "titulo_original": "異世界迷宮でハーレムを",
+            "year": "2022",
+            "etiquetas": "Action, Adventure, Fantasy, Erotica",
+            "type": "anime",
+            "score": "6.5",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2022",
+            "updated_at": "2026-04-12T09:16:18.000Z",
+            "ts": 1775086826
+        },
         {
             "id_mal": "51711",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1049\/131580.jpg",
@@ -2902,22 +2917,6 @@
             "created_at": "2026-01-07",
             "updated_at": "2026-04-01T01:18:39.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "48548",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1037\/122516.jpg",
-            "titulo": "5-toubun no Hanayome Movie",
-            "titulo_original": "映画 五等分の花嫁",
-            "year": "2022",
-            "etiquetas": "Comedy, Romance",
-            "type": "movie",
-            "score": "7.8",
-            "status": "Finished Airing",
-            "created_at": "2022-05-20",
-            "updated_at": "2026-03-28T09:56:09.000Z",
-            "episodes": 1,
-            "calidad": "HD"
         }
     ]
 }
