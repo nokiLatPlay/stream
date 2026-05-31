@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 628,
+    "total_items": 629,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60371",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1140\/154457l.jpg",
+            "titulo": "Seihantai na Kimi to Boku",
+            "titulo_original": "正反対な君と僕",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "score": "8.2",
+            "status": "Currently Airing",
+            "created_at": "2026-01-11",
+            "updated_at": "2026-04-01T01:41:19.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "58788",
             "slug": "",
@@ -3036,21 +3051,6 @@
             "created_at": "2018-04-07",
             "updated_at": "2026-03-16T23:35:41.000Z",
             "episodes": 25
-        },
-        {
-            "id_mal": "11061",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1337\/99013l.jpg",
-            "titulo": "Hunter x Hunter (2011)",
-            "titulo_original": "HUNTER×HUNTER（ハンター×ハンター）",
-            "year": "2011",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "9.0",
-            "status": "Finished Airing",
-            "created_at": "2011-10-02",
-            "updated_at": "2026-03-16T20:27:40.000Z",
-            "episodes": 148
         }
     ]
 }
