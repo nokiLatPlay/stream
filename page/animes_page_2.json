@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 626,
+    "total_items": 627,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41345",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1903\/111646.jpg",
+            "titulo": "Noblesse",
+            "titulo_original": "NOBLESSE -ノブレス-",
+            "year": "2020",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 13,
+            "created_at": "2020",
+            "updated_at": "2026-04-12T09:16:31.000Z",
+            "ts": 1775086541
+        },
         {
             "id_mal": "31845",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/7\/80262.jpg",
@@ -2902,21 +2917,6 @@
             "created_at": "2026-01-04",
             "updated_at": "2026-04-01T01:40:48.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "61084",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1129\/151615l.jpg",
-            "titulo": "Hikuidori: Ushuu Boro Tobi-gumi",
-            "titulo_original": "火喰鳥 羽州ぼろ鳶組",
-            "year": "2026",
-            "etiquetas": "",
-            "type": "anime",
-            "score": "4.7",
-            "status": "Currently Airing",
-            "created_at": "2026-01-11",
-            "updated_at": "2026-04-01T01:40:18.000Z",
-            "episodes": 11
         }
     ]
 }
