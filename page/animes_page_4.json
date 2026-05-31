@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 628,
+    "total_items": 629,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11061",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1337\/99013l.jpg",
+            "titulo": "Hunter x Hunter (2011)",
+            "titulo_original": "HUNTER×HUNTER（ハンター×ハンター）",
+            "year": "2011",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "score": "9.0",
+            "status": "Finished Airing",
+            "created_at": "2011-10-02",
+            "updated_at": "2026-03-16T20:27:40.000Z",
+            "episodes": 148
+        },
         {
             "id_mal": "62144",
             "slug": "",
