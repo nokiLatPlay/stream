@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 629,
+    "total_items": 630,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "34572",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx97940-fyh8o7gNbha0.png",
+            "titulo": "Black Clover",
+            "titulo_original": "ブラッククローバー",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2017-10-03",
+            "updated_at": "2026-06-01T09:56:33.000Z",
+            "year": 2017,
+            "score": "7.9",
+            "status": "FINISHED",
+            "episodes": 171
+        },
         {
             "id_mal": "55997",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx167143-iY2ho0I0KnYF.jpg",
@@ -2865,21 +2879,6 @@
             "created_at": "2014",
             "updated_at": "2026-04-12T09:16:38.000Z",
             "ts": 1775086372
-        },
-        {
-            "id_mal": "48580",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1401\/118483.jpg",
-            "titulo": "Vanitas no Karte",
-            "titulo_original": "ヴァニタスの手記",
-            "year": "2021",
-            "etiquetas": "Action, Fantasy, Mystery",
-            "type": "anime",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 25,
-            "created_at": "2021",
-            "updated_at": "2026-04-12T09:16:36.000Z",
-            "ts": 1775086432
         }
     ]
 }
