@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "La estudiante universitaria Nao Kanzaki siempre ha hecho honor al significado de su nombre: \"tontamente honesta\". Sin embargo, tras abrir un paquete inesperado con cien millones de yenes, acepta sin querer una invitación al \"Juego del Mentiroso\". En este torneo, se anima a los participantes a traicionar y engañar a sus oponentes para ganar una enorme cantidad de dinero; por el contrario, perder les acarreará una deuda de por vida. Sin ninguna esperanza, su única opción es buscar la ayuda de un estafador. Ese mismo día, el infame timador Shinichi Akiyama sale finalmente de la cárcel. Este antiguo estudiante de psicología es conocido por haber llevado a la quiebra a una empresa entera, y Nao cree que es su única oportunidad de escapar de su terrible situación. Al principio, Shinichi duda en cometer otro delito, ignorando a Nao y su petición. Pero al ver su desesperación y persistencia, accede a ayudarla. En este mundo fraudulento, Nao y Shinichi tienen sus propios motivos. Sin embargo, pronto descubren la verdadera naturaleza no solo del juego, sino también de todos los involucrados. [Escrito por MAL Rewrite]",
     "score": "6.8",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-05-14T06:56:13.000Z",
+    "updated_at": "2026-06-01T18:46:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -112,6 +112,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/c8c769bca983b4b379342fbae1125e51"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "El resurgimiento de los perdedores",
+                    "portada": "https://image.tmdb.org/t/p/w300/8REUrMQb9evtasmVNTahmqFAOrr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9ba2aac194e1933a4866f5ae50102f42",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Juego de reducción de personal",
+                    "portada": "https://image.tmdb.org/t/p/w300/4H0uGhi3qMWabu8j2DtZUnGZEo9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/47b67b5fb2f994913f8c489ed2db50a6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Luz y oscuridad",
+                    "portada": "https://image.tmdb.org/t/p/w300/8FmaHYlPV3m44Vn1Eupx8f3o0HI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/654a5ebd7f525ea28b64501c3a64c657",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
