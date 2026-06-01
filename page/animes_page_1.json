@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 630,
+    "total_items": 631,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40496",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx112301-f88Fs2es4pSr.jpg",
+            "titulo": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "titulo_original": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
+            "etiquetas": "Action, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2020-07-04",
+            "updated_at": "2026-06-01T10:01:24.000Z",
+            "year": 2020,
+            "score": "7.2",
+            "status": "FINISHED",
+            "episodes": 13
+        },
         {
             "id_mal": "34572",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx97940-fyh8o7gNbha0.png",
@@ -2864,21 +2878,6 @@
             "created_at": "2015",
             "updated_at": "2026-04-12T09:16:41.000Z",
             "ts": 1775086283
-        },
-        {
-            "id_mal": "28025",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/6\/68259.jpg",
-            "titulo": "Tsukimonogatari",
-            "titulo_original": "憑物語",
-            "year": "2014",
-            "etiquetas": "Comedy, Mystery, Supernatural, Ecchi",
-            "type": "anime",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 4,
-            "created_at": "2014",
-            "updated_at": "2026-04-12T09:16:38.000Z",
-            "ts": 1775086372
         }
     ]
 }
