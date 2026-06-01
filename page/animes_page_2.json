@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 630,
+    "total_items": 631,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28025",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/6\/68259.jpg",
+            "titulo": "Tsukimonogatari",
+            "titulo_original": "憑物語",
+            "year": "2014",
+            "etiquetas": "Comedy, Mystery, Supernatural, Ecchi",
+            "type": "anime",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "episodes": 4,
+            "created_at": "2014",
+            "updated_at": "2026-04-12T09:16:38.000Z",
+            "ts": 1775086372
+        },
         {
             "id_mal": "48580",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1401\/118483.jpg",
@@ -2901,21 +2916,6 @@
             "status": "Currently Airing",
             "created_at": "2026-01-11",
             "updated_at": "2026-04-01T01:43:01.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60223",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1194\/153705l.jpg",
-            "titulo": "Kaya-chan wa Kowakunai",
-            "titulo_original": "カヤちゃんはコワくない",
-            "year": "2026",
-            "etiquetas": "Horror, Supernatural",
-            "type": "anime",
-            "score": "7.3",
-            "status": "Currently Airing",
-            "created_at": "2026-01-11",
-            "updated_at": "2026-04-01T01:42:31.000Z",
             "episodes": 12
         }
     ]
