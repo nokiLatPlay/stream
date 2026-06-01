@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Isekai Nonbiri Nouka.",
     "score": "7.5",
-    "episodes": 8,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-30T10:59:03.000Z",
+    "updated_at": "2026-06-01T18:39:02.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -133,6 +133,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5b9789b413c77c9a1e7397c102981854",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/3nN8bAJ0Uce8bPYDruJoNfHQ5oX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/77a171624d35436f3af703a77bf4fb8e",
                             "type": "mp4",
                             "language": "Sub"
                         }
