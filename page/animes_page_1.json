@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62146",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
+            "titulo": "Isekai Nonbiri Nouka 2",
+            "titulo_original": "異世界のんびり農家2",
+            "etiquetas": "Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-06-01T18:39:03.000Z",
+            "year": "2026",
+            "score": "7.5",
+            "status": "Currently Airing",
+            "episodes": 9
+        },
+        {
             "id_mal": "51553",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/FE7g7DyOHD2oRxRXV2WXI7UtNl.jpg",
             "titulo": "Tongari Boushi no Atelier",
@@ -101,20 +115,6 @@
             "score": "7.3",
             "status": "FINISHED",
             "episodes": 12
-        },
-        {
-            "id_mal": "62146",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg",
-            "titulo": "Isekai Nonbiri Nouka 2",
-            "titulo_original": "異世界のんびり農家2",
-            "etiquetas": "Fantasy, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-05-30T10:59:03.000Z",
-            "year": "2026",
-            "score": "7.5",
-            "status": "Currently Airing",
-            "episodes": 8
         },
         {
             "id_mal": "31580",
