@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
     "score": "7.2",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -30,7 +30,7 @@
         "FuRyu Pictures"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-05-15T05:14:42.000Z",
+    "updated_at": "2026-06-04T08:02:43.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -116,6 +116,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/96f11f4aea050d45e00dac0214a67454"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "La reina cruel y las negociaciones de la alianza",
+                    "portada": "https://image.tmdb.org/t/p/w300/frBk1yGr9FDDifz2FrQK8wMEaZo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f34f6423508cc1398327d6eab4a3b733",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "La princesa diabólica y el tonto",
+                    "portada": "https://image.tmdb.org/t/p/w300/xpRWBr37O235ZEG5Xdvf7lhEcx2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4aa88414cbacde2fa380f1a9b44e84b9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "La princesa cruel y la petición",
+                    "portada": "https://image.tmdb.org/t/p/w300/vJmEGT8yHJ0IIouPTxEoqV94YB2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/dac6d084571065c1ee8a4a3da689e9ec",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
