@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En sexto grado, los amigos de la infancia Yukiya Asagi y Miku Sakura crearon un juego cuyo objetivo era avergonzarse mutuamente diciéndose \"Te quiero\" por turnos. Cuatro años después, al entrar en el instituto, siguen compitiendo por ver quién gana primero. Sin embargo, a medida que florecen sentimientos tiernos en sus corazones, la simple frase adquiere un nuevo significado que trasciende las reglas del juego. Con el paso de los días, crece el deseo de ser algo más que amigos de la infancia, pero tanto Yukiya como Miku se resisten a dar el primer paso, indecisos sobre lo que les depara el futuro cuando el juego termine. [Escrito por MAL Rewrite]",
     "score": "7.3",
-    "episodes": 5,
+    "episodes": 8,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Popholic"
     ],
     "created_at": "2026-04-14",
-    "updated_at": "2026-05-15T05:27:28.000Z",
+    "updated_at": "2026-06-04T08:09:35.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -45,6 +45,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/e5579241e0b23e6f26870ad7adf53323"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/29d3112efa129e8191259de013ca1d72",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -59,6 +65,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/62281f11729971049e08fa7f5040b543"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/235eaad2a63294b8580df47d74b6b0e0",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -73,6 +85,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/bfd5d8cd34bd7ffe22d0b7302c9d2cbb"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fb9a39a3f88eaac13ebc3ede06b51675",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -101,6 +119,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/ab92625cb152c80b069a683c83144fda"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Mi amigo de la infancia quiere quedarse a dormir",
+                    "portada": "https://image.tmdb.org/t/p/w300/l1t4n44VNs2rhSaXCjs5M8h1u1w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e1ed9b5e1c96f02bd6ab0ddd41cba3e8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Mi amigo de la infancia quiere ganar",
+                    "portada": "https://image.tmdb.org/t/p/w300/69PEvgwOOmTLFZB12soqmaKEd6c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6217ae795d4d0465b4e339556221a2e0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Mi amigo de la infancia y el presidente del consejo estudiantil",
+                    "portada": "https://image.tmdb.org/t/p/w300/ipLaqpmaDGekHLYiwew7Ck7Ikmo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/48151958c17e60d61b2bb0d430e6478b",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
