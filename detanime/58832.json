@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En otoño de su primer año de secundaria, Arata Kouda conoce a Kujima, una extraña criatura que se parece un poco a un pájaro. Como Kujima tiene hambre, Arata lo lleva a casa... Pero debido a que su hermano mayor reprobó los exámenes de ingreso, Kujima se deja llevar por la situación y termina viviendo a costa de los Kouda. Dice que solo será hasta que pase el invierno y llegue el calor de la primavera, pero...\r\n\r\n(Fuente: Shogakukan, traducción)",
     "score": "6.3",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 ",
@@ -21,7 +21,7 @@
         "Alouette Studio"
     ],
     "created_at": "2026-04-09",
-    "updated_at": "2026-05-17T05:29:48.000Z",
+    "updated_at": "2026-06-06T15:54:28.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -107,6 +107,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/5f7f2684c9a01ea54423e8eaacdf313b"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Una manzana podrida estropea el barril",
+                    "portada": "https://image.tmdb.org/t/p/w300/jbJwHSDVVF63nnYr4NCCJKLbaF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c546ab47ca888d6a00d8d04c6d8e5630",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Un hombre que se ahoga se aferrará a una pajita",
+                    "portada": "https://image.tmdb.org/t/p/w300/eg0HTJPc4x3yxTJ4qdDBWuZhTE8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/05ce46f13a499e26b4dbff660344d3d2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "El dolor no es el océano, así que puedes beberlo todo",
+                    "portada": "https://image.tmdb.org/t/p/w300/yrp2KdHzZc0U719jDgiGdbJnsUb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0e1a1e11567f374b469fb0e68816879d",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
