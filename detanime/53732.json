@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "La historia sigue a Koichi Asakura, un diseñador de una agencia de publicidad que trabaja duro pero no recibe reconocimiento. Tras ser descartado de un proyecto, visita un lugar de su pasado, donde conoce a Eren Yamagishi. Eren, por su parte, es reconocida como una talentosa grafitera zurda en Nueva York, mientras afronta las dificultades propias de su camino en la vida. (Fuente: Crunchyroll)",
     "score": "6.5",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "25 min per ep",
     "rating": "",
@@ -21,7 +21,7 @@
         "GAGA"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-05-15T05:45:39.000Z",
+    "updated_at": "2026-06-06T12:03:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -107,6 +107,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/a12079e0eb0e3ba1f30ed13a95597062"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "No le des felicidad a esa persona",
+                    "portada": "https://image.tmdb.org/t/p/w300/yyFanQiwK8HxZUKMsdRV1h1iwvX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/da7135d2c965031852c2e27ca8d2df0b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "No te atrevas a tomar este trabajo a la ligera",
+                    "portada": "https://image.tmdb.org/t/p/w300/61S3CtHSaDSMxSAxVL5BaEMH9KM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1c8d03fb9971c0237287d9b854cab881",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Emitiré una luz y desapareceré",
+                    "portada": "https://image.tmdb.org/t/p/w300/9Dt3zEVZLAlGcy9K6qN7inUA2KW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c435e12e090ca8f5f1938566d125a93b",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
