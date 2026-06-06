@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Miyoshi Aimi and Nami Sometani are two high school girls who often find themselves talking about a boy in their class, Kirio. This lighthearted romantic comedy follows the daily lives of these two friends and rivals on a journey that, for now, seems to be heading everywhere but love.\r\n\r\n(Source: Comic Ruelle, translated)",
     "score": "6.2",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -25,7 +25,7 @@
         "Studio Sound Bee"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-05-20T22:36:46.000Z",
+    "updated_at": "2026-06-06T17:23:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -125,6 +125,48 @@
                             "type": "embed",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/09c28b722217abe3338d0aac6c6898a0"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Noche humeante, picante y candente",
+                    "portada": "https://image.tmdb.org/t/p/w300/x5Ad5lsn4J3FZpPxougQeVhqbtl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d87f364291d7fb3d9fdc38d97f910858",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "No puedo decirlo, no lo diré.",
+                    "portada": "https://image.tmdb.org/t/p/w300/2Kqe8tGCCZKxCw0oT5pvmsvMZZE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/35d8d3666c4c8bcfb2aaf2db3010a7fb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Escuché que Kirio dejó el equipo",
+                    "portada": "https://image.tmdb.org/t/p/w300/e1y3Qu9EVYjBbxAx76xB4GYkFxJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/088f84c4fd131e220188dbdaacaa6463",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
