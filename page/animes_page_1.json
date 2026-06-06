@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62604",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1956\/155456.jpg",
+            "titulo": "Otaku ni Yasashii Gal wa Inai!?",
+            "titulo_original": "オタクに優しいギャルはいない!?",
+            "etiquetas": "Comedy, Romance, Otaku Culture, School, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-08",
+            "updated_at": "2026-06-06T13:20:54.000Z",
+            "year": "2026",
+            "score": "7.5",
+            "status": "Currently Airing",
+            "episodes": 9
+        },
+        {
             "id_mal": "61316",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/2FvWqbgJDG2IWGgUxhROYQxE98p.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
@@ -1347,20 +1361,6 @@
             "score": "7.3",
             "status": "Currently Airing",
             "episodes": 7
-        },
-        {
-            "id_mal": "62604",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1956\/155456.jpg",
-            "titulo": "Otaku ni Yasashii Gal wa Inai!?",
-            "titulo_original": "オタクに優しいギャルはいない!?",
-            "etiquetas": "Comedy, Romance, Otaku Culture, School, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-08",
-            "updated_at": "2026-05-15T08:50:05.000Z",
-            "year": "2026",
-            "score": "7.5",
-            "status": "Currently Airing",
-            "episodes": 6
         },
         {
             "id_mal": "61067",
