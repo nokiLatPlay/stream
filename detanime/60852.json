@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\r\n\r\n(Source: LINE Digital Frontier, translated)",
     "score": "7.6",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -24,7 +24,7 @@
         "ADK Emotions"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-05-20T14:57:44.000Z",
+    "updated_at": "2026-06-06T17:19:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -166,6 +166,66 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/fd3b002b836a0ad0346f3182213a29c1"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "En igualdad de condiciones",
+                    "portada": "https://image.tmdb.org/t/p/w300/qmViLcAXGu4A93Gl5ksdPS37Sfh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1bb5e659f6f1ebc1eb8077b50916aeb3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5acc9feaac74e59ff894b43c1c6d5c0a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Autoconciencia",
+                    "portada": "https://image.tmdb.org/t/p/w300/y2MWjNqzDyEIHqmcXCJfE1SLZKC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/350f1e27eae2406e2b563aa28fe1966c",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8e4c8c1583e5c8831c200d4e8367d109",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Primavera",
+                    "portada": "https://image.tmdb.org/t/p/w300/qPjRp98ypN9nYrFarNZUuVWcWnL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c07d11526bac68be600d63fb6a10d710",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/335042eca6e8641f7c014cdecd81e9f2",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
