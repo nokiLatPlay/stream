@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "El protagonista de la historia, al que simplemente llamamos \"Yo\", experimenta un ciclo interminable de reencarnación. La narración transcurre en un universo alternativo donde las personas son libres de elegir su próxima forma. Sin embargo, la lista de espera para roles populares, como \"Rey Demonio\" o \"Héroe con Habilidades Especiales y un Harén\", ha alcanzado los 50 000 años debido a un reciente aumento en las solicitudes. El protagonista decide reencarnarse repetidamente en formas cada vez más extrañas porque se niega a esperar. Estos roles incluyen la costilla de un héroe a cargo de un harén, un cangrejo ermitaño, una verdura e incluso un explosivo utilizado para hacer estallar a parejas felizmente casadas. (Fuente: MAL News)",
     "score": "6.2",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "Takarajimasha"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-05-15T06:08:26.000Z",
+    "updated_at": "2026-06-06T12:21:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -107,6 +107,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/1ec4023ffe342a1262245a644aa4331d"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "La antorcha en la pared de una mazmorra / La funda de almohada en una posada donde se hospeda el héroe de una historia de mazmorra Isekai",
+                    "portada": "https://image.tmdb.org/t/p/w300/nLxPPUPaOso8cLexX1wyYAY0Jcu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a65264de0ad60cec0e76c634e777b2ce",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "El plato de curry del héroe",
+                    "portada": "https://image.tmdb.org/t/p/w300/2Ap8J5goP8aFWr4QlAggEuM6nCy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/363b35d95db3f6d6448d81d82d662f4f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "El casillero en el que se esconde el protagonista durante los juegos de terror y relacionados con el terror / Truck Driver",
+                    "portada": "https://image.tmdb.org/t/p/w300/hVPka59SoSYFT7jv30Q7tYjb8w3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9924346c45b215f8d37715f36eca6a3b",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
