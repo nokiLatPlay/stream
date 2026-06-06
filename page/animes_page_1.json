@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "57779",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1603\/155354.jpg",
+            "titulo": "Dorohedoro Season 2",
+            "titulo_original": "ドロヘドロ Season2",
+            "etiquetas": "Action, Comedy, Fantasy, Horror, Gore, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-01",
+            "updated_at": "2026-06-06T12:46:46.000Z",
+            "year": "2026",
+            "score": "8.3",
+            "status": "Currently Airing",
+            "episodes": 9
+        },
+        {
             "id_mal": "62485",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/k23I4me4E9pIgD1Y1i2w3Zn1BGx.jpg",
             "titulo": "Kanojo, Okarishimasu 5th Season",
@@ -1347,20 +1361,6 @@
             "score": "6.7",
             "status": "Currently Airing",
             "episodes": 7
-        },
-        {
-            "id_mal": "57779",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1603\/155354.jpg",
-            "titulo": "Dorohedoro Season 2",
-            "titulo_original": "ドロヘドロ Season2",
-            "etiquetas": "Action, Comedy, Fantasy, Horror, Gore, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-01",
-            "updated_at": "2026-05-15T06:41:30.000Z",
-            "year": "2026",
-            "score": "8.3",
-            "status": "Currently Airing",
-            "episodes": 9
         },
         {
             "id_mal": "61067",
