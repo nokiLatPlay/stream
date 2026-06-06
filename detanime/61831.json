@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
     "score": "5.8",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Slow Curve"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-05-15T18:47:50.000Z",
+    "updated_at": "2026-06-06T13:48:31.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -116,6 +116,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/6b2c5c298fb9dce03d2a6a2118d2ced9"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://hugh.cdn.rumble.cloud/video/fww1/06/s8/2/G/1/C/u/G1CuA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365343744-365357430",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -130,6 +136,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/51b9d7c6772f0dba3b85796ffca9f7d2"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8efe49587e43aaf80b592d58e376c2f0",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -144,6 +156,54 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/02a5080401a3ef4c898329420862ead8"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3d34db099dcb16fb7c427da0e775eeeb",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "El día del Rey en la Corte",
+                    "portada": "https://image.tmdb.org/t/p/w300/oMDl4kR8YB7Jk6xM9MAPdsE0EXj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d807c2d904b0509b0a33adbcd072ec94",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "La gratitud del rey",
+                    "portada": "https://image.tmdb.org/t/p/w300/qpJFVrsZtlWfyivts9NvZsWyhSa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/249ea2b287d72a96ed6c13e5a8580d40",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "El rey negocia",
+                    "portada": "https://image.tmdb.org/t/p/w300/z917N0chfTpo7HLDz3S2HQF73pk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d8904222a84292d1ee8d7caa840d3104",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
