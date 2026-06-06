@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Al comenzar su segundo año en la Escuela Secundaria de Formación Avanzada, Ayanokouji y sus compañeros se enfrentan a una serie de exámenes y a un grupo de alumnos de primer año bastante peculiares. Tendrán que conocerse rápidamente, ya que el primer examen especial empareja a los alumnos de primer y segundo año en una prueba escrita, ¡y solo los de segundo año se arriesgan a la expulsión si su equipo obtiene un mal resultado! ¿Y lo peor? Parece que uno de los nuevos alumnos de primer año también pertenece a la Sala Blanca. ¿Podrá Ayanokouji evitar la expulsión mientras descubre la identidad de este enemigo oculto? (Fuente: Crunchyroll)",
     "score": "8.2",
-    "episodes": 10,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "Lantis"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-05-15T06:18:04.000Z",
+    "updated_at": "2026-06-06T12:33:38.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -162,6 +162,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/58d1dd619e8fd5c07b74aff7ec7d5729"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Conexión",
+                    "portada": "https://image.tmdb.org/t/p/w300/yiARNbRGEyRZw1x3zSRNTvqsEIP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/752eb2c773b634d7a8be276ddac9728a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Después de la venganza",
+                    "portada": "https://image.tmdb.org/t/p/w300/pgqP2q5wpsWelYPTpFo1cUgfxQc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/14b8e6556205e1019653a06b2864d441",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Oscurecido por la lluvia",
+                    "portada": "https://image.tmdb.org/t/p/w300/to13ELuiblIykpL4GQbRdpS0FmX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f27d7f9c5d92d888a21bcbcfe33d506f",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
