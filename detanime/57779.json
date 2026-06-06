@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Dorohedoro.",
     "score": "8.3",
-    "episodes": 9,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "26 min per ep",
     "rating": "R - 17+ (violence & profanity)",
@@ -18,7 +18,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-01",
-    "updated_at": "2026-06-06T12:46:46.000Z",
+    "updated_at": "2026-06-06T12:49:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -146,6 +146,34 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/47fe5bb75bda028faabbbdf75d3af7f6"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "JERK AFORTUNADO / MAGIA AVANZADA",
+                    "portada": "https://image.tmdb.org/t/p/w300/21YUQl4hmEwedOWYcvDTrVPZAsw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d1a6b2ab954f456b1844206912dee74c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "BALADA DE LA FELIZ DESTRUCCIÓN / PREGUNTA Y RESPUESTA",
+                    "portada": "https://image.tmdb.org/t/p/w300/sGWM6AEf4URTjGdKCJMHsDbck64.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aa0e07de6856159d09d95b20280929b4",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
