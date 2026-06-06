@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "¿Así que esto es lo que significa tener compañeros de piso ahora? Rinko, una oficinista de 24 años, vive sola y es una otaku en secreto. Un día, su apartamento se conecta con las dos habitaciones contiguas a través de un \"agujero\" en la pared. En la habitación de la izquierda vive un chico de aspecto inocente pero misterioso, que es excesivamente amable con Rinko. La habitación de la derecha está ocupada por un chico con tendencias violentas, igualmente misterioso... ¡Pero espera! \"Creo que lo conozco\". El único refugio de Rinko, su apartamento, se ha puesto patas arriba. ¡Ahora, cada día está lleno de sorpresas que te dejarán sin aliento! (Fuente: MangaPlaza)",
     "score": "6.6",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "NTT Solmare"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-05-15T05:54:55.000Z",
+    "updated_at": "2026-06-06T12:12:48.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -106,6 +106,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/424322fe1f1e7175574ba5a1980927a6"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "¿Ocupado?",
+                    "portada": "https://image.tmdb.org/t/p/w300/tVulNZu4QIjBtRJEnfv8jvigrbg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c8f977d192e63d79c621f63ae580c891",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "¿Mao significa \"el resultado del adulterio de mamá\"?",
+                    "portada": "https://image.tmdb.org/t/p/w300/pWQEd69JDKVkJ8ZEtTJ9SmSfuZv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6be55d9dafc0fac6358c609cfc474c3e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "¡¿El secreto de Satsuki-san?!",
+                    "portada": "https://image.tmdb.org/t/p/w300/7T6JpAD80kqPJg1omQBfcAHEboN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/374aa3bc1d72dfe0d8428c68a446e91d",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
