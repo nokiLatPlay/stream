@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "María, hija de un duque, creció creyendo que algún día heredaría el ducado de su padre. Por ello, centró su atención en perfeccionar sus habilidades en artes marciales, dejando de lado la idea del matrimonio. ¡Pero la llegada de un hermanito a la familia significa que está perdiendo su derecho a heredera! Ahora que ha decidido que es hora de casarse, ¡llega un poco tarde! ¿Acaso quedan solteros disponibles? Al irse a estudiar al extranjero a un país vecino donde aún podría tener la oportunidad de casarse, se queda perpleja cuando el príncipe heredero declara públicamente que su compromiso con ella queda anulado. ¡Un momento... ¿qué compromiso?! ¡Al parecer, la ha confundido con otra chica! Pero una vez aclarado todo y al verla derrotar a un grupo de bandidos, resulta que este príncipe sí que tiene debilidad por las jóvenes luchadoras. (Fuente: Square Enix)",
     "score": "7.3",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -26,7 +26,7 @@
         "DMM.com"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-05-15T09:26:21.000Z",
+    "updated_at": "2026-06-06T13:24:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -126,6 +126,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/ded429b4e17ba0cdf7f949b8458c2b89"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "La cita secreta del que se escapó",
+                    "portada": "https://image.tmdb.org/t/p/w300/kktscNYMLRW17Y8HZ8Ou3MqwNvI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/80199934a1d71350bf400242148b754d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "El que se escapó hace de Cupido",
+                    "portada": "https://image.tmdb.org/t/p/w300/zlvCSYiR7ySJqeDlH5OmfUPjBz0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ac4026b54d9b033c316da650758918be",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "El que se escapó se prepara para un baile",
+                    "portada": "https://image.tmdb.org/t/p/w300/ua6USJBh9xZOP78q5ZDrbWfD2sm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/85c07ff8afc56f2d32b3486b51dcd6b8",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
