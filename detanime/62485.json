@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Fifth season of Kanojo, Okarishimasu.",
     "score": "6.1",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "DMM Music"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-05-15T06:34:58.000Z",
+    "updated_at": "2026-06-06T12:41:29.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -40,6 +40,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/65b01dd4633b581cd9cc74fda88ed7fe"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c24c54e67bddfcae021cc6c6a3d6e1ed",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -54,6 +60,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/180198b60f9d5622152ac7c8ad285257"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/598d85333c1f3dc38c7c113f025b37ff",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -68,6 +80,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/21ad1b4eef22200ccba191f483a59b00"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d26f095b9adfa23fff6c09d9ea9a70e2",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -82,6 +100,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/f99358fa2388deb83425a62e298013a4"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fab90a27b42035723438bb5771f59af8",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -96,6 +120,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/765d7cfc2171d991ce569e5d43cc7f80"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/60cb1e07ab65eec30282e4000802763f",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -110,6 +140,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/ee9c691d00fb3c5bbdb577bc478247a8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "San Valentín y novia",
+                    "portada": "https://image.tmdb.org/t/p/w300/utNXnPaapS1f7uQjZ7YUG301NTp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1132cbb7d28e1778360ab566fc4058a8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Investigación y novia",
+                    "portada": "https://image.tmdb.org/t/p/w300/aurpFIBHfUhZVRWdRTd1jGCYLUQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8a885335a4b55db0c07c711d5c0259f5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "sujetador y novia",
+                    "portada": "https://image.tmdb.org/t/p/w300/feMpRawQ31r9EkImghYIZO4ANsC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/91f97020901b94ceb92dc08d5fd2e64b",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
