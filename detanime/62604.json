@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Les presentamos a Takuya Seo, un otaku que se sienta detrás de las chicas populares de la clase, Ijichi y Amane. Dado que pertenecen a diferentes \"clases\", uno no esperaría que tuvieran mucho en común. Pero cuando sus mundos chocan por una goma de borrar prestada, Takuya se le escapa su anime favorito, y Amane... no tarda en corregirlo. Dice que no es fan, pero su conocimiento de la serie sugiere lo contrario. ¿Podría ser... otra friki? (Fuente: Yen Press)",
     "score": "7.5",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-05-15T08:50:05.000Z",
+    "updated_at": "2026-06-06T13:20:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -110,6 +110,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/384cbe08cfdf7c2897745ad855e5d37a"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Eres un verdadero artista del ligue, Otaku-kun",
+                    "portada": "https://image.tmdb.org/t/p/w300/dwYrKxGP2acVvRZaWnCCvEkglKK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a74b7c8e293d77791e90ea800ff0911f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "¿Una fiesta de pijamas?",
+                    "portada": "https://image.tmdb.org/t/p/w300/7xI0JXzk5fsNsDdK0bX9ZG2hxEu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0915213ecef8c76210f12cb818431954",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "¡Esta fue tu idea, Kotoko Ijichi!",
+                    "portada": "https://image.tmdb.org/t/p/w300/hmDlWLGlAG7WeMNNP4Wcwh6Wd9Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f8ada8703f1f7e67ce477dd435beda88",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
