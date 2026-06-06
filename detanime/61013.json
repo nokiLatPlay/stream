@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Los días en que Sunao está enferma o no tiene ganas de ir a la escuela, la llaman para que la reemplace. Nació cuando Sunao deseó tener una sustituta. Nadie sabe de su existencia, pero ella se esfuerza al máximo por Sunao cada vez que la llaman. Un día, conversa con Sanada, uno de sus compañeros de clase. Se hacen amigos, pero pronto él nota que ella es diferente de la Sunao original... fue el primero en darse cuenta. Ella le pide que solo hable con ella cuando tenga el cabello semirecogido. Sanada obedece y disfrutan de su tiempo juntos. A medida que se acercan, ella se da cuenta de que siente algo especial por Sanada. Pero no sabe qué le sucederá... si ella, una réplica, se enamora. (Fuente: Kadokawa)",
     "score": "6.9",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "24 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-05-15T05:19:30.000Z",
+    "updated_at": "2026-06-06T11:39:30.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -28,7 +28,7 @@
                 {
                     "episode_id": "1",
                     "numero": 1,
-                    "nombre": "Episodio 1",
+                    "nombre": "Una réplica nunca sueña",
                     "portada": "https://cdn.animeav1.com/screenshots/3956/1.jpg",
                     "enlaces": [
                         {
@@ -42,7 +42,7 @@
                 {
                     "episode_id": "2",
                     "numero": 2,
-                    "nombre": "Episodio 2",
+                    "nombre": "Una réplica falta a la escuela",
                     "portada": "https://cdn.animeav1.com/screenshots/3956/2.jpg",
                     "enlaces": [
                         {
@@ -56,7 +56,7 @@
                 {
                     "episode_id": "3",
                     "numero": 3,
-                    "nombre": "Episodio 3",
+                    "nombre": "Una réplica está confundida",
                     "portada": "https://cdn.animeav1.com/screenshots/3956/3.jpg",
                     "enlaces": [
                         {
@@ -106,6 +106,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/9f541ac6b347c8c3dc79ce9413d88f11"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Una réplica de búsquedas",
+                    "portada": "https://image.tmdb.org/t/p/w300/sHibP5NLFQkRFcB5ovsx4TSDBCB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6a525ddbaba80b3588d49e07fd1baeb0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Una réplica está en mal estado",
+                    "portada": "https://image.tmdb.org/t/p/w300/saEQmFSIghLx8GgQsGW8VQlOuZL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fc45712215b63f03a1a8721d61d30f5e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Una réplica está desprovista",
+                    "portada": "https://image.tmdb.org/t/p/w300/gdggDcvd0rmWsxLHLkGVAAeBmdC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7fc0d3587a11b3e910ae50e2f5d1315e",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
