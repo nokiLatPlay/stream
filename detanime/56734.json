@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yo, Maehara Maki, tuve dificultades para conectar con alguien durante mis años de instituto y me costaba mucho hacer amigos. Entonces, llegó un punto de inflexión. Una chica llamada Asanagi entró en mi vida. A pesar de que los chicos la llamaban en secreto \"la segunda chica más guapa de la clase\", ella prefería pasar los viernes conmigo en lugar de con su mejor amiga Amami, quien ostentaba el título de \"la más guapa de la clase\". En la comodidad de mi casa, nos sumergíamos en el mundo de los videojuegos, veíamos películas, leíamos manga, nos dábamos un atracón de comida basura —pizza, hamburguesas— y bebíamos refrescos, despreocupadas y felices. Para el mundo exterior, quizás parecíamos un poco desordenadas, pero para Asanagi y para mí, era un tiempo preciado y secreto juntas. (Fuente: MAL News)",
     "score": "7.6",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "",
-    "updated_at": "2026-05-15T05:34:49.000Z",
+    "updated_at": "2026-06-06T11:45:40.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -112,6 +112,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/e6707b1a39265479a0b81d05ad865401"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Primera cita con un amigo",
+                    "portada": "https://image.tmdb.org/t/p/w300/nV4vtFR22FVLDNoMlsg5aja6nrC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/26341feaf20a2d9dd113b2901bfb60f9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Lugares de interés familiares",
+                    "portada": "https://image.tmdb.org/t/p/w300/r0yvmx1INZaKWFgeFLT1SBEoFw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f3602a2e8781650812424d5a10763e6f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Vistas familiares: segunda parte",
+                    "portada": "https://image.tmdb.org/t/p/w300/a6wP0WcS6lWj9aOUbHUFLbKOws1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5a5d17d518174a3ad8958ee5abcf7d31",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
