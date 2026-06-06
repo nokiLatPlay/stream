@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The third season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
     "score": "6.7",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-01",
-    "updated_at": "2026-05-15T06:49:32.000Z",
+    "updated_at": "2026-06-06T12:55:46.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -115,6 +115,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/c80610426351941af14a7196c99a211f"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0d3ffa95e40de28453a97264bfbb7254",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -129,6 +135,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/a02e1ca4c04ce85cc1702bb166aea6c6"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6fbd71e46bc4c9629b62f7c512c85875",
+                            "type": "mp4",
+                            "language": "Latino"
                         }
                     ]
                 },
@@ -143,6 +155,54 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/960b782d72653deb500490b7ef8e8957"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f621c8c4397ce45f821b7edf46c5c5b5",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Como aprendiz",
+                    "portada": "https://image.tmdb.org/t/p/w300/24vUEoJmlojimiZ655il9XuZ4Ur.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c73c9fa9abd4df57f8d5b15a17b4e1b8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "El pulgar general",
+                    "portada": "https://image.tmdb.org/t/p/w300/659UbwHdVRHd5CBw1QuUtY5RCpf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9853948a5f0dcba0ba71ced188895616",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Soy un campo sin igual",
+                    "portada": "https://image.tmdb.org/t/p/w300/44DuDcgFjIDxqLGGPttWVJs1v2X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/be6159c2257604a35810ee4816511f2a",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
