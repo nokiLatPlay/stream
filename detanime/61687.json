@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "For a natural genius like Crown Prince Cecil Glow Alfostar, every day is a bore. Knowledge and skills come far too easily for him, to the point that nothing can captivate his interest. However, this changes the day he meets someone who never fails to betray his expectations—his fiancée and self-proclaimed villainess Bertia Evil Nochesse.  Bertia claims that this world is that of an \"otome game.\" She has been reborn as the villainess, and it is her duty to impede the relationship between Cecil and the heroine. Never one to shy away from fate, she zealously takes to her evil role... to mixed results. Though she doesn't realize it, Bertia's supposedly \"evil deeds\" always come off as sincere and kind. Finally relieved of his melancholy, there is never a boring day for Cecil as he observes his unknowingly good-hearted fiancée.  [Written by MAL Rewrite]",
     "score": "7.2",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "AlphaPolis"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-21T02:40:44.000Z",
+    "updated_at": "2026-06-07T17:08:38.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -120,6 +120,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/6d49ea19b64f525ec769036be0dee6c8"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Un registro de observación de una villana autoproclamada y que se quedó sin palabras.",
+                    "portada": "https://image.tmdb.org/t/p/w300/yJWoUH6FjrSBpN1j2iikZIcZIaZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/faada2302c7dbbd13ec2ea4323fe3913",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Un registro de observación de una autoproclamada villana y una muñeca.",
+                    "portada": "https://image.tmdb.org/t/p/w300/s8WWdU32lRNPkVnnWGTZUMxl7mi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/975037c206a84dcbbb58f75898ddcbae",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Un registro de observación de una villana autoproclamada y Cecil Glo Alphasta.",
+                    "portada": "https://image.tmdb.org/t/p/w300/ux2M73fnYKk4DmqXgZudgaotnwn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ed94d6bb6bb03604ed94b16e4c67c967",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
