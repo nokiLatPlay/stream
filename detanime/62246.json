@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Following the incident in Bi You Village, Zhang Chulan continues his investigation into Feng Baobao's origins, leading him to visit Lu Jin. From Lu Jin, Zhang Chulan obtains the list of the Thirty-Six Thieves and unexpectedly learns the reason for Jin Feng's abduction. To prevent Wu Gengsheng's collection from falling into the hands of thieves, the group begins their journey deeper into the Qinling Mountains.\r\n\r\n(Source: Tencent, translated)",
     "score": "6.9",
-    "episodes": 20,
+    "episodes": 23,
     "status": "Currently Airing",
     "duration": "22 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -22,7 +22,7 @@
         "China Literature Limited"
     ],
     "created_at": "2026-01-02",
-    "updated_at": "2026-05-20T23:26:22.000Z",
+    "updated_at": "2026-06-07T17:05:22.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -304,6 +304,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/d262c5f36477d6a4febf8d70fc047a50"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "numero": 21,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/zcqOzD4zv1ZEemJvvbUmTW2gg3M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c9d7341afe4f3abd8d67ae652e65396c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "numero": 22,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/zlCeBdMIg5UuAMgVKRkrMpAq5bV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e42c7878abfaa2555c4dbc997c546053",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "numero": 23,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/vPQrfX1fkR37SSNabNSP9CCk4VA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fdd0ed59a0009d7c4f06c150bc1143f3",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
