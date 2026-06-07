@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Nobody wants \"Grubby Forager\" Rudd on their adventuring team. His nickname—and his stench—come from his constant treks into the Noxious Labyrinth to gather medicinal herbs, a job he survives only thanks to his status immunity skill. When he's finally recruited as a party porter, things seem to be looking up... Until a deadly dungeon monster appears and his fake allies use him as bait before abandoning him! Wounded, destitute, and barely surviving the attack, Rudd breaks a forbidden taboo to stay alive: eating monsters. But the more he devours, the more power he gains, kicking off a thrilling, adventurous gourmet fantasy!\r\n\r\n(Source: Square Enix)",
     "score": "4.3",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "13 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "DAX Production"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-05-20T22:55:10.000Z",
+    "updated_at": "2026-06-07T16:52:06.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -121,6 +121,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/fab5b4dabc28f8192bd4104ed36826d3"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Maná y partículas de maná",
+                    "portada": "https://image.tmdb.org/t/p/w300/AbZimqTJJssGgepYCo27S3Sk92Q.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b59b8b69c67f2461b9c9ae07f706fb7c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "G'hram, la espada maldita",
+                    "portada": "https://image.tmdb.org/t/p/w300/dwRM7QaA93CrJW3S5ikLG0RXzbB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/405e156d218e14b22840c7ea264fa321",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Londres",
+                    "portada": "https://image.tmdb.org/t/p/w300/5Kwzniej3pVkoXZKdU3tvBTBMbW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/93211f390a97dfc3902bc20a7af97b70",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
