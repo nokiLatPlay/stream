@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En la Escuela de Ópera de Awajima, chicas de todo Japón se esfuerzan por ganarse un lugar en el escenario. Wakana se guía por su pasión por el teatro musical, mientras que Kinue estudia con disciplina y serenidad. Emi, estudiante becada, atrae la atención de todos, pero sobre todo de Keiko, quien lidia con la admiración y las comparaciones. A través de perspectivas cambiantes, sus días entrelazados exploran la ambición, la amistad y el autodescubrimiento.",
     "score": "6.9",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-10",
-    "updated_at": "2026-05-20T22:15:32.000Z",
+    "updated_at": "2026-06-07T16:22:49.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -106,6 +106,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/65b9d90429f4266c4125d701d0320433"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Saori Yamagata y Mikako Takeuchi / Mikako Takeuchi y Saori Yamagata",
+                    "portada": "https://image.tmdb.org/t/p/w300/3yXkvWQ3Fg8Xf6jh5IMJPqmoJg6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/95026dc0d7c1b779621b9d373dfc434d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Sara Takanashi / Eri Fujisawa / Shizuka Utagawa",
+                    "portada": "https://image.tmdb.org/t/p/w300/A5VkSNEZXw431J0LBTllXH4okQB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f9ece1a67b788db039bb8d5841773022",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Festival Cultural Awajima / Akiho Kashiwabara y Wakana Tabata",
+                    "portada": "https://image.tmdb.org/t/p/w300/vuHNh6ryHCnLlCQMDxk5E6OQ7AZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ec47840f4001cf14bc5e21dca0314599",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
