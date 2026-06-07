@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "58820",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
+            "titulo": "Awajima Hyakkei",
+            "titulo_original": "淡島百景",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-06-07T16:22:50.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 9
+        },
+        {
             "id_mal": "59835",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1066\/155831.jpg",
             "titulo": "Kirio Fanclub",
@@ -1305,20 +1319,6 @@
             "score": "6.6",
             "status": "Currently Airing",
             "episodes": 7
-        },
-        {
-            "id_mal": "58820",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
-            "titulo": "Awajima Hyakkei",
-            "titulo_original": "淡島百景",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "created_at": "2026-04-10",
-            "updated_at": "2026-05-20T22:15:32.000Z",
-            "year": "2026",
-            "score": "6.9",
-            "status": "Currently Airing",
-            "episodes": 6
         },
         {
             "id_mal": "62964",
