@@ -20,7 +20,7 @@
         "Bandai Namco Filmworks"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-08T10:39:21.000Z",
+    "updated_at": "2026-06-08T10:44:15.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -80,7 +80,7 @@
                         {
                             "nombre": "Enlace 2",
                             "type": "mp4",
-                            "language": "Sub",
+                            "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/6b966de527c8b14cf3d89eff5c31d3dc"
                         }
                     ]
@@ -100,7 +100,7 @@
                         {
                             "nombre": "Enlace 2",
                             "type": "mp4",
-                            "language": "Sub",
+                            "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/864ce8373dcdb77a05734f4f9d897af3"
                         }
                     ]
@@ -116,6 +116,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/1fd8b144bf3f87d6527eb42ad7d3ef38"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/70287e9ce70ce4b26500df1b18537dbf"
                         }
                     ]
                 },
@@ -130,6 +136,12 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/c0eacebfcd38707fc8dd9cedda5a7815"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "type": "mp4",
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/8fd12fdcfcf8eec611bd6632f22cb210"
                         }
                     ]
                 },
@@ -141,9 +153,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/28b08bffb0925f974b702ee589661f78",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/28b08bffb0925f974b702ee589661f78"
                         }
                     ]
                 },
@@ -155,9 +167,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/21f631152b079a9f81cbce9bcf090f38",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/21f631152b079a9f81cbce9bcf090f38"
                         }
                     ]
                 },
@@ -169,9 +181,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/c7be76363a10d5dad6ee41397c75bd99",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/c7be76363a10d5dad6ee41397c75bd99"
                         }
                     ]
                 }
