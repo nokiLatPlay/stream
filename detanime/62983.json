@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\r\n\r\n(Source: Coolmic)",
     "score": "5.7",
-    "episodes": 5,
+    "episodes": 7,
     "status": "Currently Airing",
     "duration": "5 min per ep",
     "rating": "R+ - Mild Nudity",
@@ -21,7 +21,7 @@
         "Suiseisha"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-20T23:14:56.000Z",
+    "updated_at": "2026-06-09T13:37:39.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -101,7 +101,28 @@
                     "numero": 6,
                     "nombre": "El medidor del amor invisible",
                     "portada": "https://image.tmdb.org/t/p/w300/mUDxubo8tILVgtoEk4ZoQjIVaCV.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cecda9b25f37a9320571f72e920105ff",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/ck4xii6azWjKglul1rDs8qX20U6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b572610ad649a4c01879681ba30b531a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 }
             ]
         }
