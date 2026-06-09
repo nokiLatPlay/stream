@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
     "score": "8.0",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -26,7 +26,7 @@
         "TO Books"
     ],
     "created_at": "2026-04-04",
-    "updated_at": "2026-05-22T06:46:55.000Z",
+    "updated_at": "2026-06-09T13:43:06.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -112,6 +112,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/1804c05817c3f158a26939192b1f3872"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Monasterio de Hasse",
+                    "portada": "https://image.tmdb.org/t/p/w300/kxTgpZDrMAQawdEmKPQNDPxCnO5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ada178bee69ea8848a32e42d5a10b522",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "La tarea de Fernando",
+                    "portada": "https://image.tmdb.org/t/p/w300/pvH7hd0TB8k2WeBM73dIBqNNxaC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8c95dd41a401c937615c26371dc1ce0e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Día de Wilfried como Gran Obispo",
+                    "portada": "https://image.tmdb.org/t/p/w300/9MNQMou4lYpZXEDLjPAzh1kTi8M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5683a6f7878fa72bcae0972fd584259e",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
