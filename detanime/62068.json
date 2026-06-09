@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yukio was destroyed in battle and Tetsuo survived in an escape pod. After eight years in cold sleep, the escape pod finally lands back on Earth. But when Tetsuo emerges he finds a world in ruins, entirely frozen beneath a blanket of ice and snow—snowball Earth! What happened to humanity, how did the planet freeze over, and will Tetsuo be able to keep his last promise to Yukio?  (Source: VIZ Media)",
     "score": "6.6",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "dugout"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-05-21T03:07:29.000Z",
+    "updated_at": "2026-06-09T01:45:29.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -162,6 +162,66 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/d118e3a12cc1bae7f770b1c9bdbe5ef1"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "MISHIMA MALL ACTIVA",
+                    "portada": "https://image.tmdb.org/t/p/w300/Ard8ufnuk5CYKWb4RZsjmtcgTDk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/75f6d374eb0b94c8b3d5074471690169",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/063d6489bcb35aa0f55c6d5def1c46b9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "LA GRAN GUERRA DEL KAIJU",
+                    "portada": "https://image.tmdb.org/t/p/w300/7FpHdoaEGNaCnM6pb70hJQwPw4v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/034d996fc22eb5a9f5845beaca06e86c",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f0cee23dafb2b06bc78ffbff008b4455",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "HERIDAS QUE PUEDES ENFRENTAR",
+                    "portada": "https://image.tmdb.org/t/p/w300/sfPz9lKmjXqxIfavzbbo7limJ50.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/478e15d787b656b3f14973aa2d1a8ae0",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1c9bf3bd19c8ba5c797166c59b22afc0",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
