@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "This is a story about a 20-year-old first-year college student, Botan Kamiina, and her life in a dorm, where she meets her seniors and forms friendships through drinking sessions. The anime features many real-life alcoholic drinks - Japanese sake, whiskey, wine - and also describes music, movies, and other cultural elements that can be enjoyed with alcohol. Each drink and pastime is closely tied to the characters' personalities and emotions, creating a special atmosphere.",
     "score": "7.6",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Seibu Railway"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-05-22T02:53:29.000Z",
+    "updated_at": "2026-06-09T13:31:09.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -115,6 +115,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/57b239ad39974ed50efdb30781767ec0"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/aCdaKAGqUWJLysAolfpjrlSP4m1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/189ac845354632f0ff470744b8d92cc4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/sEQ6kB79CVAObnT1QhJqJEsW2yL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/633f8564ddf76c870914a78fa4278386",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/5NK8Ikn7XFemvzTdclgPaW6eqC9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f4171d099fbf1dc689e5808b75ced348",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
