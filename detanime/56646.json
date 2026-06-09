@@ -25,7 +25,7 @@
         "arma bianca"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-09T06:42:00.000Z",
+    "updated_at": "2026-06-09T13:27:27.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -105,7 +105,7 @@
                         {
                             "nombre": "Enlace 2",
                             "type": "mp4",
-                            "language": "Sub",
+                            "language": "Latino",
                             "url": "https://player.zilla-networks.com/m3u8/ea8fd9df01094c3c9970302214d6f2a1"
                         }
                     ]
@@ -198,15 +198,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/28f665d0c7f07eb391db37a3427884f2",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/28f665d0c7f07eb391db37a3427884f2"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/1bb7509ad4275f62906170dea19c84e0",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/1bb7509ad4275f62906170dea19c84e0"
                         }
                     ]
                 },
@@ -218,15 +218,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f218478f8fadc508643ba50939dd6b01",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/f218478f8fadc508643ba50939dd6b01"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/dc728cdb237d39c4567d4f4f4c48ccc3",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/dc728cdb237d39c4567d4f4f4c48ccc3"
                         }
                     ]
                 },
@@ -238,15 +238,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/1779459a66e8a313e99906db1d815e4f",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/1779459a66e8a313e99906db1d815e4f"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/5d28e89bd4197906c8f56a5ff6609339",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/5d28e89bd4197906c8f56a5ff6609339"
                         }
                     ]
                 }
