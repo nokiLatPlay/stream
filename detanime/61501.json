@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Kanan is a demon who descends upon the human world with one goal: to feast on the sweetest delicacy of all—young human souls. Disguised as a high schooler, she sets her sights on her first target, an unassuming boy named Youji Kyougi. But just as she prepares to claim her meal, things take a very unexpected turn.  Instead of devouring him, Kanan ends up forming a \"romantic contract\" with Youji. For someone who's lived for millennia without experiencing love, navigating high school romance proves more terrifying than any hunt. Between awkward dates, hand-holding mishaps, and feelings she can't quite name, the once-proud demon finds herself flustered at every turn.  A supernatural romcom about a lovestruck demon and the boy who was supposed to be her prey—sweet, chaotic, and full of firsts.  (Source: MAL News)",
     "score": "7.2",
-    "episodes": 7,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "Crunchyroll"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-05-23T01:36:29.000Z",
+    "updated_at": "2026-06-10T05:15:49.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -124,6 +124,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/8d99a11b7aadcbd80b25718d85325d75"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Kanan regresa con su familia",
+                    "portada": "https://image.tmdb.org/t/p/w300/yEo4y0QkFcEeYtOhAAk2xMN9YUQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/43368c2cdce1369ffc8fa4bc758a738b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "La prueba de derrota de Lilim",
+                    "portada": "https://image.tmdb.org/t/p/w300/kYOjhNuxpRZ121mWzJ6fmeqfWBy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9f051edad3af5580c31e3eec6dd9fb30",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Los malcriados recuerdos de Milch",
+                    "portada": "https://image.tmdb.org/t/p/w300/azEcdkaeFDeU42DY1vvHod4KgUd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/690a11da825516ee31ceaaf72652e527",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
