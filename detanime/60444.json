@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.\r\n<br><br>\r\n(Source: HIDIVE)",
     "score": "6.2",
-    "episodes": 6,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min. per ep.",
     "rating": "R+ - Mild Nudity",
@@ -22,7 +22,7 @@
         "Nikkatsu"
     ],
     "created_at": "2026-05-22",
-    "updated_at": "2026-05-22T23:59:17.000Z",
+    "updated_at": "2026-06-10T02:04:52.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -108,6 +108,48 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/587a6632ad655a0ee52acb4211c1c418"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Un campo de entrenamiento de fotografía débil y debilucho (1)",
+                    "portada": "https://image.tmdb.org/t/p/w300/5sSlZmm6EL6uHjQ7UeEFKF2cxIl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bdf82f43f86a3e6c467f0f747e7f9929",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Un campo de entrenamiento de fotografía débil y debilucho (2)",
+                    "portada": "https://image.tmdb.org/t/p/w300/kITe6BSdPmvegBjae8uBTKgP53x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/03d78e1a893fa1f6dab2b5c13d9bee26",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Un espectáculo de fuegos artificiales débiles y débiles",
+                    "portada": "https://image.tmdb.org/t/p/w300/jrvA3iSP6xnVemqJ01Tl9CbFk2w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/26cbc6caa7c0f3154fedb91a3c04975c",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
