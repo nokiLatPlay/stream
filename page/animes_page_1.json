@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62825",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uLwuthrFzc4pY1rK67LenxxKgdw.jpg",
+            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-06-09T22:15:26.000Z",
+            "year": "2026",
+            "score": "6.5",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "60310",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
             "titulo": "Mairimashita! Iruma-kun 4th Season",
@@ -1319,20 +1333,6 @@
             "score": "6.9",
             "status": "FINISHED",
             "episodes": 12
-        },
-        {
-            "id_mal": "62825",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uLwuthrFzc4pY1rK67LenxxKgdw.jpg",
-            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-05-22T07:02:14.000Z",
-            "year": "2026",
-            "score": "6.5",
-            "status": "Currently Airing",
-            "episodes": 8
         },
         {
             "id_mal": "60582",
