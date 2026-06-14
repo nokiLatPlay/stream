@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Isekai Nonbiri Nouka.",
     "score": "7.5",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-06",
-    "updated_at": "2026-06-01T18:39:02.000Z",
+    "updated_at": "2026-06-14T19:50:16.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -147,6 +147,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/77a171624d35436f3af703a77bf4fb8e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Festividades y agradecimiento de Fuushu",
+                    "portada": "https://image.tmdb.org/t/p/w300/bRiZGgUKpaZaFjaaIow9b7CoTNV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3f432909248d768faa934b474a8b6c0c",
                             "type": "mp4",
                             "language": "Sub"
                         }
