@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "¿Así que esto es lo que significa tener compañeros de piso ahora? Rinko, una oficinista de 24 años, vive sola y es una otaku en secreto. Un día, su apartamento se conecta con las dos habitaciones contiguas a través de un \"agujero\" en la pared. En la habitación de la izquierda vive un chico de aspecto inocente pero misterioso, que es excesivamente amable con Rinko. La habitación de la derecha está ocupada por un chico con tendencias violentas, igualmente misterioso... ¡Pero espera! \"Creo que lo conozco\". El único refugio de Rinko, su apartamento, se ha puesto patas arriba. ¡Ahora, cada día está lleno de sorpresas que te dejarán sin aliento! (Fuente: MangaPlaza)",
     "score": "6.6",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "NTT Solmare"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-06-06T12:12:48.000Z",
+    "updated_at": "2026-06-15T06:17:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -146,6 +146,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/374aa3bc1d72dfe0d8428c68a446e91d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "¡¿El patético plan del cachorro?!",
+                    "portada": "https://image.tmdb.org/t/p/w300/sCEl9IhHboVPIhPKqVZRfgufkM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c1215efe37160ceffdac2fc6347815e6",
                             "type": "mp4",
                             "language": "Sub"
                         }
