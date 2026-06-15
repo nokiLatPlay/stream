@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En sexto grado, los amigos de la infancia Yukiya Asagi y Miku Sakura crearon un juego cuyo objetivo era avergonzarse mutuamente diciéndose \"Te quiero\" por turnos. Cuatro años después, al entrar en el instituto, siguen compitiendo por ver quién gana primero. Sin embargo, a medida que florecen sentimientos tiernos en sus corazones, la simple frase adquiere un nuevo significado que trasciende las reglas del juego. Con el paso de los días, crece el deseo de ser algo más que amigos de la infancia, pero tanto Yukiya como Miku se resisten a dar el primer paso, indecisos sobre lo que les depara el futuro cuando el juego termine. [Escrito por MAL Rewrite]",
     "score": "7.3",
-    "episodes": 8,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Popholic"
     ],
     "created_at": "2026-04-14",
-    "updated_at": "2026-06-04T08:09:35.000Z",
+    "updated_at": "2026-06-15T05:38:10.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -159,6 +159,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/48151958c17e60d61b2bb0d430e6478b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "¿Mi amigo de la infancia se convierte en mi aprendiz?",
+                    "portada": "https://image.tmdb.org/t/p/w300/ty8Xc7SJue2cyjSAcoIjxIyVUyG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/21c1f199f4d57e7842e1eeb7019ceb45",
                             "type": "mp4",
                             "language": "Sub"
                         }
