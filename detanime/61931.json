@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
     "score": "7.2",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -30,7 +30,7 @@
         "FuRyu Pictures"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-06-04T08:02:43.000Z",
+    "updated_at": "2026-06-15T05:00:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -156,6 +156,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/dac6d084571065c1ee8a4a3da689e9ec",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "La princesa cruel y el segundo príncipe",
+                    "portada": "https://image.tmdb.org/t/p/w300/o749RSLnp8rv84m5bk7sLvMFxys.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e8fb5b67e521b03097c8007e69f4994e",
                             "type": "mp4",
                             "language": "Sub"
                         }
