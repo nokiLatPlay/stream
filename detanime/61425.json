@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Sakuradaimon se toma muy en serio su papel en el Comité de Moral Pública de la escuela. Todos los días, revisa diligentemente la apariencia de los estudiantes en la puerta, regañando con frecuencia a Kohinata, una chica rebelde de pelo brillante y falda corta. Aunque a ella le molestan sus constantes sermones, todo cambia cuando descubre que Sakuradaimon también es un poco desordenado. Una comedia romántica corta y desenfadada sobre un estricto miembro del comité, una compañera de clase atrevida y la caótica vida escolar que los une. (Fuente: MAL News)",
     "score": "7.5",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Saber Links"
     ],
     "created_at": "",
-    "updated_at": "2026-06-01T18:42:38.000Z",
+    "updated_at": "2026-06-15T04:54:43.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -161,6 +161,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/ad64507e5fa134f7af28947ca07ad403",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Los Klutze se preparan para el festival cultural",
+                    "portada": "https://image.tmdb.org/t/p/w300/m6t2ymCWJJNyurIYpMxXj9ZB8aB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b8295d354dac25e38eb533b3e7ac0552",
                             "type": "mp4",
                             "language": "Sub"
                         }
