@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Los días en que Sunao está enferma o no tiene ganas de ir a la escuela, la llaman para que la reemplace. Nació cuando Sunao deseó tener una sustituta. Nadie sabe de su existencia, pero ella se esfuerza al máximo por Sunao cada vez que la llaman. Un día, conversa con Sanada, uno de sus compañeros de clase. Se hacen amigos, pero pronto él nota que ella es diferente de la Sunao original... fue el primero en darse cuenta. Ella le pide que solo hable con ella cuando tenga el cabello semirecogido. Sanada obedece y disfrutan de su tiempo juntos. A medida que se acercan, ella se da cuenta de que siente algo especial por Sanada. Pero no sabe qué le sucederá... si ella, una réplica, se enamora. (Fuente: Kadokawa)",
     "score": "6.9",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "24 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-06-06T11:39:30.000Z",
+    "updated_at": "2026-06-15T05:03:19.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -146,6 +146,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7fc0d3587a11b3e910ae50e2f5d1315e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Una réplica tropieza",
+                    "portada": "https://image.tmdb.org/t/p/w300/l5kdnqsRqpEySDwSQR2L213eqTa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a0506d0c9a7507d14147a344e7f1d5a8",
                             "type": "mp4",
                             "language": "Sub"
                         }
