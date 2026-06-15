@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63469",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1813\/155431.jpg",
+            "titulo": "Hyakki Yakoushou",
+            "titulo_original": "百鬼夜行抄",
+            "etiquetas": "Horror, Mystery, Romance, Supernatural, Historical, Shoujo",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-06-15T04:58:17.000Z",
+            "year": "2026",
+            "score": "5.4",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
+        {
             "id_mal": "62331",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
             "titulo": "Liar Game",
@@ -659,20 +673,6 @@
             "updated_at": "2026-06-04T08:02:44.000Z",
             "year": "2026",
             "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": 9
-        },
-        {
-            "id_mal": "63469",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1813\/155431.jpg",
-            "titulo": "Hyakki Yakoushou",
-            "titulo_original": "百鬼夜行抄",
-            "etiquetas": "Horror, Mystery, Romance, Supernatural, Historical, Shoujo",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-06-04T07:59:24.000Z",
-            "year": "2026",
-            "score": "5.4",
             "status": "Currently Airing",
             "episodes": 9
         },
