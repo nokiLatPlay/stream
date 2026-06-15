@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Al comenzar su segundo año en la Escuela Secundaria de Formación Avanzada, Ayanokouji y sus compañeros se enfrentan a una serie de exámenes y a un grupo de alumnos de primer año bastante peculiares. Tendrán que conocerse rápidamente, ya que el primer examen especial empareja a los alumnos de primer y segundo año en una prueba escrita, ¡y solo los de segundo año se arriesgan a la expulsión si su equipo obtiene un mal resultado! ¿Y lo peor? Parece que uno de los nuevos alumnos de primer año también pertenece a la Sala Blanca. ¿Podrá Ayanokouji evitar la expulsión mientras descubre la identidad de este enemigo oculto? (Fuente: Crunchyroll)",
     "score": "8.2",
-    "episodes": 13,
+    "episodes": 14,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "Lantis"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-06-06T12:33:38.000Z",
+    "updated_at": "2026-06-15T06:24:16.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -202,6 +202,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/f27d7f9c5d92d888a21bcbcfe33d506f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "El extraordinario prodigio",
+                    "portada": "https://image.tmdb.org/t/p/w300/wOP8R0JwnsngyP55cyxoLPgLM83.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d46bbea0fa1742b0fb4ff32f64c9219c",
                             "type": "mp4",
                             "language": "Sub"
                         }
