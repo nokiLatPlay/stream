@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.  On an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.  Before the woman can capture him, Yuru is rescued by a man named Ryuu \"Dera\" Tadera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.  [Written by MAL Rewrite]",
     "score": "8.1",
-    "episodes": 7,
+    "episodes": 11,
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
@@ -24,7 +24,7 @@
         "Peerless Gerbera"
     ],
     "created_at": "2026-4-4",
-    "updated_at": "2026-05-24T05:36:27.000Z",
+    "updated_at": "2026-06-16T04:20:48.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -171,6 +171,68 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3dbe13ddfe25382d0e924f9c21daddb6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Sospecha y condena",
+                    "portada": "https://image.tmdb.org/t/p/w300/vWQaTQsbJfrHsMQZzUpvDyo66Bm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5c5c658fc75a151159ee13ad5c33941a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7a3349376c455612152683bd53938b77",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Abrazar y susurrar",
+                    "portada": "https://image.tmdb.org/t/p/w300/oLLlDcibphBGBOcTMGL6hQa7qAg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c8a530ef2989e31bb6bfe84452f5006d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Brazo largo y pierna larga",
+                    "portada": "https://image.tmdb.org/t/p/w300/6LHMU8T9RdWJFjq6tXtpwOXNrz8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c05f1aef947ab3aa850258da9c852cbb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Hermano mayor y hermano pequeño",
+                    "portada": "https://image.tmdb.org/t/p/w300/4BBmxA0DlCq6sxpvGEamCVAMQ0Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9d5dd5439f96128cfcdc7b4a6dd5814f",
                             "type": "mp4",
                             "language": "Sub"
                         }
