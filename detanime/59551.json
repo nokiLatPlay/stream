@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Okuto Nakamura is a timid and gloomy-looking student who cherishes only two things in this world: his pet octopus and his kind-hearted classmate, Aiki Hirose. Ever since the school entrance ceremony, Nakamura has admired his jovial classmate, albeit from a distance due to his poor social skills. After mustering up all the courage within him, he finally decides to talk to Hirose.  During this first attempt to make contact, an instinctive mistake turns the idea of friendship into a distant dream, as he creates a hilarious impression on his crush. At school, students are expected to cooperate on numerous activities together, meaning Nakamura gets to spend extra time with Hirose. Given these opportunities, can he successfully redeem himself and accomplish his goal of becoming good friends with Hirose?  [Written by MAL Rewrite]",
     "score": "7.8",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -23,7 +23,7 @@
         "Kinoshita Group Holdings"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-06T13:52:41.000Z",
+    "updated_at": "2026-06-16T02:47:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -243,6 +243,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7bfd85f9dfa38fba5900f5fea1d55a3e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "¡¡Tú y yo somos \"amigos\"!!",
+                    "portada": "https://image.tmdb.org/t/p/w300/l4BuPI1u5HJzdGXOhSb28bmXhds.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/064de09bbe9f4580ecb446ca3404eaa3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/87fd618ad9bee31ff08f9abdbed5effe",
                             "type": "mp4",
                             "language": "Sub"
                         }
