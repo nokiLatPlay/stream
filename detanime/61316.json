@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En la mortal batalla de la Ciudad de Priestella, Subaru y sus aliados apenas lograron la victoria, pero su triunfo tuvo un alto precio. Mediante la \"Autoridad de la Gula\", Rem fue puesta en animación suspendida, mientras que los recuerdos de Crusch e incluso el nombre de Julius fueron borrados. En su búsqueda de una forma de salvarlos, Subaru conoce al \"sabio\" Shaula, un ser omnisciente que, según se dice, posee todo tipo de conocimiento. Su próximo destino es la Atalaya de las Pléyades, hogar de un sabio, la torre más lejana en el vasto e inexplorado desierto conocido como las Dunas de Auguria, un lugar tan peligroso que ni siquiera el más poderoso \"Santo de la Espada\", Reinhard, pudo conquistarlo. La furia de la naturaleza, bestias mágicas desconocidas y peligros inimaginables le esperan. Junto a sus amigos, Subaru se embarca en un arriesgado viaje para recuperar lo perdido. (Fuente: Kadokawa)",
     "score": "8.7",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
@@ -25,7 +25,7 @@
         "DAXEL"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-06-06T13:17:26.000Z",
+    "updated_at": "2026-06-16T02:42:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -193,6 +193,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0986c67863c6e738b0cfa7b39c01e41a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "El asesinato es un hábito",
+                    "portada": "https://image.tmdb.org/t/p/w300/asHzDUIxXxoEju1KcGjHPjHgsPj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/429d2a133937390c09b329f283df091b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/174ba5d37c639818b11375e06b4734b5",
                             "type": "mp4",
                             "language": "Sub"
                         }
