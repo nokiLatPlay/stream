@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62852",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658.jpg",
+            "titulo": "Ghost Concert: Missing Songs",
+            "titulo_original": "ゴーストコンサート: missing Songs",
+            "etiquetas": "Action, Sci-Fi, Supernatural, Music",
+            "type": "anime",
+            "created_at": "2026-6-4",
+            "updated_at": "2026-06-16T06:38:49.000Z",
+            "year": "2026",
+            "score": "5.8",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "62171",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989.jpg",
             "titulo": "The Classroom Of a Black Cat And a Witch",
@@ -1149,20 +1163,6 @@
             "updated_at": "2026-05-26T19:42:19.000Z",
             "year": "2026",
             "score": "5.6",
-            "status": "Currently Airing",
-            "episodes": 7
-        },
-        {
-            "id_mal": "62852",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658.jpg",
-            "titulo": "Ghost Concert: Missing Songs",
-            "titulo_original": "",
-            "etiquetas": "Action, Sci-Fi, Supernatural, Music",
-            "type": "anime",
-            "created_at": "2026-6-4",
-            "updated_at": "2026-05-26T19:34:20.000Z",
-            "year": "2026",
-            "score": "5.8",
             "status": "Currently Airing",
             "episodes": 7
         },
