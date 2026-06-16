@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?  (Source: Yen Press)",
     "score": "7.4",
-    "episodes": 7,
+    "episodes": 11,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -26,7 +26,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-05-24T10:50:19.000Z",
+    "updated_at": "2026-06-16T04:23:50.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -137,6 +137,62 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/265907511d6171f9342d672ea4428823",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Conexión antigua con la montaña vecina",
+                    "portada": "https://image.tmdb.org/t/p/w300/sOcBu8fcb5ohCpmIM4dshq0tvUK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/38f6b2a9b4effed001656bd906374e52",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Invitados no invitados mientras caminan por la ciudad",
+                    "portada": "https://image.tmdb.org/t/p/w300/2KDlyQ8U2YBGimJ7soZafd9Nt22.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4aab6d3e6aef11daaa6c52c0b13ef966",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Entrenamiento no solicitado con un Dios furioso",
+                    "portada": "https://image.tmdb.org/t/p/w300/oIBn2tXBQXu8OjWHA4f0nr6kUwQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bc98b4f4705e844be328227dbdc76fc2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "El rencor de los espíritus malignos contamina el festival",
+                    "portada": "https://image.tmdb.org/t/p/w300/v8YMY7yHNtBItVMI8ByZpW5Y1AW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/42acf62aa38dc739e5294a975c5aec28",
                             "type": "mp4",
                             "language": "Sub"
                         }
