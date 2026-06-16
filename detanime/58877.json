@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Sequel to Diamond no Ace: Act II.",
     "score": "8.1",
-    "episodes": 7,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "DAX Production"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-05-25T09:01:23.000Z",
+    "updated_at": "2026-06-16T06:31:23.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -121,6 +121,62 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/3e44014a4af7f27316b0d34ffbb66044"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "La mentalidad del as",
+                    "portada": "https://image.tmdb.org/t/p/w300/oHNxNxntNnv1h3fSE8nJo8u47rv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aa4122201795b8fc33c6b860ccbe5bb0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Alto voltaje",
+                    "portada": "https://image.tmdb.org/t/p/w300/gZoGqxQrwuD9w4L2dKonHSpJp4C.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f54609064a585ace27e570141c773ab1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "mi pelea",
+                    "portada": "https://image.tmdb.org/t/p/w300/pCI7TKk4giUut8nZuSJJeKZLea5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/54d07d33cc7821528ff1ca7987f35e34",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Como socio",
+                    "portada": "https://image.tmdb.org/t/p/w300/1vl2WDfEejLkMrpFN2Gq6oJjjWB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/422afd30743e777b98736bc0cabfc958",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
