@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61501",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996.jpg",
+            "titulo": "Kanan-sama wa Akumade Choroi",
+            "titulo_original": "カナン様はあくまでチョロい",
+            "etiquetas": "Comedy, Romance, Supernatural, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-06-16T04:19:03.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "62164",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1162\/155669.jpg",
             "titulo": "Akane-banashi",
@@ -605,20 +619,6 @@
             "score": "8.9",
             "status": "Currently Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "61501",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996.jpg",
-            "titulo": "Kanan-sama wa Akumade Choroi",
-            "titulo_original": "カナン様はあくまでチョロい",
-            "etiquetas": "Comedy, Romance, Supernatural, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-06-10T05:16:02.000Z",
-            "year": "2026",
-            "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": 10
         },
         {
             "id_mal": "62825",
