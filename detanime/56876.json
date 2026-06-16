@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken.",
     "score": "8.1",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -22,7 +22,7 @@
         "Toho Music"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-08T10:35:43.000Z",
+    "updated_at": "2026-06-16T03:59:16.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -162,6 +162,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/9db6158218ea9d4ddedf1634e088fee8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Primer trabajo a tiempo parcial",
+                    "portada": "https://image.tmdb.org/t/p/w300/jVDVNWDUjlFGAMecl98QrQ2Svgf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b681c260887b413bd195c69e7c370e53",
                             "type": "mp4",
                             "language": "Sub"
                         }
