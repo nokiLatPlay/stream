@@ -22,7 +22,7 @@
         "Nichion"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-16T03:01:20.000Z",
+    "updated_at": "2026-06-16T03:09:05.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -42,7 +42,7 @@
                     ]
                 },
                 {
-                    "episode_id": "2",
+                    "episode_id": "02",
                     "numero": 2,
                     "nombre": "Días de ensueño",
                     "portada": "https://image.tmdb.org/t/p/w300/vkh2SrMIgPOsf6R0OyUNid3C9Wz.jpg",
@@ -133,9 +133,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/e5cbf129a53156020a92be2fa493bfab",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/e5cbf129a53156020a92be2fa493bfab"
                         }
                     ]
                 },
@@ -147,9 +147,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/6b5bd207ec7f3a7cecef3e7651c33cd3",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/6b5bd207ec7f3a7cecef3e7651c33cd3"
                         }
                     ]
                 },
@@ -161,9 +161,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/adf62e25573edb1bae0029d1e459ffe1",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/adf62e25573edb1bae0029d1e459ffe1"
                         }
                     ]
                 },
@@ -175,9 +175,9 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/31798aa46dfbf5153906f5fa78011844",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/31798aa46dfbf5153906f5fa78011844"
                         }
                     ]
                 }
