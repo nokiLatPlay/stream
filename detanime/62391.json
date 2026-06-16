@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!  Before he can even process what happened, his boss delivers a new order: \"In that body, infiltrate a middle school.\" What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?  (Source: Official site)",
     "score": "7.4",
-    "episodes": 9,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "DMM pictures"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-10T02:08:43.000Z",
+    "updated_at": "2026-06-16T04:16:18.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -146,6 +146,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/1625ec018ae4b813d94ab57ee56b22fa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "MUERTE O BESO",
+                    "portada": "https://image.tmdb.org/t/p/w300/9AvP94SyBJD8tUPGaK2lRrRZbq0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/92c9c59e44b6db916588c26031c29bdd",
                             "type": "mp4",
                             "language": "Sub"
                         }
