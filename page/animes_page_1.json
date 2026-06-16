@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62601",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
+            "titulo": "Marriagetoxin",
+            "titulo_original": "マリッジトキシン",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-06-16T12:39:32.000Z",
+            "year": "2026",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "61839",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1879\/155958.jpg",
             "titulo": "I Want To End This Love Game",
@@ -825,20 +839,6 @@
             "type": "anime",
             "created_at": "",
             "updated_at": "2026-06-15T06:13:55.000Z",
-            "year": "2026",
-            "score": "7.6",
-            "status": "Currently Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "62601",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
-            "titulo": "Marriagetoxin",
-            "titulo_original": "マリッジトキシン",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-06-15T05:35:31.000Z",
             "year": "2026",
             "score": "7.6",
             "status": "Currently Airing",
