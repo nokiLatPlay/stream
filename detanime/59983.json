@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
     "score": "8.0",
-    "episodes": 6,
+    "episodes": 10,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -16,7 +16,7 @@
     "studios": [],
     "producers": [],
     "created_at": "2026-04-12",
-    "updated_at": "2026-05-25T09:06:11.000Z",
+    "updated_at": "2026-06-16T06:33:19.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -106,6 +106,68 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/29b33c0bc0e128520da76f1d1198cc44",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Dijo que ya no bajaría la cabeza",
+                    "portada": "https://image.tmdb.org/t/p/w300/7eLtJWYOstQcZOXKWySGRTlhSl4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3988ce1b392fc4026b1767d4c97cf2e9",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e67a472140d59ec4a04921795b1ddd38",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Enseñanzas de la bruja",
+                    "portada": "https://image.tmdb.org/t/p/w300/k7pERtJLcU3ifLx8y7dOYYht97Q.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d4fe046f7c5d57620440637b51184df6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "La página que hay que pasar",
+                    "portada": "https://image.tmdb.org/t/p/w300/lAniGriJtY09MTnKtZyn4m7Eq3n.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e3b722ddd112c97e5955ec690bbe51be",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Esperando, floreciendo, tronando",
+                    "portada": "https://image.tmdb.org/t/p/w300/8WdgT0FAh933MtMvXGpM8ZAMmra.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13bf3ead8281f664282f51e425440b63",
                             "type": "mp4",
                             "language": "Sub"
                         }
