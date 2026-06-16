@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Winter was once the only season in the world-but such an existence was too lonely to bear, and so it created Spring to love. Before long, the earth wished for more time to rest in the cycle, and Summer and Autumn were born. The ones who carry the cycle are called the Agents of the Four Seasons. Hinagiku, the Agent of Spring, disappeared from this land ten years ago, taking the season of spring with her. Now, after incredible hardship, she has returned to restore the cycle to its proper state-and, as in the myth passed down since the dawn of time, she sends her love to Winter.  (Source: Yen Press)",
     "score": "7.8",
-    "episodes": 8,
+    "episodes": 12,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-03-29",
-    "updated_at": "2026-05-24T10:59:53.000Z",
+    "updated_at": "2026-06-16T04:22:20.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -171,6 +171,62 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3c5cb91a991c4970f850cdac12065c88",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Frente Unido",
+                    "portada": "https://image.tmdb.org/t/p/w300/if0r0ciEyOtXvZaSDmggOEq4ykI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f391a5adc549c9c2c271389322f52095",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Imagen remanente",
+                    "portada": "https://image.tmdb.org/t/p/w300/npMZ7n4yYRTQKr58jf7AI9R7aBF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/86096d88acd5d0a6b0b2bcf69e6568a5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Impaciencia",
+                    "portada": "https://image.tmdb.org/t/p/w300/gcSey7kOqmuJSgBnbwOrYjmvZbQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bf199649e8e1efb5640382e1dbdcb05b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Agresión",
+                    "portada": "https://image.tmdb.org/t/p/w300/kemxKNbDP51U2NDbXgtdek2XPxd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a41d507fccb152c529f055c9eb2cc555",
                             "type": "mp4",
                             "language": "Sub"
                         }
