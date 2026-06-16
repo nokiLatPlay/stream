@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yo, Maehara Maki, tuve dificultades para conectar con alguien durante mis años de instituto y me costaba mucho hacer amigos. Entonces, llegó un punto de inflexión. Una chica llamada Asanagi entró en mi vida. A pesar de que los chicos la llamaban en secreto \"la segunda chica más guapa de la clase\", ella prefería pasar los viernes conmigo en lugar de con su mejor amiga Amami, quien ostentaba el título de \"la más guapa de la clase\". En la comodidad de mi casa, nos sumergíamos en el mundo de los videojuegos, veíamos películas, leíamos manga, nos dábamos un atracón de comida basura —pizza, hamburguesas— y bebíamos refrescos, despreocupadas y felices. Para el mundo exterior, quizás parecíamos un poco desordenadas, pero para Asanagi y para mí, era un tiempo preciado y secreto juntas. (Fuente: MAL News)",
     "score": "7.6",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -20,7 +20,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "",
-    "updated_at": "2026-06-15T06:13:53.000Z",
+    "updated_at": "2026-06-16T12:40:55.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -166,6 +166,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://hugh.cdn.rumble.cloud/video/fww1/d3/s8/2/W/x/i/x/WxixA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=378690560-378704857",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Año nuevo como amantes",
+                    "portada": "https://image.tmdb.org/t/p/w300/y78wCtyg8bYXPIg6o4hmUC6UOKI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b6cb7d383645164b0b69e4d4aa0ed9c4",
                             "type": "mp4",
                             "language": "Sub"
                         }
