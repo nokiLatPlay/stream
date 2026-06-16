@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61013",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1148\/155671.jpg",
+            "titulo": "Replica datte, Koi wo Suru.",
+            "titulo_original": "レプリカだって、恋をする。",
+            "etiquetas": "Drama, Romance, Supernatural, School",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-06-16T12:22:52.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "61931",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1916\/155657.jpg",
             "titulo": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
@@ -827,20 +841,6 @@
             "updated_at": "2026-06-15T05:35:31.000Z",
             "year": "2026",
             "score": "7.6",
-            "status": "Currently Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "61013",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1148\/155671.jpg",
-            "titulo": "Replica datte, Koi wo Suru.",
-            "titulo_original": "レプリカだって、恋をする。",
-            "etiquetas": "Drama, Romance, Supernatural, School",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-06-15T05:03:21.000Z",
-            "year": "2026",
-            "score": "6.9",
             "status": "Currently Airing",
             "episodes": 10
         },
