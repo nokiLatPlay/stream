@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He'll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!\r\n\r\n(Source: J-Novel Club)",
     "score": "6.8",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -22,7 +22,7 @@
         "Nichion"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-07T16:26:33.000Z",
+    "updated_at": "2026-06-16T03:01:20.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -162,6 +162,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/adf62e25573edb1bae0029d1e459ffe1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Monocromo",
+                    "portada": "https://image.tmdb.org/t/p/w300/n90d5MFvTflx519qTxGeJZHuA4c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/31798aa46dfbf5153906f5fa78011844",
                             "type": "mp4",
                             "language": "Sub"
                         }
