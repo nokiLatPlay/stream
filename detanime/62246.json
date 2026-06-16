@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Following the incident in Bi You Village, Zhang Chulan continues his investigation into Feng Baobao's origins, leading him to visit Lu Jin. From Lu Jin, Zhang Chulan obtains the list of the Thirty-Six Thieves and unexpectedly learns the reason for Jin Feng's abduction. To prevent Wu Gengsheng's collection from falling into the hands of thieves, the group begins their journey deeper into the Qinling Mountains.\r\n\r\n(Source: Tencent, translated)",
     "score": "6.9",
-    "episodes": 23,
+    "episodes": 24,
     "status": "Currently Airing",
     "duration": "22 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -22,7 +22,7 @@
         "China Literature Limited"
     ],
     "created_at": "2026-01-02",
-    "updated_at": "2026-06-07T17:05:22.000Z",
+    "updated_at": "2026-06-16T03:56:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -344,6 +344,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/fdd0ed59a0009d7c4f06c150bc1143f3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "numero": 24,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/pY6lAQEC7zHStcmpgYlQ47Z9Ouo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/53e69cb9417b0e0fdf81d976e2ee26c2",
                             "type": "mp4",
                             "language": "Sub"
                         }
