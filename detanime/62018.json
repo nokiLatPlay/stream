@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "Meiko, a country girl, enrolls in a prestigious all-girls school under the condition that she joins a volunteer program. But instead of a typical school service, she finds herself living and working at a manga cafe!  Surprisingly, life in a cramped booth isn't so bad—and with a staff full of cute high school girls, it might even be fun!  Come enjoy the charm of a manga cafe filled with high school girls!  (Source: MAL News)",
     "score": "6.6",
-    "episodes": 6,
+    "episodes": 10,
     "duration": "23 min per ep",
     "rating": null,
     "source": "Manga",
@@ -21,7 +21,7 @@
         "Bushiroad"
     ],
     "created_at": "2026-12-4",
-    "updated_at": "2026-05-25T07:53:33.000Z",
+    "updated_at": "2026-06-16T04:46:02.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -112,6 +112,62 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/93603b62cb5cdf476120605503971cd1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Disfrutando de la vida en el Manga Cafe",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_cded46d8f73a4e0d389c926f2ea9a195.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/95390c2353aedab2f4622a3026770f45",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "¡Apuntando a lo más alto! El Festival Deportivo de Amamiya",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_7a8b4dbc13e0fc9e200f02830bb22719.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a21a8d02eadd1c24cf2cf8c35413032e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Marika el objetivo",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_d64c85d347e30556877fb7ec80eaa238.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c560b3b4298b7bbd2a78f5266ca01bc2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "De vuelta para mi tierra sagrada",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_598412190ae1b15093882a3e40708deb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1a54a1c19c86729dcfb1ca4af8822a7f",
                             "type": "mp4",
                             "language": "Sub"
                         }
