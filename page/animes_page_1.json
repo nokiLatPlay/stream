@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60310",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
+            "titulo": "Mairimashita! Iruma-kun 4th Season",
+            "titulo_original": "魔入りました！入間くん 第4シリーズ",
+            "etiquetas": "Comedy, Fantasy, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-06-16T04:13:28.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "57466",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3xFcgiT7t4LDw5Cad8SiVkhKzW2.jpg",
             "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
@@ -619,20 +633,6 @@
             "score": "6.5",
             "status": "Currently Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "60310",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
-            "titulo": "Mairimashita! Iruma-kun 4th Season",
-            "titulo_original": "魔入りました！入間くん 第4シリーズ",
-            "etiquetas": "Comedy, Fantasy, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-06-09T13:46:36.000Z",
-            "year": "2026",
-            "score": "8.0",
-            "status": "Currently Airing",
-            "episodes": 10
         },
         {
             "id_mal": "62983",
