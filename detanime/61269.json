@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Tomorou Tenma possesses a uniquely strong e-Pulse—the energy created by human thoughts and emotions that powers egg-shaped AI devices named Sapotama. The world's everyday life relies on the assistance of Sapotamas, but the force of Tomorou's e-Pulse often causes glitches in them. One night, a strange creature calling itself Gekkoumon emerges from his device and insists on eating Tomorou's e-Pulse.\n\nGekkoumon is a Digimon, a creature feeding on e-Pulse that was born from an error in Sapotamas. Some Digimon completely drain humans of their energy, leaving them in a comatose state known as Cold Heart. When Tomorou's older brother, Asuka, becomes a victim of this phenomenon, Tomorou vows to avenge him.\n\nTomorou meets a group of Digimon-wielders called Glowing Dawn, who hunt down rogue Digimon for bounties. Their leader, Kyou Sawashiro, explains that there might still be hope for Asuka's recovery. Although Tomorou struggles to trust these strangers, he decides to join them, as he realizes that saving his brother may not be achievable on his own.\n\n[Written by MAL Rewrite]",
     "score": "7.1",
-    "episodes": 31,
+    "episodes": 35,
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
@@ -22,7 +22,7 @@
         "Tavac"
     ],
     "created_at": "2025-10-05",
-    "updated_at": "2026-05-28T07:37:10.000Z",
+    "updated_at": "2026-06-16T11:48:28.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -601,6 +601,62 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/ba0b6cdc8ca9a982c702f20eafcd2536",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "32",
+                    "numero": 32,
+                    "nombre": "lluvia fría",
+                    "portada": "https://image.tmdb.org/t/p/w300/1k6oG6HMbqCjEnwndnf92WsJqJI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e71a7704d7c0d6fac4845cb8842db875",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "33",
+                    "numero": 33,
+                    "nombre": "Fantasma de verano",
+                    "portada": "https://image.tmdb.org/t/p/w300/3bSzwhSfM3ixhHF32pbI9Vx5uGn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/38d2f8eb2397fbd997e22f46fe3bcf85",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "34",
+                    "numero": 34,
+                    "nombre": "Detrás de la máscara",
+                    "portada": "https://image.tmdb.org/t/p/w300/nC46RjN5Sfj8wCFESyNPfwxEnFf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d32b22c56571b0d64cfd1280f5b4846d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "35",
+                    "numero": 35,
+                    "nombre": "Instinto desenfrenado",
+                    "portada": "https://image.tmdb.org/t/p/w300/g4zLi9UJFgByNA24LfR75VmnFuG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8f88664c3af553088585f08005e9d854",
                             "type": "mp4",
                             "language": "Sub"
                         }
