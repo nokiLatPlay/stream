@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
     "score": "5.8",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Slow Curve"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-06-06T13:48:31.000Z",
+    "updated_at": "2026-06-16T02:49:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -202,6 +202,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/d8904222a84292d1ee8d7caa840d3104",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "El rey celebra",
+                    "portada": "https://image.tmdb.org/t/p/w300/ji7aIja69CI9i8G32N2k75Te70U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/80ed37cc35795dfe5740eecb6d626c0b",
                             "type": "mp4",
                             "language": "Sub"
                         }
