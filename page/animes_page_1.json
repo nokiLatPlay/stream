@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62171",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989.jpg",
+            "titulo": "The Classroom Of a Black Cat And a Witch",
+            "titulo_original": "黒猫と魔女の教室",
+            "etiquetas": "Comedy, Fantasy, School",
+            "type": "anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-06-16T06:36:00.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
+        {
             "id_mal": "63375",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1623\/156387.jpg",
             "titulo": "Nippon Sangoku",
@@ -1151,20 +1165,6 @@
             "score": "5.8",
             "status": "Currently Airing",
             "episodes": 7
-        },
-        {
-            "id_mal": "62171",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989.jpg",
-            "titulo": "The Classroom Of a Black Cat And a Witch",
-            "titulo_original": "",
-            "etiquetas": "Comedy, Fantasy, School",
-            "type": "anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-05-26T19:29:44.000Z",
-            "year": "2026",
-            "score": "6.8",
-            "status": "Currently Airing",
-            "episodes": 6
         },
         {
             "id_mal": "62342",
