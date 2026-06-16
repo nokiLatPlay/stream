@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Kanan is a demon who descends upon the human world with one goal: to feast on the sweetest delicacy of all—young human souls. Disguised as a high schooler, she sets her sights on her first target, an unassuming boy named Youji Kyougi. But just as she prepares to claim her meal, things take a very unexpected turn.  Instead of devouring him, Kanan ends up forming a \"romantic contract\" with Youji. For someone who's lived for millennia without experiencing love, navigating high school romance proves more terrifying than any hunt. Between awkward dates, hand-holding mishaps, and feelings she can't quite name, the once-proud demon finds herself flustered at every turn.  A supernatural romcom about a lovestruck demon and the boy who was supposed to be her prey—sweet, chaotic, and full of firsts.  (Source: MAL News)",
     "score": "7.2",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "Crunchyroll"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-06-10T05:15:59.000Z",
+    "updated_at": "2026-06-16T04:19:02.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -164,6 +164,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/690a11da825516ee31ceaaf72652e527",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "El amor robado de Miel",
+                    "portada": "https://image.tmdb.org/t/p/w300/kf6tzedBijPEWeMNameuYxjBBpY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0d2a1c7b37eb162f72efe88a6cbfd216",
                             "type": "mp4",
                             "language": "Sub"
                         }
