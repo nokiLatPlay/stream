@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Nobody wants \"Grubby Forager\" Rudd on their adventuring team. His nickname—and his stench—come from his constant treks into the Noxious Labyrinth to gather medicinal herbs, a job he survives only thanks to his status immunity skill. When he's finally recruited as a party porter, things seem to be looking up... Until a deadly dungeon monster appears and his fake allies use him as bait before abandoning him! Wounded, destitute, and barely surviving the attack, Rudd breaks a forbidden taboo to stay alive: eating monsters. But the more he devours, the more power he gains, kicking off a thrilling, adventurous gourmet fantasy!\r\n\r\n(Source: Square Enix)",
     "score": "4.3",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "13 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "DAX Production"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-07T16:52:06.000Z",
+    "updated_at": "2026-06-16T03:54:18.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -161,6 +161,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/93211f390a97dfc3902bc20a7af97b70",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Basilista, el dragón venenoso",
+                    "portada": "https://image.tmdb.org/t/p/w300/kqcxsHKFpsYEMopz8SwwgpD4OqH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2d8cb31ef018ad72ce3a9de78b18a2ff",
                             "type": "mp4",
                             "language": "Sub"
                         }
