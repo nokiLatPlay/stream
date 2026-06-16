@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.  The country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the others in a desperate attempt for total control over the remnants of Japanese land.  Aoteru Misumi is a low-ranking official who has stayed in the background for most of his life. He does not come from a prestigious military background or aristocracy, but Misumi has a strong ambition: to end the pointless bloodshed that afflicts the nation. He seeks to unify the fractured country, armed only with sharp insight and a persuasive voice that can rally the people.  The legend of the man who will become a brilliant military strategist starts now.  (Source: MAL News)",
     "score": "8.4",
-    "episodes": 7,
+    "episodes": 11,
     "duration": "24 min",
     "rating": null,
     "source": "Web manga",
@@ -23,7 +23,7 @@
         "Amazon MGM Studios"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-05-25T09:10:42.000Z",
+    "updated_at": "2026-06-16T06:34:48.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -176,6 +176,86 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/ae785fcdc9ec5ae9ab9ae7d70824c995",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Dragón contra tigre",
+                    "portada": "https://image.tmdb.org/t/p/w300/8AKittjLZ1Y4g8SUu8zE647GbIS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/71440d54a0c832235ff8c070b878508a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d67dafb63e5ac2f112e3d1b8d0f58019",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Lágrimas por Yayakichi",
+                    "portada": "https://image.tmdb.org/t/p/w300/2YyiWTgKWQedEXYoCSzPwUMkmIk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5f2dc8f28487c7bc2d8db9c00dfc9f1f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/27e665d81ef80abd4f9610442fd76b2b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Reunión de enemigos mortales",
+                    "portada": "https://image.tmdb.org/t/p/w300/yKwIvynzxIQsJI2OKwdxC5fCGiH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/30dfcafe008578f021ac3f0439662ed3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3e2061088e7227c166fde0d31700e8b4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Acuéstate sobre leña y aconseja los cielos",
+                    "portada": "https://image.tmdb.org/t/p/w300/AvAv4dL0MVkaS8QFXLK4msuQWrk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d2049f55abbb556c86cdc7fadf80f78e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6e66f1529c56a284b035f8888a1df65b",
                             "type": "mp4",
                             "language": "Sub"
                         }
