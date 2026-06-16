@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu..",
     "score": "7.2",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -30,7 +30,7 @@
         "FuRyu Pictures"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-06-15T05:00:25.000Z",
+    "updated_at": "2026-06-16T12:20:44.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -170,6 +170,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/e8fb5b67e521b03097c8007e69f4994e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "La princesa blasfema se prepara",
+                    "portada": "https://image.tmdb.org/t/p/w300/yBv6OrQVgBXw2WTzeCcsusxI3Ce.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b60af8f5b53587323408d0572db590ca",
                             "type": "mp4",
                             "language": "Sub"
                         }
