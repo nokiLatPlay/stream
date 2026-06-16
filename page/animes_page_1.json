@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62331",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
+            "titulo": "Liar Game",
+            "titulo_original": "LIAR GAME",
+            "etiquetas": "Drama, Suspense",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-06-16T12:12:13.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "61425",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1484\/155726.jpg",
             "titulo": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
@@ -827,20 +841,6 @@
             "updated_at": "2026-06-15T04:58:17.000Z",
             "year": "2026",
             "score": "5.4",
-            "status": "Currently Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "62331",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
-            "titulo": "Liar Game",
-            "titulo_original": "LIAR GAME",
-            "etiquetas": "Drama, Suspense",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-06-15T04:56:27.000Z",
-            "year": "2026",
-            "score": "6.8",
             "status": "Currently Airing",
             "episodes": 10
         },
