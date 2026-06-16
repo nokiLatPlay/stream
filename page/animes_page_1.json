@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62164",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1162\/155669.jpg",
+            "titulo": "Akane-banashi",
+            "titulo_original": "あかね噺",
+            "etiquetas": "Drama, Performing Arts, Shounen",
+            "type": "anime",
+            "created_at": "2026-4-4",
+            "updated_at": "2026-06-16T04:17:40.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "62391",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1899\/156600.jpg",
             "titulo": "Kill Ao",
@@ -603,20 +617,6 @@
             "updated_at": "2026-06-10T05:16:02.000Z",
             "year": "2026",
             "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "62164",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1162\/155669.jpg",
-            "titulo": "Akane-banashi",
-            "titulo_original": "あかね噺",
-            "etiquetas": "Drama, Performing Arts, Shounen",
-            "type": "anime",
-            "created_at": "2026-4-4",
-            "updated_at": "2026-06-10T05:11:46.000Z",
-            "year": "2026",
-            "score": "8.0",
             "status": "Currently Airing",
             "episodes": 10
         },
