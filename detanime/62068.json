@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yukio was destroyed in battle and Tetsuo survived in an escape pod. After eight years in cold sleep, the escape pod finally lands back on Earth. But when Tetsuo emerges he finds a world in ruins, entirely frozen beneath a blanket of ice and snow—snowball Earth! What happened to humanity, how did the planet freeze over, and will Tetsuo be able to keep his last promise to Yukio?  (Source: VIZ Media)",
     "score": "6.6",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "dugout"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-09T01:55:31.000Z",
+    "updated_at": "2026-06-16T04:02:47.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -222,6 +222,26 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/1c9bf3bd19c8ba5c797166c59b22afc0"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "QUIERO SER SALVADOR",
+                    "portada": "https://image.tmdb.org/t/p/w300/7HgmatLWT017TEqrJCbVr20HHLd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/96c681f6420bc1e2d3e37ef91b8ffe05",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/dc8319b083fdef3d4d789c11dde14be7",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
