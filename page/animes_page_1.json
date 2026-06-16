@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62391",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1899\/156600.jpg",
+            "titulo": "Kill Ao",
+            "titulo_original": "キルアオ",
+            "etiquetas": "Action, Comedy, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-11",
+            "updated_at": "2026-06-16T04:16:20.000Z",
+            "year": "2026",
+            "score": "7.4",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
+        {
             "id_mal": "60444",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185211-ewfgT5Cn99k0.jpg",
             "titulo": "Yowa Yowa Sensei",
@@ -605,20 +619,6 @@
             "score": "8.0",
             "status": "Currently Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "62391",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1899\/156600.jpg",
-            "titulo": "Kill Ao",
-            "titulo_original": "キルアオ",
-            "etiquetas": "Action, Comedy, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-11",
-            "updated_at": "2026-06-10T02:08:45.000Z",
-            "year": "2026",
-            "score": "7.4",
-            "status": "Currently Airing",
-            "episodes": 9
         },
         {
             "id_mal": "62825",
