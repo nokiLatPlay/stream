@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Nanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings!  (Source: VIZ Media)",
     "score": "7.2",
-    "episodes": 7,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "25 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "Bandai Namco Filmworks"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-05-25T08:29:49.000Z",
+    "updated_at": "2026-06-16T06:25:32.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -121,6 +121,62 @@
                             "type": "mp4",
                             "language": "Sub",
                             "url": "https://player.zilla-networks.com/m3u8/62860cebf80c73f8c6002757d6e6b684"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Hyakka",
+                    "portada": "https://image.tmdb.org/t/p/w300/nmcSWCJSBVBuuQysbtMj9ZA4Tas.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/805b625c3e37ba22461f391c0687ae89",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Kamón",
+                    "portada": "https://image.tmdb.org/t/p/w300/gxS1rlxBB3YDupJD7wrn6xQ0pA1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a5d5c761b8580b4fcf3c2921109e27e2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "taizanfukun",
+                    "portada": "https://image.tmdb.org/t/p/w300/5oBLmJmLoAnM9tQuqHybwhBIDWq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a30c911e090e6051773fef47a2898eac",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Vínculo de sangre",
+                    "portada": "https://image.tmdb.org/t/p/w300/ys1SiaPDiVhojNqjvusmKowBnaD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b5f34573430dedc3d89b1e110277fa41",
+                            "type": "mp4",
+                            "language": "Sub"
                         }
                     ]
                 }
