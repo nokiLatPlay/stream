@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62981",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
+            "titulo": "Kami no Shizuku",
+            "titulo_original": "神の雫",
+            "etiquetas": "Drama, Gourmet, Mystery, Adult Cast, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-06-16T04:04:07.000Z",
+            "year": "2026",
+            "score": "6.2",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
+        {
             "id_mal": "62068",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
             "titulo": "Snowball Earth",
@@ -633,20 +647,6 @@
             "score": "6.5",
             "status": "Currently Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "62981",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
-            "titulo": "Kami no Shizuku",
-            "titulo_original": "神の雫",
-            "etiquetas": "Drama, Gourmet, Mystery, Adult Cast, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-10",
-            "updated_at": "2026-06-09T06:38:24.000Z",
-            "year": "2026",
-            "score": "6.2",
-            "status": "Currently Airing",
-            "episodes": 9
         },
         {
             "id_mal": "62512",
