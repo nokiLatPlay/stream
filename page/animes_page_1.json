@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62050",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1974\/156105.jpg",
+            "titulo": "Kami no Niwatsuki Kusunoki-tei",
+            "titulo_original": "神の庭付き楠木邸",
+            "etiquetas": "Slice of Life, Supernatural, Adult Cast, Iyashikei, Mythology",
+            "type": "anime",
+            "created_at": "2026-5-4",
+            "updated_at": "2026-06-16T04:23:52.000Z",
+            "year": "2026",
+            "score": "7.4",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "61443",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1993\/156385.jpg",
             "titulo": "Shunkashuutou Daikousha: Haru no Mai",
@@ -1261,20 +1275,6 @@
             "updated_at": "2026-05-24T11:07:24.000Z",
             "year": "2026",
             "score": "7.0",
-            "status": "Currently Airing",
-            "episodes": 7
-        },
-        {
-            "id_mal": "62050",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1974\/156105.jpg",
-            "titulo": "Kami no Niwatsuki Kusunoki-tei",
-            "titulo_original": "",
-            "etiquetas": "Slice of Life, Supernatural, Adult Cast, Iyashikei, Mythology",
-            "type": "anime",
-            "created_at": "2026-5-4",
-            "updated_at": "2026-05-24T10:50:21.000Z",
-            "year": "2026",
-            "score": "7.4",
             "status": "Currently Airing",
             "episodes": 7
         },
