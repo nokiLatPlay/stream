@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Third part of Dr. Stone: Science Future.",
     "score": "8.3",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -22,7 +22,7 @@
         "Shueisha"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-06T15:51:25.000Z",
+    "updated_at": "2026-06-16T02:53:58.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -222,6 +222,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/6c68ecf2e26f1bead38d41b477ffb221",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Paso gigante",
+                    "portada": "https://image.tmdb.org/t/p/w300/l3ZUyE6Fc9koO6AnTiX50qYNYM4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c057b888e0e0a97431bcfb5b999271e5",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e940850b22402700dad1606159ccef38",
                             "type": "mp4",
                             "language": "Sub"
                         }
