@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "María, hija de un duque, creció creyendo que algún día heredaría el ducado de su padre. Por ello, centró su atención en perfeccionar sus habilidades en artes marciales, dejando de lado la idea del matrimonio. ¡Pero la llegada de un hermanito a la familia significa que está perdiendo su derecho a heredera! Ahora que ha decidido que es hora de casarse, ¡llega un poco tarde! ¿Acaso quedan solteros disponibles? Al irse a estudiar al extranjero a un país vecino donde aún podría tener la oportunidad de casarse, se queda perpleja cuando el príncipe heredero declara públicamente que su compromiso con ella queda anulado. ¡Un momento... ¿qué compromiso?! ¡Al parecer, la ha confundido con otra chica! Pero una vez aclarado todo y al verla derrotar a un grupo de bandidos, resulta que este príncipe sí que tiene debilidad por las jóvenes luchadoras. (Fuente: Square Enix)",
     "score": "7.3",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -26,7 +26,7 @@
         "DMM.com"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-16T02:45:40.000Z",
+    "updated_at": "2026-06-17T13:44:37.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -180,6 +180,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/863e0300e5f56360017c015fd80f1021",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Cómo logré casarme con un príncipe",
+                    "portada": "https://image.tmdb.org/t/p/w300/eylYh8PRc86PUBsVKCO1p9p4025.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/db7c1cb2a3b95c7517fba0bfb2e0c246",
                             "type": "mp4",
                             "language": "Sub"
                         }
