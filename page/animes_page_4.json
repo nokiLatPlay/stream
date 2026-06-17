@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 646,
+    "total_items": 647,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58749",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1790\/149462l.jpg",
+            "titulo": "Arknights: Rise from Ember",
+            "titulo_original": "アークナイツ【焔燼曙明\/RISE FROM EMBER】",
+            "year": "2025",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2025-07-04",
+            "updated_at": "2026-03-17T00:31:15.000Z",
+            "episodes": 10
+        },
         {
             "id_mal": "60732",
             "slug": "",
