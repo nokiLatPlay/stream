@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 641,
+    "total_items": 642,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "24833",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20755-dWrhs569YGUO.jpg",
+            "titulo": "Ansatsu Kyoushitsu",
+            "titulo_original": "暗殺教室",
+            "etiquetas": "Action, Comedy, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2015-01-10",
+            "updated_at": "2026-06-17T05:49:46.000Z",
+            "year": 2015,
+            "score": "7.9",
+            "status": "FINISHED",
+            "episodes": 22
+        },
         {
             "id_mal": "20583",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20464-ooZUyBe4ptp9.png",
@@ -2853,21 +2867,6 @@
             "created_at": "2013-09-16",
             "updated_at": "2026-04-12T09:17:03.000Z",
             "ts": 1775085851
-        },
-        {
-            "id_mal": "11633",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/11\/47677.jpg",
-            "titulo": "Blood Lad",
-            "titulo_original": "ブラッドラッド",
-            "year": "2013",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 11,
-            "created_at": "2013-07-08",
-            "updated_at": "2026-04-12T09:17:02.000Z",
-            "ts": 1775085886
         }
     ]
 }
