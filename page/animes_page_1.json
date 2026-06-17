@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 640,
+    "total_items": 641,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "20583",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20464-ooZUyBe4ptp9.png",
+            "titulo": "Haikyuu!!",
+            "titulo_original": "ハイキュー!!",
+            "etiquetas": "Comedy, Drama, Sports",
+            "type": "anime",
+            "created_at": "2014-04-06",
+            "updated_at": "2026-06-17T05:47:25.000Z",
+            "year": 2014,
+            "score": "8.4",
+            "status": "FINISHED",
+            "episodes": 25
+        },
         {
             "id_mal": "30831",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21202-mPOr80AEjUcZ.png",
@@ -2854,21 +2868,6 @@
             "created_at": "2013-07-08",
             "updated_at": "2026-04-12T09:17:02.000Z",
             "ts": 1775085886
-        },
-        {
-            "id_mal": "10490",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1691\/140716.jpg",
-            "titulo": "Blood-C",
-            "titulo_original": "ブラッドシー",
-            "year": "2011",
-            "etiquetas": "Action, Horror, Mystery, Supernatural",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2011-07-08",
-            "updated_at": "2026-04-12T09:16:59.000Z",
-            "ts": 1775085937
         }
     ]
 }
