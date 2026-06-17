@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30831",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21202-mPOr80AEjUcZ.png",
+            "titulo": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "titulo_original": "この素晴らしい世界に祝福を！",
+            "etiquetas": "Adventure, Comedy, Ecchi, Fantasy",
+            "type": "anime",
+            "created_at": "2016-01-14",
+            "updated_at": "2026-06-17T05:45:34.000Z",
+            "year": 2016,
+            "score": "7.9",
+            "status": "FINISHED",
+            "episodes": 10
+        },
         {
             "id_mal": "37779",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101759-8UR7r9MNVpz2.jpg",
@@ -2855,21 +2869,6 @@
             "created_at": "2011-07-08",
             "updated_at": "2026-04-12T09:16:59.000Z",
             "ts": 1775085937
-        },
-        {
-            "id_mal": "6747",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1062\/124809.jpg",
-            "titulo": "Dance in the Vampire Bund",
-            "titulo_original": "ダンスインザヴァンパイアバンド",
-            "year": "2010",
-            "etiquetas": "Action, Drama, Romance, Supernatural",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2010-06-07",
-            "updated_at": "2026-04-12T09:16:58.000Z",
-            "ts": 1775085971
         }
     ]
 }
