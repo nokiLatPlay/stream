@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 635,
+    "total_items": 636,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28927",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/76632.jpg",
+            "titulo": "Owari no Seraph: Nagoya Kessen-hen",
+            "titulo_original": "終わりのセラフ　名古屋決戦編",
+            "year": "2015",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2015-10-10",
+            "updated_at": "2026-04-12T09:16:49.000Z",
+            "ts": 1775086138
+        },
         {
             "id_mal": "29974",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/3\/73657.jpg",
@@ -2901,21 +2916,6 @@
             "created_at": "2022",
             "updated_at": "2026-04-02T01:58:45.000Z",
             "ts": 1775086859
-        },
-        {
-            "id_mal": "40815",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1464\/107998.jpg",
-            "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
-            "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期",
-            "year": "2020",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2020",
-            "updated_at": "2026-04-02T01:56:56.000Z",
-            "ts": 1775086998
         }
     ]
 }
