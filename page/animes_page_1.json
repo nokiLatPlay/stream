@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 642,
+    "total_items": 643,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "269",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx269-d2GmRkJbMopq.png",
+            "titulo": "BLEACH",
+            "titulo_original": "BLEACH",
+            "etiquetas": "Action, Adventure, Supernatural",
+            "type": "anime",
+            "created_at": "2004-10-05",
+            "updated_at": "2026-06-17T09:01:08.000Z",
+            "year": 2004,
+            "score": "7.9",
+            "status": "FINISHED",
+            "episodes": 366
+        },
         {
             "id_mal": "24833",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20755-dWrhs569YGUO.jpg",
@@ -2852,21 +2866,6 @@
             "created_at": "2013-10-04",
             "updated_at": "2026-04-12T09:17:05.000Z",
             "ts": 1775085828
-        },
-        {
-            "id_mal": "17513",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/51989.jpg",
-            "titulo": "Diabolik Lovers",
-            "titulo_original": "DIABOLIK LOVERS",
-            "year": "2013",
-            "etiquetas": "Drama, Supernatural",
-            "type": "anime",
-            "score": "5.2",
-            "status": "Finished Airing",
-            "episodes": 6,
-            "created_at": "2013-09-16",
-            "updated_at": "2026-04-12T09:17:03.000Z",
-            "ts": 1775085851
         }
     ]
 }
