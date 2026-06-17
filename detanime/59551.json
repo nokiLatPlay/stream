@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Okuto Nakamura is a timid and gloomy-looking student who cherishes only two things in this world: his pet octopus and his kind-hearted classmate, Aiki Hirose. Ever since the school entrance ceremony, Nakamura has admired his jovial classmate, albeit from a distance due to his poor social skills. After mustering up all the courage within him, he finally decides to talk to Hirose.  During this first attempt to make contact, an instinctive mistake turns the idea of friendship into a distant dream, as he creates a hilarious impression on his crush. At school, students are expected to cooperate on numerous activities together, meaning Nakamura gets to spend extra time with Hirose. Given these opportunities, can he successfully redeem himself and accomplish his goal of becoming good friends with Hirose?  [Written by MAL Rewrite]",
     "score": "7.8",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -23,7 +23,7 @@
         "Kinoshita Group Holdings"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-16T02:47:11.000Z",
+    "updated_at": "2026-06-17T13:47:09.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -263,6 +263,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/87fd618ad9bee31ff08f9abdbed5effe",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c3d2f7c7dcdb5b796b98d966d06a442d",
                             "type": "mp4",
                             "language": "Sub"
                         }
