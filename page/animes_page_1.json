@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 634,
+    "total_items": 635,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "10863",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx10863-V6oW2kN8bBYf.png",
+            "titulo": "Steins;Gate: Oukoubakko no Poriomania",
+            "titulo_original": "シュタインズ・ゲート 横行跋扈のポリオマニア",
+            "etiquetas": "Comedy, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2012-02-22",
+            "updated_at": "2026-06-17T05:17:09.000Z",
+            "year": 2012,
+            "score": "8.1",
+            "status": "FINISHED",
+            "episodes": 1
+        },
         {
             "id_mal": "9253",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx9253-tIUXF2gfU8Sg.jpg",
@@ -2860,21 +2874,6 @@
             "created_at": "2015-10-10",
             "updated_at": "2026-04-12T09:16:49.000Z",
             "ts": 1775086138
-        },
-        {
-            "id_mal": "29974",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/3\/73657.jpg",
-            "titulo": "Diabolik Lovers More,Blood",
-            "titulo_original": "DIABOLIK LOVERS MORE,BLOOD",
-            "year": "2015",
-            "etiquetas": "Drama, Supernatural",
-            "type": "anime",
-            "score": "5.5",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2015-09-24",
-            "updated_at": "2026-04-12T09:16:47.000Z",
-            "ts": 1775086173
         }
     ]
 }
