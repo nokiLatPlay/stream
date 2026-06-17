@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "El protagonista de la historia, al que simplemente llamamos \"Yo\", experimenta un ciclo interminable de reencarnación. La narración transcurre en un universo alternativo donde las personas son libres de elegir su próxima forma. Sin embargo, la lista de espera para roles populares, como \"Rey Demonio\" o \"Héroe con Habilidades Especiales y un Harén\", ha alcanzado los 50 000 años debido a un reciente aumento en las solicitudes. El protagonista decide reencarnarse repetidamente en formas cada vez más extrañas porque se niega a esperar. Estos roles incluyen la costilla de un héroe a cargo de un harén, un cangrejo ermitaño, una verdura e incluso un explosivo utilizado para hacer estallar a parejas felizmente casadas. (Fuente: MAL News)",
     "score": "6.2",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "22 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "Takarajimasha"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-06-15T06:20:13.000Z",
+    "updated_at": "2026-06-17T04:28:52.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -161,6 +161,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/d882f17be3dec188eb4a597894dfe17d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/qb4NDZFOGtlwThAVRfmfNcEsnpY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5e35cb299ea5aef2d641f1f92eba2902",
                             "type": "mp4",
                             "language": "Sub"
                         }
