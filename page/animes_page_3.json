@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 646,
+    "total_items": 647,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "C7BD6",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3855.jpg",
+            "titulo": "Castlevania",
+            "titulo_original": " ",
+            "year": "2017",
+            "etiquetas": " Animación, Sci-Fi, Fantasy, Drama",
+            "type": "anime",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 32,
+            "created_at": "2017-07-07",
+            "updated_at": "2026-04-03T14:27:23.000Z",
+            "ts": 1775191230
+        },
         {
             "id_mal": "36699",
             "slug": "",
@@ -3046,21 +3061,6 @@
             "created_at": "2025-07-04",
             "updated_at": "2026-03-17T00:31:54.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "58749",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1790\/149462l.jpg",
-            "titulo": "Arknights: Rise from Ember",
-            "titulo_original": "アークナイツ【焔燼曙明\/RISE FROM EMBER】",
-            "year": "2025",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "score": "7.8",
-            "status": "Finished Airing",
-            "created_at": "2025-07-04",
-            "updated_at": "2026-03-17T00:31:15.000Z",
-            "episodes": 10
         }
     ]
 }
