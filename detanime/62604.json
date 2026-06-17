@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Les presentamos a Takuya Seo, un otaku que se sienta detrás de las chicas populares de la clase, Ijichi y Amane. Dado que pertenecen a diferentes \"clases\", uno no esperaría que tuvieran mucho en común. Pero cuando sus mundos chocan por una goma de borrar prestada, Takuya se le escapa su anime favorito, y Amane... no tarda en corregirlo. Dice que no es fan, pero su conocimiento de la serie sugiere lo contrario. ¿Podría ser... otra friki? (Fuente: Yen Press)",
     "score": "7.5",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-06-16T02:44:05.000Z",
+    "updated_at": "2026-06-17T13:43:01.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -164,6 +164,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3426b6aeb75c6667de1a3f530df7eb08",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_73879bcd35447d4fca08c13564daf3e6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7e476a6c67684cc4392b50377e5d54b7",
                             "type": "mp4",
                             "language": "Sub"
                         }
