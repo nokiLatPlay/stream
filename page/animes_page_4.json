@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "38000",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1286\/99889l.jpg",
+            "titulo": "Kimetsu no Yaiba",
+            "titulo_original": "鬼滅の刃",
+            "year": "2019",
+            "etiquetas": "Action, Award Winning, Supernatural",
+            "type": "anime",
+            "score": "8.4",
+            "status": "Finished Airing",
+            "created_at": "2019-04-06",
+            "updated_at": "2026-03-17T00:19:18.000Z",
+            "episodes": 26
+        },
         {
             "id_mal": "5114",
             "slug": "",
