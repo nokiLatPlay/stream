@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 647,
+    "total_items": 648,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "6702",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b6702-KI4qgSMyI8Pm.png",
+            "titulo": "FAIRY TAIL",
+            "titulo_original": "FAIRY TAIL",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2009-10-12",
+            "updated_at": "2026-06-17T19:20:17.000Z",
+            "year": 2009,
+            "score": "7.2",
+            "status": "FINISHED",
+            "episodes": 175
+        },
         {
             "id_mal": "32937",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21699-Fkbnkl9ZC6fW.png",
@@ -2847,21 +2861,6 @@
             "created_at": "2022-01-08",
             "updated_at": "2026-04-12T09:17:30.000Z",
             "ts": 1774542059
-        },
-        {
-            "id_mal": "56906",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1150\/155201.jpg",
-            "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
-            "titulo_original": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": 1,
-            "created_at": "2026-03-31",
-            "updated_at": "2026-04-12T09:17:25.000Z",
-            "ts": 1775007691
         }
     ]
 }
