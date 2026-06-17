@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 637,
+    "total_items": 638,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37569",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1456\/94897.jpg",
+            "titulo": "Sirius the Jaeger",
+            "titulo_original": "天狼〈シリウス〉 Sirius the Jaeger",
+            "year": "2018",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2018-07-12",
+            "updated_at": "2026-04-12T09:16:53.000Z",
+            "ts": 1775086046
+        },
         {
             "id_mal": "32668",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/78406.jpg",
@@ -2898,22 +2913,6 @@
             "status": "Finished Airing",
             "created_at": "2002-06-02",
             "updated_at": "2026-04-03T01:46:14.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "50594",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1598\/128450l.jpg",
-            "titulo": "Suzume no Tojimari",
-            "titulo_original": "すずめの戸締まり",
-            "year": "2022",
-            "etiquetas": "Adventure, Supernatural",
-            "type": "movie",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "created_at": "2022-11-11",
-            "updated_at": "2026-04-03T01:44:10.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
