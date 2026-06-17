@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 637,
+    "total_items": 638,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50594",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1598\/128450l.jpg",
+            "titulo": "Suzume no Tojimari",
+            "titulo_original": "すずめの戸締まり",
+            "year": "2022",
+            "etiquetas": "Adventure, Supernatural",
+            "type": "movie",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "created_at": "2022-11-11",
+            "updated_at": "2026-04-03T01:44:10.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "42429",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1976\/122302.jpg",
@@ -3037,21 +3053,6 @@
             "created_at": "2009-04-05",
             "updated_at": "2026-03-17T00:18:12.000Z",
             "episodes": 64
-        },
-        {
-            "id_mal": "11757",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/11\/39717l.jpg",
-            "titulo": "Sword Art Online",
-            "titulo_original": "ソードアート・オンライン",
-            "year": "2012",
-            "etiquetas": "Action, Adventure, Fantasy, Romance",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2012-07-08",
-            "updated_at": "2026-03-17T00:18:08.000Z",
-            "episodes": 25
         }
     ]
 }
