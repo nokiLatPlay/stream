@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En la Escuela de Ópera de Awajima, chicas de todo Japón se esfuerzan por ganarse un lugar en el escenario. Wakana se guía por su pasión por el teatro musical, mientras que Kinue estudia con disciplina y serenidad. Emi, estudiante becada, atrae la atención de todos, pero sobre todo de Keiko, quien lidia con la admiración y las comparaciones. A través de perspectivas cambiantes, sus días entrelazados exploran la ambición, la amistad y el autodescubrimiento.",
     "score": "6.9",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-10",
-    "updated_at": "2026-06-16T03:00:12.000Z",
+    "updated_at": "2026-06-19T02:23:35.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -160,6 +160,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/cb19b40be70f224ecc0e756c864bc27b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Emi Okabe y Katsurako Ibuki",
+                    "portada": "https://image.tmdb.org/t/p/w300/tSN3jy3WzKOLCKujskkKRqAcsOr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bcb95961f70da4991eeb5f9a47862fed",
                             "type": "mp4",
                             "language": "Sub"
                         }
