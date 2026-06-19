@@ -1,95 +1,87 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 91,
+    "total_items": 90,
     "items_per_page": 200,
+    "has_next": false,
+    "has_prev": false,
+    "next_page": null,
+    "prev_page": null,
     "data": [
         {
             "id_mal": "48561",
             "imagen": "",
             "titulo": "Película 48561",
             "titulo_original": "",
+            "year": "2026",
             "etiquetas": "",
             "type": "movie",
-            "created_at": "2026-06-19",
-            "updated_at": "2026-06-19T08:08:08.000Z",
-            "year": "2026",
             "score": "",
             "status": "Finished Airing",
-            "episodes": 1
-        },
-        {
-            "id_mal": "164",
-            "imagen": "",
-            "titulo": "Película 164",
-            "titulo_original": "",
-            "etiquetas": "",
-            "type": "movie",
+            "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-06-19",
-            "updated_at": "2026-06-19T08:08:02.000Z",
-            "year": "2026",
-            "score": "",
-            "status": "Finished Airing",
-            "episodes": 1
+            "updated_at": "2026-06-19T08:08:08.000Z"
         },
         {
             "id_mal": "199",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx199-sWefXJvXkDOb.jpg",
             "titulo": "Sen to Chihiro no Kamikakushi",
             "titulo_original": "千と千尋の神隠し",
+            "year": 2001,
             "etiquetas": "Adventure, Drama, Fantasy, Supernatural",
             "type": "movie",
-            "created_at": "2001-07-20",
-            "updated_at": "2026-06-19T07:39:47.000Z",
-            "year": 2001,
             "score": "8.6",
             "status": "FINISHED",
-            "episodes": 1
+            "calidad": "HD",
+            "episodes": 1,
+            "created_at": "2001-07-20",
+            "updated_at": "2026-06-19T07:39:47.000Z"
         },
         {
             "id_mal": "39576",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1699\/110724.jpg",
             "titulo": "Goblin Slayer: Goblin's Crown",
             "titulo_original": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+            "year": "2020",
             "etiquetas": "Action, Adventure, Fantasy",
             "type": "movie",
-            "created_at": "2020-02-01",
-            "updated_at": "2026-06-19T05:16:00.000Z",
-            "year": "2020",
             "score": "7.3",
             "status": "Finished Airing",
+            "calidad": "HD",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2020-02-01",
+            "updated_at": "2026-06-19T05:16:00.000Z"
         },
         {
             "id_mal": "32071",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/nx21496-b6R9F3FtIgWJ.jpg",
             "titulo": "GANTZ:O",
             "titulo_original": "GANTZ:O",
+            "year": "2016",
             "etiquetas": "Action, Drama, Ecchi, Horror, Psychological, Sci-Fi, Supernatural",
             "type": "movie",
-            "created_at": "2026-06-01",
-            "updated_at": "2026-06-01T23:28:48.000Z",
-            "year": "2016",
             "score": "7.1",
             "status": "FINISHED",
+            "calidad": "HD",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2026-06-01",
+            "updated_at": "2026-06-01T23:28:48.000Z"
         },
         {
             "id_mal": "33783",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1847\/93081l.jpg",
             "titulo": "Godzilla 1: Kaijuu Wakusei",
             "titulo_original": "GODZILLA -怪獣惑星-",
+            "year": "2017",
             "etiquetas": "Action, Adventure, Sci-Fi",
             "type": "movie",
-            "created_at": "2017-11-17",
-            "updated_at": "2026-05-01T01:56:51.000Z",
-            "year": "2017",
             "score": "6.4",
             "status": "Finished Airing",
+            "calidad": "HD",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2017-11-17",
+            "updated_at": "2026-05-01T01:56:51.000Z"
         },
         {
             "id_mal": "38826",
@@ -101,10 +93,10 @@
             "type": "movie",
             "score": "8.3",
             "status": "Finished Airing",
-            "created_at": "2019-19-7",
-            "updated_at": "2026-04-04T08:04:01.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2019-19-7",
+            "updated_at": "2026-04-04T08:04:01.000Z"
         },
         {
             "id_mal": "1686",
@@ -116,10 +108,10 @@
             "type": "movie",
             "score": "7.4",
             "status": "Finished Airing",
-            "created_at": "2006-16-12",
-            "updated_at": "2026-04-04T07:58:02.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2006-16-12",
+            "updated_at": "2026-04-04T07:58:02.000Z"
         },
         {
             "id_mal": "21557",
@@ -131,10 +123,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "created_at": "2014",
-            "updated_at": "2026-04-04T07:46:13.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2014",
+            "updated_at": "2026-04-04T07:46:13.000Z"
         },
         {
             "id_mal": "21647",
@@ -146,10 +138,10 @@
             "type": "movie",
             "score": "7.9",
             "status": "Finished Airing",
-            "created_at": "2014",
-            "updated_at": "2026-04-04T07:43:07.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2014",
+            "updated_at": "2026-04-04T07:43:07.000Z"
         },
         {
             "id_mal": "48585",
@@ -161,10 +153,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "created_at": "2023",
-            "updated_at": "2026-04-04T07:24:09.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2023",
+            "updated_at": "2026-04-04T07:24:09.000Z"
         },
         {
             "id_mal": "2418",
@@ -176,10 +168,10 @@
             "type": "movie",
             "score": "8.2",
             "status": "Finished Airing",
-            "created_at": "2007",
-            "updated_at": "2026-04-04T07:23:57.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2007",
+            "updated_at": "2026-04-04T07:23:57.000Z"
         },
         {
             "id_mal": "31765",
@@ -191,10 +183,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "created_at": "2017",
-            "updated_at": "2026-04-04T07:23:43.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2017",
+            "updated_at": "2026-04-04T07:23:43.000Z"
         },
         {
             "id_mal": "42916",
@@ -206,10 +198,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "created_at": "2021",
-            "updated_at": "2026-04-04T07:23:32.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2021",
+            "updated_at": "2026-04-04T07:23:32.000Z"
         },
         {
             "id_mal": "50275",
@@ -221,10 +213,10 @@
             "type": "movie",
             "score": "7.7",
             "status": "Finished Airing",
-            "created_at": "2022",
-            "updated_at": "2026-04-04T07:23:19.000Z",
             "calidad": "HD",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2022",
+            "updated_at": "2026-04-04T07:23:19.000Z"
         },
         {
             "id_mal": "36699",
@@ -236,11 +228,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2023-07-14",
-            "updated_at": "2026-04-03T02:50:28.000Z",
-            "ts": 1775184628
+            "updated_at": "2026-04-03T02:50:28.000Z"
         },
         {
             "id_mal": "40456",
@@ -252,11 +243,10 @@
             "type": "movie",
             "score": "8.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2020-10-16",
-            "updated_at": "2026-04-03T02:45:12.000Z",
-            "ts": 1775184312
+            "updated_at": "2026-04-03T02:45:12.000Z"
         },
         {
             "id_mal": "37765",
@@ -268,11 +258,10 @@
             "type": "movie",
             "score": "7.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2011-06-11",
-            "updated_at": "2026-04-03T02:44:02.000Z",
-            "ts": 1775184242
+            "updated_at": "2026-04-03T02:44:02.000Z"
         },
         {
             "id_mal": "405",
@@ -284,11 +273,10 @@
             "type": "movie",
             "score": "6.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2008-11-18",
-            "updated_at": "2026-04-03T02:37:05.000Z",
-            "ts": 1775183825
+            "updated_at": "2026-04-03T02:37:05.000Z"
         },
         {
             "id_mal": "9260",
@@ -300,11 +288,10 @@
             "type": "movie",
             "score": "8.4",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2016-01-08",
-            "updated_at": "2026-04-03T02:35:50.000Z",
-            "ts": 1775183750
+            "updated_at": "2026-04-03T02:35:50.000Z"
         },
         {
             "id_mal": "31757",
@@ -316,11 +303,10 @@
             "type": "movie",
             "score": "8.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2017-01-06",
-            "updated_at": "2026-04-03T02:33:43.000Z",
-            "ts": 1775183623
+            "updated_at": "2026-04-03T02:33:43.000Z"
         },
         {
             "id_mal": "31758",
@@ -332,11 +318,10 @@
             "type": "movie",
             "score": "8.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2017-01-06",
-            "updated_at": "2026-04-03T01:48:46.000Z",
-            "ts": 1775180926
+            "updated_at": "2026-04-03T01:48:46.000Z"
         },
         {
             "id_mal": "10681",
@@ -348,11 +333,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2002-06-02",
-            "updated_at": "2026-04-03T01:46:14.000Z",
-            "ts": 1775180774
+            "updated_at": "2026-04-03T01:46:14.000Z"
         },
         {
             "id_mal": "50594",
@@ -364,11 +348,10 @@
             "type": "movie",
             "score": "8.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2022-11-11",
-            "updated_at": "2026-04-03T01:44:10.000Z",
-            "ts": 1775180650
+            "updated_at": "2026-04-03T01:44:10.000Z"
         },
         {
             "id_mal": "35759",
@@ -380,11 +363,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2021-06-04",
-            "updated_at": "2026-04-01T12:04:47.000Z",
-            "ts": 1775045087
+            "updated_at": "2026-04-01T12:04:47.000Z"
         },
         {
             "id_mal": "48548",
@@ -396,11 +378,10 @@
             "type": "movie",
             "score": "7.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2022-05-20",
-            "updated_at": "2026-03-28T09:56:09.000Z",
-            "ts": 1774691769
+            "updated_at": "2026-03-28T09:56:09.000Z"
         },
         {
             "id_mal": "46420",
@@ -412,11 +393,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2021-07-02",
-            "updated_at": "2026-03-28T09:55:59.000Z",
-            "ts": 1774691759
+            "updated_at": "2026-03-28T09:55:59.000Z"
         },
         {
             "id_mal": "35946",
@@ -428,11 +408,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2018-08-18",
-            "updated_at": "2026-03-28T09:55:47.000Z",
-            "ts": 1774691747
+            "updated_at": "2026-03-28T09:55:47.000Z"
         },
         {
             "id_mal": "13391",
@@ -444,11 +423,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2014-11-15",
-            "updated_at": "2026-03-28T09:55:23.000Z",
-            "ts": 1774691723
+            "updated_at": "2026-03-28T09:55:23.000Z"
         },
         {
             "id_mal": "40211",
@@ -460,11 +438,10 @@
             "type": "movie",
             "score": "8.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2019-09-07",
-            "updated_at": "2026-03-28T09:55:12.000Z",
-            "ts": 1774691712
+            "updated_at": "2026-03-28T09:55:12.000Z"
         },
         {
             "id_mal": "2890",
@@ -476,11 +453,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2008-07-19",
-            "updated_at": "2026-03-28T09:55:00.000Z",
-            "ts": 1774691700
+            "updated_at": "2026-03-28T09:55:00.000Z"
         },
         {
             "id_mal": "420",
@@ -492,11 +468,10 @@
             "type": "movie",
             "score": "6.7",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "1998-09-05",
-            "updated_at": "2026-03-28T09:54:48.000Z",
-            "ts": 1774691688
+            "updated_at": "2026-03-28T09:54:48.000Z"
         },
         {
             "id_mal": "16664",
@@ -508,11 +483,10 @@
             "type": "movie",
             "score": "8.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2013-11-23",
-            "updated_at": "2026-03-28T09:54:37.000Z",
-            "ts": 1774691677
+            "updated_at": "2026-03-28T09:54:37.000Z"
         },
         {
             "id_mal": "38816",
@@ -524,11 +498,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2019-09-20",
-            "updated_at": "2026-03-28T09:54:27.000Z",
-            "ts": 1774691667
+            "updated_at": "2026-03-28T09:54:27.000Z"
         },
         {
             "id_mal": "33519",
@@ -540,11 +513,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2016-12-31",
-            "updated_at": "2026-03-28T09:54:13.000Z",
-            "ts": 1774691653
+            "updated_at": "2026-03-28T09:54:13.000Z"
         },
         {
             "id_mal": "34544",
@@ -556,11 +528,10 @@
             "type": "movie",
             "score": "7.7",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2019-05-10",
-            "updated_at": "2026-03-28T09:54:03.000Z",
-            "ts": 1774691643
+            "updated_at": "2026-03-28T09:54:03.000Z"
         },
         {
             "id_mal": "33520",
@@ -572,11 +543,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2017-01-07",
-            "updated_at": "2026-03-28T09:53:50.000Z",
-            "ts": 1774691630
+            "updated_at": "2026-03-28T09:53:50.000Z"
         },
         {
             "id_mal": "40665",
@@ -588,11 +558,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2020-08-07",
-            "updated_at": "2026-03-28T09:53:39.000Z",
-            "ts": 1774691619
+            "updated_at": "2026-03-28T09:53:39.000Z"
         },
         {
             "id_mal": "38594",
@@ -604,11 +573,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2019-06-21",
-            "updated_at": "2026-03-28T09:53:29.000Z",
-            "ts": 1774691609
+            "updated_at": "2026-03-28T09:53:29.000Z"
         },
         {
             "id_mal": "4983",
@@ -620,11 +588,10 @@
             "type": "movie",
             "score": "6.9",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2008-10-18",
-            "updated_at": "2026-03-28T09:53:19.000Z",
-            "ts": 1774691599
+            "updated_at": "2026-03-28T09:53:19.000Z"
         },
         {
             "id_mal": "13271",
@@ -636,11 +603,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2013-01-12",
-            "updated_at": "2026-03-28T09:53:09.000Z",
-            "ts": 1774691589
+            "updated_at": "2026-03-28T09:53:09.000Z"
         },
         {
             "id_mal": "19951",
@@ -652,11 +618,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2013-12-27",
-            "updated_at": "2026-03-28T09:52:55.000Z",
-            "ts": 1774691575
+            "updated_at": "2026-03-28T09:52:55.000Z"
         },
         {
             "id_mal": "44807",
@@ -668,11 +633,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2021-07-16",
-            "updated_at": "2026-03-28T09:52:45.000Z",
-            "ts": 1774691565
+            "updated_at": "2026-03-28T09:52:45.000Z"
         },
         {
             "id_mal": "1358",
@@ -684,11 +648,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "1986-03-08",
-            "updated_at": "2026-03-28T09:52:34.000Z",
-            "ts": 1774691554
+            "updated_at": "2026-03-28T09:52:34.000Z"
         },
         {
             "id_mal": "459",
@@ -700,11 +663,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2000-03-04",
-            "updated_at": "2026-03-28T09:52:23.000Z",
-            "ts": 1774691543
+            "updated_at": "2026-03-28T09:52:23.000Z"
         },
         {
             "id_mal": "460",
@@ -716,11 +678,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2001-03-03",
-            "updated_at": "2026-03-28T09:52:13.000Z",
-            "ts": 1774691533
+            "updated_at": "2026-03-28T09:52:13.000Z"
         },
         {
             "id_mal": "461",
@@ -732,11 +693,10 @@
             "type": "movie",
             "score": "6.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2002-03-02",
-            "updated_at": "2026-03-28T09:52:03.000Z",
-            "ts": 1774691523
+            "updated_at": "2026-03-28T09:52:03.000Z"
         },
         {
             "id_mal": "462",
@@ -748,11 +708,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2003-03-01",
-            "updated_at": "2026-03-28T09:51:51.000Z",
-            "ts": 1774691511
+            "updated_at": "2026-03-28T09:51:51.000Z"
         },
         {
             "id_mal": "463",
@@ -764,11 +723,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2004-03-06",
-            "updated_at": "2026-03-28T09:51:39.000Z",
-            "ts": 1774691499
+            "updated_at": "2026-03-28T09:51:39.000Z"
         },
         {
             "id_mal": "464",
@@ -780,11 +738,10 @@
             "type": "movie",
             "score": "7.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2005-03-05",
-            "updated_at": "2026-03-28T09:51:28.000Z",
-            "ts": 1774691488
+            "updated_at": "2026-03-28T09:51:28.000Z"
         },
         {
             "id_mal": "465",
@@ -796,11 +753,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2006-03-04",
-            "updated_at": "2026-03-28T09:51:18.000Z",
-            "ts": 1774691478
+            "updated_at": "2026-03-28T09:51:18.000Z"
         },
         {
             "id_mal": "2107",
@@ -812,11 +768,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2007-03-03",
-            "updated_at": "2026-03-28T09:51:07.000Z",
-            "ts": 1774691467
+            "updated_at": "2026-03-28T09:51:07.000Z"
         },
         {
             "id_mal": "3848",
@@ -828,11 +783,10 @@
             "type": "movie",
             "score": "7.4",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2008-03-01",
-            "updated_at": "2026-03-28T09:50:56.000Z",
-            "ts": 1774691456
+            "updated_at": "2026-03-28T09:50:56.000Z"
         },
         {
             "id_mal": "4155",
@@ -844,11 +798,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2009-12-12",
-            "updated_at": "2026-03-28T09:50:46.000Z",
-            "ts": 1774691446
+            "updated_at": "2026-03-28T09:50:46.000Z"
         },
         {
             "id_mal": "9999",
@@ -860,11 +813,10 @@
             "type": "movie",
             "score": "6.9",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2011-03-19",
-            "updated_at": "2026-03-28T09:50:34.000Z",
-            "ts": 1774691434
+            "updated_at": "2026-03-28T09:50:34.000Z"
         },
         {
             "id_mal": "31490",
@@ -876,11 +828,10 @@
             "type": "movie",
             "score": "7.9",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2016-07-23",
-            "updated_at": "2026-03-28T09:50:20.000Z",
-            "ts": 1774691420
+            "updated_at": "2026-03-28T09:50:20.000Z"
         },
         {
             "id_mal": "38234",
@@ -892,11 +843,10 @@
             "type": "movie",
             "score": "8.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2019-08-09",
-            "updated_at": "2026-03-28T09:50:07.000Z",
-            "ts": 1774691407
+            "updated_at": "2026-03-28T09:50:07.000Z"
         },
         {
             "id_mal": "49345",
@@ -908,11 +858,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2022-02-18",
-            "updated_at": "2026-03-28T09:49:56.000Z",
-            "ts": 1774691396
+            "updated_at": "2026-03-28T09:49:56.000Z"
         },
         {
             "id_mal": "1894",
@@ -924,11 +873,10 @@
             "type": "movie",
             "score": "6.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2004-08-13",
-            "updated_at": "2026-03-28T09:49:47.000Z",
-            "ts": 1774691387
+            "updated_at": "2026-03-28T09:49:47.000Z"
         },
         {
             "id_mal": "6951",
@@ -940,11 +888,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2010-01-23",
-            "updated_at": "2026-03-28T09:49:35.000Z",
-            "ts": 1774691375
+            "updated_at": "2026-03-28T09:49:35.000Z"
         },
         {
             "id_mal": "28771",
@@ -956,11 +903,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2016-04-23",
-            "updated_at": "2026-03-28T09:49:25.000Z",
-            "ts": 1774691365
+            "updated_at": "2026-03-28T09:49:25.000Z"
         },
         {
             "id_mal": "2006",
@@ -972,11 +918,10 @@
             "type": "movie",
             "score": "6.9",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "1999-03-06",
-            "updated_at": "2026-03-28T09:49:14.000Z",
-            "ts": 1774691354
+            "updated_at": "2026-03-28T09:49:14.000Z"
         },
         {
             "id_mal": "34820",
@@ -988,11 +933,10 @@
             "type": "movie",
             "score": "7.0",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2018-01-13",
-            "updated_at": "2026-03-28T09:12:29.000Z",
-            "ts": 1774689149
+            "updated_at": "2026-03-28T09:12:29.000Z"
         },
         {
             "id_mal": "37987",
@@ -1004,11 +948,10 @@
             "type": "movie",
             "score": "8.8",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2020-09-18",
-            "updated_at": "2026-03-26T13:14:46.000Z",
-            "ts": 1774530886
+            "updated_at": "2026-03-26T13:14:46.000Z"
         },
         {
             "id_mal": "513",
@@ -1020,11 +963,10 @@
             "type": "movie",
             "score": "8.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "1986-08-02",
-            "updated_at": "2026-03-26T13:14:35.000Z",
-            "ts": 1774530875
+            "updated_at": "2026-03-26T13:14:35.000Z"
         },
         {
             "id_mal": "24655",
@@ -1036,11 +978,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2015-08-22",
-            "updated_at": "2026-03-26T12:31:52.000Z",
-            "ts": 1774528312
+            "updated_at": "2026-03-26T12:31:52.000Z"
         },
         {
             "id_mal": "42423",
@@ -1052,11 +993,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2020-11-13",
-            "updated_at": "2026-03-26T10:52:12.000Z",
-            "ts": 1774522332
+            "updated_at": "2026-03-26T10:52:12.000Z"
         },
         {
             "id_mal": "40416",
@@ -1068,11 +1008,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2020-08-14",
-            "updated_at": "2026-03-26T10:52:03.000Z",
-            "ts": 1774522323
+            "updated_at": "2026-03-26T10:52:03.000Z"
         },
         {
             "id_mal": "32281",
@@ -1084,11 +1023,10 @@
             "type": "movie",
             "score": "8.8",
             "status": "",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-26T01:22:00.000Z",
-            "ts": 1774488120
+            "updated_at": "2026-03-26T01:22:00.000Z"
         },
         {
             "id_mal": "57508",
@@ -1100,11 +1038,10 @@
             "type": "movie",
             "score": "7.0",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "57555",
@@ -1116,11 +1053,10 @@
             "type": "movie",
             "score": "9.1",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "57647",
@@ -1132,11 +1068,10 @@
             "type": "movie",
             "score": "8.6",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "56196",
@@ -1148,11 +1083,10 @@
             "type": "movie",
             "score": "7.5",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "49842",
@@ -1164,11 +1098,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "49877",
@@ -1180,11 +1113,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "50549",
@@ -1196,11 +1128,10 @@
             "type": "movie",
             "score": "7.2",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "52107",
@@ -1212,11 +1143,10 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "52742",
@@ -1228,11 +1158,10 @@
             "type": "movie",
             "score": "8.6",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "52967",
@@ -1244,11 +1173,10 @@
             "type": "movie",
             "score": "6.4",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "54791",
@@ -1260,11 +1188,10 @@
             "type": "movie",
             "score": "8.1",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "54866",
@@ -1276,11 +1203,10 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "55748",
@@ -1292,11 +1218,10 @@
             "type": "movie",
             "score": "7.7",
             "status": "Finished Airing",
-            "episodes": 1,
             "calidad": "HD",
+            "episodes": 1,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "58125",
@@ -1308,11 +1233,10 @@
             "type": "movie",
             "score": "8.6",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "58919",
@@ -1324,11 +1248,10 @@
             "type": "movie",
             "score": "8.4",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "59186",
@@ -1340,11 +1263,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "59419",
@@ -1356,11 +1278,10 @@
             "type": "movie",
             "score": "7.6",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "59489",
@@ -1372,11 +1293,10 @@
             "type": "movie",
             "score": "7.1",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "59571",
@@ -1388,11 +1308,10 @@
             "type": "movie",
             "score": "8.8",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "58222",
@@ -1404,11 +1323,10 @@
             "type": "movie",
             "score": "8.5",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "61595",
@@ -1420,11 +1338,10 @@
             "type": "movie",
             "score": "7.9",
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "62896",
@@ -1436,11 +1353,10 @@
             "type": "movie",
             "score": 8.5,
             "status": "",
-            "episodes": 0,
             "calidad": "HD",
+            "episodes": 0,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         }
     ]
 }
