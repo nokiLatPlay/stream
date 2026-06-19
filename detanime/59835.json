@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Miyoshi Aimi and Nami Sometani are two high school girls who often find themselves talking about a boy in their class, Kirio. This lighthearted romantic comedy follows the daily lives of these two friends and rivals on a journey that, for now, seems to be heading everywhere but love.\r\n\r\n(Source: Comic Ruelle, translated)",
     "score": "6.2",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -25,7 +25,7 @@
         "Studio Sound Bee"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-16T02:58:26.000Z",
+    "updated_at": "2026-06-19T02:20:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -179,6 +179,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/68df772927bf564181aef164175925ab",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Club de fans de Kirio",
+                    "portada": "https://image.tmdb.org/t/p/w300/3WUCIVf6t1LRRCn4dLdP8lwkym9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/91f5f82c34803a7a96b5c9456fdd09fa",
                             "type": "mp4",
                             "language": "Sub"
                         }
