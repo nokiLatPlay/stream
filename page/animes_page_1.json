@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 651,
+    "total_items": 652,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37510",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101338-rokVscjRYzdP.jpg",
+            "titulo": "Mob Psycho 100 II",
+            "titulo_original": "モブサイコ100 II",
+            "etiquetas": "Action, Comedy, Drama, Psychological, Slice of Life",
+            "type": "anime",
+            "created_at": "2019-01-07",
+            "updated_at": "2026-06-19T02:41:25.000Z",
+            "year": 2019,
+            "score": "8.7",
+            "status": "FINISHED",
+            "episodes": 13
+        },
         {
             "id_mal": "62246",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1756\/151431.jpg",
@@ -2843,21 +2857,6 @@
             "created_at": "2013-04-06",
             "updated_at": "2026-04-12T09:17:40.000Z",
             "ts": 1774525719
-        },
-        {
-            "id_mal": "19163",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1690\/141818.jpg",
-            "titulo": "Date A Live II",
-            "titulo_original": "デート・ア・ライブⅡ",
-            "year": "2014",
-            "etiquetas": "Action, Fantasy, Romance, Sci-Fi",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 10,
-            "created_at": "2014-04-12",
-            "updated_at": "2026-04-12T09:17:39.000Z",
-            "ts": 1774528266
         }
     ]
 }
