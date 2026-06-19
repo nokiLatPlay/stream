@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "39576",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1699\/110724.jpg",
+            "titulo": "Goblin Slayer: Goblin's Crown",
+            "titulo_original": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "movie",
+            "created_at": "2020-02-01",
+            "updated_at": "2026-06-19T05:16:00.000Z",
+            "year": "2020",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "episodes": 1,
+            "calidad": "HD"
+        },
+        {
             "id_mal": "32071",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/nx21496-b6R9F3FtIgWJ.jpg",
             "titulo": "GANTZ:O",
@@ -376,22 +391,6 @@
             "created_at": "2018-08-18",
             "updated_at": "2026-03-28T09:55:47.000Z",
             "ts": 1774691747
-        },
-        {
-            "id_mal": "39576",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1699\/110724.jpg",
-            "titulo": "Goblin Slayer: Goblin's Crown",
-            "titulo_original": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
-            "year": "2020",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "movie",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "episodes": 1,
-            "calidad": "HD",
-            "created_at": "2020-02-01",
-            "updated_at": "2026-03-28T09:55:35.000Z",
-            "ts": 1774691735
         },
         {
             "id_mal": "13391",
