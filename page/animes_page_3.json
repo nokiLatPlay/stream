@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 652,
+    "total_items": 653,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "31765",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1557\/123313.jpg",
+            "titulo": "Sword Art Online Movie: Ordinal Scale",
+            "titulo_original": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+            "year": "2017",
+            "etiquetas": "Action, Adventure, Sci-Fi",
+            "type": "movie",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "created_at": "2017",
+            "updated_at": "2026-04-04T07:23:43.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "42916",
             "slug": "",
@@ -3045,21 +3061,6 @@
             "created_at": "2025-07-05",
             "updated_at": "2026-03-17T00:35:02.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "56693",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1502\/150545l.jpg",
-            "titulo": "Watari-kun no xx ga Houkai Sunzen",
-            "titulo_original": "渡くんの××が崩壊寸前",
-            "year": "2025",
-            "etiquetas": "Comedy, Drama, Romance",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2025-07-05",
-            "updated_at": "2026-03-17T00:34:58.000Z",
-            "episodes": 26
         }
     ]
 }
