@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!  (Source: Kodansha USA)",
     "score": "7.0",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "",
@@ -21,7 +21,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-09",
-    "updated_at": "2026-06-16T02:51:15.000Z",
+    "updated_at": "2026-06-19T02:13:09.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -161,6 +161,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/10c613992f5080c2b1cb8ad85db596e0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "El descubrimiento es la madre de todo Quefto",
+                    "portada": "https://image.tmdb.org/t/p/w300/5tg39zrzYEAJxOyUiVD6k9uwKQg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1206f054c4fb4c2a0f5c8d41bcfd693b",
                             "type": "mp4",
                             "language": "Sub"
                         }
