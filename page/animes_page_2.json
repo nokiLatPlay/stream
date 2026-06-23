@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "44961",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1992\/116576.jpg",
+            "titulo": "Platinum End",
+            "titulo_original": "プラチナエンド",
+            "etiquetas": "Drama, Supernatural, Suspense",
+            "type": "anime",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-04-16T02:57:07.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
+        {
             "id_mal": "59935",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1714\/148317l.jpg",
             "titulo": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
@@ -2889,20 +2903,6 @@
             "updated_at": "2026-04-05T07:58:53.000Z",
             "episodes": 0,
             "calidad": "HD"
-        },
-        {
-            "id_mal": "44942",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1456\/115123.jpg",
-            "titulo": "Shuumatsu no Walküre",
-            "titulo_original": "終末のワルキューレ",
-            "year": "2021",
-            "etiquetas": "Action, Drama, Fantasy",
-            "type": "anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2021-17-6",
-            "updated_at": "2026-04-05T00:54:03.000Z",
-            "episodes": 27
         }
     ]
 }
