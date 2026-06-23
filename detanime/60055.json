@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Yozakura-san Chi no Daisakusen.",
     "score": "7.7",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -25,7 +25,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-12",
-    "updated_at": "2026-06-16T06:27:04.000Z",
+    "updated_at": "2026-06-23T06:50:38.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -165,6 +165,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/d5a9660df6bbf980ec12a284b560e336",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Operación Búsqueda del Hijo Mayor",
+                    "portada": "https://image.tmdb.org/t/p/w300/7wLpWP0KlYExsqytyKhpG79ggWT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9610a363e7e0c35e27ad3deee4e9ca5f",
                             "type": "mp4",
                             "language": "Sub"
                         }
