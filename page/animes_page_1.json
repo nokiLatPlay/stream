@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62048",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386.jpg",
+            "titulo": "Mao",
+            "titulo_original": "MAO",
+            "etiquetas": "Mystery, Supernatural, Historical, Mythology, Time Travel, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-06-23T06:43:40.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "61217",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1821\/154043.jpg",
             "titulo": "Yuusha no Kuzu",
@@ -1011,20 +1025,6 @@
             "score": "7.7",
             "status": "Currently Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "62048",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386.jpg",
-            "titulo": "Mao",
-            "titulo_original": "MAO",
-            "etiquetas": "Mystery, Supernatural, Historical, Mythology, Time Travel, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-06-16T06:25:33.000Z",
-            "year": "2026",
-            "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": 11
         },
         {
             "id_mal": "62018",
