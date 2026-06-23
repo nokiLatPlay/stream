@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 575,
+    "total_items": 576,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11111",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
+            "titulo": "Another",
+            "titulo_original": "アナザー",
+            "etiquetas": "Horror, Mystery, Psychological, Supernatural, Thriller",
+            "type": "anime",
+            "created_at": "2012-01-10",
+            "updated_at": "2026-06-23T07:43:39.000Z",
+            "year": 2012,
+            "score": "7.1",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "121",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx121-zjmixZ428Mwv.png",
@@ -2839,21 +2853,6 @@
             "created_at": "2025-04-05",
             "updated_at": "2026-04-12T09:17:48.000Z",
             "ts": 1774517621
-        },
-        {
-            "id_mal": "59452",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/148148l.jpg",
-            "titulo": "Katainaka no Ossan, Kensei ni Naru",
-            "titulo_original": "片田舎のおっさん、剣聖になる",
-            "year": "2025",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-04-05",
-            "updated_at": "2026-04-12T09:17:45.000Z",
-            "ts": 1774517699
         }
     ]
 }
