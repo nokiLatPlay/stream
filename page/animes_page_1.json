@@ -1,9 +1,23 @@
 {
     "page": 1,
-    "total_pages": 4,
-    "total_items": 653,
+    "total_pages": 3,
+    "total_items": 573,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59970",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1695\/156389.jpg",
+            "titulo": "Tensei shitara Slime Datta Ken 4th Season",
+            "titulo_original": "転生したらスライムだった件 第4期",
+            "etiquetas": "Action, Comedy, Fantasy, Isekai, Reincarnation, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-06-23T04:58:53.000Z",
+            "year": "2026",
+            "score": "8.2",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
         {
             "id_mal": "28171",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20923-pNT38pjW3RFH.jpg",
@@ -1067,20 +1081,6 @@
             "score": "6.6",
             "status": "Currently Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "59970",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1695\/156389.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken 4th Season",
-            "titulo_original": "転生したらスライムだった件 第4期",
-            "etiquetas": "Action, Comedy, Fantasy, Isekai, Reincarnation, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-06-16T04:01:32.000Z",
-            "year": "2026",
-            "score": "8.2",
-            "status": "Currently Airing",
-            "episodes": 10
         },
         {
             "id_mal": "56876",
