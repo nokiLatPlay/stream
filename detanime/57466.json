@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
     "score": "8.0",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -26,7 +26,7 @@
         "TO Books"
     ],
     "created_at": "2026-04-04",
-    "updated_at": "2026-06-16T04:11:34.000Z",
+    "updated_at": "2026-06-23T06:34:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -166,6 +166,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/9443d4a4e61db7d88337ad4ec98322f8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "La reunión de los Gutenberg",
+                    "portada": "https://image.tmdb.org/t/p/w300/4yPg8aaJ2zdk90uwFYrkrUm5Fxo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b4298397c8d1386a1d8059c8017e8a0f",
                             "type": "mp4",
                             "language": "Sub"
                         }
