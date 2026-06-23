@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "21",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
+            "titulo": "One Piece",
+            "titulo_original": "ONE PIECE",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-03-25",
+            "updated_at": "2026-06-23T06:58:10.000Z",
+            "year": "1999",
+            "score": "8.7",
+            "status": "Currently Airing",
+            "episodes": 1167
+        },
+        {
             "id_mal": "62171",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989.jpg",
             "titulo": "The Classroom Of a Black Cat And a Witch",
@@ -983,21 +997,7 @@
             "score": "7.1",
             "status": "Currently Airing",
             "episodes": 35
-        },
-        {
-            "id_mal": "21",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
-            "titulo": "One Piece",
-            "titulo_original": "ONE PIECE",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-03-25",
-            "updated_at": "2026-06-23T06:15:00.000Z",
-            "year": "1999",
-            "score": "8.7",
-            "status": "Currently Airing",
-            "episodes": 1167
-        },
+        },        
         {
             "id_mal": "62852",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658.jpg",
