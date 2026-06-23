@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 578,
+    "total_items": 579,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52359",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1925\/139564.jpg",
+            "titulo": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+            "titulo_original": "異世界でもふもふなでなでするためにがんばってます。",
+            "year": "2024",
+            "etiquetas": "Adventure, Fantasy",
+            "type": "anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2024-7-1",
+            "updated_at": "2026-04-12T00:33:28.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "52367",
             "slug": "",
