@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Tomorou Tenma possesses a uniquely strong e-Pulse—the energy created by human thoughts and emotions that powers egg-shaped AI devices named Sapotama. The world's everyday life relies on the assistance of Sapotamas, but the force of Tomorou's e-Pulse often causes glitches in them. One night, a strange creature calling itself Gekkoumon emerges from his device and insists on eating Tomorou's e-Pulse.\n\nGekkoumon is a Digimon, a creature feeding on e-Pulse that was born from an error in Sapotamas. Some Digimon completely drain humans of their energy, leaving them in a comatose state known as Cold Heart. When Tomorou's older brother, Asuka, becomes a victim of this phenomenon, Tomorou vows to avenge him.\n\nTomorou meets a group of Digimon-wielders called Glowing Dawn, who hunt down rogue Digimon for bounties. Their leader, Kyou Sawashiro, explains that there might still be hope for Asuka's recovery. Although Tomorou struggles to trust these strangers, he decides to join them, as he realizes that saving his brother may not be achievable on his own.\n\n[Written by MAL Rewrite]",
     "score": "7.1",
-    "episodes": 35,
+    "episodes": 36,
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
@@ -22,7 +22,7 @@
         "Tavac"
     ],
     "created_at": "2025-10-05",
-    "updated_at": "2026-06-16T11:48:28.000Z",
+    "updated_at": "2026-06-23T07:28:35.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -657,6 +657,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8f88664c3af553088585f08005e9d854",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "36",
+                    "numero": 36,
+                    "nombre": "Código retorcido",
+                    "portada": "https://image.tmdb.org/t/p/w300/fKGPifUUyf5jpYuxxkK5gJW3VNB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/122a7d3105b7798372ab3d984f53a210",
                             "type": "mp4",
                             "language": "Sub"
                         }
