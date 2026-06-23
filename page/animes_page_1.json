@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61608",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1361\/153968.jpg",
+            "titulo": "Jigoku Sensei Nube (2025) Part 2",
+            "titulo_original": "地獄先生ぬ～べ～",
+            "etiquetas": "Comedy, Horror, Supernatural, Mythology, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-01-07",
+            "updated_at": "2026-06-23T16:27:19.000Z",
+            "year": "2026",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "60071",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1968\/152396.jpg",
             "titulo": "Odayaka Kizoku no Kyuuka no Susume.",
@@ -2829,21 +2843,6 @@
             "created_at": "2021-07-01",
             "updated_at": "2026-04-16T04:11:13.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "39292",
-            "slug": "princess-connect-redive",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1810\/106070.jpg",
-            "titulo": "Princess Connect Redive",
-            "titulo_original": "プリンセスコネクト！Re:Dive",
-            "year": "2020",
-            "etiquetas": "Adventure, Comedy, Fantasy, Gourmet",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "created_at": "2020-04-07",
-            "updated_at": "2026-04-16T04:10:44.000Z",
-            "episodes": 13
         }
     ]
 }
