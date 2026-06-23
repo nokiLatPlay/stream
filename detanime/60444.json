@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.\r\n<br><br>\r\n(Source: HIDIVE)",
     "score": "6.2",
-    "episodes": 10,
+    "episodes": 11,
     "status": "Currently Airing",
     "duration": "23 min. per ep.",
     "rating": "R+ - Mild Nudity",
@@ -22,7 +22,7 @@
         "Nikkatsu"
     ],
     "created_at": "2026-05-22",
-    "updated_at": "2026-06-16T04:15:00.000Z",
+    "updated_at": "2026-06-23T06:36:08.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -162,6 +162,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/e5dfb5869b7062d57a0c7a8260a7b795",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Sentimientos fuertes y resistentes",
+                    "portada": "https://image.tmdb.org/t/p/w300/5XCTPXXErYfYNfaCRksr1CBr7Ki.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d1807ba80bc1ca2617c548b37febf620",
                             "type": "mp4",
                             "language": "Sub"
                         }
