@@ -12,7 +12,7 @@
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
-    "status": "Currently Airing",
+    "status": "Finished Airing",
     "studios": [
         "Shuka"
     ],
@@ -25,7 +25,7 @@
         "BS Asahi"
     ],
     "created_at": "2026-01-04",
-    "updated_at": "2026-04-01T01:40:48.000Z",
+    "updated_at": "2026-06-23T14:30:55.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -34,8 +34,8 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Episodio 1",
-                    "portada": "",
+                    "nombre": "Rebosar",
+                    "portada": "https://image.tmdb.org/t/p/w300/wJlQMdd9zpmt1VFyLZN6Nsg0BNe.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -54,8 +54,8 @@
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "02. Episodio 2",
-                    "portada": "",
+                    "nombre": "Envoltura",
+                    "portada": "https://image.tmdb.org/t/p/w300/7zv0JLvm9PhW3QLrP2VK8K0x2bc.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -74,8 +74,8 @@
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "03. Episodio 3",
-                    "portada": "",
+                    "nombre": "Desechar",
+                    "portada": "https://image.tmdb.org/t/p/w300/dHBmDcrOX7RTZAhy0nD7DiUl9o0.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -94,8 +94,8 @@
                 {
                     "episode_id": "04",
                     "numero": 4,
-                    "nombre": "04. Episodio 4",
-                    "portada": "",
+                    "nombre": "Acobardarse",
+                    "portada": "https://image.tmdb.org/t/p/w300/7SIyDuiKilS3koJd1UycvSKs1Qn.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -114,8 +114,8 @@
                 {
                     "episode_id": "05",
                     "numero": 5,
-                    "nombre": "05. Episodio 5",
-                    "portada": "",
+                    "nombre": "Decidir",
+                    "portada": "https://image.tmdb.org/t/p/w300/m1nyljiVnfygsdTEhVY5m7v2SS1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -134,8 +134,8 @@
                 {
                     "episode_id": "06",
                     "numero": 6,
-                    "nombre": "06. Episodio 6",
-                    "portada": "",
+                    "nombre": "Superposición",
+                    "portada": "https://image.tmdb.org/t/p/w300/sAaiv1LofEI29Q4ipbnX8ghX9Lm.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -154,8 +154,8 @@
                 {
                     "episode_id": "07",
                     "numero": 7,
-                    "nombre": "07. Episodio 7",
-                    "portada": "",
+                    "nombre": "Dejar por escrito",
+                    "portada": "https://image.tmdb.org/t/p/w300/iqTk5557iUQVJffhXRWTyqwNMfx.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -174,8 +174,8 @@
                 {
                     "episode_id": "08",
                     "numero": 8,
-                    "nombre": "08. Episodio 8",
-                    "portada": "",
+                    "nombre": "Deambular",
+                    "portada": "https://image.tmdb.org/t/p/w300/piM5rUCi4sUDsWJ9yhQWCOg1DBK.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -194,8 +194,8 @@
                 {
                     "episode_id": "09",
                     "numero": 9,
-                    "nombre": "09. Episodio 9",
-                    "portada": "",
+                    "nombre": "Intersecarse",
+                    "portada": "https://image.tmdb.org/t/p/w300/zrmoTG5hOkveSkjlNzphjjjWnGw.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -214,8 +214,8 @@
                 {
                     "episode_id": "10",
                     "numero": 10,
-                    "nombre": "10. Episodio 10",
-                    "portada": "",
+                    "nombre": "Unir",
+                    "portada": "https://image.tmdb.org/t/p/w300/pUdp3YkIgLyK9BpQth37XphVwQ1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -234,8 +234,8 @@
                 {
                     "episode_id": "11",
                     "numero": 11,
-                    "nombre": "11. Episodio 11",
-                    "portada": "",
+                    "nombre": "Liberar",
+                    "portada": "https://image.tmdb.org/t/p/w300/3VOC07baIrsbRetD49De3zzxKUl.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -254,8 +254,8 @@
                 {
                     "episode_id": "12",
                     "numero": 12,
-                    "nombre": "Episodio 12",
-                    "portada": "",
+                    "nombre": "Encontrar",
+                    "portada": "https://image.tmdb.org/t/p/w300/yQt0k8Ek5oK3kkE11tF3orP2zP1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
@@ -274,8 +274,8 @@
                 {
                     "episode_id": "13",
                     "numero": 13,
-                    "nombre": "Episodio 13",
-                    "portada": "",
+                    "nombre": "La mañana está aquí",
+                    "portada": "https://image.tmdb.org/t/p/w300/kBO7AcNb2LMQQMgDUQGKzaD4DrH.jpg",
                     "enlaces": [
                         {
                             "nombre": "Server 1",
