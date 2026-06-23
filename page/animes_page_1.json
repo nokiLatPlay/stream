@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "57466",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3xFcgiT7t4LDw5Cad8SiVkhKzW2.jpg",
+            "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+            "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+            "etiquetas": "Fantasy, Isekai, Reincarnation",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-06-23T06:34:58.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 11
+        },
+        {
             "id_mal": "60310",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
             "titulo": "Mairimashita! Iruma-kun 4th Season",
@@ -1065,20 +1079,6 @@
             "updated_at": "2026-06-16T04:15:02.000Z",
             "year": "2026",
             "score": "6.2",
-            "status": "Currently Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "57466",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3xFcgiT7t4LDw5Cad8SiVkhKzW2.jpg",
-            "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-            "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-            "etiquetas": "Fantasy, Isekai, Reincarnation",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-06-16T04:11:35.000Z",
-            "year": "2026",
-            "score": "8.0",
             "status": "Currently Airing",
             "episodes": 10
         },
