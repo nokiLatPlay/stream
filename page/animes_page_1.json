@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61886",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1721\/153380l.jpg",
+            "titulo": "Goumon Baito-kun no Nichijou",
+            "titulo_original": "拷問バイトくんの日常",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2026-01-05",
+            "updated_at": "2026-06-23T14:22:12.000Z",
+            "year": "2026",
+            "score": "5.8",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "37521",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101348-2fhDFPCuMNiz.jpg",
             "titulo": "VINLAND SAGA",
@@ -2836,21 +2850,6 @@
             "created_at": "2025-04-05",
             "updated_at": "2026-04-16T01:00:11.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "45DMC91",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/d9aqYyDymdl0HhexUQMT6dKUM4r.jpg",
-            "titulo": "Devil May Cry",
-            "titulo_original": "",
-            "year": "2025",
-            "etiquetas": "Animación, Action, Adventure, Sci-Fi, Fantasy",
-            "type": "anime",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 8,
-            "created_at": "2025-03-04",
-            "updated_at": "2026-04-12T09:17:52.000Z",
-            "ts": 1774503416
         }
     ]
 }
