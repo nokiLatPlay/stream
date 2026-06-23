@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "17080",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/68565.jpg",
+            "titulo": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+            "titulo_original": "蒼穹のファフナー Dead Aggressor EXODUS",
+            "year": "2015",
+            "etiquetas": "Drama, Sci-Fi",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2015-9-1",
+            "updated_at": "2026-04-07T19:52:16.000Z",
+            "episodes": 13
+        },
+        {
             "id_mal": "33783",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1847\/93081l.jpg",
@@ -1020,21 +1035,6 @@
             "status": "Currently Airing",
             "created_at": "2026-01-07",
             "updated_at": "2026-03-20T22:40:42.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60226",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1510\/153806l.jpg",
-            "titulo": "Isekai no Sata wa Shachiku Shidai",
-            "titulo_original": "異世界の沙汰は社畜次第",
-            "year": "2026",
-            "etiquetas": "Boys Love, Fantasy",
-            "type": "anime",
-            "score": "6.9",
-            "status": "Currently Airing",
-            "created_at": "2026-01-06",
-            "updated_at": "2026-03-18T11:03:48.000Z",
             "episodes": 12
         },
         {
