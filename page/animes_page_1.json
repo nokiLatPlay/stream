@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 576,
+    "total_items": 577,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28891",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20992-aHgNbcalVEqk.png",
+            "titulo": "Haikyuu!! 2nd Season",
+            "titulo_original": "ハイキュー!! セカンドシーズン",
+            "etiquetas": "Comedy, Drama, Sports",
+            "type": "anime",
+            "created_at": "2015-10-04",
+            "updated_at": "2026-06-23T07:48:46.000Z",
+            "year": 2015,
+            "score": "8.6",
+            "status": "FINISHED",
+            "episodes": 25
+        },
         {
             "id_mal": "11111",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
@@ -2838,21 +2852,6 @@
             "created_at": "2025-10-12",
             "updated_at": "2026-04-12T09:17:49.000Z",
             "ts": 1774513860
-        },
-        {
-            "id_mal": "59228",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1517\/148292l.jpg",
-            "titulo": "Kuroshitsuji: Midori no Majo-hen",
-            "titulo_original": "黒執事 -緑の魔女編-",
-            "year": "2025",
-            "etiquetas": "Action, Mystery, Supernatural",
-            "type": "anime",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "episodes": 13,
-            "created_at": "2025-04-05",
-            "updated_at": "2026-04-12T09:17:48.000Z",
-            "ts": 1774517621
         }
     ]
 }
