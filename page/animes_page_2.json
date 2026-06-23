@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 575,
+    "total_items": 576,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59452",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/148148l.jpg",
+            "titulo": "Katainaka no Ossan, Kensei ni Naru",
+            "titulo_original": "片田舎のおっさん、剣聖になる",
+            "year": "2025",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2025-04-05",
+            "updated_at": "2026-04-12T09:17:45.000Z",
+            "ts": 1774517699
+        },
         {
             "id_mal": "60083",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1719\/150050l.jpg",
@@ -2887,22 +2902,6 @@
             "status": "Finished Airing",
             "created_at": "2014",
             "updated_at": "2026-04-04T07:46:13.000Z",
-            "episodes": 1,
-            "calidad": "HD"
-        },
-        {
-            "id_mal": "21647",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1417\/91333.jpg",
-            "titulo": "Tamako Love Story",
-            "titulo_original": "たまこラブストーリー",
-            "year": "2014",
-            "etiquetas": "Award Winning, Romance",
-            "type": "movie",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "created_at": "2014",
-            "updated_at": "2026-04-04T07:43:07.000Z",
             "episodes": 1,
             "calidad": "HD"
         }
