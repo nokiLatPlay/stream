@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62068",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
+            "titulo": "Snowball Earth",
+            "titulo_original": "スノウボールアース",
+            "etiquetas": "Adventure, Sci-Fi, Mecha, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-06-23T05:03:46.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "62981",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
             "titulo": "Kami no Shizuku",
@@ -1067,20 +1081,6 @@
             "score": "6.5",
             "status": "Currently Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62068",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
-            "titulo": "Snowball Earth",
-            "titulo_original": "スノウボールアース",
-            "etiquetas": "Adventure, Sci-Fi, Mecha, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-06-16T04:02:51.000Z",
-            "year": "2026",
-            "score": "6.6",
-            "status": "Currently Airing",
-            "episodes": 11
         },
         {
             "id_mal": "56876",
