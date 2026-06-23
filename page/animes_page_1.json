@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61587",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1360\/153435.jpg",
+            "titulo": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+            "titulo_original": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+            "etiquetas": "Action, Adventure, Fantasy, Girls Love",
+            "type": "anime",
+            "created_at": "2026-01-09",
+            "updated_at": "2026-06-23T16:31:47.000Z",
+            "year": "2026",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "61325",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1054\/153719.jpg",
             "titulo": "Douse, Koishite Shimaunda. 2nd Season",
@@ -2825,21 +2839,6 @@
             "created_at": "2012-10-12",
             "updated_at": "2026-04-16T06:01:11.000Z",
             "episodes": 22
-        },
-        {
-            "id_mal": "27775",
-            "slug": "plastic-memories",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/72750.jpg",
-            "titulo": "Plastic Memories",
-            "titulo_original": "プラスティック・メモリーズ",
-            "year": "2015",
-            "etiquetas": "Drama, Romance, Sci-Fi",
-            "type": "anime",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "created_at": "2015-04-05",
-            "updated_at": "2026-04-16T05:04:52.000Z",
-            "episodes": 13
         }
     ]
 }
