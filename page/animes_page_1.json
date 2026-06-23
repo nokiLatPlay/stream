@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60310",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
+            "titulo": "Mairimashita! Iruma-kun 4th Season",
+            "titulo_original": "魔入りました！入間くん 第4シリーズ",
+            "etiquetas": "Comedy, Fantasy, School, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-06-23T05:07:55.000Z",
+            "year": "2026",
+            "score": "8.0",
+            "status": "Currently Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "61186",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1026\/155965.jpg",
             "titulo": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
@@ -1053,20 +1067,6 @@
             "score": "6.2",
             "status": "Currently Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "60310",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4ujO7fWRzyWvU96u6puKmi6ZgiS.jpg",
-            "titulo": "Mairimashita! Iruma-kun 4th Season",
-            "titulo_original": "魔入りました！入間くん 第4シリーズ",
-            "etiquetas": "Comedy, Fantasy, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-06-16T04:13:28.000Z",
-            "year": "2026",
-            "score": "8.0",
-            "status": "Currently Airing",
-            "episodes": 11
         },
         {
             "id_mal": "57466",
