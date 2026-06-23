@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.  On an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.  Before the woman can capture him, Yuru is rescued by a man named Ryuu \"Dera\" Tadera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.  [Written by MAL Rewrite]",
     "score": "8.1",
-    "episodes": 11,
+    "episodes": 12,
     "duration": "23 min per ep",
     "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
@@ -24,7 +24,7 @@
         "Peerless Gerbera"
     ],
     "created_at": "2026-4-4",
-    "updated_at": "2026-06-16T04:20:48.000Z",
+    "updated_at": "2026-06-23T06:38:33.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -233,6 +233,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/9d5dd5439f96128cfcdc7b4a6dd5814f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Retenedor y chamán",
+                    "portada": "https://image.tmdb.org/t/p/w300/72gZFDiTNjxC4bvOczEoGx0kGgm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c606e90c4e6014a13b1efa10bb7eaa47",
                             "type": "mp4",
                             "language": "Sub"
                         }
