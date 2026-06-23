@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 576,
+    "total_items": 577,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "21557",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/7\/64293.jpg",
+            "titulo": "Omoide no Marnie",
+            "titulo_original": "思い出のマーニー",
+            "year": "2014",
+            "etiquetas": "Drama, Mystery, Suspense",
+            "type": "movie",
+            "score": "8.0",
+            "status": "Finished Airing",
+            "created_at": "2014",
+            "updated_at": "2026-04-04T07:46:13.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "21647",
             "slug": "",
