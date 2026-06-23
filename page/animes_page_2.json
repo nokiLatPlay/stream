@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "51818",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1527\/146836l.jpg",
+            "titulo": "Enen no Shouboutai: San no Shou",
+            "titulo_original": "炎炎ノ消防隊 参ノ章",
+            "year": "2025",
+            "etiquetas": "Action, Fantasy, Sci-Fi",
+            "type": "anime",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "created_at": "2025-04-05",
+            "updated_at": "2026-04-16T01:00:11.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "45DMC91",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/d9aqYyDymdl0HhexUQMT6dKUM4r.jpg",
             "titulo": "Devil May Cry",
@@ -2887,20 +2902,6 @@
             "created_at": "2016-16-4",
             "updated_at": "2026-04-04T23:01:44.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "48417",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1369\/139553.jpg",
-            "titulo": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
-            "titulo_original": "魔王学院の不適合者 II～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
-            "year": "2023",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2023-8-1",
-            "updated_at": "2026-04-04T22:55:52.000Z",
-            "episodes": 24
         }
     ]
 }
