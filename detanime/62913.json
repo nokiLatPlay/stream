@@ -9,7 +9,7 @@
     "type": "anime",
     "synopsis": "In a world where likes are currency and every viewer is a judge, OMGkawaiiAngel (also known as KAngel) is determined to become the ultimate \"Internet Angel.\" Yet beneath her pastel smile and lively streams, there's more than meets the eye.  (Source: Crunchyroll)",
     "score": "7.0",
-    "episodes": 11,
+    "episodes": 12,
     "duration": "24 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
@@ -26,7 +26,7 @@
         "Yostar"
     ],
     "created_at": "2026-5-4",
-    "updated_at": "2026-06-16T04:48:15.000Z",
+    "updated_at": "2026-06-23T06:41:01.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -211,6 +211,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/42f833ae252881cedc1c7dfa45a33892",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "INTERNET YAMERO",
+                    "portada": "https://image.tmdb.org/t/p/w300/xOxbO3O3n8xxNhRZITRq6LZ7crO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/62b43da3210cebed5de6164f2e98c052",
                             "type": "mp4",
                             "language": "Sub"
                         }
