@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "37345",
+            "slug": "plunderer",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1534\/104784.jpg",
+            "titulo": "Plunderer",
+            "titulo_original": "プランダラ",
+            "year": "2020",
+            "etiquetas": "Action, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "created_at": "2020-01-09",
+            "updated_at": "2026-04-16T04:10:12.000Z",
+            "episodes": 24
+        },
+        {
             "id_mal": "30240",
             "slug": "prison-school",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1286\/112161.jpg",
@@ -2886,20 +2901,6 @@
             "status": "Finished Airing",
             "created_at": "2019-8-11",
             "updated_at": "2026-04-07T22:30:12.000Z",
-            "episodes": 3
-        },
-        {
-            "id_mal": "41714",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1023\/107083.jpg",
-            "titulo": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
-            "titulo_original": "蒼穹のファフナー Dead Aggressor THE BEYOND",
-            "year": "2020",
-            "etiquetas": "Drama, Sci-Fi",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2020-13-11",
-            "updated_at": "2026-04-07T22:26:39.000Z",
             "episodes": 3
         }
     ]
