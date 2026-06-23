@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "42670",
+            "slug": "princess-connect-redive-season-2",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1906\/117145.jpg",
+            "titulo": "Princess Connect Redive Season 2",
+            "titulo_original": "プリンセスコネクト! Re:Dive Season 2",
+            "year": "2026",
+            "etiquetas": "Adventure, Comedy, Fantasy, Gourmet",
+            "type": "anime",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-04-16T03:34:02.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "40436",
             "slug": "peter-grill-to-kenja-no-jikan",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1368\/108441.jpg",
@@ -2887,21 +2902,6 @@
             "updated_at": "2026-04-07T19:54:50.000Z",
             "episodes": 1,
             "calidad": "HD"
-        },
-        {
-            "id_mal": "17080",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/68565.jpg",
-            "titulo": "Soukyuu no Fafner: Dead Aggressor - Exodus",
-            "titulo_original": "蒼穹のファフナー Dead Aggressor EXODUS",
-            "year": "2015",
-            "etiquetas": "Drama, Sci-Fi",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2015-9-1",
-            "updated_at": "2026-04-07T19:52:16.000Z",
-            "episodes": 13
         }
     ]
 }
