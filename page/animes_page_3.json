@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "53730",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1734\/139673.jpg",
+            "titulo": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+            "titulo_original": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+            "year": "2024",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "created_at": "2024-5-1",
+            "updated_at": "2026-04-05T00:45:23.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "58572",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1996\/147601.jpg",
             "titulo": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
@@ -1021,21 +1035,6 @@
             "status": "Currently Airing",
             "created_at": "2026-01-06",
             "updated_at": "2026-03-18T11:02:42.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61782",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1940\/154234l.jpg",
-            "titulo": "Kirei ni Shitemoraemasu ka.",
-            "titulo_original": "綺麗にしてもらえますか。",
-            "year": "2026",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "score": "6.9",
-            "status": "Currently Airing",
-            "created_at": "2026-01-05",
-            "updated_at": "2026-03-18T11:01:56.000Z",
             "episodes": 12
         },
         {
