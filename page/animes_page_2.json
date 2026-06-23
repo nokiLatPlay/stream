@@ -5,6 +5,21 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "40436",
+            "slug": "peter-grill-to-kenja-no-jikan",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1368\/108441.jpg",
+            "titulo": "Peter Grill to Kenja no Jikan",
+            "titulo_original": "ピーター・グリルと賢者の時間",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy, Erotica",
+            "type": "anime",
+            "score": "5.5",
+            "status": "Finished Airing",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-04-16T03:26:50.000Z",
+            "episodes": 12
+        },
+        {
             "id_mal": "44961",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1992\/116576.jpg",
             "titulo": "Platinum End",
@@ -2887,22 +2902,6 @@
             "created_at": "2015-9-1",
             "updated_at": "2026-04-07T19:52:16.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "33783",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1847\/93081l.jpg",
-            "titulo": "Godzilla 1: Kaijuu Wakusei",
-            "titulo_original": "GODZILLA -怪獣惑星-",
-            "year": "2017",
-            "etiquetas": "Action, Adventure, Sci-Fi",
-            "type": "movie",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2017-11-17",
-            "updated_at": "2026-04-05T07:58:53.000Z",
-            "episodes": 0,
-            "calidad": "HD"
         }
     ]
 }
