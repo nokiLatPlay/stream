@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "41714",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1023\/107083.jpg",
+            "titulo": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+            "titulo_original": "蒼穹のファフナー Dead Aggressor THE BEYOND",
+            "year": "2020",
+            "etiquetas": "Drama, Sci-Fi",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2020-13-11",
+            "updated_at": "2026-04-07T22:26:39.000Z",
+            "episodes": 3
+        },
+        {
             "id_mal": "8098",
             "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/31163.jpg",
@@ -1022,21 +1036,6 @@
             "created_at": "2026-01-07",
             "updated_at": "2026-03-20T22:41:52.000Z",
             "episodes": 11
-        },
-        {
-            "id_mal": "60071",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1968\/152396l.jpg",
-            "titulo": "Odayaka Kizoku no Kyuuka no Susume.",
-            "titulo_original": "穏やか貴族の休暇のすすめ。",
-            "year": "2026",
-            "etiquetas": "Fantasy, Slice of Life",
-            "type": "anime",
-            "score": "6.6",
-            "status": "Currently Airing",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-03-20T22:40:48.000Z",
-            "episodes": 12
         },
         {
             "id_mal": "61884",
