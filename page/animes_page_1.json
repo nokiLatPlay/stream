@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62018",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933.jpg",
+            "titulo": "Ichijouma Mankitsugurashi!",
+            "titulo_original": "一畳間まんきつ暮らし！",
+            "etiquetas": "Comedy, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-06-24T14:56:30.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
+        {
             "id_mal": "62485",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/k23I4me4E9pIgD1Y1i2w3Zn1BGx.jpg",
             "titulo": "Kanojo, Okarishimasu 5th Season",
@@ -1403,20 +1417,6 @@
             "score": "8.4",
             "status": "Currently Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "62018",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933.jpg",
-            "titulo": "Ichijouma Mankitsugurashi!",
-            "titulo_original": "一畳間まんきつ暮らし！",
-            "etiquetas": "Comedy, Ecchi",
-            "type": "anime",
-            "created_at": "2026-12-4",
-            "updated_at": "2026-06-16T04:46:04.000Z",
-            "year": "2026",
-            "score": "6.6",
-            "status": "Currently Airing",
-            "episodes": 10
         },
         {
             "id_mal": "62050",
