@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Fifth season of Kanojo, Okarishimasu.",
     "score": "6.1",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -24,7 +24,7 @@
         "DMM Music"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-17T13:36:13.000Z",
+    "updated_at": "2026-06-24T14:47:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -208,6 +208,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8a24baf3ead2f485b9fb94f1c743d17a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Soledad y novia",
+                    "portada": "https://image.tmdb.org/t/p/w300/5g7QTW8YoXXOw4Ve9cHftk9F5nw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7addf3930af0aa77ab47e4565aca512f",
                             "type": "mp4",
                             "language": "Sub"
                         }
