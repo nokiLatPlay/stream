@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Al comenzar su segundo año en la Escuela Secundaria de Formación Avanzada, Ayanokouji y sus compañeros se enfrentan a una serie de exámenes y a un grupo de alumnos de primer año bastante peculiares. Tendrán que conocerse rápidamente, ya que el primer examen especial empareja a los alumnos de primer y segundo año en una prueba escrita, ¡y solo los de segundo año se arriesgan a la expulsión si su equipo obtiene un mal resultado! ¿Y lo peor? Parece que uno de los nuevos alumnos de primer año también pertenece a la Sala Blanca. ¿Podrá Ayanokouji evitar la expulsión mientras descubre la identidad de este enemigo oculto? (Fuente: Crunchyroll)",
     "score": "8.2",
-    "episodes": 15,
+    "episodes": 16,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "Lantis"
     ],
     "created_at": "2026-04-01",
-    "updated_at": "2026-06-17T13:31:49.000Z",
+    "updated_at": "2026-06-24T14:27:45.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -230,6 +230,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/653ceffd63be7fceb1e8e5171a2911ee",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/3901/16.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/772301a3d229aa797c71fe08d322ea72",
                             "type": "mp4",
                             "language": "Sub"
                         }
