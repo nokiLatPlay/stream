@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The third season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
     "score": "6.7",
-    "episodes": 10,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-01",
-    "updated_at": "2026-06-06T12:55:46.000Z",
+    "updated_at": "2026-06-24T14:29:39.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -201,6 +201,34 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/be6159c2257604a35810ee4816511f2a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Al enfrentamiento final",
+                    "portada": "https://image.tmdb.org/t/p/w300/rJqG4ijVy6WnSf6u4AjrSnkDO2q.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a62b435d765bb59b29bc77dc1d93110e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "mundo de los sueños",
+                    "portada": "https://image.tmdb.org/t/p/w300/bzx7Pxgaz4jjo93aSlZLb6edkxa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/835f549887696e1fe3947deb848f5ab8",
                             "type": "mp4",
                             "language": "Sub"
                         }
