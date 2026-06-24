@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60371",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1140\/154457l.jpg",
+            "titulo": "Seihantai na Kimi to Boku",
+            "titulo_original": "正反対な君と僕",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-01-11",
+            "updated_at": "2026-06-24T15:05:30.000Z",
+            "year": "2026",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "61084",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1129\/151615l.jpg",
             "titulo": "Hikuidori: Ushuu Boro Tobi-gumi",
@@ -2819,21 +2833,6 @@
             "created_at": "2009-07-06",
             "updated_at": "2026-04-16T06:46:57.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "5530",
-            "slug": "pandora-hearts",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3047.jpg",
-            "titulo": "Pandora Hearts",
-            "titulo_original": " ",
-            "year": "2009",
-            "etiquetas": " ",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2009-04-03",
-            "updated_at": "2026-04-16T06:43:42.000Z",
-            "episodes": 25
         }
     ]
 }
