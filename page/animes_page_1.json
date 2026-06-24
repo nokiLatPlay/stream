@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 579,
+    "total_items": 580,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61686",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx192800-r8zlO0VY0jJP.jpg",
+            "titulo": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+            "titulo_original": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2026-06-24",
+            "updated_at": "2026-06-24T14:36:51.000Z",
+            "year": 2026,
+            "score": "",
+            "status": "RELEASING",
+            "episodes": 1
+        },
         {
             "id_mal": "62512",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1153\/156029.jpg",
@@ -2821,21 +2835,6 @@
             "created_at": "2006-07-03",
             "updated_at": "2026-04-16T06:03:55.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "48776",
-            "slug": "build-divide-code-black",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3379.jpg",
-            "titulo": "Build Divide: Code Black",
-            "titulo_original": " ",
-            "year": "2021",
-            "etiquetas": " ",
-            "type": "anime",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2021-10-10",
-            "updated_at": "2026-04-16T06:03:39.000Z",
-            "episodes": 12
         }
     ]
 }
