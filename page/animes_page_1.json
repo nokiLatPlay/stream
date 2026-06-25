@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59443",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1064\/155042.jpg",
+            "titulo": "Reincarnation no Kaben",
+            "titulo_original": "リィンカーネーションの花弁",
+            "etiquetas": "Action, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-06-25T13:39:55.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "60852",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1565\/154933.jpg",
             "titulo": "Koori no Jouheki",
@@ -1569,20 +1583,6 @@
             "updated_at": "2026-06-16T03:54:20.000Z",
             "year": "2026",
             "score": "4.3",
-            "status": "Currently Airing",
-            "episodes": 11
-        },
-        {
-            "id_mal": "59443",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1064\/155042.jpg",
-            "titulo": "Reincarnation no Kaben",
-            "titulo_original": "リィンカーネーションの花弁",
-            "etiquetas": "Action, Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-06-16T03:06:59.000Z",
-            "year": "2026",
-            "score": "6.6",
             "status": "Currently Airing",
             "episodes": 11
         },
