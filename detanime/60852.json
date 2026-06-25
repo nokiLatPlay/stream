@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\r\n\r\n(Source: LINE Digital Frontier, translated)",
     "score": "7.6",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -24,7 +24,7 @@
         "ADK Emotions"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-19T02:18:43.000Z",
+    "updated_at": "2026-06-25T13:25:24.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -264,6 +264,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/791f4b51b80a2aa745289ea4b9d9b074",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/3918/13.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ef2c67c95fcb56e0cefaec07f91e1b29",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/41811b084542f01bc0f06392c546619d",
                             "type": "mp4",
                             "language": "Sub"
                         }
