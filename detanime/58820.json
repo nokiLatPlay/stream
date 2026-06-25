@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "En la Escuela de Ópera de Awajima, chicas de todo Japón se esfuerzan por ganarse un lugar en el escenario. Wakana se guía por su pasión por el teatro musical, mientras que Kinue estudia con disciplina y serenidad. Emi, estudiante becada, atrae la atención de todos, pero sobre todo de Keiko, quien lidia con la admiración y las comparaciones. A través de perspectivas cambiantes, sus días entrelazados exploran la ambición, la amistad y el autodescubrimiento.",
     "score": "6.9",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -20,7 +20,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-04-10",
-    "updated_at": "2026-06-19T02:23:35.000Z",
+    "updated_at": "2026-06-25T13:44:05.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -174,6 +174,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/bcb95961f70da4991eeb5f9a47862fed",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Cien escenas de Awajima",
+                    "portada": "https://image.tmdb.org/t/p/w300/n5xch0DU5PQDXaPZzbcHivEYf4E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/09dfed915ba890b0944f48714b432c20",
                             "type": "mp4",
                             "language": "Sub"
                         }
