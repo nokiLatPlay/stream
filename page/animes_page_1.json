@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 586,
+    "total_items": 587,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44074",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx126403-BfVSRzWUtVFW.png",
+            "titulo": "Shiguang Dailiren",
+            "titulo_original": "时光代理人",
+            "etiquetas": "Drama, Mystery, Supernatural, Thriller",
+            "type": "anime",
+            "created_at": "2021-04-30",
+            "updated_at": "2026-06-26T16:20:28.000Z",
+            "year": "2026",
+            "score": "8.6",
+            "status": "Finished Airing",
+            "episodes": 11
+        },
         {
             "id_mal": "41094",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx114121-vxWVgIBlBjox.png",
@@ -2809,21 +2823,6 @@
             "created_at": "2020-04-10",
             "updated_at": "2026-04-16T08:04:04.000Z",
             "episodes": 11
-        },
-        {
-            "id_mal": "48997",
-            "slug": "fantasy-bishoujo-juniku-ojisan-to",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1430\/120065.jpg",
-            "titulo": "Life With An Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
-            "titulo_original": "異世界美少女受肉おじさんと",
-            "year": "2022",
-            "etiquetas": "Adventure, Comedy, Fantasy, Isekai, Magical Sex Shift, Parody",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2022-01-12",
-            "updated_at": "2026-04-16T08:03:49.000Z",
-            "episodes": 12
         }
     ]
 }
