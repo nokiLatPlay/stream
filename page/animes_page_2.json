@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 581,
+    "total_items": 582,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30503",
+            "slug": "noragami-aragoto",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1689\/94850.jpg",
+            "titulo": "Noragami Aragoto",
+            "titulo_original": "ノラガミ ARAGOTO",
+            "year": "2015",
+            "etiquetas": "Action, Supernatural, Mythology, Shounen",
+            "type": "anime",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "created_at": "2015-10-03",
+            "updated_at": "2026-04-16T08:01:55.000Z",
+            "episodes": 15
+        },
         {
             "id_mal": "31404",
             "slug": "netoge-no-yome-wa-onnanoko-ja-nai-to-omotta",
@@ -2886,22 +2901,6 @@
             "created_at": "2021-2-10",
             "updated_at": "2026-04-12T00:38:30.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "41567",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1222\/122000.jpg",
-            "titulo": "Isekai Quartet Movie: Another World",
-            "titulo_original": "劇場版 異世界かるてっと ～あなざーわーるど～",
-            "year": "2022",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "movie",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "created_at": "2022-10-6",
-            "updated_at": "2026-04-12T00:37:55.000Z",
-            "episodes": 1,
-            "calidad": "HD"
         }
     ]
 }
