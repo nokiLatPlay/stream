@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yukio was destroyed in battle and Tetsuo survived in an escape pod. After eight years in cold sleep, the escape pod finally lands back on Earth. But when Tetsuo emerges he finds a world in ruins, entirely frozen beneath a blanket of ice and snow—snowball Earth! What happened to humanity, how did the planet freeze over, and will Tetsuo be able to keep his last promise to Yukio?  (Source: VIZ Media)",
     "score": "6.6",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "dugout"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-23T05:03:45.000Z",
+    "updated_at": "2026-06-26T15:38:06.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -260,6 +260,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/149e49bf66b206502c37d6f6d3a7df83",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "BEBER JUNTOS",
+                    "portada": "https://image.tmdb.org/t/p/w300/wiqeswxs8kiWCO5TO09Up6FYLTy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e1d89ec897083bd518cf58e73d20111c",
                             "type": "mp4",
                             "language": "Sub"
                         }
