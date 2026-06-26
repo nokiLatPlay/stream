@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 585,
+    "total_items": 586,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "20507",
+            "slug": "noragami",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1886\/128266.jpg",
+            "titulo": "Noragami",
+            "titulo_original": "ノラガミ",
+            "year": "2014",
+            "etiquetas": "Action, Supernatural, Mythology, Shounen",
+            "type": "anime",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "created_at": "2014-01-05",
+            "updated_at": "2026-04-16T08:03:29.000Z",
+            "episodes": 14
+        },
         {
             "id_mal": "18897",
             "slug": "nisekoi-s1",
@@ -2886,21 +2901,6 @@
             "created_at": "2018-13-4",
             "updated_at": "2026-04-12T00:41:36.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "38472",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1965\/99667.jpg",
-            "titulo": "Isekai Quartet",
-            "titulo_original": "異世界かるてっと",
-            "year": "2019",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2019-10-4",
-            "updated_at": "2026-04-12T00:40:13.000Z",
-            "episodes": 12
         }
     ]
 }
