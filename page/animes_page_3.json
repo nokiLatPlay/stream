@@ -1,9 +1,25 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 581,
+    "total_items": 582,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41567",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1222\/122000.jpg",
+            "titulo": "Isekai Quartet Movie: Another World",
+            "titulo_original": "劇場版 異世界かるてっと ～あなざーわーるど～",
+            "year": "2022",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "movie",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2022-10-6",
+            "updated_at": "2026-04-12T00:37:55.000Z",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "49220",
             "slug": "",
