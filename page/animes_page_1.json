@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "56646",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1581\/156641.jpg",
+            "titulo": "Hokuto no Ken: Fist of the North Star",
+            "titulo_original": "北斗の拳 -FIST OF THE NORTH STAR-",
+            "etiquetas": "Action, Drama, Sci-Fi, Gore, Martial Arts, Shounen",
+            "type": "anime",
+            "created_at": "2026-04-11",
+            "updated_at": "2026-06-26T15:51:12.000Z",
+            "year": "2026",
+            "score": "6.5",
+            "status": "Currently Airing",
+            "episodes": 14
+        },
+        {
             "id_mal": "62068",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
             "titulo": "Snowball Earth",
@@ -983,20 +997,6 @@
             "score": "8.0",
             "status": "Currently Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "56646",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1581\/156641.jpg",
-            "titulo": "Hokuto no Ken: Fist of the North Star",
-            "titulo_original": "北斗の拳 -FIST OF THE NORTH STAR-",
-            "etiquetas": "Action, Drama, Sci-Fi, Gore, Martial Arts, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-11",
-            "updated_at": "2026-06-23T05:05:09.000Z",
-            "year": "2026",
-            "score": "6.5",
-            "status": "Currently Airing",
-            "episodes": 13
         },
         {
             "id_mal": "28171",
