@@ -736,7 +736,18 @@
                 "imagen": "https://image.tmdb.org/t/p/w300/k9srUHVLj5pCQZNfylInNN4EUpp.jpg",
                 "updated_at": "2026-06-25T13:21:44.000Z"
             }
+        },
+        {
+            "id_mal": "62110",
+            "titulo": "Anime 62110",
+            "last_episode": {
+                "episode_id": "25",
+                "numero": 25,
+                "nombre": "tiempo futuro",
+                "imagen": "https://image.tmdb.org/t/p/original/kiLifALGs9Srw7dWMTLNEo7jEFA.jpg",
+                "updated_at": "2026-06-26T11:08:04.000Z"
+            }
         }
     ],
-    "updated_at": "2026-06-25T13:44:05.000Z"
+    "updated_at": "2026-06-26T11:08:04.000Z"
 }
