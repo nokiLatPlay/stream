@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 586,
+    "total_items": 587,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "34420",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1303\/90909.jpg",
+            "titulo": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+            "titulo_original": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
+            "year": "2018",
+            "etiquetas": "Gourmet",
+            "type": "anime",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "created_at": "2018-13-4",
+            "updated_at": "2026-04-12T00:41:36.000Z",
+            "episodes": 24
+        },
         {
             "id_mal": "38472",
             "slug": "",
