@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.  With the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.  When all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins!   (Source: Warner Bros. Japan, edited)",
     "score": "6.5",
-    "episodes": 13,
+    "episodes": 14,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "",
@@ -25,7 +25,7 @@
         "arma bianca"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-23T05:05:08.000Z",
+    "updated_at": "2026-06-26T15:51:11.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -285,6 +285,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7fd2953d20a7df706846ff88f7efb651",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7a4a15ec39adf9205a8d6527d40576d3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/91eed4531f616137fef4866b8bdc3b43",
                             "type": "mp4",
                             "language": "Sub"
                         }
