@@ -1,20 +1,30 @@
 {
     "id_mal": "62110",
-    "titulo": "Anime 62110",
-    "titulo_original": "",
-    "imagen": "",
-    "etiquetas": "",
-    "year": "2026",
+    "titulo": "Assassination Classroom Second Season",
+    "titulo_original": "暗殺教室　第２期",
+    "imagen": "https://image.tmdb.org/t/p/w342/y0VbPCitWbDUJLCjtuCi01dDSHn.jpg",
+    "etiquetas": "Action, Comedy, School, Shounen",
+    "year": "2016",
     "type": "anime",
-    "synopsis": "",
-    "score": "",
+    "synopsis": "Tras regresar de sus vacaciones de verano, los alumnos de la clase 3-E de la prestigiosa escuela secundaria Kunugigaoka se enfrentan a una situación prácticamente imposible. Ante la posibilidad de la aniquilación mundial, deben idear formas cada vez más elaboradas y creativas de asesinar a su profesor, el astuto, optimista y servicial Koro-sensei.  Sin embargo, eliminar a Koro-sensei no es el único objetivo que les preocupa. Gakuhou Asano, el despiadado y cruel director de la academia, busca impedir el éxito de la clase 3-E lavando el cerebro de sus demás alumnos para convertirlos en máquinas de estudio implacablemente competitivas. La hostilidad comienza a flotar en el aire mientras traidores y asesinos intentan cobrar la recompensa por la cabeza de Koro-sensei.  Nagisa Shiota, uno de los asesinos más hábiles de la clase 3-E, se encuentra en medio del conflicto. Mientras se esfuerza por mantener su buen rendimiento académico y evitar el fin del mundo, asuntos personales ponen en peligro su permanencia en la Clase 3-E. Junto con sus dedicados compañeros, ahora debe afrontar las amenazas de frente.",
+    "score": "8.4",
     "episodes": 25,
-    "status": "Currently Airing",
-    "duration": "",
-    "source": "",
-    "created_at": "2026-06-26",
-    "studios": [],
-    "producers": [],
+    "status": "Finished Airing",
+    "duration": "23 min. per ep.",
+    "source": "Manga",
+    "created_at": "2016-01-08",
+    "studios": [
+        "Lerche"
+    ],
+    "producers": [
+        "Dentsu",
+        "Studio Hibari",
+        "Fuji TV",
+        "DAX Production",
+        "Avex Pictures",
+        "Shueisha",
+        "Kansai TV"
+    ],
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -523,5 +533,6 @@
         }
     ],
     "enlaces": [],
-    "updated_at": "2026-06-26T11:08:06.000Z"
+    "updated_at": "2026-06-26T11:16:05.000Z",
+    "rating": "PG-13 - Teens 13 or older"
 }
