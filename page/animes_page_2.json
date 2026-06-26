@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 582,
+    "total_items": 583,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "27787",
+            "slug": "nisekoi-s2",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/13\/72626.jpg",
+            "titulo": "Nisekoi: False Love Season 2",
+            "titulo_original": "ニセコイ",
+            "year": "2015",
+            "etiquetas": "Comedy, Romance, Harem, School, Shounen",
+            "type": "anime",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2015-04-10",
+            "updated_at": "2026-04-16T08:02:13.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "30503",
             "slug": "noragami-aragoto",
@@ -2886,21 +2901,6 @@
             "created_at": "2021-9-4",
             "updated_at": "2026-04-12T00:39:05.000Z",
             "episodes": 10
-        },
-        {
-            "id_mal": "48804",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1777\/117885.jpg",
-            "titulo": "Isekai Shokudou 2",
-            "titulo_original": "異世界食堂 2",
-            "year": "2021",
-            "etiquetas": "Fantasy, Gourmet, Slice of Life",
-            "type": "anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2021-2-10",
-            "updated_at": "2026-04-12T00:38:30.000Z",
-            "episodes": 12
         }
     ]
 }
