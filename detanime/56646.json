@@ -25,7 +25,7 @@
         "arma bianca"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-26T15:51:11.000Z",
+    "updated_at": "2026-06-26T15:55:45.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -258,15 +258,15 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/e396d44711679fdb2ac0e4b535f5c201",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/e396d44711679fdb2ac0e4b535f5c201"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/81cdd56ca6a22b856d0efa0d0a08395c",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/81cdd56ca6a22b856d0efa0d0a08395c"
                         }
                     ]
                 },
@@ -278,35 +278,35 @@
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/b44500b1939f523a7bd450e90bde0038",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/b44500b1939f523a7bd450e90bde0038"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/7fd2953d20a7df706846ff88f7efb651",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/7fd2953d20a7df706846ff88f7efb651"
                         }
                     ]
                 },
                 {
                     "episode_id": "14",
                     "numero": 14,
-                    "nombre": "",
-                    "portada": "",
+                    "nombre": "Episodio 14",
+                    "portada": "https://image.tmdb.org/t/p/w300/wZOEQ9WNX4VFYDXrRuRm998Ze3M.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/7a4a15ec39adf9205a8d6527d40576d3",
                             "type": "mp4",
-                            "language": "Latino"
+                            "language": "Latino",
+                            "url": "https://player.zilla-networks.com/m3u8/7a4a15ec39adf9205a8d6527d40576d3"
                         },
                         {
                             "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/91eed4531f616137fef4866b8bdc3b43",
                             "type": "mp4",
-                            "language": "Sub"
+                            "language": "Sub",
+                            "url": "https://player.zilla-networks.com/m3u8/91eed4531f616137fef4866b8bdc3b43"
                         }
                     ]
                 }
