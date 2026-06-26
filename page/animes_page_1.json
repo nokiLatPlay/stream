@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 582,
+    "total_items": 583,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "20899",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20474-xuqem5GBlBtb.jpg",
+            "titulo": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "titulo_original": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+            "etiquetas": "Action, Adventure, Supernatural",
+            "type": "anime",
+            "created_at": "2014-04-05",
+            "updated_at": "2026-06-26T13:40:28.000Z",
+            "year": 2014,
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "2001",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx2001-XwRnjzGeFWRQ.png",
@@ -2813,21 +2827,6 @@
             "created_at": "2014-10-05",
             "updated_at": "2026-04-16T08:02:42.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "27787",
-            "slug": "nisekoi-s2",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/13\/72626.jpg",
-            "titulo": "Nisekoi: False Love Season 2",
-            "titulo_original": "ニセコイ",
-            "year": "2015",
-            "etiquetas": "Comedy, Romance, Harem, School, Shounen",
-            "type": "anime",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2015-04-10",
-            "updated_at": "2026-04-16T08:02:13.000Z",
-            "episodes": 12
         }
     ]
 }
