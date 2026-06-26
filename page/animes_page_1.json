@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 583,
+    "total_items": 584,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "26055",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20799-S1eyqBDlx51E.jpg",
+            "titulo": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
+            "titulo_original": "ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編",
+            "etiquetas": "Action, Adventure, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2015-01-11",
+            "updated_at": "2026-06-26T13:48:57.000Z",
+            "year": 2015,
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "20899",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20474-xuqem5GBlBtb.jpg",
@@ -2812,21 +2826,6 @@
             "created_at": "2014-01-11",
             "updated_at": "2026-04-16T08:03:09.000Z",
             "episodes": 20
-        },
-        {
-            "id_mal": "23755",
-            "slug": "nanatsu-no-taizai",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/8\/65409.jpg",
-            "titulo": "The Seven Deadly Sins",
-            "titulo_original": "七つの大罪",
-            "year": "2014",
-            "etiquetas": "Action, Adventure, Fantasy, Shounen",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2014-10-05",
-            "updated_at": "2026-04-16T08:02:42.000Z",
-            "episodes": 24
         }
     ]
 }
