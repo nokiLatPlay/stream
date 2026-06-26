@@ -1,0 +1,527 @@
+{
+    "id_mal": "62110",
+    "titulo": "Anime 62110",
+    "titulo_original": "",
+    "imagen": "",
+    "etiquetas": "",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "",
+    "score": "",
+    "episodes": 25,
+    "status": "Currently Airing",
+    "duration": "",
+    "source": "",
+    "created_at": "2026-06-26",
+    "studios": [],
+    "producers": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Hora del festival de verano",
+                    "portada": "https://image.tmdb.org/t/p/original/vmoNbsKWqnzihOPbVdT64f6u5Qk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1523abe98c57e6c7f6085e7638c11367",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a37fd92562a2cbcb4af74d0dea059907",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Hora de Kaede",
+                    "portada": "https://image.tmdb.org/t/p/original/dMzDeHcgyqPCJSZ3OGY7tfcTgcZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2566bd8f9b911100b904e9dc499665f3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b9c9f5efc1287e097d932792f3aff917",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Hora de Itona Horibe",
+                    "portada": "https://image.tmdb.org/t/p/original/zH9l1Gzkt1WuyBEmjFHX2CUmM9D.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2168d990994f2895244ca7d0bfc4f1ad",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5cd7f8bff6e94b5c9ef25b26d04e8600",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Tiempo de giro",
+                    "portada": "https://image.tmdb.org/t/p/original/iqaQeWqXeifS0z2jMW1KVABbdZh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6769d7673d048c337b6a4b5b61eeeda9",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b511aa57fa1c41117dd22ec6f9ab7715",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Tiempo de líder",
+                    "portada": "https://image.tmdb.org/t/p/original/oM6A4WrGaxFttinI2M3pWNVnQ21.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fb4053bcf5e776473f1ad1b50d05b3f8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6884c0454a87dde390d9282f20dc5b7e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Antes y después del tiempo",
+                    "portada": "https://image.tmdb.org/t/p/original/p6ea7peGuC03JSaR7EiOyITjfpi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/35effcb3bf7391e8ab3fa496dfdd4381",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/05aa27c8540f4742204219960a48c607",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Tiempo de la muerte, parte 1",
+                    "portada": "https://image.tmdb.org/t/p/original/4Sv8druY1xLEy41hXZG5MwfROca.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4ab404356880cfd4364d8009145fe7cb",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5010dd8aed64b775248162c3f25cf548",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Tiempo de la muerte, parte 2",
+                    "portada": "https://image.tmdb.org/t/p/original/i8Nlb0eLPPVFKQbAqoYeUY1ZjsV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f19c101eb4032ff458a16b2a56cd6701",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fa289fd6303533941234b64a5d959d33",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Segunda ronda",
+                    "portada": "https://image.tmdb.org/t/p/original/aqGUJ9Uhdcuogw2owRb2zxykAXS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4a20b79728278c2e5c97fa61078b3c26",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2a0dc19f97f3377577263354bceff05e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Hora del festival escolar",
+                    "portada": "https://image.tmdb.org/t/p/original/igD4qgaCPTsltKxMTx7CwTlNI0U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/35a899f9ce338e945e91b5c4c994e25e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cd13f2bdec561f6752338af08f4b8e85",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Hora de fin de período - Segundo período",
+                    "portada": "https://image.tmdb.org/t/p/original/muH51Q5WIEQOeyMJAcUJZIkHD1E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ba4fd0fd9035ade650bab280380f2778",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/20227ebf1ca4a2b23928ba4e7c66f8fc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Piense fuera de la caja",
+                    "portada": "https://image.tmdb.org/t/p/original/p2lTYvfukuLVyMOJU4WbntnrWQz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5a182ac266cb43ece2c3dfb2d8191e4f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/657838f833ba8aa830351646f9111dff",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Deja vivir el tiempo",
+                    "portada": "https://image.tmdb.org/t/p/original/fr3ya4vXiy5BaGbjh2UQtFk88vs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e36178cb7222f1e2bc76594c8017b07f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/187eb61b013bf814e43c97780ea19abd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "Tiempo de identidad secreta",
+                    "portada": "https://image.tmdb.org/t/p/original/nsxqfUMFZ7mYP281ytnsLfVvlfk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bcc29261578f418a9e6e2dad00511d6f",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/eeaa86cdecc27ff9a814d18d7728085e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "Hora de confesión",
+                    "portada": "https://image.tmdb.org/t/p/original/mlDGK08Pymf4SnJfeFmmnBV8ojB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e1dfa2617e36c473f35cc4e981b129b1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/09bdb49d2f9243f6307dc86807258ada",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "tiempo pasado",
+                    "portada": "https://image.tmdb.org/t/p/original/juTkT2MS59fAS08QuJGTanVds1q.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/83ea5e7d84c052ead058050cc4616433",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0f813cca102ec453693cc82f7e64ee27",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "numero": 17,
+                    "nombre": "Tiempo de discordia",
+                    "portada": "https://image.tmdb.org/t/p/original/3k7R2ma7S2Jlq0w6PolGMNureBI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c8e946174b68622206d1b7b78333617a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aae0361b0d422bfaad6134ca515bf86b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "numero": 18,
+                    "nombre": "Tiempo de resultado",
+                    "portada": "https://image.tmdb.org/t/p/original/mzbdmNtLaOofyM4cAN3wTg8rKz8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/adb1ea97abae1bb1b68801311a350a0d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/25bfdceada5190e5a6de4fa841d0854d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "numero": 19,
+                    "nombre": "Tiempo del espacio exterior",
+                    "portada": "https://image.tmdb.org/t/p/original/j87xQhK6SACWvsQ9hDnNKmPSjWv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3ac1bfc46cd9a5b73391b03a91a99b1b",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3a26649e0f56d703fcf17e79153e6e1d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "numero": 20,
+                    "nombre": "Hora del día de San Valentín",
+                    "portada": "https://image.tmdb.org/t/p/original/hecv2s6DQaJn3ABKkea0QRzgGeJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/720dea75ab4ef203a6b28be6d10d6630",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c20f5e9fcdf4401de8bb96c05c0fb673",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "numero": 21,
+                    "nombre": "Tiempo de confianza",
+                    "portada": "https://image.tmdb.org/t/p/original/pMPmtgtLJL95KuaSyCkOQelTzcd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/652cbe3963b964d17e4a46c4adaa28b1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1d783ded5b8d360e65609da4dce0b0c6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "numero": 22,
+                    "nombre": "Feliz cumpleaños",
+                    "portada": "https://image.tmdb.org/t/p/original/61WG2kl16UNDuS7zMxYI8OOkbEq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a2dfaf44d4a0074266c7c3fe595cd2a7",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/945c462239d55758a9b8f963cde6b98a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "numero": 23,
+                    "nombre": "Hora final del jefe",
+                    "portada": "https://image.tmdb.org/t/p/original/k0jFjW2i9VLRNPhTeIz27rJSNCO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0c410c6294b65d79398f204c528d2246",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/572ea78ea1e95cd0a1c9932d75b0cf47",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "numero": 24,
+                    "nombre": "Hora de graduarse",
+                    "portada": "https://image.tmdb.org/t/p/original/bjmqJZlCLTo4UJKcTyoPpXqYvMa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f99a9a9e5da61fc5017f2bc6accdd372",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b571dedc6c93dcdca74b14f6c0cb19ef",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "numero": 25,
+                    "nombre": "tiempo futuro",
+                    "portada": "https://image.tmdb.org/t/p/original/kiLifALGs9Srw7dWMTLNEo7jEFA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f254894fbd422b89c5f7cf31e4130886",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2ae5dc45e1477d8fd12843bace6cea77",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "enlaces": [],
+    "updated_at": "2026-06-26T11:08:06.000Z"
+}
