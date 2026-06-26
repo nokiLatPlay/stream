@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "This is a story about a 20-year-old first-year college student, Botan Kamiina, and her life in a dorm, where she meets her seniors and forms friendships through drinking sessions. The anime features many real-life alcoholic drinks - Japanese sake, whiskey, wine - and also describes music, movies, and other cultural elements that can be enjoyed with alcohol. Each drink and pastime is closely tied to the characters' personalities and emotions, creating a special atmosphere.",
     "score": "7.6",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -29,7 +29,7 @@
         "Seibu Railway"
     ],
     "created_at": "2026-04-11",
-    "updated_at": "2026-06-23T05:06:17.000Z",
+    "updated_at": "2026-06-26T15:35:12.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -183,6 +183,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/ac131024a7337b2596c633b3cdfefc54",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "",
+                    "portada": "https://image.tmdb.org/t/p/w300/gj47bQTLyMHMjRcCh0xg082xRsb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/932aac7faa7e703005853cd8ea318e06",
                             "type": "mp4",
                             "language": "Sub"
                         }
