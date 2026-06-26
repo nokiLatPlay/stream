@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 583,
+    "total_items": 584,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "23755",
+            "slug": "nanatsu-no-taizai",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/8\/65409.jpg",
+            "titulo": "The Seven Deadly Sins",
+            "titulo_original": "七つの大罪",
+            "year": "2014",
+            "etiquetas": "Action, Adventure, Fantasy, Shounen",
+            "type": "anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "created_at": "2014-10-05",
+            "updated_at": "2026-04-16T08:02:42.000Z",
+            "episodes": 24
+        },
         {
             "id_mal": "27787",
             "slug": "nisekoi-s2",
@@ -2886,21 +2901,6 @@
             "created_at": "2020-15-1",
             "updated_at": "2026-04-12T00:39:40.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "41623",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1011\/113703.jpg",
-            "titulo": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
-            "titulo_original": "異世界魔王と召喚少女の奴隷魔術Ω",
-            "year": "2021",
-            "etiquetas": "Action, Comedy, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2021-9-4",
-            "updated_at": "2026-04-12T00:39:05.000Z",
-            "episodes": 10
         }
     ]
 }
