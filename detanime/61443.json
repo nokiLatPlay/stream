@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Winter was once the only season in the world-but such an existence was too lonely to bear, and so it created Spring to love. Before long, the earth wished for more time to rest in the cycle, and Summer and Autumn were born. The ones who carry the cycle are called the Agents of the Four Seasons. Hinagiku, the Agent of Spring, disappeared from this land ten years ago, taking the season of spring with her. Now, after incredible hardship, she has returned to restore the cycle to its proper state-and, as in the myth passed down since the dawn of time, she sends her love to Winter.  (Source: Yen Press)",
     "score": "7.8",
-    "episodes": 13,
+    "episodes": 14,
     "duration": "23 min per ep",
     "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
@@ -22,7 +22,7 @@
         "Kadokawa"
     ],
     "created_at": "2026-03-29",
-    "updated_at": "2026-06-23T06:39:47.000Z",
+    "updated_at": "2026-06-28T17:16:45.000Z",
     "player_base": [],
     "temporadas": [
         {
@@ -241,6 +241,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/6f0b5e8572b5c7d07e7cffd1fc9ee363",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "Las flores de primavera florecen en invierno",
+                    "portada": "https://image.tmdb.org/t/p/w300/c3xAde7YmVCt06IMWb189fXiMnB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6e1d7a9235bb02adc83e91425f7a8a86",
                             "type": "mp4",
                             "language": "Sub"
                         }
