@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
     "score": "8.0",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -26,7 +26,7 @@
         "TO Books"
     ],
     "created_at": "2026-04-04",
-    "updated_at": "2026-06-23T06:34:57.000Z",
+    "updated_at": "2026-06-28T17:31:12.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -180,6 +180,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/b4298397c8d1386a1d8059c8017e8a0f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "La temporada social de invierno y su debut",
+                    "portada": "https://image.tmdb.org/t/p/w300/vpwO1ft3SvvQK3dsZRXpPrrgpws.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13212e8bd0ba026a4502ded9b5a45f11",
                             "type": "mp4",
                             "language": "Sub"
                         }
