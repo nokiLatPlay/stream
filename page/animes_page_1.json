@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "21",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
+            "titulo": "One Piece",
+            "titulo_original": "ONE PIECE",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-03-25",
+            "updated_at": "2026-06-28T19:02:14.000Z",
+            "year": "1999",
+            "score": "8.7",
+            "status": "Currently Airing",
+            "episodes": 1168
+        },
+        {
             "id_mal": "57466",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3xFcgiT7t4LDw5Cad8SiVkhKzW2.jpg",
             "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
@@ -1039,21 +1053,7 @@
             "score": "7.1",
             "status": "Currently Airing",
             "episodes": 36
-        },
-        {
-            "id_mal": "21",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
-            "titulo": "One Piece",
-            "titulo_original": "ONE PIECE",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-03-25",
-            "updated_at": "2026-06-23T06:58:10.000Z",
-            "year": "1999",
-            "score": "8.7",
-            "status": "Currently Airing",
-            "episodes": 1167
-        },
+        },        
         {
             "id_mal": "62001",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1171\/156397.jpg",
