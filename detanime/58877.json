@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Sequel to Diamond no Ace: Act II.",
     "score": "8.1",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -21,7 +21,7 @@
         "DAX Production"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-06-23T06:52:20.000Z",
+    "updated_at": "2026-06-28T17:27:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -189,6 +189,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/6fc106f3f4d45c6bff2be575e0f792f4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Un camino sin fin",
+                    "portada": "https://image.tmdb.org/t/p/w300/cGA7B5CXWq8RosWTwDiu37ZIvM5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/58dd773c823843a8eb6661b7d95d7a29",
                             "type": "mp4",
                             "language": "Sub"
                         }
