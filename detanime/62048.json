@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Nanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings!  (Source: VIZ Media)",
     "score": "7.2",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "25 min",
     "rating": "",
@@ -21,7 +21,7 @@
         "Bandai Namco Filmworks"
     ],
     "created_at": "2026-04-05",
-    "updated_at": "2026-06-23T06:43:39.000Z",
+    "updated_at": "2026-06-28T17:21:37.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -189,6 +189,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/f822b2744a6bccf7e86a67d583c04134",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Byoki",
+                    "portada": "https://image.tmdb.org/t/p/w300/fdlHcIDkrZjoQLWZy0x27JPPbUl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a4f984288d18b970bb222ec7adb71322",
                             "type": "mp4",
                             "language": "Sub"
                         }
