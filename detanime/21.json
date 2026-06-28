@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Hace años, el temible Rey Pirata, Gol D. Roger fue ejecutado dejando atrás una enorme pila de tesoros y el famoso ONE PIECE. Quien reclame el ONE PIECE será nombrado nuevo Rey de los Piratas.Mono D. Luffy, un niño que consumió una Fruta del Diablo, decide seguir los pasos de su ídolo, el pirata Shanks, y encontrar One Piece. Ayuda, por supuesto, que su cuerpo tenga las propiedades del caucho y que esté rodeado de un grupo de hábiles luchadores y ladrones que lo ayuden en el camino.¡Luffy hará cualquier cosa para conseguir el One Piece y convertirse en el Rey de los Piratas!",
     "score": "8.7",
-    "episodes": 1167,
+    "episodes": 1168,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,8 +20,8 @@
         "Fuji TV",
         "TAP"
     ],
-    "created_at": "2026-03-25",
-    "updated_at": "2026-06-23T06:15:00.000Z",
+    "created_at": "1999-08-20",
+    "updated_at": "2026-06-28T19:02:14.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -23289,6 +23289,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/877e954f94e7ae4cfd2fcb24385257b4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "1168",
+                    "numero": 1168,
+                    "nombre": "Historia antigua: El Harley transmitido por Elbaph",
+                    "portada": "https://image.tmdb.org/t/p/w300/u0UHqb61zrZWU5kzHzRi6aliDOZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/33d095b0b8f6d2fbdcb9939869a772d4",
                             "type": "mp4",
                             "language": "Sub"
                         }
