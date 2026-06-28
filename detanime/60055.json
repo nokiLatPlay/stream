@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Second season of Yozakura-san Chi no Daisakusen.",
     "score": "7.7",
-    "episodes": 11,
+    "episodes": 12,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -25,7 +25,7 @@
         "Bit grooove promotion"
     ],
     "created_at": "2026-04-12",
-    "updated_at": "2026-06-23T06:50:38.000Z",
+    "updated_at": "2026-06-28T17:24:01.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -179,6 +179,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/9610a363e7e0c35e27ad3deee4e9ca5f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Seamos una familia otra vez",
+                    "portada": "https://image.tmdb.org/t/p/w300/bSe31HM5hGIxqOOyW2FpFiLNaoc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/11e01e842583009471336e414a90477f",
                             "type": "mp4",
                             "language": "Sub"
                         }
