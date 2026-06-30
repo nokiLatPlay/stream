@@ -1,21 +1,5 @@
 {
-    "total": 2,
-    "last_updated": "2026-06-30 01:58:33",
     "data": [
-        {
-            "id": "5",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg",
-            "titulo": "Las ovejas detectives",
-            "year": "2026",
-            "etiquetas": "Comedia, Misterio, Familia",
-            "type": "movie",
-            "score": "7.763\/10",
-            "status": "",
-            "created_at": "2026-06-30T01:19",
-            "updated_at": "2026-06-30 01:19:49",
-            "episodes": 0,
-            "calidad": "HD"
-        },
         {
             "id": "1",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
@@ -25,10 +9,26 @@
             "type": "serie",
             "score": "8.289\/10",
             "status": "emision",
-            "created_at": "2026-05-19T08:34",
-            "updated_at": "2026-06-30 01:58:33",
             "episodes": 24,
-            "calidad": ""
+            "calidad": "",
+            "created_at": "2026-05-19T08:34",
+            "publicado": true
+        },
+        {
+            "id": "5",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg",
+            "titulo": "Las ovejas detectives",
+            "year": "2026",
+            "etiquetas": "Comedia, Misterio, Familia",
+            "type": "movie",
+            "score": "7.763\/10",
+            "status": "",
+            "episodes": 0,
+            "calidad": "HD",
+            "created_at": "2026-06-30T01:19",
+            "publicado": true
         }
-    ]
+    ],
+    "last_updated": "2026-06-30 02:05:42",
+    "total": 2
 }
