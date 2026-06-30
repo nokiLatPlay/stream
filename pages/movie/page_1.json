@@ -4,6 +4,34 @@
     "type": "movie",
     "data": [
         {
+            "id": "4",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg",
+            "titulo": "Supergirl",
+            "year": "2026",
+            "etiquetas": "Acción, Aventura, Ciencia ficción",
+            "type": "movie",
+            "score": "6.194\/10",
+            "status": "",
+            "created_at": "2026-06-30T01:14",
+            "updated_at": "2026-06-30 01:14:20",
+            "episodes": 0,
+            "calidad": "HD"
+        },
+        {
+            "id": "3",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg",
+            "titulo": "Backrooms: Sin salida",
+            "year": "2026",
+            "etiquetas": "Terror, Misterio, Ciencia ficción",
+            "type": "movie",
+            "score": "6.9\/10",
+            "status": "",
+            "created_at": "2026-06-30T01:06",
+            "updated_at": "2026-06-30 01:06:58",
+            "episodes": 0,
+            "calidad": "HD"
+        },
+        {
             "id": "2",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/y8ZqlmkZTAoDXCkhCXDlWBiLwBq.jpg",
             "titulo": "Los indestructibles",
