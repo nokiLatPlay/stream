@@ -1,0 +1,35 @@
+{
+    "page": 1,
+    "total_pages": 1,
+    "type": "movie",
+    "data": [
+        {
+            "id": "2",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/y8ZqlmkZTAoDXCkhCXDlWBiLwBq.jpg",
+            "titulo": "Los indestructibles",
+            "year": "2010",
+            "etiquetas": "Suspense, Aventura, Acción",
+            "type": "movie",
+            "score": "6.252\/10",
+            "status": "",
+            "created_at": "2026-05-19T18:29",
+            "updated_at": "2026-05-19 18:29:17",
+            "episodes": 0,
+            "calidad": "HD"
+        },
+        {
+            "id": "1",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/8VypPpIvtHfYCeA4iwshnd35vbm.jpg",
+            "titulo": "Venganza",
+            "year": "2026",
+            "etiquetas": "Acción, Suspense",
+            "type": "movie",
+            "score": "7.354\/10",
+            "status": "",
+            "created_at": "2026-05-19T08:33",
+            "updated_at": "2026-05-19 08:33:40",
+            "episodes": 0,
+            "calidad": "HD"
+        }
+    ]
+}
