@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 589,
+    "total_items": 590,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28999",
+            "slug": "charlotte",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1826\/147276.jpg",
+            "titulo": "Charlotte",
+            "titulo_original": "Charlotte（シャーロット）",
+            "year": "2015",
+            "etiquetas": "Drama, School, Super Power",
+            "type": "anime",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "created_at": "2015-07-05",
+            "updated_at": "2026-04-16T08:06:09.000Z",
+            "episodes": 14
+        },
         {
             "id_mal": "21085",
             "slug": "witch-craft-works",
@@ -2886,21 +2901,6 @@
             "created_at": "2024-2-10",
             "updated_at": "2026-04-12T00:45:38.000Z",
             "episodes": 16
-        },
-        {
-            "id_mal": "59349",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1668\/144352.jpg",
-            "titulo": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-            "titulo_original": "サラリーマンが異世界に行ったら四天王になった話",
-            "year": "2025",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.6",
-            "status": "Finished Airing",
-            "created_at": "2025-6-1",
-            "updated_at": "2026-04-12T00:45:00.000Z",
-            "episodes": 12
         }
     ]
 }
