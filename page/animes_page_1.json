@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 592,
+    "total_items": 593,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "525",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx525-rNyfYmeg2nU4.png",
+            "titulo": "Otogizoushi",
+            "titulo_original": "お伽草子",
+            "etiquetas": "Adventure, Drama, Fantasy, Supernatural",
+            "type": "anime",
+            "created_at": "2004-07-07",
+            "updated_at": "2026-07-01T18:41:16.000Z",
+            "year": 2004,
+            "score": "6.3",
+            "status": "FINISHED",
+            "episodes": 26
+        },
         {
             "id_mal": "63780",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209669-7GlPe2ra5f1i.jpg",
@@ -2800,21 +2814,6 @@
             "created_at": "2015-10-10",
             "updated_at": "2026-04-16T08:07:34.000Z",
             "episodes": 10
-        },
-        {
-            "id_mal": "30749",
-            "slug": "saijaku-muhai-no-bahamut",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/76664.jpg",
-            "titulo": "Undefeated Bahamut Chronicle",
-            "titulo_original": "最弱無敗の神装機竜《バハムート》",
-            "year": "2016",
-            "etiquetas": "Action, Fantasy, Romance, Ecchi, Harem, School",
-            "type": "anime",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "created_at": "2016-01-11",
-            "updated_at": "2026-04-16T08:07:18.000Z",
-            "episodes": 12
         }
     ]
 }
