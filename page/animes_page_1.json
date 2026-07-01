@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 591,
+    "total_items": 592,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63780",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209669-7GlPe2ra5f1i.jpg",
+            "titulo": "Hanazakari no Kimitachi e 2nd Season",
+            "titulo_original": "花ざかりの君たちへ 第2期",
+            "etiquetas": "Comedy, Drama, Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-01T18:38:21.000Z",
+            "year": 2026,
+            "score": "",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
         {
             "id_mal": "62322",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx197715-KLFLxU24U1uL.png",
@@ -2800,21 +2814,6 @@
             "status": "Finished Airing",
             "created_at": "2016-01-11",
             "updated_at": "2026-04-16T08:07:18.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "33502",
-            "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/85260.jpg",
-            "titulo": "Worldend: What Do You Do At The End Of The World? Are You Busy? Will You Save Us?",
-            "titulo_original": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
-            "year": "2017",
-            "etiquetas": "Drama, Fantasy, Romance, Sci-Fi",
-            "type": "anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2017-04-11",
-            "updated_at": "2026-04-16T08:06:58.000Z",
             "episodes": 12
         }
     ]
