@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 588,
+    "total_items": 589,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63347",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx206521-ecJuDgjth84C.png",
+            "titulo": "World Is Dancing",
+            "titulo_original": "ワールド イズ ダンシング",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-06-29",
+            "updated_at": "2026-07-01T18:15:30.000Z",
+            "year": 2026,
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "21",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg",
@@ -2804,21 +2818,6 @@
             "created_at": "2015-07-05",
             "updated_at": "2026-04-16T08:06:09.000Z",
             "episodes": 14
-        },
-        {
-            "id_mal": "21085",
-            "slug": "witch-craft-works",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1949\/112982.jpg",
-            "titulo": "Witch Craft Works",
-            "titulo_original": "ウィッチクラフトワークス",
-            "year": "2014",
-            "etiquetas": "Action, Supernatural, School, Seinen",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "created_at": "2014-01-05",
-            "updated_at": "2026-04-16T08:05:48.000Z",
-            "episodes": 12
         }
     ]
 }
