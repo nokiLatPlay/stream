@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 590,
+    "total_items": 591,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30736",
+            "slug": "shingeki-no-bahamut-virgin-soul",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/13\/85564.jpg",
+            "titulo": "Rage Of Bahamut: Virgin Soul",
+            "titulo_original": "神撃のバハムート VIRGIN SOUL",
+            "year": "2017",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2017-04-08",
+            "updated_at": "2026-04-16T08:06:40.000Z",
+            "episodes": 24
+        },
         {
             "id_mal": "28999",
             "slug": "charlotte",
@@ -2886,21 +2901,6 @@
             "created_at": "2023-11-1",
             "updated_at": "2026-04-12T00:47:38.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "54857",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1706\/144725.jpg",
-            "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-            "titulo_original": "Re:ゼロから始める異世界生活 3rd season",
-            "year": "2024",
-            "etiquetas": "Drama, Fantasy, Suspense",
-            "type": "anime",
-            "score": "8.4",
-            "status": "Finished Airing",
-            "created_at": "2024-2-10",
-            "updated_at": "2026-04-12T00:45:38.000Z",
-            "episodes": 16
         }
     ]
 }
