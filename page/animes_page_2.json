@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 592,
+    "total_items": 593,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30749",
+            "slug": "saijaku-muhai-no-bahamut",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/76664.jpg",
+            "titulo": "Undefeated Bahamut Chronicle",
+            "titulo_original": "最弱無敗の神装機竜《バハムート》",
+            "year": "2016",
+            "etiquetas": "Action, Fantasy, Romance, Ecchi, Harem, School",
+            "type": "anime",
+            "score": "6.5",
+            "status": "Finished Airing",
+            "created_at": "2016-01-11",
+            "updated_at": "2026-04-16T08:07:18.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "33502",
             "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
@@ -2885,21 +2900,6 @@
             "status": "Finished Airing",
             "created_at": "2021-7-7",
             "updated_at": "2026-04-12T00:48:44.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "52461",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1890\/131473.jpg",
-            "titulo": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
-            "titulo_original": "老後に備えて異世界で８万枚の金貨を貯めます",
-            "year": "2023",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "created_at": "2023-8-1",
-            "updated_at": "2026-04-12T00:48:11.000Z",
             "episodes": 12
         }
     ]
