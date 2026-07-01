@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 589,
+    "total_items": 590,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62080",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196219-WofGyq2depPi.jpg",
+            "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+            "titulo_original": "無自覚聖女は今日も無意識に力を垂れ流す",
+            "etiquetas": "Drama, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-06-30",
+            "updated_at": "2026-07-01T18:19:43.000Z",
+            "year": 2026,
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62331",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
@@ -2803,21 +2817,6 @@
             "created_at": "2017-04-08",
             "updated_at": "2026-04-16T08:06:40.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "28999",
-            "slug": "charlotte",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1826\/147276.jpg",
-            "titulo": "Charlotte",
-            "titulo_original": "Charlotte（シャーロット）",
-            "year": "2015",
-            "etiquetas": "Drama, School, Super Power",
-            "type": "anime",
-            "score": "7.8",
-            "status": "Finished Airing",
-            "created_at": "2015-07-05",
-            "updated_at": "2026-04-16T08:06:09.000Z",
-            "episodes": 14
         }
     ]
 }
