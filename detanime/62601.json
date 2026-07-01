@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Durante siglos, los Maestros del Veneno han perfeccionado el arte del asesinato. Entre ellos, la familia Gero se erige como una de las cinco familias de Maestros más poderosas, con una habilidad e influencia inigualables. Hikaru Gero, heredero de este infame linaje, ha vivido su vida en las sombras del inframundo, lejos del amor o el matrimonio. Sin embargo, para asegurar que el linaje de los Maestros del Veneno no se extinga, el jefe de la familia Gero declara que la hermana de Hikaru se verá obligada a dar a luz a un heredero. Poco después, Hikaru se cruza con Mei Kinosaki, una brillante estafadora matrimonial que también resulta ser su objetivo de asesinato. Decidido a proteger a su hermana y resolver el problema de la sucesión por sí mismo, Hikaru hace una petición inesperada en el acto: pedirle a Mei que lo ayude a casarse. \"...Es la primera vez que alguien propone algo así\". Y así, con la astuta estafadora matrimonial Mei como consejera, el asesino de élite Hikaru se embarca en la misión más difícil por amor. ¿Su objetivo? El matrimonio definitivo. ¡La pareja más improbable —un asesino y un estafador matrimonial— se embarcan en la misión más difícil del mundo por amor! (Fuente: Sitio web oficial)",
     "score": "7.6",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -26,7 +26,7 @@
         "Bandai Namco Music Live"
     ],
     "created_at": "2026-04-07",
-    "updated_at": "2026-06-23T17:04:35.000Z",
+    "updated_at": "2026-07-01T18:23:13.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -230,6 +230,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/293b5dc3462cf4bbf8398349d9a59e23",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "gracias hombre",
+                    "portada": "https://image.tmdb.org/t/p/w300/nory31ZfWCFQ6VFPl9lUk1HXABK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0dd5568980edd83360b42596890a7cab",
                             "type": "mp4",
                             "language": "Sub"
                         }
