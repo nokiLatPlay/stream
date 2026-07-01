@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "La historia sigue a Koichi Asakura, un diseñador de una agencia de publicidad que trabaja duro pero no recibe reconocimiento. Tras ser descartado de un proyecto, visita un lugar de su pasado, donde conoce a Eren Yamagishi. Eren, por su parte, es reconocida como una talentosa grafitera zurda en Nueva York, mientras afronta las dificultades propias de su camino en la vida. (Fuente: Crunchyroll)",
     "score": "6.5",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "25 min per ep",
     "rating": "",
@@ -21,7 +21,7 @@
         "GAGA"
     ],
     "created_at": "2026-04-08",
-    "updated_at": "2026-06-23T17:05:52.000Z",
+    "updated_at": "2026-07-01T18:27:08.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -189,6 +189,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8de05a4190ddb1e8205438df1640c9ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "A todas las personas que no pudieron convertirse en genios",
+                    "portada": "https://image.tmdb.org/t/p/w300/eTfVxnDU3wptanh1O7bp6FU8jsQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f75b05d634dd41ac0bc19c9804376ee5",
                             "type": "mp4",
                             "language": "Sub"
                         }
