@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 591,
+    "total_items": 592,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "33502",
+            "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/85260.jpg",
+            "titulo": "Worldend: What Do You Do At The End Of The World? Are You Busy? Will You Save Us?",
+            "titulo_original": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
+            "year": "2017",
+            "etiquetas": "Drama, Fantasy, Romance, Sci-Fi",
+            "type": "anime",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "created_at": "2017-04-11",
+            "updated_at": "2026-04-16T08:06:58.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "30736",
             "slug": "shingeki-no-bahamut-virgin-soul",
@@ -2885,21 +2900,6 @@
             "status": "Finished Airing",
             "created_at": "2023-8-1",
             "updated_at": "2026-04-12T00:48:11.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "53446",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1661\/131889.jpg",
-            "titulo": "Tondemo Skill de Isekai Hourou Meshi",
-            "titulo_original": "とんでもスキルで異世界放浪メシ",
-            "year": "2023",
-            "etiquetas": "Adventure, Comedy, Fantasy, Gourmet",
-            "type": "anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2023-11-1",
-            "updated_at": "2026-04-12T00:47:38.000Z",
             "episodes": 12
         }
     ]
