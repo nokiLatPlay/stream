@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 593,
+    "total_items": 594,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62883",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx201667-oqaW97DQ7HUj.jpg",
+            "titulo": "Bungou Stray Dogs Wan! 2",
+            "titulo_original": "文豪ストレイドッグス わん！２",
+            "etiquetas": "Comedy, Slice of Life, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-04T03:02:41.000Z",
+            "year": 2026,
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "525",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx525-rNyfYmeg2nU4.png",
@@ -2799,21 +2813,6 @@
             "created_at": "2001-10-11",
             "updated_at": "2026-04-19T04:49:39.000Z",
             "ts": 1775137518
-        },
-        {
-            "id_mal": "30363",
-            "slug": "shinmai-maou-no-testament-burst",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1151\/94750.jpg",
-            "titulo": "The Testament Of Sister New Devil: Burst",
-            "titulo_original": "新妹魔王の契約者 BURST",
-            "year": "2015",
-            "etiquetas": "Action, Supernatural, Ecchi, Harem",
-            "type": "anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2015-10-10",
-            "updated_at": "2026-04-16T08:07:34.000Z",
-            "episodes": 10
         }
     ]
 }
