@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 595,
+    "total_items": 596,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62430",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198376-sc5qcFv0RSH9.jpg",
+            "titulo": "BanG Dream! Yume∞Mita",
+            "titulo_original": "バンドリ！ ゆめ∞みた",
+            "etiquetas": "Music",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-04T03:11:48.000Z",
+            "year": 2026,
+            "score": "6.7",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
         {
             "id_mal": "63082",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx203880-lnruKftb27Nr.png",
@@ -2797,21 +2811,6 @@
             "score": "7.1",
             "status": "Finished Airing",
             "episodes": "11"
-        },
-        {
-            "id_mal": "34649",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1512\/94632.jpg",
-            "titulo": "Soukyuu no Fafner: Dead Aggressor - The Beyond",
-            "titulo_original": "蒼穹のファフナー Dead Aggressor THE BEYOND",
-            "year": "2019",
-            "etiquetas": "Drama, Sci-Fi",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2019-17-5",
-            "updated_at": "2026-04-19T04:49:58.000Z",
-            "episodes": 3,
-            "calidad": "HD"
         }
     ]
 }
