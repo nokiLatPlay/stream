@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 593,
+    "total_items": 594,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "43523",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1950\/116474.jpg",
+            "titulo": "Tsuki ga Michibiku Isekai Douchuu",
+            "titulo_original": "月が導く異世界道中",
+            "year": "2021",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "created_at": "2021-7-7",
+            "updated_at": "2026-04-12T00:48:44.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "52461",
             "slug": "",
