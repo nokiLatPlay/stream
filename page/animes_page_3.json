@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52608",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1071\/135255.jpg",
+            "titulo": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+            "titulo_original": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+            "year": "2023",
+            "etiquetas": "Action, Fantasy, Romance",
+            "type": "anime",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "created_at": "2023-3-4",
+            "updated_at": "2026-04-12T00:56:59.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "31240",
             "slug": "",
@@ -2987,21 +3002,6 @@
             "status": "Finished Airing",
             "created_at": "2025-10-08",
             "updated_at": "2026-03-07T15:40:04.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60933",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1888\/151887l.jpg",
-            "titulo": "Chanto Suenai Kyuuketsuki-chan",
-            "titulo_original": "ちゃんと吸えない吸血鬼ちゃん",
-            "year": "2025",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.8",
-            "status": "",
-            "created_at": "2025-10-12",
-            "updated_at": "2026-03-07T15:39:46.000Z",
             "episodes": 12
         }
     ]
