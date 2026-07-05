@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60933",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1888\/151887l.jpg",
+            "titulo": "Chanto Suenai Kyuuketsuki-chan",
+            "titulo_original": "ちゃんと吸えない吸血鬼ちゃん",
+            "year": "2025",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "score": "6.8",
+            "status": "",
+            "created_at": "2025-10-12",
+            "updated_at": "2026-03-07T15:39:46.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "60765",
             "slug": "",
