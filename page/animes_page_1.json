@@ -1,9 +1,23 @@
 {
     "page": 1,
-    "total_pages": 3,
-    "total_items": 600,
+    "total_pages": 4,
+    "total_items": 601,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62617",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx199748-PAFk9pGSUmFL.png",
+            "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+            "titulo_original": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-05T02:48:30.000Z",
+            "year": 2026,
+            "score": "6.5",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62078",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196218-UsdTTCrwpDIN.jpg",
@@ -2796,20 +2810,6 @@
             "created_at": "2013-01-06",
             "updated_at": "2026-04-19T07:27:41.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "54703",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1140\/152364l.jpg",
-            "titulo": "Fumetsu no Anata e Season 3",
-            "titulo_original": "不滅のあなたへ Season3",
-            "etiquetas": "Adventure, Drama, Supernatural",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-04-19T07:06:59.000Z",
-            "year": "2025",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "episodes": "22"
         }
     ]
 }
