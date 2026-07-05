@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 602,
+    "total_items": 603,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44408",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx122511-h6FpxJGfKx3I.jpg",
+            "titulo": "Long Zu",
+            "titulo_original": "龙族",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2022-08-19",
+            "updated_at": "2026-07-05T02:56:17.000Z",
+            "year": "2026",
+            "score": "7.3",
+            "status": "FINISHED",
+            "episodes": 16
+        },
         {
             "id_mal": "41946",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx118465-EGB0OajA5rei.jpg",
@@ -2793,21 +2807,6 @@
             "status": "Finished Airing",
             "created_at": "2024-09-29",
             "updated_at": "2026-04-19T07:30:26.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60692",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1629\/153722l.jpg",
-            "titulo": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "titulo_original": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-04-19T07:30:03.000Z",
             "episodes": 12
         }
     ]
