@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 597,
+    "total_items": 598,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "47158",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1699\/151694l.jpg",
+            "titulo": "Tomodachi no Imouto ga Ore ni dake Uzai",
+            "titulo_original": "友達の妹が俺にだけウザい",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-04-19T05:02:31.000Z",
+            "year": "2025",
+            "score": "6.5",
+            "status": "Finished Airing",
+            "episodes": "12"
+        },
         {
             "id_mal": "60781",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1631\/153644l.jpg",
@@ -2884,21 +2898,6 @@
             "updated_at": "2026-04-12T00:51:30.000Z",
             "episodes": 1,
             "calidad": "HD"
-        },
-        {
-            "id_mal": "39523",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1132\/111619.jpg",
-            "titulo": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-            "titulo_original": "超人高校生たちは異世界でも余裕で生き抜くようです！",
-            "year": "2019",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2019-3-10",
-            "updated_at": "2026-04-12T00:51:10.000Z",
-            "episodes": 12
         }
     ]
 }
