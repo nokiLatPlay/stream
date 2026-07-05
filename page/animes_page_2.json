@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 602,
+    "total_items": 603,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60692",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1629\/153722l.jpg",
+            "titulo": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+            "titulo_original": "貴族転生 ～恵まれた生まれから最強の力を得る～",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "created_at": "2026-01-08",
+            "updated_at": "2026-04-19T07:30:03.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "14749",
             "slug": "ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru",
@@ -2880,21 +2895,6 @@
             "status": "Finished Airing",
             "created_at": "2023-8-1",
             "updated_at": "2026-04-12T00:58:44.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "40960",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1787\/115817.jpg",
-            "titulo": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-            "titulo_original": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
-            "year": "2021",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2021-7-7",
-            "updated_at": "2026-04-12T00:57:34.000Z",
             "episodes": 12
         }
     ]
