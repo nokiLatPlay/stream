@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!  (Source: Crunchyroll)",
     "score": "8.2",
-    "episodes": 12,
+    "episodes": 13,
     "status": "Currently Airing",
     "duration": "24 min",
     "rating": "PG-13 - Teens 13 or older",
@@ -20,7 +20,7 @@
         "Bandai Namco Filmworks"
     ],
     "created_at": "2026-04-03",
-    "updated_at": "2026-06-26T15:07:31.000Z",
+    "updated_at": "2026-07-05T02:50:19.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -242,6 +242,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0866c64cd9a59d9cc65585c7e73abf29",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Nuevos compañeros",
+                    "portada": "https://image.tmdb.org/t/p/w300/uLRfCUw0ql6HKOezGv5HmsUMooo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d1fc70185f237c7b9884b177457c0849",
                             "type": "mp4",
                             "language": "Sub"
                         }
