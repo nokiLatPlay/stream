@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 601,
+    "total_items": 602,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "14749",
+            "slug": "ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/13\/44187.jpg",
+            "titulo": "Oreshura",
+            "titulo_original": "俺の彼女と幼なじみが修羅場すぎる",
+            "year": "2013",
+            "etiquetas": "Comedy, Romance, Harem, School",
+            "type": "anime",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "created_at": "2013-01-06",
+            "updated_at": "2026-04-19T07:27:41.000Z",
+            "episodes": 13
+        },
         {
             "id_mal": "54703",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1140\/152364l.jpg",
@@ -2880,21 +2895,6 @@
             "status": "Finished Airing",
             "created_at": "2021-7-7",
             "updated_at": "2026-04-12T00:57:34.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "52608",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1071\/135255.jpg",
-            "titulo": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
-            "titulo_original": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
-            "year": "2023",
-            "etiquetas": "Action, Fantasy, Romance",
-            "type": "anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2023-3-4",
-            "updated_at": "2026-04-12T00:56:59.000Z",
             "episodes": 12
         }
     ]
