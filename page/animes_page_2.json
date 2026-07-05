@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 599,
+    "total_items": 600,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61549",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1264\/153908l.jpg",
+            "titulo": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+            "titulo_original": "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-01-10",
+            "updated_at": "2026-04-19T06:33:21.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": "12"
+        },
         {
             "id_mal": "57658",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1659\/154920l.jpg",
@@ -2883,21 +2897,6 @@
             "created_at": "2016-4-4",
             "updated_at": "2026-04-12T00:52:59.000Z",
             "episodes": 25
-        },
-        {
-            "id_mal": "34497",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/88911.jpg",
-            "titulo": "Death March kara Hajimaru Isekai Kyousoukyoku",
-            "titulo_original": "デスマーチからはじまる異世界狂想曲",
-            "year": "2018",
-            "etiquetas": "Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2018-11-1",
-            "updated_at": "2026-04-12T00:52:05.000Z",
-            "episodes": 12
         }
     ]
 }
