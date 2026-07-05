@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Inept at dealing with people, Koyuki Hikawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\r\n\r\n(Source: LINE Digital Frontier, translated)",
     "score": "7.6",
-    "episodes": 13,
+    "episodes": 14,
     "status": "Currently Airing",
     "duration": "23 min",
     "rating": "",
@@ -24,7 +24,7 @@
         "ADK Emotions"
     ],
     "created_at": "2026-04-02",
-    "updated_at": "2026-06-25T13:25:24.000Z",
+    "updated_at": "2026-07-05T02:37:54.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -284,6 +284,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/41811b084542f01bc0f06392c546619d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "Bomba",
+                    "portada": "https://image.tmdb.org/t/p/w300/78VF56LrrQmzJ7nT2BYRS1zgSHC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7d61f7e6ddc547db3a0bc2eb25a9ff85",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/62ef24a17734cce221394b953f9e990a",
                             "type": "mp4",
                             "language": "Sub"
                         }
