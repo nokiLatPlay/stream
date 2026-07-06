@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 607,
+    "total_items": 608,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "47790",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1928\/117620.jpg",
+            "titulo": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+            "titulo_original": "世界最高の暗殺者、異世界貴族に転生する",
+            "etiquetas": "Action, Drama, Fantasy, Mystery, Romance",
+            "type": "tv-anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-04-12T09:11:37.000Z",
+            "year": "2026",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "episodes": "12"
+        },
         {
             "id_mal": "235E8",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/261.jpg",
@@ -2985,21 +2999,6 @@
             "status": "Finished Airing",
             "created_at": "2025-10-03",
             "updated_at": "2026-03-16T06:15:55.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60531",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1257\/152233l.jpg",
-            "titulo": "Bukiyou na Senpai.",
-            "titulo_original": "不器用な先輩。",
-            "year": "2025",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2025-10-02",
-            "updated_at": "2026-03-16T06:15:51.000Z",
             "episodes": 12
         }
     ]
