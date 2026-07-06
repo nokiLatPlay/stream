@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 608,
+    "total_items": 609,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61169",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187538-fXVXKYUA3VV6.jpg",
+            "titulo": "BLACK TORCH",
+            "titulo_original": "BLACK TORCH",
+            "etiquetas": "Action, Adventure, Fantasy, Sci-Fi, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-04",
+            "updated_at": "2026-07-06T05:09:19.000Z",
+            "year": 2026,
+            "score": "7.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "59193",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx178789-hNXjKFzUq7mk.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.2",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62927",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1381\/153536.jpg",
-            "titulo": "Fangkai Nage Nuwu",
-            "titulo_original": "放开那个女巫",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-03-02",
-            "updated_at": "2026-04-22T15:04:45.000Z",
-            "year": "2026",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": "8"
         }
     ]
 }
