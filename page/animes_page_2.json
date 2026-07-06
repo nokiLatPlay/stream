@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 610,
+    "total_items": 611,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49469",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136880-2sAQF6OtPE5M.png",
+            "titulo": "BEASTARS FINAL SEASON Part 1",
+            "titulo_original": "BEASTARS (新章)",
+            "etiquetas": "Drama, Mystery, Psychological, Slice of Life",
+            "type": "anime",
+            "created_at": "2024-12-05",
+            "updated_at": "2026-05-01T01:06:13.000Z",
+            "year": "2024",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61114",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1710\/150907.webp",
@@ -2885,20 +2899,6 @@
             "created_at": "2023-8-7",
             "updated_at": "2026-04-12T09:12:23.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "53397",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1170\/147753l.jpg",
-            "titulo": "Tsuyokute New Saga",
-            "titulo_original": "強くてニューサーガ",
-            "etiquetas": "Adventure, Fantasy",
-            "type": "tv-anime",
-            "created_at": "2025-07-03",
-            "updated_at": "2026-04-12T09:11:55.000Z",
-            "year": "2026",
-            "score": "6.6",
-            "episodes": 12,
-            "status": "Finished Airing"
         }
     ]
 }
