@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 603,
+    "total_items": 604,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50854",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1805\/132335.jpg",
+            "titulo": "Benriya Saitou-san, Isekai ni Iku",
+            "titulo_original": "便利屋斎藤さん、異世界に行く",
+            "year": "2023",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2023-8-1",
+            "updated_at": "2026-04-12T00:58:44.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "40960",
             "slug": "",
@@ -2988,21 +3003,6 @@
             "created_at": "2025-10-02",
             "updated_at": "2026-03-16T06:13:12.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "60969",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1475\/152176l.jpg",
-            "titulo": "Taiyou yori mo Mabushii Hoshi",
-            "titulo_original": "太陽よりも眩しい星",
-            "year": "2025",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2025-10-02",
-            "updated_at": "2026-03-16T06:13:09.000Z",
-            "episodes": 12
         }
     ]
 }
