@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 604,
+    "total_items": 605,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "48760",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1361\/120706.jpg",
+            "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+            "titulo_original": "骸骨騎士様、只今異世界へお出掛け中",
+            "year": "2022",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "created_at": "2022-7-4",
+            "updated_at": "2026-04-12T00:59:19.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "50854",
             "slug": "",
@@ -2988,21 +3003,6 @@
             "created_at": "2025-10-02",
             "updated_at": "2026-03-16T06:14:39.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "60168",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1191\/152368l.jpg",
-            "titulo": "Watashi wo Tabetai, Hitodenashi",
-            "titulo_original": "私を喰べたい、ひとでなし",
-            "year": "2025",
-            "etiquetas": "Drama, Girls Love, Supernatural",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2025-10-02",
-            "updated_at": "2026-03-16T06:13:12.000Z",
-            "episodes": 13
         }
     ]
 }
