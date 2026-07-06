@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 609,
+    "total_items": 610,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51632",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1932\/131464.jpg",
+            "titulo": "Isekai wa Smartphone to Tomo ni. 2",
+            "titulo_original": "異世界はスマートフォンとともに。",
+            "year": "2026",
+            "etiquetas": "Adventure, Comedy, Fantasy, Romance",
+            "type": "tv-anime",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "created_at": "2023-3-4",
+            "updated_at": "2026-04-12T09:11:41.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "37210",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1649\/93412.jpg",
@@ -2984,21 +2998,6 @@
             "created_at": "2018-04-07",
             "updated_at": "2026-03-16T23:35:41.000Z",
             "episodes": 25
-        },
-        {
-            "id_mal": "11061",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1337\/99013l.jpg",
-            "titulo": "Hunter x Hunter (2011)",
-            "titulo_original": "HUNTER×HUNTER（ハンター×ハンター）",
-            "year": "2011",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "9.0",
-            "status": "Finished Airing",
-            "created_at": "2011-10-02",
-            "updated_at": "2026-03-16T20:27:40.000Z",
-            "episodes": 148
         }
     ]
 }
