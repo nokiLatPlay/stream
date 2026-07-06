@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
     "score": "8.0",
-    "episodes": 13,
+    "episodes": 14,
     "status": "Currently Airing",
     "duration": "25 min per ep",
     "rating": "PG-13 - Teens 13 or older",
@@ -18,7 +18,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-06-28T17:08:11.000Z",
+    "updated_at": "2026-07-06T05:00:45.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -278,6 +278,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/da89cc89a4aac6f47674834fc61002f5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "¡Infíltrate en los dormitorios de profesores! / ¡¿Un nuevo miembro se une a las chicas?!",
+                    "portada": "https://image.tmdb.org/t/p/w300/9KcztiG29gy75v2hSeaN0g9Ac3h.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/db4adcd187d42150472f92b6d3409743",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7316a5e30fd8de5db0c01fced3a27855",
                             "type": "mp4",
                             "language": "Sub"
                         }
