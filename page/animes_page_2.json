@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 603,
+    "total_items": 604,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59131",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1280\/143705.jpg",
+            "titulo": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill To Rise In The World Season 2",
+            "titulo_original": "転生貴族、鑑定スキルで成り上がる 第2期",
+            "year": "2024",
+            "etiquetas": "Adventure, Fantasy, Isekai, Reincarnation",
+            "type": "anime",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "created_at": "2024-09-29",
+            "updated_at": "2026-04-19T07:30:26.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "60692",
             "slug": "",
@@ -2880,21 +2895,6 @@
             "status": "Finished Airing",
             "created_at": "2022-7-4",
             "updated_at": "2026-04-12T00:59:19.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "50854",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1805\/132335.jpg",
-            "titulo": "Benriya Saitou-san, Isekai ni Iku",
-            "titulo_original": "便利屋斎藤さん、異世界に行く",
-            "year": "2023",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2023-8-1",
-            "updated_at": "2026-04-12T00:58:44.000Z",
             "episodes": 12
         }
     ]
