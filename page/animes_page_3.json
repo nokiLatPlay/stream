@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 612,
+    "total_items": 613,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56923",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1103\/142513.jpg",
+            "titulo": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+            "titulo_original": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
+            "year": "2026",
+            "etiquetas": "Adventure, Fantasy, Romance",
+            "type": "tv-anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2024-8-4",
+            "updated_at": "2026-04-12T09:12:24.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "51764",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1579\/136295.jpg",
@@ -2981,21 +2995,6 @@
             "created_at": "2018-07-23",
             "updated_at": "2026-03-16T23:40:38.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "38524",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1517\/100633l.jpg",
-            "titulo": "Shingeki no Kyojin Season 3 Part 2",
-            "titulo_original": "進撃の巨人 Season3 Part.2",
-            "year": "2019",
-            "etiquetas": "Action, Drama, Suspense",
-            "type": "anime",
-            "score": "9.1",
-            "status": "Finished Airing",
-            "created_at": "2019-04-29",
-            "updated_at": "2026-03-16T23:40:33.000Z",
-            "episodes": 10
         }
     ]
 }
