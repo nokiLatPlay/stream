@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 608,
+    "total_items": 609,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62927",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1381\/153536.jpg",
+            "titulo": "Fangkai Nage Nuwu",
+            "titulo_original": "放开那个女巫",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-03-02",
+            "updated_at": "2026-04-22T15:04:45.000Z",
+            "year": "2026",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "episodes": "8"
+        },
         {
             "id_mal": "41710",
             "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2023-3-4",
             "updated_at": "2026-04-12T09:11:41.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "37210",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1649\/93412.jpg",
-            "titulo": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-            "titulo_original": "異世界魔王と召喚少女の奴隷魔術",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Fantasy, Romance, Ecchi",
-            "type": "tv-anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2018-5-7",
-            "updated_at": "2026-04-12T09:11:40.000Z",
             "episodes": 12
         }
     ]
