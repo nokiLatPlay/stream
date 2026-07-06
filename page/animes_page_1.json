@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 610,
+    "total_items": 611,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62051",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196017-GynDNdbDzqzk.jpg",
+            "titulo": "Grow Up Show: Himawari no Circus-dan",
+            "titulo_original": "グロウアップショウ ～ひまわりのサーカス団～",
+            "etiquetas": "",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-06T14:38:07.000Z",
+            "year": 2026,
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "63324",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx206249-1AUSry416wGz.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-05-01T23:32:59.000Z",
             "year": "2025",
             "score": "6.2",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "49469",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136880-2sAQF6OtPE5M.png",
-            "titulo": "BEASTARS FINAL SEASON Part 1",
-            "titulo_original": "BEASTARS (新章)",
-            "etiquetas": "Drama, Mystery, Psychological, Slice of Life",
-            "type": "anime",
-            "created_at": "2024-12-05",
-            "updated_at": "2026-05-01T01:06:13.000Z",
-            "year": "2024",
-            "score": "7.9",
             "status": "Finished Airing",
             "episodes": 12
         }
