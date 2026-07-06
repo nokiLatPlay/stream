@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 611,
+    "total_items": 612,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61150",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187387-dbi9hPNKyA35.jpg",
+            "titulo": "Onmyo Kaiten Re:verse",
+            "titulo_original": "陰陽廻天 Re:バース",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-07-03",
+            "updated_at": "2026-05-01T23:32:59.000Z",
+            "year": "2025",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "49469",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136880-2sAQF6OtPE5M.png",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2024-8-4",
             "updated_at": "2026-04-12T09:12:24.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "51764",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1579\/136295.jpg",
-            "titulo": "Level 1 dakedo Unique Skill de Saikyou desu",
-            "titulo_original": "レベル1だけどユニークスキルで最強です",
-            "year": "2026",
-            "etiquetas": "Adventure, Fantasy",
-            "type": "tv-anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2023-8-7",
-            "updated_at": "2026-04-12T09:12:23.000Z",
             "episodes": 12
         }
     ]
