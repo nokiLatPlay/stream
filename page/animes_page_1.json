@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62981",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
+            "titulo": "Kami no Shizuku",
+            "titulo_original": "神の雫",
+            "etiquetas": "Drama, Gourmet, Mystery, Adult Cast, Seinen",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-07-05T21:53:40.000Z",
+            "year": "2026",
+            "score": "6.2",
+            "status": "Currently Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "44408",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx122511-h6FpxJGfKx3I.jpg",
             "titulo": "Long Zu",
@@ -673,20 +687,6 @@
             "updated_at": "2026-06-26T15:35:13.000Z",
             "year": "2026",
             "score": "7.6",
-            "status": "Currently Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "62981",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oi7R1bL2yc3xYLpqwWJNh4oSSUK.jpg",
-            "titulo": "Kami no Shizuku",
-            "titulo_original": "神の雫",
-            "etiquetas": "Drama, Gourmet, Mystery, Adult Cast, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-10",
-            "updated_at": "2026-06-26T15:11:37.000Z",
-            "year": "2026",
-            "score": "6.2",
             "status": "Currently Airing",
             "episodes": 12
         },
