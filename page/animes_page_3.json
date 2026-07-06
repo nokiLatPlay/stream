@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 611,
+    "total_items": 612,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51764",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1579\/136295.jpg",
+            "titulo": "Level 1 dakedo Unique Skill de Saikyou desu",
+            "titulo_original": "レベル1だけどユニークスキルで最強です",
+            "year": "2026",
+            "etiquetas": "Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "created_at": "2023-8-7",
+            "updated_at": "2026-04-12T09:12:23.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "53397",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1170\/147753l.jpg",
@@ -2982,21 +2996,6 @@
             "created_at": "2019-04-29",
             "updated_at": "2026-03-16T23:40:33.000Z",
             "episodes": 10
-        },
-        {
-            "id_mal": "19815",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1074\/111944l.jpg",
-            "titulo": "No Game No Life",
-            "titulo_original": "ノーゲーム・ノーライフ",
-            "year": "2014",
-            "etiquetas": "Comedy, Fantasy, Ecchi",
-            "type": "anime",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "created_at": "2014-04-09",
-            "updated_at": "2026-03-16T23:40:30.000Z",
-            "episodes": 12
         }
     ]
 }
