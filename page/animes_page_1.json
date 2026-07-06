@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 612,
+    "total_items": 613,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63537",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx208225-HJbCC0Z4xRp3.jpg",
+            "titulo": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+            "titulo_original": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
+            "etiquetas": "Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-06T14:44:33.000Z",
+            "year": 2026,
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62001",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1171\/156397.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.4",
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "59978",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1921\/154528l.jpg",
-            "titulo": "Sousou no Frieren 2nd Season",
-            "titulo_original": "葬送のフリーレン 第2期",
-            "etiquetas": "Adventure, Drama, Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-15",
-            "updated_at": "2026-05-04T20:37:36.000Z",
-            "year": "2026",
-            "score": "9.2",
-            "status": "Finished Airing",
-            "episodes": 10
         }
     ]
 }
