@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 605,
+    "total_items": 606,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63817",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209983-sFOcKyqMufxb.jpg",
+            "titulo": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+            "titulo_original": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-04",
+            "updated_at": "2026-07-05T21:59:14.000Z",
+            "year": 2026,
+            "score": "7.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "63061",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx203490-YQXiymUiDQNA.jpg",
@@ -2791,21 +2805,6 @@
             "created_at": "2022-01-09",
             "updated_at": "2026-04-19T07:32:44.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "60460",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1151\/152479l.jpg",
-            "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-            "titulo_original": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2026-01-10",
-            "updated_at": "2026-04-19T07:32:12.000Z",
-            "episodes": 12
         }
     ]
 }
