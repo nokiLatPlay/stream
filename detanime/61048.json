@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
     "score": "6.4",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": "",
     "source": "LIGHT_NOVEL",
@@ -34,10 +34,24 @@
                             "language": "Sub"
                         }
                     ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "La madre gata y la niña",
+                    "portada": "https://image.tmdb.org/t/p/w300/gRvIuDtYCmeStqpdXinlJnfasAM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aa2ed83a0889d9406badfe26c59a49cd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 }
             ]
         }
     ],
     "enlaces": [],
-    "updated_at": "2026-06-28T17:12:05.000Z"
+    "updated_at": "2026-07-06T05:12:09.000Z"
 }
