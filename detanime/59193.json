@@ -1,0 +1,64 @@
+{
+    "id_mal": "59193",
+    "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "titulo_original": "無職転生Ⅲ ～異世界行ったら本気だす～",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+    "etiquetas": "Adventure, Drama, Ecchi, Fantasy",
+    "year": 2026,
+    "type": "anime",
+    "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+    "score": "8.6",
+    "episodes": 2,
+    "status": "Currently Airing",
+    "duration": 24,
+    "source": "LIGHT_NOVEL",
+    "created_at": "2026-07-04",
+    "studios": [
+        "Studio Bind",
+        "KADOKAWA",
+        "Toho",
+        "EGG FIRM",
+        "Frontier Works",
+        "BS11",
+        "Hakuhodo DY Music & Pictures",
+        "GREE Entertainment"
+    ],
+    "producers": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Quema brillante, perro rabioso",
+                    "portada": "https://image.tmdb.org/t/p/w300/9qTNrEMxqBtcGcY45S0otQsiDTa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3262983a44239c226e912fa6aa62ebb9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Aullido, perro rabioso",
+                    "portada": "https://image.tmdb.org/t/p/w300/8LbtykFB7jK5pC5CmZQL9GoAQxh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d341546f6edc1c92c102e19f02a53694",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "enlaces": [],
+    "updated_at": "2026-07-06T05:06:38.000Z"
+}
