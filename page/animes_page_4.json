@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 611,
+    "total_items": 612,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "19815",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1074\/111944l.jpg",
+            "titulo": "No Game No Life",
+            "titulo_original": "ノーゲーム・ノーライフ",
+            "year": "2014",
+            "etiquetas": "Comedy, Fantasy, Ecchi",
+            "type": "anime",
+            "score": "8.0",
+            "status": "Finished Airing",
+            "created_at": "2014-04-09",
+            "updated_at": "2026-03-16T23:40:30.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "36456",
             "slug": "",
