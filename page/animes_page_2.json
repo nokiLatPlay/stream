@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 607,
+    "total_items": 608,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41710",
+            "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1297\/118764.jpg",
+            "titulo": "How a Realist Hero Rebuilt The Kingdom",
+            "titulo_original": "現実主義勇者の王国再建記",
+            "year": "2021",
+            "etiquetas": "Action, Fantasy, Romance, Harem, Isekai, Military",
+            "type": "anime",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "2021-07-04",
+            "updated_at": "2026-04-19T07:33:05.000Z",
+            "episodes": 13
+        },
         {
             "id_mal": "49930",
             "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
@@ -2884,20 +2899,6 @@
             "created_at": "2018-5-7",
             "updated_at": "2026-04-12T09:11:40.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "47790",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1928\/117620.jpg",
-            "titulo": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-            "titulo_original": "世界最高の暗殺者、異世界貴族に転生する",
-            "etiquetas": "Action, Drama, Fantasy, Mystery, Romance",
-            "type": "tv-anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-04-12T09:11:37.000Z",
-            "year": "2026",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "episodes": "12"
         }
     ]
 }
