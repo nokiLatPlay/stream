@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 612,
+    "total_items": 613,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "38524",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1517\/100633l.jpg",
+            "titulo": "Shingeki no Kyojin Season 3 Part 2",
+            "titulo_original": "進撃の巨人 Season3 Part.2",
+            "year": "2019",
+            "etiquetas": "Action, Drama, Suspense",
+            "type": "anime",
+            "score": "9.1",
+            "status": "Finished Airing",
+            "created_at": "2019-04-29",
+            "updated_at": "2026-03-16T23:40:33.000Z",
+            "episodes": 10
+        },
         {
             "id_mal": "19815",
             "slug": "",
