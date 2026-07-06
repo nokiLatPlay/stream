@@ -1,0 +1,53 @@
+{
+    "id_mal": "61169",
+    "titulo": "BLACK TORCH",
+    "titulo_original": "BLACK TORCH",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Sci-Fi, Supernatural",
+    "year": 2026,
+    "type": "anime",
+    "synopsis": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n\n(Source: Crunchyroll)",
+    "score": "7.0",
+    "episodes": 1,
+    "status": "Currently Airing",
+    "duration": 24,
+    "source": "MANGA",
+    "created_at": "2026-07-04",
+    "studios": [
+        "Shueisha",
+        "Shogakukan-Shueisha Productions",
+        "100studio",
+        "HIKE",
+        "VIZ Media Japan"
+    ],
+    "producers": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "El futuro está en nuestras manos",
+                    "portada": "https://image.tmdb.org/t/p/w300/mtlDuXNptLIb0oQdZtI0fqGHxiO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/83a3f4d26e5511796af498d7c17dd072",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ee107fc6fe85e6560daf897ed84a0b62",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "enlaces": [],
+    "updated_at": "2026-07-06T05:09:18.000Z"
+}
