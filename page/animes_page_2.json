@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 604,
+    "total_items": 605,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "55265",
+            "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1763\/139538.jpg",
+            "titulo": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill To Rise In The World",
+            "titulo_original": "転生貴族、鑑定スキルで成り上がる",
+            "year": "2024",
+            "etiquetas": "Adventure, Fantasy, Isekai, Reincarnation",
+            "type": "anime",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "2024-04-07",
+            "updated_at": "2026-04-19T07:30:48.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "59131",
             "slug": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
@@ -2881,21 +2896,6 @@
             "score": "7.8",
             "status": "Finished Airing",
             "episodes": "25"
-        },
-        {
-            "id_mal": "48760",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1361\/120706.jpg",
-            "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
-            "titulo_original": "骸骨騎士様、只今異世界へお出掛け中",
-            "year": "2022",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2022-7-4",
-            "updated_at": "2026-04-12T00:59:19.000Z",
-            "episodes": 12
         }
     ]
 }
