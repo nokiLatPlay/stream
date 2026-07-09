@@ -1,27 +1,29 @@
 {
     "id_mal": "62048",
-    "titulo": "Mao",
+    "titulo": "MAO",
     "titulo_original": "MAO",
-    "imagen": "https://myanimelist.net/images/anime/1738/156386.jpg",
-    "etiquetas": "Mystery, Supernatural, Historical, Mythology, Time Travel, Shounen",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+    "etiquetas": "Drama, Mystery, Romance, Supernatural",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Nanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings!  (Source: VIZ Media)",
-    "score": "7.2",
-    "episodes": 13,
+    "synopsis": "A curse that binds past and present.\n\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.\n(Source: VIZ Media, Hulu, edited)",
+    "score": "6.5",
+    "episodes": 14,
     "status": "Currently Airing",
-    "duration": "25 min",
+    "duration": 25,
     "rating": "",
-    "source": "Manga",
+    "source": "MANGA",
     "studios": [
-        "Sunrise"
+        "Sunrise",
+        "Bandai Namco Filmworks",
+        "Shogakukan-Shueisha Productions",
+        "NHK Enterprises",
+        "Shogakukan",
+        "Bandai Namco Music Live"
     ],
-    "producers": [
-        "Rakuonsha",
-        "Bandai Namco Filmworks"
-    ],
-    "created_at": "2026-04-05",
-    "updated_at": "2026-06-28T17:21:37.000Z",
+    "producers": [],
+    "created_at": "2026-04-04",
+    "updated_at": "2026-07-09T19:11:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -203,6 +205,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a4f984288d18b970bb222ec7adb71322",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "https://cdn.animeav1.com/screenshots/3935/14.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a8a83ec14fd9effa6697359b3a72a236",
                             "type": "mp4",
                             "language": "Sub"
                         }
