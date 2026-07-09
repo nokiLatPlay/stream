@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 613,
+    "total_items": 614,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "47257",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1471\/115593.jpg",
+            "titulo": "Shinigami Bocchan to Kuro Maid",
+            "titulo_original": "死神坊ちゃんと黒メイド",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy, Romance",
+            "type": "tv-anime",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "created_at": "2021-4-7",
+            "updated_at": "2026-04-12T09:12:27.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "56923",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1103\/142513.jpg",
@@ -2980,21 +2994,6 @@
             "created_at": "2020-10-03",
             "updated_at": "2026-03-17T00:12:47.000Z",
             "episodes": 24
-        },
-        {
-            "id_mal": "35760",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1173\/92110l.jpg",
-            "titulo": "Shingeki no Kyojin Season 3",
-            "titulo_original": "進撃の巨人 Season3",
-            "year": "2018",
-            "etiquetas": "Action, Drama, Suspense",
-            "type": "anime",
-            "score": "8.6",
-            "status": "Finished Airing",
-            "created_at": "2018-07-23",
-            "updated_at": "2026-03-16T23:40:38.000Z",
-            "episodes": 12
         }
     ]
 }
