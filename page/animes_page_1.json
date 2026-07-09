@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 614,
+    "total_items": 615,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60637",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx185875-XMvDVlIUZODx.jpg",
+            "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+            "titulo_original": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
+            "etiquetas": "Action, Comedy, Drama, Fantasy, Mahou Shoujo",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-09T13:52:25.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "61814",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b194219-56EhyK775lga.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.2",
             "status": "Finished Airing",
             "episodes": 14
-        },
-        {
-            "id_mal": "61159",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1455\/152139l.jpg",
-            "titulo": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "titulo_original": "東島丹三郎は仮面ライダーになりたい",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-05-04T21:33:22.000Z",
-            "year": "2025",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
