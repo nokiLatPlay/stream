@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 621,
+    "total_items": 622,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62856",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx103303-IF43hFJPPv2Y.png",
+            "titulo": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+            "titulo_original": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+            "etiquetas": "Adventure, Romance",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-09T19:21:37.000Z",
+            "year": "2026",
+            "score": "7.4",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62435",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198409-EiWJXfYnvfu4.png",
@@ -2789,20 +2803,6 @@
             "score": "7.0",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "59828",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx181182-lnlfAByYD7X6.png",
-            "titulo": "Shoushimin Series 2nd Season",
-            "titulo_original": "小市民シリーズ 第2期",
-            "etiquetas": "Mystery, Psychological, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-05-09",
-            "updated_at": "2026-05-09T04:47:16.000Z",
-            "year": "2025",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
