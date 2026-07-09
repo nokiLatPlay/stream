@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 616,
+    "total_items": 617,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "47162",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1423\/122029.jpg",
+            "titulo": "Shokei Shoujo no Virgin Road",
+            "titulo_original": "処刑少女の生きる道〈バージンロード〉",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2022-2-4",
+            "updated_at": "2026-04-12T09:12:35.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "46985",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1537\/117590.jpg",
@@ -2977,21 +2991,6 @@
             "created_at": "2016-04-03",
             "updated_at": "2026-03-17T00:18:04.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "25777",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/84177l.jpg",
-            "titulo": "Shingeki no Kyojin Season 2",
-            "titulo_original": "進撃の巨人 Season2",
-            "year": "2017",
-            "etiquetas": "Action, Drama, Suspense",
-            "type": "anime",
-            "score": "8.5",
-            "status": "Finished Airing",
-            "created_at": "2017-04-01",
-            "updated_at": "2026-03-17T00:12:55.000Z",
-            "episodes": 12
         }
     ]
 }
