@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 619,
+    "total_items": 620,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "48415",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1904\/120095.jpg",
+            "titulo": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+            "titulo_original": "史上最強の大魔王、村人Aに転生する",
+            "year": "2026",
+            "etiquetas": "Action, Fantasy",
+            "type": "tv-anime",
+            "score": "6.3",
+            "status": "Finished Airing",
+            "created_at": "2022-6-4",
+            "updated_at": "2026-04-12T09:12:41.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "47194",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1120\/120796.jpg",
@@ -2974,21 +2988,6 @@
             "created_at": "2019-04-06",
             "updated_at": "2026-03-17T00:19:18.000Z",
             "episodes": 26
-        },
-        {
-            "id_mal": "5114",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1208\/94745l.jpg",
-            "titulo": "Fullmetal Alchemist: Brotherhood",
-            "titulo_original": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-            "year": "2009",
-            "etiquetas": "Action, Adventure, Drama, Fantasy",
-            "type": "anime",
-            "score": "9.1",
-            "status": "Finished Airing",
-            "created_at": "2009-04-05",
-            "updated_at": "2026-03-17T00:18:12.000Z",
-            "episodes": 64
         }
     ]
 }
