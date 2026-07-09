@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 616,
+    "total_items": 617,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "55830",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1752\/150192.jpg",
+            "titulo": "Fate\/strange Fake",
+            "titulo_original": "Fate\/strange Fake",
+            "etiquetas": "Action, Fantasy, Urban Fantasy",
+            "type": "anime",
+            "created_at": "2026-01-03",
+            "updated_at": "2026-05-05T03:05:21.000Z",
+            "year": "2026",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "61333",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1393\/151603.jpg",
@@ -2885,20 +2899,6 @@
             "created_at": "2022-17-5",
             "updated_at": "2026-04-12T09:12:37.000Z",
             "episodes": 3
-        },
-        {
-            "id_mal": "47162",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1423\/122029.jpg",
-            "titulo": "Shokei Shoujo no Virgin Road",
-            "titulo_original": "処刑少女の生きる道〈バージンロード〉",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "tv-anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2022-2-4",
-            "updated_at": "2026-04-12T09:12:35.000Z",
-            "episodes": 12
         }
     ]
 }
