@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 619,
+    "total_items": 620,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "5114",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1208\/94745l.jpg",
+            "titulo": "Fullmetal Alchemist: Brotherhood",
+            "titulo_original": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+            "year": "2009",
+            "etiquetas": "Action, Adventure, Drama, Fantasy",
+            "type": "anime",
+            "score": "9.1",
+            "status": "Finished Airing",
+            "created_at": "2009-04-05",
+            "updated_at": "2026-03-17T00:18:12.000Z",
+            "episodes": 64
+        },
         {
             "id_mal": "11757",
             "slug": "",
