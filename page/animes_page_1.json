@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62048",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196012-R3YNjunufpYh.jpg",
+            "titulo": "MAO",
+            "titulo_original": "MAO",
+            "etiquetas": "Drama, Mystery, Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-07-09T19:12:02.000Z",
+            "year": "2026",
+            "score": "6.5",
+            "status": "Currently Airing",
+            "episodes": 14
+        },
+        {
             "id_mal": "62876",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx201514-BHAeWhSbcBrT.png",
             "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
@@ -717,20 +731,6 @@
             "score": "7.7",
             "status": "Currently Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62048",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386.jpg",
-            "titulo": "Mao",
-            "titulo_original": "MAO",
-            "etiquetas": "Mystery, Supernatural, Historical, Mythology, Time Travel, Shounen",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-06-28T17:21:38.000Z",
-            "year": "2026",
-            "score": "7.2",
-            "status": "Currently Airing",
-            "episodes": 13
         },
         {
             "id_mal": "61217",
