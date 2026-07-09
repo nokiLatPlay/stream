@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 619,
+    "total_items": 620,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59047",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1474\/153320.jpg",
+            "titulo": "Tamon-kun Ima Docchi!?",
+            "titulo_original": "多聞くん今どっち!?",
+            "etiquetas": "Comedy, Romance, Idols (Male), Shoujo",
+            "type": "anime",
+            "created_at": "2026-01-04",
+            "updated_at": "2026-05-05T03:36:05.000Z",
+            "year": "2026",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "60602",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1419\/154458.jpg",
@@ -2885,20 +2899,6 @@
             "created_at": "2022-9-4",
             "updated_at": "2026-04-12T09:12:43.000Z",
             "episodes": 25
-        },
-        {
-            "id_mal": "48415",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1904\/120095.jpg",
-            "titulo": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
-            "titulo_original": "史上最強の大魔王、村人Aに転生する",
-            "year": "2026",
-            "etiquetas": "Action, Fantasy",
-            "type": "tv-anime",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "created_at": "2022-6-4",
-            "updated_at": "2026-04-12T09:12:41.000Z",
-            "episodes": 12
         }
     ]
 }
