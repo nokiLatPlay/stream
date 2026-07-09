@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 620,
+    "total_items": 621,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50265",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1441\/122795.jpg",
+            "titulo": "Spy x Family",
+            "titulo_original": "SPY×FAMILY",
+            "year": "2026",
+            "etiquetas": "Action, Award Winning, Comedy",
+            "type": "tv-anime",
+            "score": "8.4",
+            "status": "Finished Airing",
+            "created_at": "2022-9-4",
+            "updated_at": "2026-04-12T09:12:43.000Z",
+            "episodes": 25
+        },
         {
             "id_mal": "48415",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1904\/120095.jpg",
@@ -2973,21 +2987,6 @@
             "created_at": "2015-10-05",
             "updated_at": "2026-03-17T00:19:21.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "38000",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1286\/99889l.jpg",
-            "titulo": "Kimetsu no Yaiba",
-            "titulo_original": "鬼滅の刃",
-            "year": "2019",
-            "etiquetas": "Action, Award Winning, Supernatural",
-            "type": "anime",
-            "score": "8.4",
-            "status": "Finished Airing",
-            "created_at": "2019-04-06",
-            "updated_at": "2026-03-17T00:19:18.000Z",
-            "episodes": 26
         }
     ]
 }
