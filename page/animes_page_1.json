@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 618,
+    "total_items": 619,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62683",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx200230-YuzdgbXSgi38.png",
+            "titulo": "Let's Go Kaikigumi",
+            "titulo_original": "レッツゴー怪奇組",
+            "etiquetas": "Comedy, Horror, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-09T19:16:40.000Z",
+            "year": "2026",
+            "score": "5.5",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "63832",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx210031-TppgcHZh46LY.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-05-05T03:36:05.000Z",
             "year": "2026",
             "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 13
-        },
-        {
-            "id_mal": "60602",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1419\/154458.jpg",
-            "titulo": "MF Ghost 3rd Season",
-            "titulo_original": "MFゴースト 3rd Season",
-            "etiquetas": "Drama, Racing, Seinen",
-            "type": "anime",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-05-05T03:24:50.000Z",
-            "year": "2026",
-            "score": "7.8",
             "status": "Finished Airing",
             "episodes": 13
         }
