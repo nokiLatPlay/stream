@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 621,
+    "total_items": 622,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30276",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/76049l.jpg",
+            "titulo": "One Punch Man",
+            "titulo_original": "ワンパンマン",
+            "year": "2015",
+            "etiquetas": "Action, Comedy",
+            "type": "anime",
+            "score": "8.5",
+            "status": "Finished Airing",
+            "created_at": "2015-10-05",
+            "updated_at": "2026-03-17T00:19:21.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "38000",
             "slug": "",
