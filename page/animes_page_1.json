@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 3,
+    "total_items": 4,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56613",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1380\/158715l.jpg",
+            "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "titulo_original": "アズールレーン びそくぜんしんっ！にっ!!",
+            "etiquetas": "Comedy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-10T08:50:17.000Z",
+            "year": "2026",
+            "score": 6.730000000000000426325641456060111522674560546875,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "56400",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/145393l.jpg",
