@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 1,
+    "total_items": 2,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30831",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1895\/142748l.jpg",
+            "titulo": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "titulo_original": "この素晴らしい世界に祝福を！",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2016-01-14",
+            "updated_at": "2026-07-10T08:23:42.000Z",
+            "year": "2016",
+            "score": 8.089999999999999857891452847979962825775146484375,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "30749",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/76664l.jpg",
