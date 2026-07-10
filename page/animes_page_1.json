@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 219,
+    "total_items": 220,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51498",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/135587l.jpg",
+            "titulo": "Masamune-kun no Revenge R",
+            "titulo_original": "政宗くんのリベンジR",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2023-07-03",
+            "updated_at": "2026-07-10T08:42:33.000Z",
+            "year": "2023",
+            "score": 7.230000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "51318",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1800\/135847l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.6",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61608",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1361\/153968.jpg",
-            "titulo": "Jigoku Sensei Nube (2025) Part 2",
-            "titulo_original": "地獄先生ぬ～べ～",
-            "etiquetas": "Comedy, Horror, Supernatural, Mythology, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-01-07",
-            "updated_at": "2026-06-23T16:27:17.000Z",
-            "year": "2026",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
