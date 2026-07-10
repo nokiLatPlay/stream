@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 497,
+    "total_items": 498,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "121",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/75815l.jpg",
+            "titulo": "Fullmetal Alchemist",
+            "titulo_original": "鋼の錬金術師",
+            "etiquetas": "Action, Adventure, Award Winning, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2003-10-04",
+            "updated_at": "2026-07-10T08:14:16.000Z",
+            "year": "2003",
+            "score": 8.1199999999999992184029906638897955417633056640625,
+            "status": "Finished Airing",
+            "episodes": 51
+        },
         {
             "id_mal": "1195",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/20680l.jpg",
@@ -2803,20 +2817,6 @@
             "created_at": "2026-01-25",
             "updated_at": "2026-03-26T02:34:21.000Z",
             "episodes": 9
-        },
-        {
-            "id_mal": "60058",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
-            "titulo": "[Oshi no Ko] 3rd Season",
-            "titulo_original": "【推しの子】 第3期",
-            "year": "2026",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "episodes": 11,
-            "created_at": "2026-01-14",
-            "updated_at": "2026-03-26T02:34:17.000Z"
         },
         {
             "id_mal": "60058",
