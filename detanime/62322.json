@@ -1,78 +1,14 @@
 {
     "id_mal": "62322",
-    "titulo": "LV999 no Murabito",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1366/158400l.jpg",
+    "titulo": "Lv999 no Murabito",
     "titulo_original": "LV999の村人",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
-    "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
+    "etiquetas": "Fantasy",
     "type": "anime",
-    "synopsis": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\n\n(Source: Crunchyroll)",
-    "score": "6.5",
-    "episodes": 3,
+    "score": 6.6500000000000003552713678800500929355621337890625,
     "status": "Currently Airing",
-    "duration": 24,
-    "rating": "",
-    "source": "LIGHT_NOVEL",
-    "studios": [
-        "Brain's Base",
-        "BS Fuji",
-        "MediaNet",
-        "Bit grooove promotion",
-        "DMM.com",
-        "GREE Entertainment",
-        "Pia",
-        "SYSTEM SERVICE"
-    ],
-    "producers": [],
+    "episodes": 12,
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-10T07:11:17.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4370/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/704dd459833620013ba1e71fcb95fe25",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "02",
-                    "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/4370/2.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/f95be07a2d4c18f24ce3aaf95efc19c4",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "03",
-                    "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https://cdn.animeav1.com/screenshots/4370/3.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/cacf5bcd1507ef9d3efd7133d3188217",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:16:48.000Z"
 }
