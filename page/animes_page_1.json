@@ -1,9 +1,23 @@
 {
     "page": 1,
-    "total_pages": 4,
-    "total_items": 633,
+    "total_pages": 2,
+    "total_items": 201,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "48483",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1277\/117155l.jpg",
+            "titulo": "Mieruko-chan",
+            "titulo_original": "見える子ちゃん",
+            "etiquetas": "Comedy, Horror",
+            "type": "anime",
+            "created_at": "2021-10-03",
+            "updated_at": "2026-07-10T08:37:20.000Z",
+            "year": "2021",
+            "score": 7.37000000000000010658141036401502788066864013671875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "32105",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/79556l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-19T02:25:58.000Z",
             "year": "2026",
             "score": "6.8",
-            "status": "Currently Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59835",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1066\/155831.jpg",
-            "titulo": "Kirio Fanclub",
-            "titulo_original": "霧尾ファンクラブ",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-06-19T02:20:33.000Z",
-            "year": "2026",
-            "score": "6.2",
             "status": "Currently Airing",
             "episodes": 12
         }
