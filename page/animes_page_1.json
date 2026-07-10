@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 19,
+    "total_items": 20,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60226",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1510\/153806l.jpg",
+            "titulo": "Isekai no Sata wa Shachiku Shidai",
+            "titulo_original": "異世界の沙汰は社畜次第",
+            "etiquetas": "Boys Love, Fantasy",
+            "type": "anime",
+            "created_at": "2026-01-06",
+            "updated_at": "2026-07-10T09:03:29.000Z",
+            "year": "2026",
+            "score": 7.13999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60223",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1194\/153705l.jpg",
