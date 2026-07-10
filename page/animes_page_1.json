@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 247,
+    "total_items": 248,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63082",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx203880-lnruKftb27Nr.png",
+            "titulo": "Reiwa no Dara-san",
+            "titulo_original": "令和のダラさん",
+            "etiquetas": "Comedy, Horror, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-10T07:35:26.000Z",
+            "year": "2026",
+            "score": "6.1",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
         {
             "id_mal": "62811",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx200637-QLR5uv9SbQ69.jpg",
@@ -2789,20 +2803,6 @@
             "episodes": 12,
             "created_at": "2025-07-06",
             "updated_at": "2026-03-17T00:47:11.000Z"
-        },
-        {
-            "id_mal": "60316",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1454\/150515l.jpg",
-            "titulo": "Busamen Gachi Fighter",
-            "titulo_original": "ブサメンガチファイター",
-            "year": "2025",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:28.000Z"
         }
     ]
 }
