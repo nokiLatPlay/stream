@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 449,
+    "total_items": 450,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62883",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1591\/157071l.jpg",
+            "titulo": "Bungou Stray Dogs Wan! 2",
+            "titulo_original": "文豪ストレイドッグスわん！2",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-10T09:23:59.000Z",
+            "year": "2026",
+            "score": 7.1500000000000003552713678800500929355621337890625,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62876",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1116\/157083l.jpg",
@@ -2967,21 +2981,6 @@
             "updated_at": "2026-07-10T08:41:02.000Z",
             "year": "2024",
             "score": 6.87999999999999989341858963598497211933135986328125,
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "50184",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1506\/138529l.jpg",
-            "titulo": "Seiken Gakuin no Makentsukai",
-            "titulo_original": "聖剣学院の魔剣使い",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2023-10-03",
-            "updated_at": "2026-07-10T08:40:50.000Z",
-            "year": "2023",
-            "score": 6.20000000000000017763568394002504646778106689453125,
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
