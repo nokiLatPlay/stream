@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 245,
+    "total_items": 246,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63316",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx184356-SlFIstXUXJYP.png",
+            "titulo": "Dogul Wang",
+            "titulo_original": "도굴왕",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-09",
+            "updated_at": "2026-07-10T07:31:56.000Z",
+            "year": "2026",
+            "score": "6.7",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "63418",
             "imagen": "https:\/\/cdn.myanimelist.net\/r\/300x468\/images\/anime\/1084\/158946.webp?s=f65746285d8a0a66d0c3a631c190b63b",
@@ -2789,20 +2803,6 @@
             "episodes": 13,
             "created_at": "2025-07-06",
             "updated_at": "2026-03-17T00:45:25.000Z"
-        },
-        {
-            "id_mal": "60603",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1415\/150405l.jpg",
-            "titulo": "Puniru wa Kawaii Slime 2nd Season",
-            "titulo_original": "ぷにるはかわいいスライム 第2期",
-            "year": "2025",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:23.000Z"
         }
     ]
 }
