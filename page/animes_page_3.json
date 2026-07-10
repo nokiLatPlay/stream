@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 628,
+    "total_items": 629,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "54234",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1582\/136325.jpg",
+            "titulo": "Suki na Ko ga Megane wo Wasureta",
+            "titulo_original": "好きな子がめがねを忘れた",
+            "year": "2026",
+            "etiquetas": "Comedy, Romance",
+            "type": "tv-anime",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "created_at": "2023-4-7",
+            "updated_at": "2026-04-12T09:12:58.000Z",
+            "episodes": 13
+        },
         {
             "id_mal": "54842",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1693\/138042.jpg",
@@ -2965,21 +2979,6 @@
             "created_at": "2025-07-05",
             "updated_at": "2026-03-17T00:32:24.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "53512",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1672\/148193l.jpg",
-            "titulo": "Busu ni Hanataba wo.",
-            "titulo_original": "ブスに花束を。",
-            "year": "2025",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "created_at": "2025-07-04",
-            "updated_at": "2026-03-17T00:31:54.000Z",
-            "episodes": 13
         }
     ]
 }
