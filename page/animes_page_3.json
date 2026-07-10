@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "8277",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/27705.jpg",
+            "titulo": "Hyakka Ryouran: Samurai Girls",
+            "titulo_original": "百花繚乱 サムライガールズ",
+            "year": "2026",
+            "etiquetas": "Action, Comedy, Romance, Ecchi",
+            "type": "tv-anime",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "created_at": "2010-4-9",
+            "updated_at": "2026-04-12T09:13:19.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "2002",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/50435.jpg",
@@ -2954,21 +2968,6 @@
             "created_at": "2025-07-06",
             "updated_at": "2026-03-17T00:39:03.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "59161",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1672\/148848l.jpg",
-            "titulo": "Bad Girl",
-            "titulo_original": "ばっどがーる",
-            "year": "2025",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:39:00.000Z",
-            "episodes": 12
         }
     ]
 }
