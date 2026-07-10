@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 218,
+    "total_items": 219,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51318",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1800\/135847l.jpg",
+            "titulo": "Hanma Baki: Son of Ogre 2nd Season",
+            "titulo_original": "範馬刃牙 SON OF OGRE",
+            "etiquetas": "Sports",
+            "type": "anime",
+            "created_at": "2023-07-26",
+            "updated_at": "2026-07-10T08:42:22.000Z",
+            "year": "2023",
+            "score": 7.9000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 27
+        },
         {
             "id_mal": "51179",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1898\/138005l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.1",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "60071",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1968\/152396.jpg",
-            "titulo": "Odayaka Kizoku no Kyuuka no Susume.",
-            "titulo_original": "穏やか貴族の休暇のすすめ。",
-            "etiquetas": "Fantasy, Slice of Life, Isekai",
-            "type": "anime",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-06-23T16:18:33.000Z",
-            "year": "2026",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
