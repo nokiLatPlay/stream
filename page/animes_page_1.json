@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 447,
+    "total_items": 448,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62856",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1068\/158475l.jpg",
+            "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "titulo_original": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-10T09:23:28.000Z",
+            "year": "2026",
+            "score": 7.71999999999999975131004248396493494510650634765625,
+            "status": "Currently Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "62852",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1489\/155658l.jpg",
@@ -2971,21 +2985,6 @@
             "score": 8.7200000000000006394884621840901672840118408203125,
             "status": "Finished Airing",
             "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "50139",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1500\/151301l.jpg",
-            "titulo": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "titulo_original": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-29",
-            "updated_at": "2026-07-10T08:40:22.000Z",
-            "year": "2025",
-            "score": 6.82000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 8,
             "calidad": null
         }
     ]
