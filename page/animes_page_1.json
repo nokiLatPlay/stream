@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 262,
+    "total_items": 263,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63100",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1961\/158686l.jpg",
+            "titulo": "Tetsunabe no Jan!",
+            "titulo_original": "鉄鍋のジャン！",
+            "etiquetas": "Action, Comedy, Gourmet",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-10T09:28:46.000Z",
+            "year": "2026",
+            "score": 7.019999999999999573674358543939888477325439453125,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "63087",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1666\/154215l.jpg",
@@ -2982,21 +2996,6 @@
             "score": "8.1",
             "status": "Finished Airing",
             "episodes": "24",
-            "calidad": null
-        },
-        {
-            "id_mal": "52293",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1180\/150596l.jpg",
-            "titulo": "New Panty & Stocking with Garterbelt",
-            "titulo_original": "New PANTY&STOCKING with GARTERBELT",
-            "etiquetas": "Action, Comedy, Fantasy, Ecchi",
-            "type": "anime",
-            "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:52:43.000Z",
-            "year": "2025",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 13,
             "calidad": null
         }
     ]
