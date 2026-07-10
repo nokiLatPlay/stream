@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 212,
+    "total_items": 213,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50184",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1506\/138529l.jpg",
+            "titulo": "Seiken Gakuin no Makentsukai",
+            "titulo_original": "聖剣学院の魔剣使い",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2023-10-03",
+            "updated_at": "2026-07-10T08:40:53.000Z",
+            "year": "2023",
+            "score": 6.20000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "50172",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/125011l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-23T16:14:53.000Z",
             "year": "2026",
             "score": "6.2",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61782",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1940\/154234.jpg",
-            "titulo": "Kirei ni Shitemoraemasu ka.",
-            "titulo_original": "綺麗にしてもらえますか。",
-            "etiquetas": "Slice of Life, Seinen",
-            "type": "anime",
-            "created_at": "2026-01-05",
-            "updated_at": "2026-06-23T16:14:05.000Z",
-            "year": "2026",
-            "score": "6.9",
             "status": "Finished Airing",
             "episodes": 12
         }
