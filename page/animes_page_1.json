@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 5,
+    "total_items": 6,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59070",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1750\/150046l.jpg",
+            "titulo": "Guilty Gear Strive: Dual Rulers",
+            "titulo_original": "GUILTY GEAR STRIVE: DUAL RULERS",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2025-04-05",
+            "updated_at": "2026-07-10T08:57:07.000Z",
+            "year": "2025",
+            "score": 5.8499999999999996447286321199499070644378662109375,
+            "status": "Finished Airing",
+            "episodes": 8
+        },
         {
             "id_mal": "59047",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1474\/153320l.jpg",
