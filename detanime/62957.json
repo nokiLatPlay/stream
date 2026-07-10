@@ -1,86 +1,14 @@
 {
     "id_mal": "62957",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1697/158621l.jpg",
     "titulo": "Bai Ri Cheng Wang",
     "titulo_original": "百日成王",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213484-FIyYH43ASHgB.png",
-    "etiquetas": "Action, Adventure, Fantasy",
     "year": "2026",
+    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "synopsis": "Driven to the brink of despair, restaurant owner Ming forms an unlikely bond with the soul of the true King Lie after swallowing it to save his loved one. Bound together by fate, the two embark on a perilous journey to challenge the tyrant who has usurped the throne.\nWith only one hundred days to change their destiny, Ming uses his extraordinary memory to master long-lost magic, gathering allies and winning the support of the people along the way. As their strength grows, so does their resolve to overthrow a corrupt regime, reclaim the rightful king's throne, and restore peace to the realm.\n(Source: Bilibili TV)",
-    "score": "6.0",
-    "episodes": 4,
+    "score": 6.63999999999999968025576890795491635799407958984375,
     "status": "Currently Airing",
-    "duration": "",
-    "rating": "",
-    "source": "ORIGINAL",
-    "studios": [
-        "bilibili",
-        "Studio LAN"
-    ],
-    "producers": [],
+    "episodes": 25,
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-09T21:31:41.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4378/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/882edf173012711697bbbdfbed212e20",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "02",
-                    "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/4378/2.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/0e8326f404d52161a0d89d35d1e4ec63",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "03",
-                    "numero": 3,
-                    "nombre": "Episodio 3",
-                    "portada": "https://cdn.animeav1.com/screenshots/4378/3.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/d88ab3c2f2ebc868f28be3dd1fe280be",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "04",
-                    "numero": 4,
-                    "nombre": "Episodio 4",
-                    "portada": "https://cdn.animeav1.com/screenshots/4378/4.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/d53b0e52570eb8ab755442c0ebd12e1b",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:25:37.000Z"
 }
