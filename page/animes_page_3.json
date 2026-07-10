@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 632,
+    "total_items": 633,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56738",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1988\/142714.jpg",
+            "titulo": "Shinigami Bocchan to Kuro Maid 3rd Season",
+            "titulo_original": "死神坊ちゃんと黒メイド 第3期",
+            "year": "2026",
+            "etiquetas": "Comedy, Fantasy, Romance",
+            "type": "tv-anime",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "created_at": "2024-7-4",
+            "updated_at": "2026-04-12T09:13:05.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "53770",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1183\/141489.jpg",
@@ -2961,21 +2975,6 @@
             "created_at": "2025-07-05",
             "updated_at": "2026-03-17T00:34:58.000Z",
             "episodes": 26
-        },
-        {
-            "id_mal": "59277",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1071\/150808l.jpg",
-            "titulo": "Kanojo, Okarishimasu 4th Season",
-            "titulo_original": "彼女、お借りします 第4期",
-            "year": "2025",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "created_at": "2025-07-05",
-            "updated_at": "2026-03-17T00:34:10.000Z",
-            "episodes": 12
         }
     ]
 }
