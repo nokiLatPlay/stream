@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 628,
+    "total_items": 629,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63752",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209504-yRxHWxKuNGtg.jpg",
+            "titulo": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+            "titulo_original": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-09T21:25:23.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "56735",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169583-0ZTdBGrKNIbe.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.8",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61469",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1448\/154111.jpg",
-            "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
-            "titulo_original": "スティール・ボール・ラン ジョジョの奇妙な冒険",
-            "etiquetas": "Action, Adventure, Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2026-03-19",
-            "updated_at": "2026-05-16T02:26:07.000Z",
-            "year": "2026",
-            "score": "9.2",
-            "status": "Currently Airing",
-            "episodes": 1
         }
     ]
 }
