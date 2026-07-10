@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 634,
+    "total_items": 635,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59393",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983.jpg",
+            "titulo": "Niwatori Fighter",
+            "titulo_original": "ニワトリ・ファイター",
+            "etiquetas": "Action, Comedy, Anthropomorphic",
+            "type": "anime",
+            "created_at": "2026-03-15",
+            "updated_at": "2026-05-25T08:52:30.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "58614",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx176702-sD5AnHf8g4zi.jpg",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2024-7-10",
             "updated_at": "2026-04-12T09:13:11.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "54913",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1212\/144711.jpg",
-            "titulo": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-            "titulo_original": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "tv-anime",
-            "score": "7.3",
-            "status": "Finished Airing",
-            "created_at": "2024-2-7",
-            "updated_at": "2026-04-12T09:13:09.000Z",
             "episodes": 12
         }
     ]
