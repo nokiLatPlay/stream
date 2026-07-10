@@ -1,62 +1,14 @@
 {
     "id_mal": "63418",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1084/158946l.jpg",
     "titulo": "Thunder 3",
     "titulo_original": "サンダー3",
-    "imagen": "https://cdn.myanimelist.net/r/300x468/images/anime/1084/158946.webp?s=f65746285d8a0a66d0c3a631c190b63b",
-    "etiquetas": "Mystery, Sci-Fi, Supernatural,Shounen",
     "year": "2026",
+    "etiquetas": "Mystery, Sci-Fi, Supernatural",
     "type": "anime",
-    "synopsis": "Pyontaro, Hiroshi y Tsubame, tres estudiantes de secundaria de lo más corrientes, se ven envueltos en una aventura extraordinaria cuando la hermana pequeña de Pyontaro desaparece.",
-    "score": "6.1",
-    "episodes": 1,
+    "score": 6.1500000000000003552713678800500929355621337890625,
     "status": "Currently Airing",
-    "duration": "22 min.",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Manga",
-    "studios": [
-        "Unend"
-    ],
-    "producers": [
-        "Animax",
-        "Kodansha",
-        "Fuji TV",
-        "KlockWorx",
-        "Slow Curve",
-        "Fujipacific Music",
-        "BS Fuji",
-        "Glovision",
-        "Kansai TV",
-        "Hakuhodo",
-        "NewGin",
-        "arma bianca"
-    ],
-    "created_at": "2026-07-08",
-    "updated_at": "2026-07-10T07:30:26.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "",
-                    "portada": "https://cdn.animeav1.com/screenshots/4422/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "type": "mp4",
-                            "language": "Latino",
-                            "url": "https://player.zilla-networks.com/m3u8/10df1721e25b135939e9a68173ea52b8"
-                        },
-                        {
-                            "nombre": "Enlace",
-                            "type": "mp4",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/m3u8/e53613be27cf3370018b0ffd55ec9142"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "episodes": 0,
+    "created_at": "2026-07-09",
+    "updated_at": "2026-07-10T09:31:23.000Z"
 }
