@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 623,
+    "total_items": 624,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59744",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx180825-trzjP1VDF19U.jpg",
+            "titulo": "Maebashi Witches",
+            "titulo_original": "前橋ウィッチーズ",
+            "etiquetas": "Drama, Mahou Shoujo, Music, Supernatural",
+            "type": "anime",
+            "created_at": "2026-05-09",
+            "updated_at": "2026-05-09T20:24:53.000Z",
+            "year": "2025",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "56038",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx167336-KpGIIBie71OX.png",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2023-6-1",
             "updated_at": "2026-04-12T09:12:50.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "51252",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1491\/132864.jpg",
-            "titulo": "Spy Kyoushitsu",
-            "titulo_original": "スパイ教室",
-            "year": "2026",
-            "etiquetas": "Action, Mystery",
-            "type": "tv-anime",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "created_at": "2023-5-1",
-            "updated_at": "2026-04-12T09:12:49.000Z",
             "episodes": 12
         }
     ]
