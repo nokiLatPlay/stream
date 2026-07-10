@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 445,
+    "total_items": 446,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49818",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1952\/149229l.jpg",
+            "titulo": "Guimi Zhi Zhu: Xiaochou Pian",
+            "titulo_original": "诡秘之主 小丑篇",
+            "etiquetas": "Action, Fantasy, Mystery, Suspense",
+            "type": "anime",
+            "created_at": "2025-06-28",
+            "updated_at": "2026-07-10T08:39:30.000Z",
+            "year": "2025",
+            "score": 8.6099999999999994315658113919198513031005859375,
+            "status": "Finished Airing",
+            "episodes": 13,
+            "calidad": null
+        },
         {
             "id_mal": "49784",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1688\/128720l.jpg",
@@ -2987,21 +3002,6 @@
             "score": "8.5",
             "status": "Finished Airing",
             "episodes": 13,
-            "calidad": null
-        },
-        {
-            "id_mal": "60603",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1415\/150405l.jpg",
-            "titulo": "Puniru wa Kawaii Slime 2nd Season",
-            "titulo_original": "ぷにるはかわいいスライム 第2期",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:23.000Z",
-            "year": "2025",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 12,
             "calidad": null
         }
     ]
