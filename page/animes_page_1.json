@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 11,
+    "total_items": 12,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62048",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156386l.jpg",
+            "titulo": "Mao",
+            "titulo_original": "MAO",
+            "etiquetas": "Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-07-10T09:13:33.000Z",
+            "year": "2026",
+            "score": 6.9900000000000002131628207280300557613372802734375,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "62018",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1178\/155933l.jpg",
