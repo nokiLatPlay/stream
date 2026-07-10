@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 444,
+    "total_items": 445,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59062",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1682\/150432l.jpg",
+            "titulo": "Gachiakuta",
+            "titulo_original": "ガチアクタ",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2025-07-06",
+            "updated_at": "2026-03-17T00:44:16.000Z",
+            "year": "2025",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "episodes": 24,
+            "calidad": null
+        },
         {
             "id_mal": "56907",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1445\/150685l.jpg",
