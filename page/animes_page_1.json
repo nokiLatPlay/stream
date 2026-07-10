@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 444,
+    "total_items": 445,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62683",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1024\/158581l.jpg",
+            "titulo": "Let's Go Kaiki-gumi",
+            "titulo_original": "レッツゴー怪奇組",
+            "etiquetas": "Comedy, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-10T09:21:58.000Z",
+            "year": "2026",
+            "score": 6.19000000000000039079850466805510222911834716796875,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62617",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1371\/154308l.jpg",
@@ -2975,21 +2989,6 @@
             "score": 8.6099999999999994315658113919198513031005859375,
             "status": "Finished Airing",
             "episodes": 13,
-            "calidad": null
-        },
-        {
-            "id_mal": "49784",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1688\/128720l.jpg",
-            "titulo": "Mairimashita! Iruma-kun 3rd Season",
-            "titulo_original": "魔入りました！入間くん",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2022-10-08",
-            "updated_at": "2026-07-10T08:39:11.000Z",
-            "year": "2022",
-            "score": 7.839999999999999857891452847979962825775146484375,
-            "status": "Finished Airing",
-            "episodes": 21,
             "calidad": null
         }
     ]
