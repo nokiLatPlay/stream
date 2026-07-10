@@ -1,50 +1,14 @@
 {
     "id_mal": "62683",
-    "titulo": "Let's Go Kaikigumi",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1024/158581l.jpg",
+    "titulo": "Let's Go Kaiki-gumi",
     "titulo_original": "レッツゴー怪奇組",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-YuzdgbXSgi38.png",
-    "etiquetas": "Comedy, Horror, Supernatural",
     "year": "2026",
+    "etiquetas": "Comedy, Supernatural",
     "type": "anime",
-    "synopsis": "The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the \"Kaikigumi\" organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.\n\n(Source: ANN)",
-    "score": "5.5",
-    "episodes": 1,
+    "score": 6.19000000000000039079850466805510222911834716796875,
     "status": "Currently Airing",
-    "duration": 24,
-    "rating": "",
-    "source": "MANGA",
-    "studios": [
-        "C-Station",
-        "TBS",
-        "Sony Music Entertainment",
-        "KLOCKWORX",
-        "BS11",
-        "81 Produce",
-        "Bushiroad Creative",
-        "FuRyu Pictures"
-    ],
-    "producers": [],
+    "episodes": 12,
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-09T19:16:39.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4395/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/1ca957999f1e2e947641a310cdc5777a",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:21:57.000Z"
 }
