@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "49233",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1917\/158371l.jpg",
+            "titulo": "Youjo Senki II",
+            "titulo_original": "幼女戦記 II",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-10T08:38:49.000Z",
+            "year": "2026",
+            "score": 8.410000000000000142108547152020037174224853515625,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "48997",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1430\/120065l.jpg",
             "titulo": "Fantasy Bishoujo Juniku Ojisan to",
@@ -1193,20 +1207,6 @@
             "score": "6.8",
             "status": "Currently Airing",
             "episodes": 3
-        },
-        {
-            "id_mal": "49233",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx135865-T7XIPMAbqcxN.png",
-            "titulo": "Youjo Senki II",
-            "titulo_original": "幼女戦記Ⅱ",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-09T21:48:23.000Z",
-            "year": "2026",
-            "score": "8.1",
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "62513",
