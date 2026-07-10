@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 497,
+    "total_items": 498,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60058",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
+            "titulo": "[Oshi no Ko] 3rd Season",
+            "titulo_original": "【推しの子】 第3期",
+            "year": "2026",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "score": "8.7",
+            "status": "Finished Airing",
+            "episodes": 11,
+            "created_at": "2026-01-14",
+            "updated_at": "2026-03-26T02:34:17.000Z"
+        },
         {
             "id_mal": "60058",
             "slug": "",
@@ -2857,20 +2871,6 @@
             "created_at": "2025-07-07",
             "updated_at": "2026-03-17T00:47:13.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "59689",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1943\/149719l.jpg",
-            "titulo": "Game Center Shoujo to Ibunka Kouryuu",
-            "titulo_original": "ゲーセン少女と異文化交流",
-            "year": "2025",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "score": "6.6",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:47:11.000Z"
         }
     ]
 }
