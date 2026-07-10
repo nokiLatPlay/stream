@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 14,
+    "total_items": 15,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "55997",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1904\/144608l.jpg",
+            "titulo": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+            "titulo_original": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2025-01-11",
+            "updated_at": "2026-07-10T08:49:33.000Z",
+            "year": "2025",
+            "score": 6.63999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "55994",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1360\/153020l.jpg",
