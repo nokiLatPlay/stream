@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 201,
+    "total_items": 202,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52299",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1801\/142390l.jpg",
+            "titulo": "Ore dake Level Up na Ken",
+            "titulo_original": "俺だけレベルアップな件",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2024-01-07",
+            "updated_at": "2026-07-10T08:43:19.000Z",
+            "year": "2024",
+            "score": 8.1500000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "51818",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1527\/146836l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-23T16:33:38.000Z",
             "year": "2026",
             "score": "7.4",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61587",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1360\/153435.jpg",
-            "titulo": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
-            "titulo_original": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-            "etiquetas": "Action, Adventure, Fantasy, Girls Love",
-            "type": "anime",
-            "created_at": "2026-01-09",
-            "updated_at": "2026-06-23T16:32:04.000Z",
-            "year": "2026",
-            "score": "6.2",
             "status": "Finished Airing",
             "episodes": 12
         }
