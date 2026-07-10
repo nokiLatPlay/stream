@@ -1,9 +1,24 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 622,
+    "total_items": 623,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "1535",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1079\/138100l.jpg",
+            "titulo": "Death Note",
+            "titulo_original": "デスノート",
+            "year": "2006",
+            "etiquetas": "Supernatural, Suspense",
+            "type": "anime",
+            "score": "8.6",
+            "status": "Finished Airing",
+            "created_at": "2006-10-04",
+            "updated_at": "2026-03-17T00:19:24.000Z",
+            "episodes": 37
+        },
         {
             "id_mal": "30276",
             "slug": "",
