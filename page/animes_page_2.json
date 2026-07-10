@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 495,
+    "total_items": 496,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61207",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1250\/156107l.jpg",
+            "titulo": "Tensei shitara Dragon no Tamago datta",
+            "titulo_original": "転生したらドラゴンの卵だった",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "created_at": "2026-01-10",
+            "updated_at": "2026-03-26T02:29:51.000Z"
+        },
         {
             "id_mal": "61207",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1250\/156107l.jpg",
@@ -2857,20 +2871,6 @@
             "created_at": "2025-07-06",
             "updated_at": "2026-03-17T00:47:11.000Z",
             "episodes": 12
-        },
-        {
-            "id_mal": "60316",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1454\/150515l.jpg",
-            "titulo": "Busamen Gachi Fighter",
-            "titulo_original": "ブサメンガチファイター",
-            "year": "2025",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:28.000Z"
         }
     ]
 }
