@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 456,
+    "total_items": 457,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62983",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/155506l.jpg",
+            "titulo": "Marika-chan no Koukando wa Bukkowareteiru",
+            "titulo_original": "茉莉花ちゃんの好感度はぶっ壊れている",
+            "etiquetas": "Comedy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:26:53.000Z",
+            "year": "2026",
+            "score": 5.05999999999999960920149533194489777088165283203125,
+            "status": "Finished Airing",
+            "episodes": 8
+        },
         {
             "id_mal": "62964",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1595\/156152l.jpg",
@@ -2962,21 +2976,6 @@
             "score": 8.53999999999999914734871708787977695465087890625,
             "status": "Finished Airing",
             "episodes": 13,
-            "calidad": null
-        },
-        {
-            "id_mal": "51498",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/135587l.jpg",
-            "titulo": "Masamune-kun no Revenge R",
-            "titulo_original": "政宗くんのリベンジR",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2023-07-03",
-            "updated_at": "2026-07-10T08:42:30.000Z",
-            "year": "2023",
-            "score": 7.230000000000000426325641456060111522674560546875,
-            "status": "Finished Airing",
-            "episodes": 12,
             "calidad": null
         }
     ]
