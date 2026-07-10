@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 448,
+    "total_items": 449,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62876",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1116\/157083l.jpg",
+            "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "titulo_original": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-10T09:23:45.000Z",
+            "year": "2026",
+            "score": 7.29000000000000003552713678800500929355621337890625,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62856",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1068\/158475l.jpg",
@@ -2968,21 +2982,6 @@
             "updated_at": "2026-07-10T08:40:50.000Z",
             "year": "2023",
             "score": 6.20000000000000017763568394002504646778106689453125,
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "50172",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/125011l.jpg",
-            "titulo": "Mob Psycho 100 III",
-            "titulo_original": "モブサイコ100 III",
-            "etiquetas": "Action, Comedy, Supernatural",
-            "type": "anime",
-            "created_at": "2022-10-06",
-            "updated_at": "2026-07-10T08:40:39.000Z",
-            "year": "2022",
-            "score": 8.7200000000000006394884621840901672840118408203125,
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
