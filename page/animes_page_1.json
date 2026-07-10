@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 638,
+    "total_items": 639,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49233",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx135865-T7XIPMAbqcxN.png",
+            "titulo": "Youjo Senki II",
+            "titulo_original": "幼女戦記Ⅱ",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-09T21:48:24.000Z",
+            "year": "2026",
+            "score": "8.1",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62513",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198946-IGXmbqBEYRYD.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.9",
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "59205",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx178869-qiEz0gQD8H5N.png",
-            "titulo": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
-            "titulo_original": "",
-            "etiquetas": "Action, Drama, Fantasy",
-            "type": "anime",
-            "created_at": "2026-05-25",
-            "updated_at": "2026-05-25T09:44:29.000Z",
-            "year": "2026",
-            "score": "7.7",
-            "status": "FINISHED",
-            "episodes": 12
         }
     ]
 }
