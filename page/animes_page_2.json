@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35849",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx99423-8MBxtwCeHf8B.png",
+            "titulo": "Darling in the Franxx",
+            "titulo_original": "ダーリン・イン・ザ・フランキス",
+            "etiquetas": "Action, Drama, Mecha, Psychological, Romance",
+            "type": "anime",
+            "created_at": "2018-01-18",
+            "updated_at": "2026-05-26T05:55:56.000Z",
+            "year": "2018",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "59205",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx178869-qiEz0gQD8H5N.png",
@@ -2885,20 +2899,6 @@
             "created_at": "2011-15-4",
             "updated_at": "2026-04-12T09:13:21.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "8277",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/27705.jpg",
-            "titulo": "Hyakka Ryouran: Samurai Girls",
-            "titulo_original": "百花繚乱 サムライガールズ",
-            "year": "2026",
-            "etiquetas": "Action, Comedy, Romance, Ecchi",
-            "type": "tv-anime",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "created_at": "2010-4-9",
-            "updated_at": "2026-04-12T09:13:19.000Z",
-            "episodes": 12
         }
     ]
 }
