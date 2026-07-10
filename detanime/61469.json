@@ -1,53 +1,14 @@
 {
     "id_mal": "61469",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1448/154111l.jpg",
     "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
     "titulo_original": "スティール・ボール・ラン ジョジョの奇妙な冒険",
-    "imagen": "https://myanimelist.net/images/anime/1448/154111.jpg",
-    "etiquetas": "Action, Adventure, Mystery, Supernatural",
     "year": "2026",
+    "etiquetas": "Action, Adventure, Mystery, Supernatural",
     "type": "anime",
-    "synopsis": "En el Viejo Oeste americano, la carrera más grande del mundo está a punto de comenzar. Miles de personas se alinean en San Diego para recorrer más de seis mil kilómetros con la esperanza de ganar el gran premio de cincuenta millones de dólares. Con la era del caballo llegando a su fin, los participantes pueden usar cualquier tipo de vehículo que deseen. Los competidores tendrán que soportar condiciones extenuantes, recorriendo hasta cien kilómetros diarios a través de páramos inexplorados. La Carrera de la Bola de Acero es un evento verdaderamente único.\r\n\r\nEl joven Johnny Joestar, un ex jinete lisiado, ha llegado a San Diego para presenciar el inicio de la carrera. Allí se encuentra con Gyro Zeppeli, un corredor que lleva dos bolas de acero en la cintura en lugar de una pistola. Johnny presencia cómo Gyro usa una de sus bolas de acero para desatar un poder fantástico, obligando a un hombre a dispararse a sí mismo durante un duelo. En medio de la acción, Johnny toca la bola de acero y siente una fuerza que recorre sus piernas, permitiéndole ponerse de pie por primera vez en dos años. Decidido a descubrir el secreto de las bolas de acero, Johnny decide participar en la carrera, dando inicio así a su peculiar aventura a través de Estados Unidos en la Carrera de las Bolas de Acero.\r\n\r\n[Escrito por MAL Rewrite]",
-    "score": "9.2",
-    "episodes": 1,
+    "score": 9.0999999999999996447286321199499070644378662109375,
     "status": "Currently Airing",
-    "duration": "47 min",
-    "rating": "R - 17+ (violence & profanity)",
-    "source": "Manga",
-    "studios": [
-        "David Production"
-    ],
-    "producers": [
-        "Warner Bros. Japan",
-        "Studio Mausu",
-        "ONEMUSIC"
-    ],
+    "episodes": 0,
     "created_at": "2026-03-19",
-    "updated_at": "2026-05-16T02:26:07.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "LA CARRERA DE LA BOLA DE ACERO",
-                    "portada": "https://image.tmdb.org/t/p/w300/4ATJwDwspxLCYEZaRbCpIyxd7Wo.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Server 2",
-                            "type": "mp4",
-                            "language": "Latino",
-                            "url": "https://player.zilla-networks.com/m3u8/9d611e1f945154dd5eae2545ffc5aa94"
-                        },
-                        {
-                            "nombre": "Server 4",
-                            "type": "mp4",
-                            "language": "Sub",
-                            "url": "https://player.zilla-networks.com/m3u8/1cbf1573eaaef3f77b38be17bbe662d0"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:10:10.000Z"
 }
