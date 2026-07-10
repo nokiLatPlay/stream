@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 455,
+    "total_items": 456,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51318",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1800\/135847l.jpg",
+            "titulo": "Hanma Baki: Son of Ogre 2nd Season",
+            "titulo_original": "範馬刃牙 SON OF OGRE",
+            "etiquetas": "Sports",
+            "type": "anime",
+            "created_at": "2023-07-26",
+            "updated_at": "2026-07-10T08:42:11.000Z",
+            "year": "2023",
+            "score": 7.9000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 27,
+            "calidad": null
+        },
         {
             "id_mal": "51179",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1898\/138005l.jpg",
@@ -2985,21 +3000,6 @@
             "updated_at": "2026-03-17T00:49:07.000Z",
             "year": "2025",
             "score": "6.1",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "58197",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1411\/150445l.jpg",
-            "titulo": "Nyaight of the Living Cat",
-            "titulo_original": "ニャイト・オブ・ザ・リビングキャット",
-            "etiquetas": "Action, Horror, Suspense",
-            "type": "anime",
-            "created_at": "2025-07-08",
-            "updated_at": "2026-03-17T00:49:04.000Z",
-            "year": "2025",
-            "score": "6.3",
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
