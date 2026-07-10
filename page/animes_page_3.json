@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 631,
+    "total_items": 632,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53770",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1183\/141489.jpg",
+            "titulo": "Sentai Daishikkaku",
+            "titulo_original": "戦隊大失格",
+            "year": "2026",
+            "etiquetas": "Action, Fantasy",
+            "type": "tv-anime",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "created_at": "2024-7-4",
+            "updated_at": "2026-04-12T09:13:04.000Z",
+            "episodes": 12
+        },
         {
             "id_mal": "53590",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1280\/138474.jpg",
@@ -2961,21 +2975,6 @@
             "status": "Finished Airing",
             "created_at": "2025-07-05",
             "updated_at": "2026-03-17T00:34:10.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60697",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1104\/150590l.jpg",
-            "titulo": "Fermat no Ryouri",
-            "titulo_original": "フェルマーの料理",
-            "year": "2025",
-            "etiquetas": "Drama, Gourmet",
-            "type": "anime",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "created_at": "2025-07-05",
-            "updated_at": "2026-03-17T00:34:07.000Z",
             "episodes": 12
         }
     ]
