@@ -1,44 +1,14 @@
 {
     "id_mal": "63316",
-    "titulo": "Dogul Wang",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
+    "titulo": "Dogulwang",
     "titulo_original": "도굴왕",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
-    "etiquetas": "Action, Adventure, Fantasy",
     "year": "2026",
+    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "synopsis": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.\n\n(Source: Crunchyroll)",
-    "score": "6.7",
-    "episodes": 1,
+    "score": 6.87000000000000010658141036401502788066864013671875,
     "status": "Currently Airing",
-    "duration": 23,
-    "rating": "",
-    "source": "MANGA",
-    "studios": [
-        "KADOKAWA",
-        "STUDIO EEK"
-    ],
-    "producers": [],
+    "episodes": 12,
     "created_at": "2026-07-09",
-    "updated_at": "2026-07-10T07:31:55.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4421/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/61a504f5ab1923ccafd14977ddfd1806",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:29:45.000Z"
 }
