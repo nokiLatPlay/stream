@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 208,
+    "total_items": 209,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53580",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1211\/143476l.jpg",
+            "titulo": "Tensei shitara Slime Datta Ken 3rd Season",
+            "titulo_original": "転生したらスライムだった件 第3期",
+            "etiquetas": "Action, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2024-04-05",
+            "updated_at": "2026-07-10T08:45:19.000Z",
+            "year": "2024",
+            "score": 7.70999999999999996447286321199499070644378662109375,
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "53447",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1492\/150628l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-24T14:45:12.000Z",
             "year": "2026",
             "score": "5.8",
-            "status": "Currently Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "62604",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1956\/155456.jpg",
-            "titulo": "Otaku ni Yasashii Gal wa Inai!?",
-            "titulo_original": "オタクに優しいギャルはいない!?",
-            "etiquetas": "Comedy, Romance, Otaku Culture, School, Seinen",
-            "type": "anime",
-            "created_at": "2026-04-08",
-            "updated_at": "2026-06-24T14:42:13.000Z",
-            "year": "2026",
-            "score": "7.5",
             "status": "Currently Airing",
             "episodes": 12
         }
