@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 41,
+    "total_items": 42,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61048",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1878\/157796l.jpg",
+            "titulo": "Neko to Ryuu",
+            "titulo_original": "猫と竜",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-04",
+            "updated_at": "2026-07-10T09:07:09.000Z",
+            "year": "2026",
+            "score": 7.6500000000000003552713678800500929355621337890625,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "61013",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg",
