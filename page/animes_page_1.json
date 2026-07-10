@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "525",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/16736l.jpg",
+            "titulo": "Otogizoushi",
+            "titulo_original": "お伽草子",
+            "etiquetas": "Adventure, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2004-07-07",
+            "updated_at": "2026-07-10T08:43:37.000Z",
+            "year": "2004",
+            "score": 6.95000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 26
+        },
+        {
             "id_mal": "52299",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1801\/142390l.jpg",
             "titulo": "Ore dake Level Up na Ken",
@@ -2229,20 +2243,6 @@
             "score": "7.6",
             "status": "Currently Airing",
             "episodes": 14
-        },
-        {
-            "id_mal": "525",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx525-rNyfYmeg2nU4.png",
-            "titulo": "Otogizoushi",
-            "titulo_original": "お伽草子",
-            "etiquetas": "Adventure, Drama, Fantasy, Supernatural",
-            "type": "anime",
-            "created_at": "2004-07-07",
-            "updated_at": "2026-07-01T18:41:14.000Z",
-            "year": "2004",
-            "score": "6.3",
-            "status": "FINISHED",
-            "episodes": 26
         },
         {
             "id_mal": "53732",
