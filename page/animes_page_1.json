@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 70,
+    "total_items": 71,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63403",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1281\/156496l.jpg",
+            "titulo": "Yani Neko",
+            "titulo_original": "ヤニねこ",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-10T09:31:10.000Z",
+            "year": "2026",
+            "score": 7.03000000000000024868995751603506505489349365234375,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "63376",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/156696l.jpg",
