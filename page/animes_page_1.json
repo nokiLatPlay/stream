@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 640,
+    "total_items": 641,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61897",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx194829-bZKwhfo60EuF.jpg",
+            "titulo": "Katainaka no Ossan, Kensei ni Naru II",
+            "titulo_original": "片田舎のおっさん、剣聖になるII",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-10T07:06:44.000Z",
+            "year": "2026",
+            "score": "7.1",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62102",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196356-2TNt2b9tu0jm.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.4",
             "status": "FINISHED",
             "episodes": 12
-        },
-        {
-            "id_mal": "62342",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1175\/156007.jpg",
-            "titulo": "Maid-san wa Taberu dake",
-            "titulo_original": "",
-            "etiquetas": "Gourmet, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-03-31",
-            "updated_at": "2026-05-26T19:25:10.000Z",
-            "year": "2026",
-            "score": "6.8",
-            "status": "Currently Airing",
-            "episodes": 8
         }
     ]
 }
