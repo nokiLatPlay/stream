@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 24,
+    "total_items": 25,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60444",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774l.jpg",
+            "titulo": "Yowayowa Sensei",
+            "titulo_original": "よわよわ先生",
+            "etiquetas": "Comedy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-11",
+            "updated_at": "2026-07-10T09:04:20.000Z",
+            "year": "2026",
+            "score": 6.62999999999999989341858963598497211933135986328125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60395",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1033\/152494l.jpg",
