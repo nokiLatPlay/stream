@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 637,
+    "total_items": 638,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59342",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1637\/148197.jpg",
+            "titulo": "Hell Teacher: Jigoku Sensei Nube",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Horror, Supernatural, Mythology, School, Shounen",
+            "type": "anime",
+            "created_at": "2025-07-02",
+            "updated_at": "2026-05-25T09:37:56.000Z",
+            "year": "2025",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "59369",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx179706-NvVrmMxnDatB.jpg",
@@ -2885,20 +2899,6 @@
             "created_at": "2007-2-4",
             "updated_at": "2026-04-12T09:13:18.000Z",
             "episodes": 26
-        },
-        {
-            "id_mal": "50306",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1087\/144583.jpg",
-            "titulo": "Seirei Gensouki 2",
-            "titulo_original": "精霊幻想記2",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy, Romance",
-            "type": "tv-anime",
-            "score": "6.9",
-            "status": "Finished Airing",
-            "created_at": "2024-8-10",
-            "updated_at": "2026-04-12T09:13:16.000Z",
-            "episodes": 12
         }
     ]
 }
