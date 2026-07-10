@@ -1,9 +1,24 @@
 {
     "page": 3,
     "total_pages": 3,
-    "total_items": 455,
+    "total_items": 456,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58197",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1411\/150445l.jpg",
+            "titulo": "Nyaight of the Living Cat",
+            "titulo_original": "ニャイト・オブ・ザ・リビングキャット",
+            "etiquetas": "Action, Horror, Suspense",
+            "type": "anime",
+            "created_at": "2025-07-08",
+            "updated_at": "2026-03-17T00:49:04.000Z",
+            "year": "2025",
+            "score": "6.3",
+            "status": "Finished Airing",
+            "episodes": 12,
+            "calidad": null
+        },
         {
             "id_mal": "59986",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1108\/150583l.jpg",
