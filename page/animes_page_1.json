@@ -1,64 +1,22 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 4,
+    "total_items": 1,
     "items_per_page": 200,
     "data": [
         {
-            "id_mal": "41345",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1903\/111646l.jpg",
-            "titulo": "Noblesse",
-            "titulo_original": "NOBLESSE -ノブレス-",
-            "etiquetas": "Action, Supernatural",
+            "id_mal": "41402",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1527\/113656l.jpg",
+            "titulo": "Mairimashita! Iruma-kun 2nd Season",
+            "titulo_original": "魔入りました！入間くん",
+            "etiquetas": "Comedy, Fantasy",
             "type": "anime",
-            "created_at": "2020-10-08",
-            "updated_at": "2026-07-10T08:33:14.000Z",
-            "year": "2020",
-            "score": 6.9000000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 13
-        },
-        {
-            "id_mal": "41265",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1212\/113448l.jpg",
-            "titulo": "Mars Red",
-            "titulo_original": "MARS RED",
-            "etiquetas": "Action, Supernatural",
-            "type": "anime",
-            "created_at": "2021-04-06",
-            "updated_at": "2026-07-10T08:33:00.000Z",
+            "created_at": "2021-04-17",
+            "updated_at": "2026-07-10T08:33:31.000Z",
             "year": "2021",
-            "score": 6.5800000000000000710542735760100185871124267578125,
+            "score": 8.019999999999999573674358543939888477325439453125,
             "status": "Finished Airing",
-            "episodes": 13
-        },
-        {
-            "id_mal": "41120",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/106556l.jpg",
-            "titulo": "Fugou Keiji: Balance:Unlimited",
-            "titulo_original": "富豪刑事 Balance:UNLIMITED",
-            "etiquetas": "Mystery",
-            "type": "anime",
-            "created_at": "2020-04-10",
-            "updated_at": "2026-07-10T08:32:52.000Z",
-            "year": "2020",
-            "score": 7.5,
-            "status": "Finished Airing",
-            "episodes": 11
-        },
-        {
-            "id_mal": "41094",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1931\/157562l.jpg",
-            "titulo": "Xian Wang de Richang Shenghuo",
-            "titulo_original": "仙王的日常生活",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2020-01-18",
-            "updated_at": "2026-07-10T08:32:43.000Z",
-            "year": "2020",
-            "score": 7.30999999999999960920149533194489777088165283203125,
-            "status": "Finished Airing",
-            "episodes": 15
+            "episodes": 21
         }
     ]
 }
