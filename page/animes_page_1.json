@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63508",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx208044-Pm2UhvApQFUh.jpg",
+            "titulo": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+            "titulo_original": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-06-26",
+            "updated_at": "2026-07-10T07:41:11.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "62430",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198376-sc5qcFv0RSH9.jpg",
             "titulo": "BanG Dream! Yume∞Mita",
@@ -2789,20 +2803,6 @@
             "episodes": 13,
             "created_at": "2025-07-07",
             "updated_at": "2026-03-17T00:47:21.000Z"
-        },
-        {
-            "id_mal": "60508",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1039\/150572l.jpg",
-            "titulo": "Food Court de, Mata Ashita.",
-            "titulo_original": "フードコートで、また明日。",
-            "year": "2025",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "episodes": 6,
-            "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:18.000Z"
         }
     ]
 }
