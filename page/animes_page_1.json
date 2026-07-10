@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 496,
+    "total_items": 497,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "1195",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/20680l.jpg",
+            "titulo": "Zero no Tsukaima",
+            "titulo_original": "ゼロの使い魔",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2006-07-03",
+            "updated_at": "2026-07-10T08:14:00.000Z",
+            "year": "2006",
+            "score": 7.20000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "11633",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/47677l.jpg",
@@ -2817,21 +2831,6 @@
             "episodes": 11,
             "created_at": "2026-01-14",
             "updated_at": "2026-03-26T02:34:17.000Z"
-        },
-        {
-            "id_mal": "60058",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
-            "titulo": "[Oshi no Ko] 3rd Season",
-            "titulo_original": "【推しの子】 第3期",
-            "year": "2026",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "created_at": "2026-01-14",
-            "updated_at": "2026-03-26T02:34:17.000Z",
-            "episodes": 11
         }
     ]
 }
