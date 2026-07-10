@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 435,
+    "total_items": 436,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "47161",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1132\/120388l.jpg",
+            "titulo": "Shikkakumon no Saikyou Kenja",
+            "titulo_original": "失格紋の最強賢者",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2022-01-08",
+            "updated_at": "2026-07-10T08:36:47.000Z",
+            "year": "2022",
+            "score": 6.21999999999999975131004248396493494510650634765625,
+            "status": "Finished Airing",
+            "episodes": 12,
+            "calidad": null
+        },
         {
             "id_mal": "47158",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1699\/151694l.jpg",
@@ -2985,21 +3000,6 @@
             "updated_at": "2026-03-17T00:36:34.000Z",
             "year": "2025",
             "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "53065",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1024\/150787l.jpg",
-            "titulo": "Sono Bisque Doll wa Koi wo Suru Season 2",
-            "titulo_original": "その着せ替え人形は恋をする Season 2",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:36:30.000Z",
-            "year": "2025",
-            "score": "8.2",
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
