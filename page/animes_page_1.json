@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 12,
+    "total_items": 13,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "9936",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1215\/123362l.jpg",
+            "titulo": "Maken-Ki!",
+            "titulo_original": "マケン姫っ！",
+            "etiquetas": "Action, Ecchi",
+            "type": "anime",
+            "created_at": "2011-10-05",
+            "updated_at": "2026-07-10T09:34:06.000Z",
+            "year": "2011",
+            "score": 6.29999999999999982236431605997495353221893310546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "9919",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/75195l.jpg",
