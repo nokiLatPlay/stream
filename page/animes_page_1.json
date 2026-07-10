@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 435,
+    "total_items": 436,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62476",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1098\/158743l.jpg",
+            "titulo": "Tefuda ga Oome no Victoria",
+            "titulo_original": "手札が多めのビクトリア",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-10T09:18:33.000Z",
+            "year": "2026",
+            "score": 7.12999999999999989341858963598497211933135986328125,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "62435",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1380\/157378l.jpg",
@@ -2982,21 +2996,6 @@
             "updated_at": "2026-07-10T08:36:58.000Z",
             "year": "2009",
             "score": 7.17999999999999971578290569595992565155029296875,
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "47161",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1132\/120388l.jpg",
-            "titulo": "Shikkakumon no Saikyou Kenja",
-            "titulo_original": "失格紋の最強賢者",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2022-01-08",
-            "updated_at": "2026-07-10T08:36:47.000Z",
-            "year": "2022",
-            "score": 6.21999999999999975131004248396493494510650634765625,
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
