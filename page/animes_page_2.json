@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 622,
+    "total_items": 623,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56038",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx167336-KpGIIBie71OX.png",
+            "titulo": "Lazarus",
+            "titulo_original": "ラザロ",
+            "etiquetas": "Action, Sci-Fi, Thriller",
+            "type": "anime",
+            "created_at": "2026-05-09",
+            "updated_at": "2026-05-09T19:50:35.000Z",
+            "year": "2025",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "59828",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx181182-lnlfAByYD7X6.png",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2023-5-1",
             "updated_at": "2026-04-12T09:12:49.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "49782",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1634\/124231.jpg",
-            "titulo": "Shadows House 2nd Season",
-            "titulo_original": "シャドーハウス 2nd Season",
-            "year": "2026",
-            "etiquetas": "Fantasy, Mystery",
-            "type": "tv-anime",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "created_at": "2022-9-7",
-            "updated_at": "2026-04-12T09:12:47.000Z",
             "episodes": 12
         }
     ]
