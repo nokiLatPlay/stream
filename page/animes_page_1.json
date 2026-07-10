@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 630,
+    "total_items": 631,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62957",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx213484-FIyYH43ASHgB.png",
+            "titulo": "Bai Ri Cheng Wang",
+            "titulo_original": "百日成王",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-09T21:31:42.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
         {
             "id_mal": "62331",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx197754-Q5KqcUhIdypp.png",
@@ -2788,20 +2802,6 @@
             "year": "2025",
             "score": "6.4",
             "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60523",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185544-V9XoC8yJ906f.jpg",
-            "titulo": "Tsuihousha Shokudou e Youkoso!",
-            "titulo_original": "",
-            "etiquetas": "Adventure, Comedy, Fantasy, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-05-22",
-            "updated_at": "2026-05-22T22:28:02.000Z",
-            "year": 2025,
-            "score": "6.9",
-            "status": "FINISHED",
             "episodes": 12
         }
     ]
