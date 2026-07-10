@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 2,
+    "total_items": 3,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63817",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1534\/156314l.jpg",
+            "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+            "titulo_original": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-04",
+            "updated_at": "2026-07-10T09:32:35.000Z",
+            "year": "2026",
+            "score": 7.269999999999999573674358543939888477325439453125,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
         {
             "id_mal": "63780",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/158523l.jpg",
