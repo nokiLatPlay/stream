@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 42,
+    "total_items": 43,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61067",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1296\/152147l.jpg",
+            "titulo": "Ninja to Gokudou",
+            "titulo_original": "忍者と極道",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-10-08",
+            "updated_at": "2026-07-10T09:07:17.000Z",
+            "year": "2025",
+            "score": 6.38999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61048",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1878\/157796l.jpg",
