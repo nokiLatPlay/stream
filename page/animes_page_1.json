@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 7,
+    "total_items": 8,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56735",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1352\/158564l.jpg",
+            "titulo": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+            "titulo_original": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-10T08:50:56.000Z",
+            "year": "2026",
+            "score": 7.0999999999999996447286321199499070644378662109375,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "56734",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1423\/155713l.jpg",
