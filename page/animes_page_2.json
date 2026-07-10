@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 449,
+    "total_items": 450,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50184",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1506\/138529l.jpg",
+            "titulo": "Seiken Gakuin no Makentsukai",
+            "titulo_original": "聖剣学院の魔剣使い",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2023-10-03",
+            "updated_at": "2026-07-10T08:40:50.000Z",
+            "year": "2023",
+            "score": 6.20000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 12,
+            "calidad": null
+        },
         {
             "id_mal": "50172",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/125011l.jpg",
@@ -2987,21 +3002,6 @@
             "score": "7.5",
             "status": "Finished Airing",
             "episodes": 6,
-            "calidad": null
-        },
-        {
-            "id_mal": "60315",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1154\/149311l.jpg",
-            "titulo": "Dekin no Mogura",
-            "titulo_original": "出禁のモグラ",
-            "etiquetas": "Comedy, Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:13.000Z",
-            "year": "2025",
-            "score": "6.9",
-            "status": "Finished Airing",
-            "episodes": 12,
             "calidad": null
         }
     ]
