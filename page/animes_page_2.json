@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 206,
+    "total_items": 207,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37521",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101348-2fhDFPCuMNiz.jpg",
+            "titulo": "VINLAND SAGA",
+            "titulo_original": "ヴィンランド・サガ",
+            "etiquetas": "Action, Adventure, Drama",
+            "type": "anime",
+            "created_at": "2019-07-08",
+            "updated_at": "2026-06-23T07:55:58.000Z",
+            "year": "2019",
+            "score": "8.7",
+            "status": "FINISHED",
+            "episodes": 24
+        },
         {
             "id_mal": "11111",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
