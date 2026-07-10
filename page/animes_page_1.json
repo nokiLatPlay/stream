@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 631,
+    "total_items": 632,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61126",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187260-WW5RBa5NINRP.jpg",
+            "titulo": "Kimi ga Shinu made Koi wo Shitai",
+            "titulo_original": "きみが死ぬまで恋をしたい",
+            "etiquetas": "Drama, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-07",
+            "updated_at": "2026-07-09T21:34:02.000Z",
+            "year": "2026",
+            "score": "7.5",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62957",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx213484-FIyYH43ASHgB.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-05-23T01:58:18.000Z",
             "year": "2025",
             "score": "5.5",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "56700",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx169440-MhlOxaIyASRu.jpg",
-            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2026-05-22",
-            "updated_at": "2026-05-22T23:25:20.000Z",
-            "year": "2025",
-            "score": "6.4",
             "status": "Finished Airing",
             "episodes": 12
         }
