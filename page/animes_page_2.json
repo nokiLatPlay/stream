@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 632,
+    "total_items": 633,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59745",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1192\/148314.jpg",
+            "titulo": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+            "titulo_original": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
+            "etiquetas": "Comedy, Supernatural, Ecchi",
+            "type": "anime",
+            "created_at": "2025-04-07",
+            "updated_at": "2026-05-23T01:58:18.000Z",
+            "year": "2025",
+            "score": "5.5",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "56700",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx169440-MhlOxaIyASRu.jpg",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2024-14-4",
             "updated_at": "2026-04-12T09:13:07.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "56738",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1988\/142714.jpg",
-            "titulo": "Shinigami Bocchan to Kuro Maid 3rd Season",
-            "titulo_original": "死神坊ちゃんと黒メイド 第3期",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "tv-anime",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "created_at": "2024-7-4",
-            "updated_at": "2026-04-12T09:13:05.000Z",
             "episodes": 12
         }
     ]
