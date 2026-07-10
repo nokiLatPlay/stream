@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 499,
+    "total_items": 500,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61335",
+            "slug": "",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1828\/155038l.jpg",
+            "titulo": "Medalist 2nd Season",
+            "titulo_original": "メダリスト 第2期",
+            "year": "2026",
+            "etiquetas": "Drama, Sports",
+            "type": "anime",
+            "score": "8.5",
+            "status": "Finished Airing",
+            "created_at": "2026-01-25",
+            "updated_at": "2026-03-26T02:34:21.000Z",
+            "episodes": 9
+        },
         {
             "id_mal": "60058",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
@@ -2855,21 +2870,6 @@
             "episodes": 6,
             "created_at": "2025-07-07",
             "updated_at": "2026-03-17T00:47:18.000Z"
-        },
-        {
-            "id_mal": "60508",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1039\/150572l.jpg",
-            "titulo": "Food Court de, Mata Ashita.",
-            "titulo_original": "フードコートで、また明日。",
-            "year": "2025",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:18.000Z",
-            "episodes": 6
         }
     ]
 }
