@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 629,
+    "total_items": 630,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52347",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1500\/139931.jpg",
+            "titulo": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+            "titulo_original": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
+            "year": "2026",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "tv-anime",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "created_at": "2023-1-10",
+            "updated_at": "2026-04-12T09:12:59.000Z",
+            "episodes": 25
+        },
         {
             "id_mal": "54234",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1582\/136325.jpg",
@@ -2964,21 +2978,6 @@
             "created_at": "2025-07-05",
             "updated_at": "2026-03-17T00:33:14.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "59421",
-            "slug": "",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1518\/149900l.jpg",
-            "titulo": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-            "titulo_original": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
-            "year": "2025",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "score": "7.4",
-            "status": "Finished Airing",
-            "created_at": "2025-07-05",
-            "updated_at": "2026-03-17T00:32:24.000Z",
-            "episodes": 12
         }
     ]
 }
