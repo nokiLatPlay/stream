@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 633,
+    "total_items": 634,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58614",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx176702-sD5AnHf8g4zi.jpg",
+            "titulo": "Teogonia",
+            "titulo_original": "",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2026-05-24",
+            "updated_at": "2026-05-24T05:13:54.000Z",
+            "year": "2026",
+            "score": "6.7",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "59745",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1192\/148314.jpg",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2024-2-7",
             "updated_at": "2026-04-12T09:13:09.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "54233",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1455\/141858.jpg",
-            "titulo": "Sasayaku You ni Koi wo Utau",
-            "titulo_original": "ささやくように恋を唄う",
-            "year": "2026",
-            "etiquetas": "Drama, Girls Love",
-            "type": "tv-anime",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "created_at": "2024-14-4",
-            "updated_at": "2026-04-12T09:13:07.000Z",
             "episodes": 12
         }
     ]
