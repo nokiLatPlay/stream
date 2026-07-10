@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 442,
+    "total_items": 443,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49233",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1917\/158371l.jpg",
+            "titulo": "Youjo Senki II",
+            "titulo_original": "幼女戦記 II",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-10T08:38:46.000Z",
+            "year": "2026",
+            "score": 8.410000000000000142108547152020037174224853515625,
+            "status": "Currently Airing",
+            "episodes": 12,
+            "calidad": null
+        },
         {
             "id_mal": "48997",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1430\/120065l.jpg",
@@ -2987,21 +3002,6 @@
             "score": "6.3",
             "status": "Finished Airing",
             "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "59791",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1431\/148742l.jpg",
-            "titulo": "Ruri no Houseki",
-            "titulo_original": "瑠璃の宝石",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:40:05.000Z",
-            "year": "2025",
-            "score": "8.0",
-            "status": "Finished Airing",
-            "episodes": 13,
             "calidad": null
         }
     ]
