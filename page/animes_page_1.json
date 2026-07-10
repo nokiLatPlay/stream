@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 452,
+    "total_items": 453,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62927",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1381\/153536l.jpg",
+            "titulo": "Fangkai Nage Nuwu",
+            "titulo_original": "放开那个女巫",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-03-02",
+            "updated_at": "2026-07-10T09:24:58.000Z",
+            "year": "2026",
+            "score": 8.199999999999999289457264239899814128875732421875,
+            "status": "Finished Airing",
+            "episodes": 8
+        },
         {
             "id_mal": "62913",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1755\/154935l.jpg",
@@ -2966,21 +2980,6 @@
             "score": 6.87999999999999989341858963598497211933135986328125,
             "status": "Finished Airing",
             "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "50713",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1100\/142255l.jpg",
-            "titulo": "Mahouka Koukou no Rettousei 3rd Season",
-            "titulo_original": "魔法科高校の劣等生 第3シーズン",
-            "etiquetas": "Action, Fantasy, Romance, Sci-Fi",
-            "type": "anime",
-            "created_at": "2024-04-05",
-            "updated_at": "2026-07-10T08:41:33.000Z",
-            "year": "2024",
-            "score": 7.04999999999999982236431605997495353221893310546875,
-            "status": "Finished Airing",
-            "episodes": 13,
             "calidad": null
         }
     ]
