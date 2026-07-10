@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 207,
+    "total_items": 208,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53447",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1492\/150628l.jpg",
+            "titulo": "Tu Bian Yingxiong X",
+            "titulo_original": "凸变英雄X",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-04-06",
+            "updated_at": "2026-07-10T08:45:04.000Z",
+            "year": "2025",
+            "score": 8.6699999999999999289457264239899814128875732421875,
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "53434",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1346\/141203l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-24T14:42:13.000Z",
             "year": "2026",
             "score": "7.5",
-            "status": "Currently Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "62512",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1153\/156029.jpg",
-            "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-            "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-            "etiquetas": "Comedy, Fantasy, Isekai, Reincarnation",
-            "type": "anime",
-            "created_at": "2026-04-01",
-            "updated_at": "2026-06-24T14:29:39.000Z",
-            "year": "2026",
-            "score": "6.7",
             "status": "Currently Airing",
             "episodes": 12
         }
