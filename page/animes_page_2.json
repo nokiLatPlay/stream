@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 635,
+    "total_items": 636,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60658",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185939-hqt1He153el8.jpg",
+            "titulo": "Hibi wa Sugiredo Meshi Umashi",
+            "titulo_original": "",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-05-25",
+            "updated_at": "2026-05-25T09:16:26.000Z",
+            "year": "2026",
+            "score": "7.7",
+            "status": "FINISHED",
+            "episodes": 12
+        },
         {
             "id_mal": "59393",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983.jpg",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2024-11-10",
             "updated_at": "2026-04-12T09:13:14.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58714",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1683\/145446.jpg",
-            "titulo": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
-            "titulo_original": "最凶の支援職【話術士】である俺は世界最強クランを従える",
-            "year": "2026",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "tv-anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2024-7-10",
-            "updated_at": "2026-04-12T09:13:11.000Z",
             "episodes": 12
         }
     ]
