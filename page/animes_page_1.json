@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 268,
+    "total_items": 269,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63375",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1623\/156387l.jpg",
+            "titulo": "Nippon Sangoku",
+            "titulo_original": "日本三國",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-07-10T09:30:38.000Z",
+            "year": "2026",
+            "score": 8.5600000000000004973799150320701301097869873046875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "63347",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1165\/158709l.jpg",
@@ -2975,21 +2989,6 @@
             "score": "6.5",
             "status": "Finished Airing",
             "episodes": "13",
-            "calidad": null
-        },
-        {
-            "id_mal": "61276",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1732\/153360l.jpg",
-            "titulo": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
-            "titulo_original": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:47:00.000Z",
-            "year": "2025",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": "12",
             "calidad": null
         }
     ]
