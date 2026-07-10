@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 34,
+    "total_items": 35,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60637",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1685\/158611l.jpg",
+            "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "titulo_original": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-10T09:05:58.000Z",
+            "year": "2026",
+            "score": 7.089999999999999857891452847979962825775146484375,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60602",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1419\/154458l.jpg",
