@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 626,
+    "total_items": 627,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56960",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6sVFq75rlu38zQNgpmltcjBL8vO.jpg",
+            "titulo": " Mom, I'm Sorry",
+            "titulo_original": "邂逅她的少女时代, Xiehou Ta de Shaonu Shidai",
+            "etiquetas": "Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2024-05-23",
+            "updated_at": "2026-05-14T12:34:20.000Z",
+            "year": "2024",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "episodes": 18
+        },
         {
             "id_mal": "53447",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx156092-yHqgQZOF2mbg.jpg",
@@ -2884,20 +2898,6 @@
             "status": "Finished Airing",
             "created_at": "2023-7-7",
             "updated_at": "2026-04-12T09:12:56.000Z",
-            "episodes": 12
-        },
-        {
-            "id_mal": "49858",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1078\/136947.jpg",
-            "titulo": "Shinigami Bocchan to Kuro Maid 2nd Season",
-            "titulo_original": "死神坊ちゃんと黒メイド",
-            "year": "2026",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "tv-anime",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "created_at": "2023-9-7",
-            "updated_at": "2026-04-12T09:12:54.000Z",
             "episodes": 12
         }
     ]
