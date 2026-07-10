@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 2,
-    "total_items": 217,
+    "total_items": 218,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60255",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1440\/154894.jpg",
+            "titulo": "Arne no Jikenbo",
+            "titulo_original": "アルネの事件簿",
+            "etiquetas": "Fantasy, Mystery, Vampire",
+            "type": "anime",
+            "created_at": "2026-01-07",
+            "updated_at": "2026-06-23T16:17:41.000Z",
+            "year": "2026",
+            "score": "6.3",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60226",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1510\/153806.jpg",
