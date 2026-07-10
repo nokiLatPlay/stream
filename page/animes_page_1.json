@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 40,
+    "total_items": 41,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61013",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg",
+            "titulo": "Replica datte, Koi wo Suru.",
+            "titulo_original": "レプリカだって、恋をする。",
+            "etiquetas": "Drama, Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-07-10T09:06:59.000Z",
+            "year": "2026",
+            "score": 7.0800000000000000710542735760100185871124267578125,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "60852",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1565\/154933l.jpg",
