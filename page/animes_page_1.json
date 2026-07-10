@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 220,
+    "total_items": 221,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51553",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1726\/155542l.jpg",
+            "titulo": "Tongari Boushi no Atelier",
+            "titulo_original": "とんがり帽子のアトリエ",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T08:42:41.000Z",
+            "year": "2026",
+            "score": 8.53999999999999914734871708787977695465087890625,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "51498",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/135587l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-23T16:28:40.000Z",
             "year": "2026",
             "score": "7.1",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61637",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1765\/154087.jpg",
-            "titulo": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "titulo_original": "29歳独身中堅冒険者の日常",
-            "etiquetas": "Fantasy, Shounen",
-            "type": "anime",
-            "created_at": "2026-01-07",
-            "updated_at": "2026-06-23T16:27:57.000Z",
-            "year": "2026",
-            "score": "6.6",
             "status": "Finished Airing",
             "episodes": 12
         }
