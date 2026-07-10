@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 204,
+    "total_items": 207,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53434",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1346\/141203l.jpg",
+            "titulo": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+            "titulo_original": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
+            "etiquetas": "Action, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2024-04-05",
+            "updated_at": "2026-07-10T08:44:52.000Z",
+            "year": "2024",
+            "score": 7.29000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "52816",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1380\/139745l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.7",
             "status": "Currently Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59708",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1176\/153626.jpg",
-            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-            "titulo_original": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
-            "etiquetas": "Drama, Suspense, Psychological, School",
-            "type": "anime",
-            "created_at": "2026-04-01",
-            "updated_at": "2026-06-24T14:27:45.000Z",
-            "year": "2026",
-            "score": "8.2",
-            "status": "Currently Airing",
-            "episodes": 16
         }
     ]
 }
