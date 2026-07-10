@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 202,
+    "total_items": 203,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52807",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1168\/148347l.jpg",
+            "titulo": "One Punch Man 3",
+            "titulo_original": "ワンパンマン 3",
+            "etiquetas": "Action, Comedy",
+            "type": "anime",
+            "created_at": "2025-10-12",
+            "updated_at": "2026-07-10T08:44:03.000Z",
+            "year": "2025",
+            "score": 4.7599999999999997868371792719699442386627197265625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "525",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/16736l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-23T16:34:44.000Z",
             "year": "2026",
             "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58505",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1668\/148737.jpg",
-            "titulo": "Mato Seihei no Slave 2",
-            "titulo_original": "魔都精兵のスレイブ2",
-            "etiquetas": "Action, Fantasy, Ecchi, Harem, Shounen",
-            "type": "anime",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-06-23T16:33:38.000Z",
-            "year": "2026",
-            "score": "7.4",
             "status": "Finished Airing",
             "episodes": 12
         }
