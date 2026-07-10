@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 214,
+    "total_items": 216,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50713",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1100\/142255l.jpg",
+            "titulo": "Mahouka Koukou no Rettousei 3rd Season",
+            "titulo_original": "魔法科高校の劣等生 第3シーズン",
+            "etiquetas": "Action, Fantasy, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2024-04-05",
+            "updated_at": "2026-07-10T08:41:35.000Z",
+            "year": "2024",
+            "score": 7.04999999999999982236431605997495353221893310546875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "50392",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1114\/140805l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-23T16:16:45.000Z",
             "year": "2026",
             "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61211",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1769\/152823.jpg",
-            "titulo": "Mayonaka Heart Tune",
-            "titulo_original": "真夜中ハートチューン",
-            "etiquetas": "Comedy, Romance, Harem, School, Shounen",
-            "type": "anime",
-            "created_at": "2026-01-06",
-            "updated_at": "2026-06-23T16:15:48.000Z",
-            "year": "2026",
-            "score": "7.3",
             "status": "Finished Airing",
             "episodes": 12
         }
