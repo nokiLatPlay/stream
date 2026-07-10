@@ -3,16 +3,16 @@
     "titulo": "BanG Dream! Yume∞Mita",
     "titulo_original": "バンドリ！ ゆめ∞みた",
     "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-sc5qcFv0RSH9.jpg",
-    "etiquetas": "Music",
-    "year": 2026,
+    "etiquetas": "Comedy, Drama, Music, Slice of Life",
+    "year": "2026",
     "type": "anime",
-    "synopsis": "The latest anime project in the BanG Dream! franchise, spotlighting the band members in Mugendai Mewtype.",
-    "score": "6.7",
-    "episodes": 3,
+    "synopsis": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving music world?\n\n(Source: Crunchyroll)",
+    "score": "7.1",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
+    "rating": "",
     "source": "OTHER",
-    "created_at": "2026-07-02",
     "studios": [
         "Bushiroad",
         "TOKYO MX",
@@ -22,6 +22,8 @@
         "Horipro International"
     ],
     "producers": [],
+    "created_at": "2026-07-02",
+    "updated_at": "2026-07-10T07:38:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,8 +31,8 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Tipo maullido",
-                    "portada": "https://image.tmdb.org/t/p/w300/kRVPkEqAmqC4W15B57CDGffjHI8.jpg",
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4374/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
@@ -43,8 +45,8 @@
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "¡Besuquearse!",
-                    "portada": "https://image.tmdb.org/t/p/w300/6tuYYKDHSMld7yRZOb5xPTAZnfp.jpg",
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4374/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
@@ -57,8 +59,8 @@
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "¡Haz lo que quieras!",
-                    "portada": "https://image.tmdb.org/t/p/w300/u5e7q44AqULGnOyVqiwQML9Ocsz.jpg",
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4374/3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
@@ -67,10 +69,22 @@
                             "language": "Sub"
                         }
                     ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fddb0fca95c7f008b1020913796c05ae",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
                 }
             ]
         }
-    ],
-    "enlaces": [],
-    "updated_at": "2026-07-04T03:11:47.000Z"
+    ]
 }
