@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 627,
+    "total_items": 628,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61067",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1296\/152147l.jpg",
+            "titulo": "Ninja to Gokudou",
+            "titulo_original": "忍者と極道",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-10-08",
+            "updated_at": "2026-05-15T06:01:52.000Z",
+            "year": "2025",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "56960",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6sVFq75rlu38zQNgpmltcjBL8vO.jpg",
@@ -2885,20 +2899,6 @@
             "created_at": "2023-4-7",
             "updated_at": "2026-04-12T09:12:58.000Z",
             "episodes": 13
-        },
-        {
-            "id_mal": "54842",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1693\/138042.jpg",
-            "titulo": "Sugar Apple Fairy Tale Part 2",
-            "titulo_original": "シュガーアップル・フェアリーテイル",
-            "year": "2026",
-            "etiquetas": "Adventure, Drama, Fantasy, Romance",
-            "type": "tv-anime",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "created_at": "2023-7-7",
-            "updated_at": "2026-04-12T09:12:56.000Z",
-            "episodes": 12
         }
     ]
 }
