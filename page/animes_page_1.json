@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 18,
+    "total_items": 19,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62126",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1421\/154342l.jpg",
+            "titulo": "SI-VIS: The Sound of Heroes",
+            "titulo_original": "SI-VIS: The Sound of Heroes",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-07-10T09:15:08.000Z",
+            "year": "2025",
+            "score": 6.29000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "62102",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1912\/157082l.jpg",
