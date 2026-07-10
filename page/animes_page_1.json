@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61269",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx188388-aXx9fsnvezBf.jpg",
+            "titulo": "DIGIMON BEATBREAK",
+            "titulo_original": "DIGIMON BEATBREAK",
+            "etiquetas": "Action, Adventure, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-07-09T21:13:21.000Z",
+            "year": "2025",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 37
+        },
+        {
             "id_mal": "56613",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169080-el4sMLlqMxeI.png",
             "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
@@ -1599,20 +1613,6 @@
             "score": "8.4",
             "status": "FINISHED",
             "episodes": 13
-        },
-        {
-            "id_mal": "61269",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1776\/151242l.jpg",
-            "titulo": "Digimon Beatbreak",
-            "titulo_original": "DIGIMON BEATBREAK（デジモンビートブレイク）",
-            "etiquetas": "Action, Fantasy, Sci-Fi",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-06-23T07:28:36.000Z",
-            "year": "2025",
-            "score": "7.1",
-            "status": "Currently Airing",
-            "episodes": 36
         },
         {
             "id_mal": "28171",
