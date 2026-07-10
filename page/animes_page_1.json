@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 627,
+    "total_items": 628,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "56735",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169583-0ZTdBGrKNIbe.jpg",
+            "titulo": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+            "titulo_original": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-09T21:24:00.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62289",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx199408-ocRWG4pRWl8f.png",
@@ -2789,20 +2803,6 @@
             "score": "9.2",
             "status": "Currently Airing",
             "episodes": 1
-        },
-        {
-            "id_mal": "61067",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1296\/152147l.jpg",
-            "titulo": "Ninja to Gokudou",
-            "titulo_original": "忍者と極道",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2025-10-08",
-            "updated_at": "2026-05-15T06:01:52.000Z",
-            "year": "2025",
-            "score": "6.4",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
