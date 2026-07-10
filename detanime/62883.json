@@ -1,66 +1,14 @@
 {
     "id_mal": "62883",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1591/157071l.jpg",
     "titulo": "Bungou Stray Dogs Wan! 2",
-    "titulo_original": "文豪ストレイドッグス わん！２",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
-    "etiquetas": "Comedy, Slice of Life, Supernatural",
+    "titulo_original": "文豪ストレイドッグスわん！2",
     "year": "2026",
+    "etiquetas": "Comedy",
     "type": "anime",
-    "synopsis": "The second season of Bungou Stray Dogs Wan!",
-    "score": "7.1",
-    "episodes": 2,
+    "score": 7.1500000000000003552713678800500929355621337890625,
     "status": "Currently Airing",
-    "duration": 12,
-    "rating": "",
-    "source": "MANGA",
-    "studios": [
-        "bones",
-        "bones",
-        "KADOKAWA",
-        "Crunchyroll",
-        "Nomad",
-        "Nomad",
-        "Movic",
-        "WOWOW",
-        "Bandai Namco Music Live",
-        "Sony Music Solutions"
-    ],
-    "producers": [],
+    "episodes": 12,
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-10T07:36:50.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4373/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/b57c1501682ad4dcdbfcacc8df70b261",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "02",
-                    "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/4373/2.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/42ae1927d4ddded93e61c8f1d496362d",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "updated_at": "2026-07-10T09:23:58.000Z"
 }
