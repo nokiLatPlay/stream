@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 10,
+    "total_items": 11,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "55772",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1288\/154763l.jpg",
+            "titulo": "Golden Kamuy: Saishuushou",
+            "titulo_original": "ゴールデンカムイ 最終章",
+            "etiquetas": "Action, Adventure",
+            "type": "anime",
+            "created_at": "2026-01-05",
+            "updated_at": "2026-07-10T08:48:20.000Z",
+            "year": "2026",
+            "score": 8.3900000000000005684341886080801486968994140625,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "5530",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/75535l.jpg",
