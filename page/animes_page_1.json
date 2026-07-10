@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63150",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1981\/156340l.jpg",
+            "titulo": "Otome Kaijuu Caraméliser",
+            "titulo_original": "乙女怪獣キャラメリゼ",
+            "etiquetas": "Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-10T09:28:58.000Z",
+            "year": "2026",
+            "score": 7.67999999999999971578290569595992565155029296875,
+            "status": "Currently Airing",
+            "episodes": 0
+        },
+        {
             "id_mal": "63100",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1961\/158686l.jpg",
             "titulo": "Tetsunabe no Jan!",
@@ -2981,21 +2995,6 @@
             "score": "8.2",
             "status": "Finished Airing",
             "episodes": "13",
-            "calidad": null
-        },
-        {
-            "id_mal": "37430",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/123309l.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken",
-            "titulo_original": "転生したらスライムだった件",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2018-10-01",
-            "updated_at": "2026-03-17T01:09:48.000Z",
-            "year": "2018",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": "24",
             "calidad": null
         }
     ]
