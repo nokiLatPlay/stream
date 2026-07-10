@@ -1,9 +1,24 @@
 {
     "page": 2,
     "total_pages": 3,
-    "total_items": 456,
+    "total_items": 457,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51498",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/135587l.jpg",
+            "titulo": "Masamune-kun no Revenge R",
+            "titulo_original": "政宗くんのリベンジR",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2023-07-03",
+            "updated_at": "2026-07-10T08:42:30.000Z",
+            "year": "2023",
+            "score": 7.230000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 12,
+            "calidad": null
+        },
         {
             "id_mal": "51318",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1800\/135847l.jpg",
@@ -2985,21 +3000,6 @@
             "updated_at": "2026-03-17T00:50:58.000Z",
             "year": "2025",
             "score": "6.6",
-            "status": "Finished Airing",
-            "episodes": 12,
-            "calidad": null
-        },
-        {
-            "id_mal": "58996",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1018\/150416l.jpg",
-            "titulo": "Osomatsu-san 4th Season",
-            "titulo_original": "おそ松さん 第4期",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-09",
-            "updated_at": "2026-03-17T00:49:07.000Z",
-            "year": "2025",
-            "score": "6.1",
             "status": "Finished Airing",
             "episodes": 12,
             "calidad": null
