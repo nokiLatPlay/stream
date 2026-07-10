@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 19,
+    "total_items": 20,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62146",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1656\/156369l.jpg",
+            "titulo": "Isekai Nonbiri Nouka 2",
+            "titulo_original": "異世界のんびり農家2",
+            "etiquetas": "Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:15:23.000Z",
+            "year": "2026",
+            "score": 7.29000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62126",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1421\/154342l.jpg",
