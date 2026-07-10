@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 451,
+    "total_items": 452,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62913",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1755\/154935l.jpg",
+            "titulo": "Needy Girl Overdose",
+            "titulo_original": "NEEDY GIRL OVERDOSE",
+            "etiquetas": "Avant Garde",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-07-10T09:24:38.000Z",
+            "year": "2026",
+            "score": 6.95999999999999996447286321199499070644378662109375,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "62893",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1045\/157132l.jpg",
@@ -2965,21 +2979,6 @@
             "updated_at": "2026-07-10T08:41:33.000Z",
             "year": "2024",
             "score": 7.04999999999999982236431605997495353221893310546875,
-            "status": "Finished Airing",
-            "episodes": 13,
-            "calidad": null
-        },
-        {
-            "id_mal": "50586",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1845\/134817l.jpg",
-            "titulo": "Migi to Dali",
-            "titulo_original": "ミギとダリ",
-            "etiquetas": "Comedy, Mystery, Suspense",
-            "type": "anime",
-            "created_at": "2023-10-02",
-            "updated_at": "2026-07-10T08:41:12.000Z",
-            "year": "2023",
-            "score": 7.67999999999999971578290569595992565155029296875,
             "status": "Finished Airing",
             "episodes": 13,
             "calidad": null
