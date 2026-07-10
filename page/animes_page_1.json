@@ -1,64 +1,54 @@
 {
     "page": 1,
     "total_pages": 2,
-    "total_items": 245,
+    "total_items": 244,
     "items_per_page": 200,
+    "has_next": true,
+    "has_prev": false,
+    "next_page": 2,
+    "prev_page": null,
     "data": [
-        {
-            "id_mal": "63418",
-            "imagen": "",
-            "titulo": "Anime 63418",
-            "titulo_original": "",
-            "etiquetas": "",
-            "type": "anime",
-            "created_at": "2026-07-10",
-            "updated_at": "2026-07-10T07:15:13.000Z",
-            "year": "2026",
-            "score": "",
-            "status": "Currently Airing",
-            "episodes": 0
-        },
         {
             "id_mal": "62322",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx197715-KLFLxU24U1uL.png",
             "titulo": "LV999 no Murabito",
             "titulo_original": "LV999の村人",
+            "year": "2026",
             "etiquetas": "Action, Adventure, Comedy, Fantasy",
             "type": "anime",
-            "created_at": "2026-07-02",
-            "updated_at": "2026-07-10T07:11:18.000Z",
-            "year": "2026",
             "score": "6.5",
             "status": "Currently Airing",
-            "episodes": 3
+            "episodes": 3,
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-10T07:11:18.000Z"
         },
         {
             "id_mal": "63780",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209669-7GlPe2ra5f1i.jpg",
             "titulo": "Hanazakari no Kimitachi e 2nd Season",
             "titulo_original": "花ざかりの君たちへ 第2期",
+            "year": "2026",
             "etiquetas": "Comedy, Drama, Romance, Slice of Life",
             "type": "anime",
-            "created_at": "2026-07-02",
-            "updated_at": "2026-07-10T07:09:57.000Z",
-            "year": "2026",
             "score": "6.6",
             "status": "Currently Airing",
-            "episodes": 3
+            "episodes": 3,
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-10T07:09:57.000Z"
         },
         {
             "id_mal": "54000",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx159309-wRfh9O1odrDJ.jpg",
             "titulo": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
             "titulo_original": "乙女ゲー世界はモブに厳しい世界です2",
+            "year": "2026",
             "etiquetas": "Action, Fantasy, Mecha, Romance",
             "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-10T07:08:21.000Z",
-            "year": "2026",
             "score": "6.9",
             "status": "Currently Airing",
-            "episodes": 1
+            "episodes": 1,
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-10T07:08:21.000Z"
         },
         {
             "id_mal": "8630",
@@ -70,9 +60,9 @@
             "type": "tv-anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2011-15-4",
-            "updated_at": "2026-04-12T09:13:21.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-12T09:13:21.000Z"
         },
         {
             "id_mal": "8277",
@@ -84,9 +74,9 @@
             "type": "tv-anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2010-4-9",
-            "updated_at": "2026-04-12T09:13:19.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:19.000Z"
         },
         {
             "id_mal": "2002",
@@ -98,9 +88,9 @@
             "type": "tv-anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 26,
             "created_at": "2007-2-4",
-            "updated_at": "2026-04-12T09:13:18.000Z",
-            "episodes": 26
+            "updated_at": "2026-04-12T09:13:18.000Z"
         },
         {
             "id_mal": "50306",
@@ -112,9 +102,9 @@
             "type": "tv-anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-8-10",
-            "updated_at": "2026-04-12T09:13:16.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:16.000Z"
         },
         {
             "id_mal": "58445",
@@ -126,9 +116,9 @@
             "type": "tv-anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-11-10",
-            "updated_at": "2026-04-12T09:13:14.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:14.000Z"
         },
         {
             "id_mal": "58714",
@@ -140,9 +130,9 @@
             "type": "tv-anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-7-10",
-            "updated_at": "2026-04-12T09:13:11.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:11.000Z"
         },
         {
             "id_mal": "54913",
@@ -154,9 +144,9 @@
             "type": "tv-anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-2-7",
-            "updated_at": "2026-04-12T09:13:09.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:09.000Z"
         },
         {
             "id_mal": "54233",
@@ -168,9 +158,9 @@
             "type": "tv-anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-14-4",
-            "updated_at": "2026-04-12T09:13:07.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:07.000Z"
         },
         {
             "id_mal": "56738",
@@ -182,9 +172,9 @@
             "type": "tv-anime",
             "score": "8.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-7-4",
-            "updated_at": "2026-04-12T09:13:05.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:05.000Z"
         },
         {
             "id_mal": "53770",
@@ -196,9 +186,9 @@
             "type": "tv-anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-7-4",
-            "updated_at": "2026-04-12T09:13:04.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:04.000Z"
         },
         {
             "id_mal": "53590",
@@ -210,9 +200,9 @@
             "type": "tv-anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-12-1",
-            "updated_at": "2026-04-12T09:13:02.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:13:02.000Z"
         },
         {
             "id_mal": "52347",
@@ -224,9 +214,9 @@
             "type": "tv-anime",
             "score": "8.1",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2023-1-10",
-            "updated_at": "2026-04-12T09:12:59.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-12T09:12:59.000Z"
         },
         {
             "id_mal": "54234",
@@ -238,9 +228,9 @@
             "type": "tv-anime",
             "score": "7.2",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2023-4-7",
-            "updated_at": "2026-04-12T09:12:58.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-12T09:12:58.000Z"
         },
         {
             "id_mal": "54842",
@@ -252,9 +242,9 @@
             "type": "tv-anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-7-7",
-            "updated_at": "2026-04-12T09:12:56.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:56.000Z"
         },
         {
             "id_mal": "49858",
@@ -266,9 +256,9 @@
             "type": "tv-anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-9-7",
-            "updated_at": "2026-04-12T09:12:54.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:54.000Z"
         },
         {
             "id_mal": "51495",
@@ -280,9 +270,9 @@
             "type": "tv-anime",
             "score": "5.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-14-1",
-            "updated_at": "2026-04-12T09:12:52.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:52.000Z"
         },
         {
             "id_mal": "49980",
@@ -294,9 +284,9 @@
             "type": "tv-anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-6-1",
-            "updated_at": "2026-04-12T09:12:50.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:50.000Z"
         },
         {
             "id_mal": "51252",
@@ -308,9 +298,9 @@
             "type": "tv-anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-5-1",
-            "updated_at": "2026-04-12T09:12:49.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:49.000Z"
         },
         {
             "id_mal": "49782",
@@ -322,9 +312,9 @@
             "type": "tv-anime",
             "score": "8.0",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2022-9-7",
-            "updated_at": "2026-04-12T09:12:47.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:47.000Z"
         },
         {
             "id_mal": "39489",
@@ -336,9 +326,9 @@
             "type": "tv-anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 6,
             "created_at": "2022-18-6",
-            "updated_at": "2026-04-12T09:12:45.000Z",
-            "episodes": 6
+            "updated_at": "2026-04-12T09:12:45.000Z"
         },
         {
             "id_mal": "50265",
@@ -350,9 +340,9 @@
             "type": "tv-anime",
             "score": "8.4",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2022-9-4",
-            "updated_at": "2026-04-12T09:12:43.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-12T09:12:43.000Z"
         },
         {
             "id_mal": "48415",
@@ -364,9 +354,9 @@
             "type": "tv-anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2022-6-4",
-            "updated_at": "2026-04-12T09:12:41.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:41.000Z"
         },
         {
             "id_mal": "47194",
@@ -378,9 +368,9 @@
             "type": "tv-anime",
             "score": "8.5",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2022-15-4",
-            "updated_at": "2026-04-12T09:12:39.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-12T09:12:39.000Z"
         },
         {
             "id_mal": "49342",
@@ -392,9 +382,9 @@
             "type": "tv-anime",
             "score": "5.9",
             "status": "Finished Airing",
+            "episodes": 3,
             "created_at": "2022-17-5",
-            "updated_at": "2026-04-12T09:12:37.000Z",
-            "episodes": 3
+            "updated_at": "2026-04-12T09:12:37.000Z"
         },
         {
             "id_mal": "47162",
@@ -406,9 +396,9 @@
             "type": "tv-anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2022-2-4",
-            "updated_at": "2026-04-12T09:12:35.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:35.000Z"
         },
         {
             "id_mal": "46985",
@@ -420,9 +410,9 @@
             "type": "tv-anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-5-10",
-            "updated_at": "2026-04-12T09:12:32.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:32.000Z"
         },
         {
             "id_mal": "44203",
@@ -434,9 +424,9 @@
             "type": "tv-anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-6-7",
-            "updated_at": "2026-04-12T09:12:30.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:30.000Z"
         },
         {
             "id_mal": "47257",
@@ -448,9 +438,9 @@
             "type": "tv-anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-4-7",
-            "updated_at": "2026-04-12T09:12:27.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:27.000Z"
         },
         {
             "id_mal": "56923",
@@ -462,9 +452,9 @@
             "type": "tv-anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-8-4",
-            "updated_at": "2026-04-12T09:12:24.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:24.000Z"
         },
         {
             "id_mal": "51764",
@@ -476,23 +466,23 @@
             "type": "tv-anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-8-7",
-            "updated_at": "2026-04-12T09:12:23.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:12:23.000Z"
         },
         {
             "id_mal": "53397",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1170\/147753l.jpg",
             "titulo": "Tsuyokute New Saga",
             "titulo_original": "強くてニューサーガ",
+            "year": "2026",
             "etiquetas": "Adventure, Fantasy",
             "type": "tv-anime",
-            "created_at": "2025-07-03",
-            "updated_at": "2026-04-12T09:11:55.000Z",
-            "year": "2026",
             "score": "6.6",
+            "status": "Finished Airing",
             "episodes": 12,
-            "status": "Finished Airing"
+            "created_at": "2025-07-03",
+            "updated_at": "2026-04-12T09:11:55.000Z"
         },
         {
             "id_mal": "51632",
@@ -504,9 +494,9 @@
             "type": "tv-anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-3-4",
-            "updated_at": "2026-04-12T09:11:41.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:11:41.000Z"
         },
         {
             "id_mal": "37210",
@@ -518,55 +508,54 @@
             "type": "tv-anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2018-5-7",
-            "updated_at": "2026-04-12T09:11:40.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T09:11:40.000Z"
         },
         {
             "id_mal": "47790",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1928\/117620.jpg",
             "titulo": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
             "titulo_original": "世界最高の暗殺者、異世界貴族に転生する",
+            "year": "2026",
             "etiquetas": "Action, Drama, Fantasy, Mystery, Romance",
             "type": "tv-anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-04-12T09:11:37.000Z",
-            "year": "2026",
             "score": "7.3",
             "status": "Finished Airing",
-            "episodes": "12"
+            "episodes": "12",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-04-12T09:11:37.000Z"
         },
         {
             "id_mal": "235E8",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/261.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu ban",
             "titulo_original": " Re：ゼロから始める異世界生活新編集版",
+            "year": "2026",
             "etiquetas": " Drama, Fantasía, Psicológico",
             "type": "tv-anime",
-            "created_at": "2026-01-01",
-            "updated_at": "2026-04-12T09:11:36.000Z",
-            "year": "2026",
             "score": "8.2",
             "status": "Finished Airing",
-            "episodes": "13"
+            "episodes": "13",
+            "created_at": "2026-01-01",
+            "updated_at": "2026-04-12T09:11:36.000Z"
         },
         {
             "id_mal": "49889",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1794\/142621.jpg",
             "titulo": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
             "titulo_original": "月が導く異世界道中 第二幕",
+            "year": "2026",
             "etiquetas": "Action, Adventure, Comedy, Fantasy",
             "type": "tv-anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-04-12T09:11:34.000Z",
-            "year": "2026",
             "score": "7.8",
             "status": "Finished Airing",
-            "episodes": "25"
+            "episodes": "25",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-04-12T09:11:34.000Z"
         },
         {
             "id_mal": "48760",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1361\/120706.jpg",
             "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
             "titulo_original": "骸骨騎士様、只今異世界へお出掛け中",
@@ -575,13 +564,12 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2022-7-4",
-            "updated_at": "2026-04-12T00:59:19.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:59:19.000Z"
         },
         {
             "id_mal": "50854",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1805\/132335.jpg",
             "titulo": "Benriya Saitou-san, Isekai ni Iku",
             "titulo_original": "便利屋斎藤さん、異世界に行く",
@@ -590,13 +578,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-8-1",
-            "updated_at": "2026-04-12T00:58:44.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:58:44.000Z"
         },
         {
             "id_mal": "40960",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1787\/115817.jpg",
             "titulo": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
             "titulo_original": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
@@ -605,13 +592,12 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-7-7",
-            "updated_at": "2026-04-12T00:57:34.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:57:34.000Z"
         },
         {
             "id_mal": "52608",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1071\/135255.jpg",
             "titulo": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
             "titulo_original": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
@@ -620,13 +606,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-3-4",
-            "updated_at": "2026-04-12T00:56:59.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:56:59.000Z"
         },
         {
             "id_mal": "31240",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1522\/128039.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
             "titulo_original": "Re:ゼロから始める異世界生活",
@@ -635,13 +620,12 @@
             "type": "anime",
             "score": "8.2",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2016-4-4",
-            "updated_at": "2026-04-12T00:52:59.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-12T00:52:59.000Z"
         },
         {
             "id_mal": "34497",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/4\/88911.jpg",
             "titulo": "Death March kara Hajimaru Isekai Kyousoukyoku",
             "titulo_original": "デスマーチからはじまる異世界狂想曲",
@@ -650,9 +634,9 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2018-11-1",
-            "updated_at": "2026-04-12T00:52:05.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:52:05.000Z"
         },
         {
             "id_mal": "36286",
@@ -664,14 +648,12 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "created_at": "2018-6-10",
-            "updated_at": "2026-04-12T00:51:30.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2018-6-10",
+            "updated_at": "2026-04-12T00:51:30.000Z"
         },
         {
             "id_mal": "39523",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1132\/111619.jpg",
             "titulo": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
             "titulo_original": "超人高校生たちは異世界でも余裕で生き抜くようです！",
@@ -680,13 +662,12 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2019-3-10",
-            "updated_at": "2026-04-12T00:51:10.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:51:10.000Z"
         },
         {
             "id_mal": "38414",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1238\/104023.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
             "titulo_original": "Re：ゼロから始める異世界生活『氷結の絆』",
@@ -695,14 +676,12 @@
             "type": "movie",
             "score": "7.6",
             "status": "Finished Airing",
-            "created_at": "2019-8-11",
-            "updated_at": "2026-04-12T00:50:38.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2019-8-11",
+            "updated_at": "2026-04-12T00:50:38.000Z"
         },
         {
             "id_mal": "39587",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1444\/108005.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
             "titulo_original": "Re：ゼロから始める異世界生活 2",
@@ -711,13 +690,12 @@
             "type": "anime",
             "score": "8.3",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2020-8-7",
-            "updated_at": "2026-04-12T00:50:17.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-12T00:50:17.000Z"
         },
         {
             "id_mal": "39535",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1530\/117776.jpg",
             "titulo": "Mushoku Tensei: Isekai Ittara Honki Dasu",
             "titulo_original": "無職転生 ～異世界行ったら本気だす～",
@@ -726,13 +704,12 @@
             "type": "anime",
             "score": "8.3",
             "status": "Finished Airing",
+            "episodes": 23,
             "created_at": "2021-11-1",
-            "updated_at": "2026-04-12T00:49:29.000Z",
-            "episodes": 23
+            "updated_at": "2026-04-12T00:49:29.000Z"
         },
         {
             "id_mal": "43523",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1950\/116474.jpg",
             "titulo": "Tsuki ga Michibiku Isekai Douchuu",
             "titulo_original": "月が導く異世界道中",
@@ -741,13 +718,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-7-7",
-            "updated_at": "2026-04-12T00:48:44.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:48:44.000Z"
         },
         {
             "id_mal": "52461",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1890\/131473.jpg",
             "titulo": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
             "titulo_original": "老後に備えて異世界で８万枚の金貨を貯めます",
@@ -756,13 +732,12 @@
             "type": "anime",
             "score": "7.0",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-8-1",
-            "updated_at": "2026-04-12T00:48:11.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:48:11.000Z"
         },
         {
             "id_mal": "53446",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1661\/131889.jpg",
             "titulo": "Tondemo Skill de Isekai Hourou Meshi",
             "titulo_original": "とんでもスキルで異世界放浪メシ",
@@ -771,13 +746,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-11-1",
-            "updated_at": "2026-04-12T00:47:38.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:47:38.000Z"
         },
         {
             "id_mal": "54857",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1706\/144725.jpg",
             "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
             "titulo_original": "Re:ゼロから始める異世界生活 3rd season",
@@ -786,13 +760,12 @@
             "type": "anime",
             "score": "8.4",
             "status": "Finished Airing",
+            "episodes": 16,
             "created_at": "2024-2-10",
-            "updated_at": "2026-04-12T00:45:38.000Z",
-            "episodes": 16
+            "updated_at": "2026-04-12T00:45:38.000Z"
         },
         {
             "id_mal": "59349",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1668\/144352.jpg",
             "titulo": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
             "titulo_original": "サラリーマンが異世界に行ったら四天王になった話",
@@ -801,13 +774,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-6-1",
-            "updated_at": "2026-04-12T00:45:00.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:45:00.000Z"
         },
         {
             "id_mal": "59265",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1802\/146725.jpg",
             "titulo": "Magic Maker: Isekai Mahou no Tsukurikata",
             "titulo_original": "マジック・メイカー －異世界魔法の作り方－",
@@ -816,13 +788,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-9-1",
-            "updated_at": "2026-04-12T00:44:26.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:44:26.000Z"
         },
         {
             "id_mal": "59561",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1887\/146512.jpg",
             "titulo": "Around 40 Otoko no Isekai Tsuuhan",
             "titulo_original": "アラフォー男の異世界通販",
@@ -831,13 +802,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-9-1",
-            "updated_at": "2026-04-12T00:43:50.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-12T00:43:50.000Z"
         },
         {
             "id_mal": "59514",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1390\/146918.jpg",
             "titulo": "Sentai Red Isekai de Boukensha ni Naru",
             "titulo_original": "戦隊レッド 異世界で冒険者になる",
@@ -846,13 +816,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-12-1",
-            "updated_at": "2026-04-12T00:43:16.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:43:16.000Z"
         },
         {
             "id_mal": "34012",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/3\/86666.jpg",
             "titulo": "Isekai Shokudou",
             "titulo_original": "異世界食堂",
@@ -861,13 +830,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2017-4-7",
-            "updated_at": "2026-04-12T00:42:43.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:42:43.000Z"
         },
         {
             "id_mal": "35203",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/7\/86794.jpg",
             "titulo": "Isekai wa Smartphone to Tomo ni.",
             "titulo_original": "異世界はスマートフォンとともに。",
@@ -876,13 +844,12 @@
             "type": "anime",
             "score": "6.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2017-11-7",
-            "updated_at": "2026-04-12T00:42:08.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:42:08.000Z"
         },
         {
             "id_mal": "34420",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1303\/90909.jpg",
             "titulo": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
             "titulo_original": "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
@@ -891,13 +858,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2018-13-4",
-            "updated_at": "2026-04-12T00:41:36.000Z",
-            "episodes": 24
+            "updated_at": "2026-04-12T00:41:36.000Z"
         },
         {
             "id_mal": "38472",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1965\/99667.jpg",
             "titulo": "Isekai Quartet",
             "titulo_original": "異世界かるてっと",
@@ -906,13 +872,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2019-10-4",
-            "updated_at": "2026-04-12T00:40:13.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:40:13.000Z"
         },
         {
             "id_mal": "39988",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1030\/103383.jpg",
             "titulo": "Isekai Quartet 2",
             "titulo_original": "異世界かるてっと2",
@@ -921,13 +886,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2020-15-1",
-            "updated_at": "2026-04-12T00:39:40.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:39:40.000Z"
         },
         {
             "id_mal": "41623",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1011\/113703.jpg",
             "titulo": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
             "titulo_original": "異世界魔王と召喚少女の奴隷魔術Ω",
@@ -936,13 +900,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 10,
             "created_at": "2021-9-4",
-            "updated_at": "2026-04-12T00:39:05.000Z",
-            "episodes": 10
+            "updated_at": "2026-04-12T00:39:05.000Z"
         },
         {
             "id_mal": "48804",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1777\/117885.jpg",
             "titulo": "Isekai Shokudou 2",
             "titulo_original": "異世界食堂 2",
@@ -951,13 +914,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2021-2-10",
-            "updated_at": "2026-04-12T00:38:30.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:38:30.000Z"
         },
         {
             "id_mal": "41567",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1222\/122000.jpg",
             "titulo": "Isekai Quartet Movie: Another World",
             "titulo_original": "劇場版 異世界かるてっと ～あなざーわーるど～",
@@ -966,14 +928,12 @@
             "type": "movie",
             "score": "7.5",
             "status": "Finished Airing",
-            "created_at": "2022-10-6",
-            "updated_at": "2026-04-12T00:37:55.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2022-10-6",
+            "updated_at": "2026-04-12T00:37:55.000Z"
         },
         {
             "id_mal": "49220",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1743\/125204.jpg",
             "titulo": "Isekai Ojisan",
             "titulo_original": "異世界おじさん",
@@ -982,13 +942,12 @@
             "type": "anime",
             "score": "7.8",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2022-6-7",
-            "updated_at": "2026-04-12T00:37:32.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-12T00:37:32.000Z"
         },
         {
             "id_mal": "49438",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1120\/124644.jpg",
             "titulo": "Isekai Yakkyoku",
             "titulo_original": "異世界薬局",
@@ -997,13 +956,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2022-10-7",
-            "updated_at": "2026-04-12T00:36:55.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:36:55.000Z"
         },
         {
             "id_mal": "51462",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1983\/132329.jpg",
             "titulo": "Isekai Nonbiri Nouka",
             "titulo_original": "異世界のんびり農家",
@@ -1012,13 +970,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-6-1",
-            "updated_at": "2026-04-12T00:36:22.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:36:22.000Z"
         },
         {
             "id_mal": "52830",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1316\/134327.jpg",
             "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
             "titulo_original": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
@@ -1027,13 +984,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2023-7-4",
-            "updated_at": "2026-04-12T00:35:14.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-12T00:35:14.000Z"
         },
         {
             "id_mal": "51219",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1250\/135256.jpg",
             "titulo": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
             "titulo_original": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～",
@@ -1042,13 +998,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-8-4",
-            "updated_at": "2026-04-12T00:34:36.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:34:36.000Z"
         },
         {
             "id_mal": "50220",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1387\/134151.jpg",
             "titulo": "Isekai Shoukan wa Nidome desu",
             "titulo_original": "異世界召喚は二度目です",
@@ -1057,13 +1012,12 @@
             "type": "anime",
             "score": "5.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2023-9-4",
-            "updated_at": "2026-04-12T00:34:02.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:34:02.000Z"
         },
         {
             "id_mal": "52359",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1925\/139564.jpg",
             "titulo": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
             "titulo_original": "異世界でもふもふなでなでするためにがんばってます。",
@@ -1072,13 +1026,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-7-1",
-            "updated_at": "2026-04-12T00:33:28.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:33:28.000Z"
         },
         {
             "id_mal": "52367",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1252\/143457.jpg",
             "titulo": "Isekai Shikkaku",
             "titulo_original": "異世界失格",
@@ -1087,13 +1040,12 @@
             "type": "anime",
             "score": "7.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-9-7",
-            "updated_at": "2026-04-12T00:32:54.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:32:54.000Z"
         },
         {
             "id_mal": "55848",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1644\/142052.jpg",
             "titulo": "Isekai Suicide Squad",
             "titulo_original": "異世界スーサイド・スクワッド",
@@ -1102,13 +1054,12 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 10,
             "created_at": "2024-6-7",
-            "updated_at": "2026-04-12T00:32:19.000Z",
-            "episodes": 10
+            "updated_at": "2026-04-12T00:32:19.000Z"
         },
         {
             "id_mal": "57380",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1690\/141987.jpg",
             "titulo": "Isekai Yururi Kikou: Kosodate shinagara Boukensha shimasu",
             "titulo_original": "異世界ゆるり紀行 ～子育てしながら冒険者します～",
@@ -1117,9 +1068,9 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-8-7",
-            "updated_at": "2026-04-12T00:31:50.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-12T00:31:50.000Z"
         },
         {
             "id_mal": "34438",
@@ -1131,10 +1082,9 @@
             "type": "movie",
             "score": "7.9",
             "status": "Finished Airing",
-            "created_at": "2017-21-10",
-            "updated_at": "2026-04-07T22:31:27.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2017-21-10",
+            "updated_at": "2026-04-07T22:31:27.000Z"
         },
         {
             "id_mal": "34439",
@@ -1146,14 +1096,12 @@
             "type": "movie",
             "score": "7.7",
             "status": "Finished Airing",
-            "created_at": "2018-10-2",
-            "updated_at": "2026-04-07T22:31:02.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2018-10-2",
+            "updated_at": "2026-04-07T22:31:02.000Z"
         },
         {
             "id_mal": "41814",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1086\/117890.jpg",
             "titulo": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 4",
             "titulo_original": "蒼穹のファフナー Dead Aggressor THE BEYOND",
@@ -1162,10 +1110,9 @@
             "type": "movie",
             "score": "7.3",
             "status": "Finished Airing",
-            "created_at": "2021-5-11",
-            "updated_at": "2026-04-07T22:30:42.000Z",
             "episodes": 3,
-            "calidad": "HD"
+            "created_at": "2021-5-11",
+            "updated_at": "2026-04-07T22:30:42.000Z"
         },
         {
             "id_mal": "40109",
@@ -1177,9 +1124,9 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 3,
             "created_at": "2019-8-11",
-            "updated_at": "2026-04-07T22:30:12.000Z",
-            "episodes": 3
+            "updated_at": "2026-04-07T22:30:12.000Z"
         },
         {
             "id_mal": "41714",
@@ -1191,13 +1138,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 3,
             "created_at": "2020-13-11",
-            "updated_at": "2026-04-07T22:26:39.000Z",
-            "episodes": 3
+            "updated_at": "2026-04-07T22:26:39.000Z"
         },
         {
             "id_mal": "8098",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/31163.jpg",
             "titulo": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
             "titulo_original": "蒼穹のファフナー Dead Aggressor HEAVEN AND EARTH",
@@ -1206,14 +1152,12 @@
             "type": "movie",
             "score": "7.4",
             "status": "Finished Airing",
-            "created_at": "2010-25-12",
-            "updated_at": "2026-04-07T19:54:50.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2010-25-12",
+            "updated_at": "2026-04-07T19:54:50.000Z"
         },
         {
             "id_mal": "17080",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/5\/68565.jpg",
             "titulo": "Soukyuu no Fafner: Dead Aggressor - Exodus",
             "titulo_original": "蒼穹のファフナー Dead Aggressor EXODUS",
@@ -1222,13 +1166,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2015-9-1",
-            "updated_at": "2026-04-07T19:52:16.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-07T19:52:16.000Z"
         },
         {
             "id_mal": "33783",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1847\/93081l.jpg",
             "titulo": "Godzilla 1: Kaijuu Wakusei",
             "titulo_original": "GODZILLA -怪獣惑星-",
@@ -1237,10 +1180,9 @@
             "type": "movie",
             "score": "6.4",
             "status": "Finished Airing",
-            "created_at": "2017-11-17",
-            "updated_at": "2026-04-05T07:58:53.000Z",
             "episodes": 0,
-            "calidad": "HD"
+            "created_at": "2017-11-17",
+            "updated_at": "2026-04-05T07:58:53.000Z"
         },
         {
             "id_mal": "44942",
@@ -1252,9 +1194,9 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 27,
             "created_at": "2021-17-6",
-            "updated_at": "2026-04-05T00:54:03.000Z",
-            "episodes": 27
+            "updated_at": "2026-04-05T00:54:03.000Z"
         },
         {
             "id_mal": "53730",
@@ -1266,9 +1208,9 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2024-5-1",
-            "updated_at": "2026-04-05T00:45:23.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-05T00:45:23.000Z"
         },
         {
             "id_mal": "58572",
@@ -1280,9 +1222,9 @@
             "type": "anime",
             "score": "8.3",
             "status": "Finished Airing",
+            "episodes": 25,
             "created_at": "2024-13-10",
-            "updated_at": "2026-04-05T00:42:26.000Z",
-            "episodes": 25
+            "updated_at": "2026-04-05T00:42:26.000Z"
         },
         {
             "id_mal": "14527",
@@ -1294,9 +1236,9 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2012-11-10",
-            "updated_at": "2026-04-04T23:05:28.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-04T23:05:28.000Z"
         },
         {
             "id_mal": "31741",
@@ -1308,9 +1250,9 @@
             "type": "anime",
             "score": "7.8",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2016-16-4",
-            "updated_at": "2026-04-04T23:01:44.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-04T23:01:44.000Z"
         },
         {
             "id_mal": "48417",
@@ -1322,13 +1264,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2023-8-1",
-            "updated_at": "2026-04-04T22:55:52.000Z",
-            "episodes": 24
+            "updated_at": "2026-04-04T22:55:52.000Z"
         },
         {
             "id_mal": "38826",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1880\/101146.jpg",
             "titulo": "Tenki no Ko",
             "titulo_original": "天気の子",
@@ -1337,14 +1278,12 @@
             "type": "movie",
             "score": "8.3",
             "status": "Finished Airing",
-            "created_at": "2019-19-7",
-            "updated_at": "2026-04-04T08:04:01.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2019-19-7",
+            "updated_at": "2026-04-04T08:04:01.000Z"
         },
         {
             "id_mal": "1686",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1834\/134488.jpg",
             "titulo": "Bleach Movie 1: Memories of Nobody",
             "titulo_original": "劇場版 BLEACH MEMORIES OF NOBODY",
@@ -1353,14 +1292,12 @@
             "type": "movie",
             "score": "7.4",
             "status": "Finished Airing",
-            "created_at": "2006-16-12",
-            "updated_at": "2026-04-04T07:58:02.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2006-16-12",
+            "updated_at": "2026-04-04T07:58:02.000Z"
         },
         {
             "id_mal": "21557",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/7\/64293.jpg",
             "titulo": "Omoide no Marnie",
             "titulo_original": "思い出のマーニー",
@@ -1369,14 +1306,12 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "created_at": "2014",
-            "updated_at": "2026-04-04T07:46:13.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2014",
+            "updated_at": "2026-04-04T07:46:13.000Z"
         },
         {
             "id_mal": "21647",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1417\/91333.jpg",
             "titulo": "Tamako Love Story",
             "titulo_original": "たまこラブストーリー",
@@ -1385,14 +1320,12 @@
             "type": "movie",
             "score": "7.9",
             "status": "Finished Airing",
-            "created_at": "2014",
-            "updated_at": "2026-04-04T07:43:07.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2014",
+            "updated_at": "2026-04-04T07:43:07.000Z"
         },
         {
             "id_mal": "48585",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1337\/136363.jpg",
             "titulo": "Black Clover: Mahou Tei no Ken",
             "titulo_original": "ブラッククローバー 魔法帝の剣",
@@ -1401,14 +1334,12 @@
             "type": "movie",
             "score": "8.0",
             "status": "Finished Airing",
-            "created_at": "2023",
-            "updated_at": "2026-04-04T07:24:09.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2023",
+            "updated_at": "2026-04-04T07:24:09.000Z"
         },
         {
             "id_mal": "2418",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/9\/87066.jpg",
             "titulo": "Stranger: Mukou Hadan",
             "titulo_original": "ストレンヂア -無皇刃譚-",
@@ -1417,10 +1348,9 @@
             "type": "movie",
             "score": "8.2",
             "status": "Finished Airing",
-            "created_at": "2007",
-            "updated_at": "2026-04-04T07:23:57.000Z",
             "episodes": 1,
-            "calidad": "HD"
+            "created_at": "2007",
+            "updated_at": "2026-04-04T07:23:57.000Z"
         },
         {
             "id_mal": "32887",
@@ -1432,9 +1362,9 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2017",
-            "updated_at": "2026-04-04T07:16:22.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-04T07:16:22.000Z"
         },
         {
             "id_mal": "39597",
@@ -1446,9 +1376,9 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 23,
             "created_at": "2019",
-            "updated_at": "2026-04-04T07:12:41.000Z",
-            "episodes": 23
+            "updated_at": "2026-04-04T07:12:41.000Z"
         },
         {
             "id_mal": "38793",
@@ -1460,9 +1390,9 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 5,
             "created_at": "2019",
-            "updated_at": "2026-04-04T06:47:57.000Z",
-            "episodes": 5
+            "updated_at": "2026-04-04T06:47:57.000Z"
         },
         {
             "id_mal": "C7BD6",
@@ -1476,8 +1406,7 @@
             "status": "Finished Airing",
             "episodes": 32,
             "created_at": "2017-07-07",
-            "updated_at": "2026-04-03T14:27:23.000Z",
-            "ts": 1775191230
+            "updated_at": "2026-04-03T14:27:23.000Z"
         },
         {
             "id_mal": "42429",
@@ -1491,8 +1420,7 @@
             "status": "Finished Airing",
             "episodes": 10,
             "created_at": "2022",
-            "updated_at": "2026-04-02T01:58:45.000Z",
-            "ts": 1775086859
+            "updated_at": "2026-04-02T01:58:45.000Z"
         },
         {
             "id_mal": "40815",
@@ -1506,8 +1434,7 @@
             "status": "Finished Airing",
             "episodes": 12,
             "created_at": "2020",
-            "updated_at": "2026-04-02T01:56:56.000Z",
-            "ts": 1775086998
+            "updated_at": "2026-04-02T01:56:56.000Z"
         },
         {
             "id_mal": "39468",
@@ -1521,8 +1448,7 @@
             "status": "Finished Airing",
             "episodes": 14,
             "created_at": "2019",
-            "updated_at": "2026-04-02T01:51:58.000Z",
-            "ts": 1775087071
+            "updated_at": "2026-04-02T01:51:58.000Z"
         },
         {
             "id_mal": "34451",
@@ -1536,12 +1462,10 @@
             "status": "Finished Airing",
             "episodes": 12,
             "created_at": "2017",
-            "updated_at": "2026-04-01T23:31:56.000Z",
-            "ts": 1775086316
+            "updated_at": "2026-04-01T23:31:56.000Z"
         },
         {
             "id_mal": "61663",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1999\/154569l.jpg",
             "titulo": "Uruwashi no Yoi no Tsuki",
             "titulo_original": "うるわしの宵の月",
@@ -1550,13 +1474,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Currently Airing",
+            "episodes": 12,
             "created_at": "2026-01-11",
-            "updated_at": "2026-04-01T01:43:01.000Z",
-            "episodes": 12
+            "updated_at": "2026-04-01T01:43:01.000Z"
         },
         {
             "id_mal": "59517",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1015\/151233l.jpg",
             "titulo": "Chitose-kun wa Ramune Bin no Naka",
             "titulo_original": "千歳くんはラムネ瓶のなか",
@@ -1565,13 +1488,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Currently Airing",
+            "episodes": 13,
             "created_at": "2025-10-07",
-            "updated_at": "2026-04-01T01:36:46.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-01T01:36:46.000Z"
         },
         {
             "id_mal": "61983",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1573\/152828l.jpg",
             "titulo": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
             "titulo_original": "勇者パーティーにかわいい子がいたので、告白してみた。",
@@ -1580,13 +1502,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Currently Airing",
+            "episodes": 13,
             "created_at": "2026-01-06",
-            "updated_at": "2026-04-01T01:31:45.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-01T01:31:45.000Z"
         },
         {
             "id_mal": "58886",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1341\/152829l.jpg",
             "titulo": "Darwin Jihen",
             "titulo_original": "ダーウィン事変",
@@ -1595,9 +1516,9 @@
             "type": "anime",
             "score": "6.6",
             "status": "Currently Airing",
+            "episodes": 13,
             "created_at": "2026-01-07",
-            "updated_at": "2026-04-01T01:18:39.000Z",
-            "episodes": 13
+            "updated_at": "2026-04-01T01:18:39.000Z"
         },
         {
             "id_mal": "58473",
@@ -1611,12 +1532,10 @@
             "status": "Finished Airing",
             "episodes": 12,
             "created_at": "2025-01-04",
-            "updated_at": "2026-03-26T15:55:34.000Z",
-            "ts": 1774540534
+            "updated_at": "2026-03-26T15:55:34.000Z"
         },
         {
             "id_mal": "49778",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1722\/148906l.jpg",
             "titulo": "Kijin Gentoushou",
             "titulo_original": "鬼人幻燈抄",
@@ -1625,13 +1544,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2025-03-31",
-            "updated_at": "2026-03-26T09:26:01.000Z",
-            "episodes": 24
+            "updated_at": "2026-03-26T09:26:01.000Z"
         },
         {
             "id_mal": "60293",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1065\/148659l.jpg",
             "titulo": "Ballpark de Tsukamaete!",
             "titulo_original": "ボールパークでつかまえて！",
@@ -1640,13 +1558,12 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-02",
-            "updated_at": "2026-03-26T09:22:57.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T09:22:57.000Z"
         },
         {
             "id_mal": "59457",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1521\/148809l.jpg",
             "titulo": "Haite Kudasai, Takamine-san",
             "titulo_original": "履いてください、鷹峰さん",
@@ -1655,13 +1572,12 @@
             "type": "anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-02",
-            "updated_at": "2026-03-26T09:21:45.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T09:21:45.000Z"
         },
         {
             "id_mal": "60146",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1712\/148299l.jpg",
             "titulo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
             "titulo_original": "最強の王様、二度目の人生は何をする?",
@@ -1670,13 +1586,12 @@
             "type": "anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-02",
-            "updated_at": "2026-03-26T09:20:20.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T09:20:20.000Z"
         },
         {
             "id_mal": "61322",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1785\/151710l.jpg",
             "titulo": "Dr. Stone: Science Future Part 2",
             "titulo_original": "Dr.STONE SCIENCE FUTURE 第2クール",
@@ -1685,13 +1600,12 @@
             "type": "anime",
             "score": "8.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-10",
-            "updated_at": "2026-03-26T09:06:29.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T09:06:29.000Z"
         },
         {
             "id_mal": "59846",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1190\/151754l.jpg",
             "titulo": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
             "titulo_original": "最後にひとつだけお願いしてもよろしいでしょうか",
@@ -1700,13 +1614,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-26T08:54:51.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-26T08:54:51.000Z"
         },
         {
             "id_mal": "50738",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1074\/147339l.jpg",
             "titulo": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
             "titulo_original": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
@@ -1715,13 +1628,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-05",
-            "updated_at": "2026-03-26T07:49:48.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T07:49:48.000Z"
         },
         {
             "id_mal": "60334",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1564\/150049l.jpg",
             "titulo": "Anne Shirley",
             "titulo_original": "アン・シャーリー",
@@ -1730,13 +1642,12 @@
             "type": "anime",
             "score": "7.9",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2025-04-05",
-            "updated_at": "2026-03-26T04:49:43.000Z",
-            "episodes": 24
+            "updated_at": "2026-03-26T04:49:43.000Z"
         },
         {
             "id_mal": "52709",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1429\/150067l.jpg",
             "titulo": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
             "titulo_original": "男女の友情は成立する？（いや、しないっ!!）",
@@ -1745,13 +1656,12 @@
             "type": "anime",
             "score": "6.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:49:35.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T04:49:35.000Z"
         },
         {
             "id_mal": "60377",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1118\/149222l.jpg",
             "titulo": "Nazotoki wa Dinner no Ato de",
             "titulo_original": "謎解きはディナーのあとで",
@@ -1760,13 +1670,12 @@
             "type": "anime",
             "score": "6.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:21.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T04:48:21.000Z"
         },
         {
             "id_mal": "59819",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1538\/147930l.jpg",
             "titulo": "Bye Bye, Earth 2nd Season",
             "titulo_original": "ばいばい、アース 第2シーズン",
@@ -1775,13 +1684,12 @@
             "type": "anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": 10,
             "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:17.000Z",
-            "episodes": 10
+            "updated_at": "2026-03-26T04:48:17.000Z"
         },
         {
             "id_mal": "59160",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1526\/148873l.jpg",
             "titulo": "Wind Breaker Season 2",
             "titulo_original": "WIND BREAKER Season 2",
@@ -1790,13 +1698,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:14.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T04:48:14.000Z"
         },
         {
             "id_mal": "58359",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1211\/147335l.jpg",
             "titulo": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
             "titulo_original": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
@@ -1805,13 +1712,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-03",
-            "updated_at": "2026-03-26T04:45:28.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T04:45:28.000Z"
         },
         {
             "id_mal": "59360",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1781\/150071l.jpg",
             "titulo": "Rock wa Lady no Tashinami deshite",
             "titulo_original": "ロックは淑女の嗜みでして",
@@ -1820,13 +1726,12 @@
             "type": "anime",
             "score": "7.9",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-04-03",
-            "updated_at": "2026-03-26T04:44:46.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-26T04:44:46.000Z"
         },
         {
             "id_mal": "55995",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1577\/147967l.jpg",
             "titulo": "Your Forma",
             "titulo_original": "ユア・フォルマ",
@@ -1835,13 +1740,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-04-02",
-            "updated_at": "2026-03-26T04:44:44.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-26T04:44:44.000Z"
         },
         {
             "id_mal": "59169",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1620\/148221l.jpg",
             "titulo": "Aru Majo ga Shinu Made",
             "titulo_original": "ある魔女が死ぬまで",
@@ -1850,13 +1754,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-04-01",
-            "updated_at": "2026-03-26T04:40:48.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T04:40:48.000Z"
         },
         {
             "id_mal": "60057",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1759\/145944l.jpg",
             "titulo": "Chao Neng Lifang: Chaofan Pian",
             "titulo_original": "超能立方 超凡篇",
@@ -1865,13 +1768,12 @@
             "type": "anime",
             "score": "7.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-03-21",
-            "updated_at": "2026-03-26T02:34:24.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T02:34:24.000Z"
         },
         {
             "id_mal": "61335",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1828\/155038l.jpg",
             "titulo": "Medalist 2nd Season",
             "titulo_original": "メダリスト 第2期",
@@ -1880,13 +1782,12 @@
             "type": "anime",
             "score": "8.5",
             "status": "Finished Airing",
+            "episodes": 9,
             "created_at": "2026-01-25",
-            "updated_at": "2026-03-26T02:34:21.000Z",
-            "episodes": 9
+            "updated_at": "2026-03-26T02:34:21.000Z"
         },
         {
             "id_mal": "60058",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
             "titulo": "[Oshi no Ko] 3rd Season",
             "titulo_original": "【推しの子】 第3期",
@@ -1895,13 +1796,12 @@
             "type": "anime",
             "score": "8.7",
             "status": "Finished Airing",
+            "episodes": 11,
             "created_at": "2026-01-14",
-            "updated_at": "2026-03-26T02:34:17.000Z",
-            "episodes": 11
+            "updated_at": "2026-03-26T02:34:17.000Z"
         },
         {
             "id_mal": "61207",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1250\/156107l.jpg",
             "titulo": "Tensei shitara Dragon no Tamago datta",
             "titulo_original": "転生したらドラゴンの卵だった",
@@ -1910,13 +1810,12 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-10",
-            "updated_at": "2026-03-26T02:29:51.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T02:29:51.000Z"
         },
         {
             "id_mal": "54863",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1219\/154541l.jpg",
             "titulo": "Trigun Stargaze",
             "titulo_original": "TRIGUN STARGAZE",
@@ -1925,13 +1824,12 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-10",
-            "updated_at": "2026-03-26T02:28:35.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T02:28:35.000Z"
         },
         {
             "id_mal": "61196",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1622\/154192l.jpg",
             "titulo": "Dead Account",
             "titulo_original": "デッドアカウント",
@@ -1940,9 +1838,9 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-10",
-            "updated_at": "2026-03-26T02:28:31.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-26T02:28:31.000Z"
         },
         {
             "id_mal": "52293",
@@ -1956,12 +1854,10 @@
             "status": "Finished Airing",
             "episodes": 13,
             "created_at": "2026-03-25",
-            "updated_at": "2026-03-25T08:03:40.000Z",
-            "ts": 1774425820
+            "updated_at": "2026-03-25T08:03:40.000Z"
         },
         {
             "id_mal": "59853",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1559\/154695l.jpg",
             "titulo": "Dark Moon: Tsuki no Saidan",
             "titulo_original": "DARK MOON　-黒の月: 月の祭壇-",
@@ -1970,13 +1866,12 @@
             "type": "anime",
             "score": "6.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-10",
-            "updated_at": "2026-03-20T22:51:32.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-20T22:51:32.000Z"
         },
         {
             "id_mal": "60509",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1499\/152613l.jpg",
             "titulo": "Champignon no Majo",
             "titulo_original": "シャンピニオンの魔女",
@@ -1985,13 +1880,12 @@
             "type": "anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-09",
-            "updated_at": "2026-03-20T22:43:38.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-20T22:43:38.000Z"
         },
         {
             "id_mal": "59711",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1834\/151169l.jpg",
             "titulo": "Shibou Yuugi de Meshi wo Kuu.",
             "titulo_original": "死亡遊戯で飯を食う。",
@@ -2000,13 +1894,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 11,
             "created_at": "2026-01-07",
-            "updated_at": "2026-03-20T22:41:52.000Z",
-            "episodes": 11
+            "updated_at": "2026-03-20T22:41:52.000Z"
         },
         {
             "id_mal": "61884",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1160\/154083l.jpg",
             "titulo": "Maou no Musume wa Yasashisugiru!!",
             "titulo_original": "魔王の娘は優しすぎる!!",
@@ -2015,13 +1908,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-07",
-            "updated_at": "2026-03-18T07:01:57.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T07:01:57.000Z"
         },
         {
             "id_mal": "58861",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1506\/155355l.jpg",
             "titulo": "Hanazakari no Kimitachi e",
             "titulo_original": "花ざかりの君たちへ",
@@ -2030,13 +1922,12 @@
             "type": "anime",
             "score": "7.0",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2026-01-04",
-            "updated_at": "2026-03-18T07:01:28.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T07:01:28.000Z"
         },
         {
             "id_mal": "33486",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/85221l.jpg",
             "titulo": "Boku no Hero Academia 2nd Season",
             "titulo_original": "僕のヒーローアカデミア",
@@ -2045,13 +1936,12 @@
             "type": "anime",
             "score": "8.1",
             "status": "Finished Airing",
+            "episodes": "25",
             "created_at": "2017-04-01",
-            "updated_at": "2026-03-18T07:00:18.000Z",
-            "episodes": "25"
+            "updated_at": "2026-03-18T07:00:18.000Z"
         },
         {
             "id_mal": "60254",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1388\/152332l.jpg",
             "titulo": "Yano-kun no Futsuu no Hibi",
             "titulo_original": "矢野くんの普通の日々",
@@ -2060,13 +1950,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-10-01",
-            "updated_at": "2026-03-18T06:44:26.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:44:26.000Z"
         },
         {
             "id_mal": "60347",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1347\/151708l.jpg",
             "titulo": "Cat's♥Eye",
             "titulo_original": "キャッツ❤︎アイ",
@@ -2075,13 +1964,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-09-26",
-            "updated_at": "2026-03-18T06:43:57.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:43:57.000Z"
         },
         {
             "id_mal": "56854",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1721\/151097l.jpg",
             "titulo": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
             "titulo_original": "無職の英雄 別にスキルなんか要らなかったんだが",
@@ -2090,13 +1978,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-10-01",
-            "updated_at": "2026-03-18T06:43:31.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:43:31.000Z"
         },
         {
             "id_mal": "60130",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1359\/150668l.jpg",
             "titulo": "Muchuu sa, Kimi ni.",
             "titulo_original": "夢中さ、きみに。",
@@ -2105,13 +1992,12 @@
             "type": "anime",
             "score": "7.3",
             "status": "Finished Airing",
+            "episodes": 5,
             "created_at": "2025-08-21",
-            "updated_at": "2026-03-18T06:43:08.000Z",
-            "episodes": 5
+            "updated_at": "2026-03-18T06:43:08.000Z"
         },
         {
             "id_mal": "60131",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1801\/150665l.jpg",
             "titulo": "Karaoke Iko!",
             "titulo_original": "カラオケ行こ!",
@@ -2120,13 +2006,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 5,
             "created_at": "2025-07-24",
-            "updated_at": "2026-03-18T06:42:36.000Z",
-            "episodes": 5
+            "updated_at": "2026-03-18T06:42:36.000Z"
         },
         {
             "id_mal": "57969",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1587\/149982l.jpg",
             "titulo": "Nukitashi the Animation",
             "titulo_original": "ぬきたし THE ANIMATION",
@@ -2135,13 +2020,12 @@
             "type": "anime",
             "score": "7.0",
             "status": "Finished Airing",
+            "episodes": 11,
             "created_at": "2025-07-19",
-            "updated_at": "2026-03-18T06:42:09.000Z",
-            "episodes": 11
+            "updated_at": "2026-03-18T06:42:09.000Z"
         },
         {
             "id_mal": "59177",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1177\/150344l.jpg",
             "titulo": "Kaijuu 8-gou 2nd Season",
             "titulo_original": "怪獣8号 第2期",
@@ -2150,13 +2034,12 @@
             "type": "anime",
             "score": "7.8",
             "status": "Finished Airing",
+            "episodes": 11,
             "created_at": "2025-07-19",
-            "updated_at": "2026-03-18T06:41:40.000Z",
-            "episodes": 11
+            "updated_at": "2026-03-18T06:41:40.000Z"
         },
         {
             "id_mal": "59662",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1577\/147273l.jpg",
             "titulo": "Long Zu II: Daowangzhe Zhi Tong",
             "titulo_original": "龙族Ⅱ 悼亡者之瞳",
@@ -2165,13 +2048,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2025-07-18",
-            "updated_at": "2026-03-18T06:40:51.000Z",
-            "episodes": 24
+            "updated_at": "2026-03-18T06:40:51.000Z"
         },
         {
             "id_mal": "53722",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1282\/148596l.jpg",
             "titulo": "Bullet\/Bullet",
             "titulo_original": "BULLET\/BULLET",
@@ -2180,13 +2062,12 @@
             "type": "anime",
             "score": "6.4",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-16",
-            "updated_at": "2026-03-18T06:38:41.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:38:41.000Z"
         },
         {
             "id_mal": "60285",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1758\/148719l.jpg",
             "titulo": "Sakamoto Days Part 2",
             "titulo_original": "SAKAMOTO DAYS 第２クール",
@@ -2195,13 +2076,12 @@
             "type": "anime",
             "score": "7.9",
             "status": "Finished Airing",
+            "episodes": 11,
             "created_at": "2025-07-15",
-            "updated_at": "2026-03-18T06:38:14.000Z",
-            "episodes": 11
+            "updated_at": "2026-03-18T06:38:14.000Z"
         },
         {
             "id_mal": "61793",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1975\/150436l.jpg",
             "titulo": "Yami Shibai 15",
             "titulo_original": "闇芝居 十五期",
@@ -2210,13 +2090,12 @@
             "type": "anime",
             "score": "5.7",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-07-14",
-            "updated_at": "2026-03-18T06:27:37.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-18T06:27:37.000Z"
         },
         {
             "id_mal": "60951",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1777\/150455l.jpg",
             "titulo": "Kizetsu Yuusha to Ansatsu Hime",
             "titulo_original": "気絶勇者と暗殺姫",
@@ -2225,13 +2104,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-12",
-            "updated_at": "2026-03-18T06:14:58.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:14:58.000Z"
         },
         {
             "id_mal": "59424",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1072\/149889l.jpg",
             "titulo": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
             "titulo_original": "勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～",
@@ -2240,13 +2118,12 @@
             "type": "anime",
             "score": "6.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-11",
-            "updated_at": "2026-03-18T06:14:12.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:14:12.000Z"
         },
         {
             "id_mal": "58811",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1474\/150666l.jpg",
             "titulo": "Tougen Anki",
             "titulo_original": "桃源暗鬼",
@@ -2255,13 +2132,12 @@
             "type": "anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2025-07-11",
-            "updated_at": "2026-03-18T06:13:37.000Z",
-            "episodes": 24
+            "updated_at": "2026-03-18T06:13:37.000Z"
         },
         {
             "id_mal": "60665",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1904\/150649l.jpg",
             "titulo": "Futari Solo Camp",
             "titulo_original": "ふたりソロキャンプ",
@@ -2270,13 +2146,12 @@
             "type": "anime",
             "score": "7.2",
             "status": "Finished Airing",
+            "episodes": 24,
             "created_at": "2025-07-11",
-            "updated_at": "2026-03-18T06:13:07.000Z",
-            "episodes": 24
+            "updated_at": "2026-03-18T06:13:07.000Z"
         },
         {
             "id_mal": "59005",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1033\/150371l.jpg",
             "titulo": "Leviathan",
             "titulo_original": "リヴァイアサン",
@@ -2285,13 +2160,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-10",
-            "updated_at": "2026-03-18T06:12:30.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-18T06:12:30.000Z"
         },
         {
             "id_mal": "61694",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1084\/149783l.jpg",
             "titulo": "Android wa Keiken Ninzuu ni Hairimasu ka??",
             "titulo_original": "アンドロイドは経験人数に入りますか??",
@@ -2300,13 +2174,12 @@
             "type": "anime",
             "score": "6.2",
             "status": "Finished Airing",
+            "episodes": "8",
             "created_at": "2026-01-10",
-            "updated_at": "2026-03-18T06:11:28.000Z",
-            "episodes": "8"
+            "updated_at": "2026-03-18T06:11:28.000Z"
         },
         {
             "id_mal": "61851",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1044\/152103l.jpg",
             "titulo": "Isekai Quartet 3",
             "titulo_original": "異世界かるてっと3",
@@ -2315,13 +2188,12 @@
             "type": "anime",
             "score": "7.4",
             "status": "Finished Airing",
+            "episodes": "11",
             "created_at": "2025-10-13",
-            "updated_at": "2026-03-18T06:10:56.000Z",
-            "episodes": "11"
+            "updated_at": "2026-03-18T06:10:56.000Z"
         },
         {
             "id_mal": "58146",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1347\/150603l.jpg",
             "titulo": "Tensei Akujo no Kuro Rekishi",
             "titulo_original": "転生悪女の黒歴史",
@@ -2330,13 +2202,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-09",
-            "updated_at": "2026-03-18T05:59:06.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:59:06.000Z"
         },
         {
             "id_mal": "57025",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1206\/151772l.jpg",
             "titulo": "Tondemo Skill de Isekai Hourou Meshi 2",
             "titulo_original": "とんでもスキルで異世界放浪メシ2",
@@ -2345,13 +2216,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-08",
-            "updated_at": "2026-03-18T05:59:02.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:59:02.000Z"
         },
         {
             "id_mal": "57189",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1669\/151736l.jpg",
             "titulo": "Debu to Love to Ayamachi to!",
             "titulo_original": "デブとラブと過ちと!",
@@ -2360,13 +2230,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-06",
-            "updated_at": "2026-03-18T05:58:56.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:58:56.000Z"
         },
         {
             "id_mal": "54757",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1823\/154120l.jpg",
             "titulo": "3-nen Z-gumi Ginpachi-sensei",
             "titulo_original": "銀魂 3年Z組銀八先生",
@@ -2375,13 +2244,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-07",
-            "updated_at": "2026-03-18T05:58:52.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:58:52.000Z"
         },
         {
             "id_mal": "61026",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1276\/151118l.jpg",
             "titulo": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
             "titulo_original": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
@@ -2390,13 +2258,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-07",
-            "updated_at": "2026-03-18T05:58:48.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:58:48.000Z"
         },
         {
             "id_mal": "61174",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1289\/151136l.jpg",
             "titulo": "Sozai Saishuka no Isekai Ryokouki",
             "titulo_original": "素材採取家の異世界旅行記",
@@ -2405,13 +2272,12 @@
             "type": "anime",
             "score": "6.1",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-07",
-            "updated_at": "2026-03-18T05:56:51.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:56:51.000Z"
         },
         {
             "id_mal": "57888",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1811\/151799l.jpg",
             "titulo": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
             "titulo_original": "父は英雄、母は精霊、娘の私は転生者。",
@@ -2420,13 +2286,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-05",
-            "updated_at": "2026-03-18T05:56:47.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:56:47.000Z"
         },
         {
             "id_mal": "60303",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1163\/151246l.jpg",
             "titulo": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
             "titulo_original": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します!",
@@ -2435,13 +2300,12 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-03",
-            "updated_at": "2026-03-18T05:56:42.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:56:42.000Z"
         },
         {
             "id_mal": "58515",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1593\/155372l.jpg",
             "titulo": "Kekkon Yubiwa Monogatari II",
             "titulo_original": "結婚指輪物語Ⅱ",
@@ -2450,13 +2314,12 @@
             "type": "anime",
             "score": "6.5",
             "status": "Finished Airing",
+            "episodes": "13",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:56:36.000Z",
-            "episodes": "13"
+            "updated_at": "2026-03-18T05:56:36.000Z"
         },
         {
             "id_mal": "60564",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1011\/152084l.jpg",
             "titulo": "Ranma ½ (2024) 2nd Season",
             "titulo_original": "らんま1\/2 第2期",
@@ -2465,13 +2328,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-05",
-            "updated_at": "2026-03-18T05:56:29.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:56:29.000Z"
         },
         {
             "id_mal": "60619",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1651\/152063l.jpg",
             "titulo": "Nageki no Bourei wa Intai shitai Part 2",
             "titulo_original": "嘆きの亡霊は引退したい 第2クール",
@@ -2480,13 +2342,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": "11",
             "created_at": "2025-10-06",
-            "updated_at": "2026-03-18T05:54:20.000Z",
-            "episodes": "11"
+            "updated_at": "2026-03-18T05:54:20.000Z"
         },
         {
             "id_mal": "59267",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1364\/151767l.jpg",
             "titulo": "Sanda",
             "titulo_original": "SANDA",
@@ -2495,13 +2356,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:54:16.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:54:16.000Z"
         },
         {
             "id_mal": "61142",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1025\/150482l.jpg",
             "titulo": "Sawaranaide Kotesashi-kun",
             "titulo_original": "さわらないで小手指くん",
@@ -2510,13 +2370,12 @@
             "type": "anime",
             "score": "6.1",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-06",
-            "updated_at": "2026-03-18T05:54:10.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:54:10.000Z"
         },
         {
             "id_mal": "57859",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1617\/151874l.jpg",
             "titulo": "Egao no Taenai Shokuba desu.",
             "titulo_original": "笑顔のたえない職場です。",
@@ -2525,13 +2384,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": "13",
             "created_at": "2025-10-06",
-            "updated_at": "2026-03-18T05:54:04.000Z",
-            "episodes": "13"
+            "updated_at": "2026-03-18T05:54:04.000Z"
         },
         {
             "id_mal": "61917",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1294\/151734l.jpg",
             "titulo": "Towa no Yuugure",
             "titulo_original": "永久のユウグレ",
@@ -2540,13 +2398,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-03",
-            "updated_at": "2026-03-18T05:53:59.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:53:59.000Z"
         },
         {
             "id_mal": "59484",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1618\/151138l.jpg",
             "titulo": "Kikaijikake no Marie",
             "titulo_original": "機械じかけのマリー",
@@ -2555,13 +2412,12 @@
             "type": "anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-05",
-            "updated_at": "2026-03-18T05:48:44.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:48:44.000Z"
         },
         {
             "id_mal": "60098",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1959\/151055l.jpg",
             "titulo": "Boku no Hero Academia: Final Season",
             "titulo_original": "僕のヒーローアカデミア FINAL SEASON",
@@ -2570,13 +2426,12 @@
             "type": "anime",
             "score": "8.7",
             "status": "Finished Airing",
+            "episodes": "11",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:48:39.000Z",
-            "episodes": "11"
+            "updated_at": "2026-03-18T05:48:39.000Z"
         },
         {
             "id_mal": "58772",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1619\/151364l.jpg",
             "titulo": "Kakuriyo no Yadomeshi Ni",
             "titulo_original": "かくりよの宿飯 弐",
@@ -2585,13 +2440,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-02",
-            "updated_at": "2026-03-18T05:48:35.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:48:35.000Z"
         },
         {
             "id_mal": "60378",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1736\/152179l.jpg",
             "titulo": "Shabake",
             "titulo_original": "しゃばけ",
@@ -2600,13 +2454,12 @@
             "type": "anime",
             "score": "6.5",
             "status": "Finished Airing",
+            "episodes": "13",
             "created_at": "2025-10-03",
-            "updated_at": "2026-03-18T05:48:30.000Z",
-            "episodes": "13"
+            "updated_at": "2026-03-18T05:48:30.000Z"
         },
         {
             "id_mal": "61276",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1732\/153360l.jpg",
             "titulo": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
             "titulo_original": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
@@ -2615,13 +2468,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:47:00.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:47:00.000Z"
         },
         {
             "id_mal": "61072",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1681\/151599l.jpg",
             "titulo": "Shuumatsu Touring",
             "titulo_original": "終末ツーリング",
@@ -2630,13 +2482,12 @@
             "type": "anime",
             "score": "6.8",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:46:53.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:46:53.000Z"
         },
         {
             "id_mal": "59644",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1830\/145051l.jpg",
             "titulo": "Yasei no Last Boss ga Arawareta!",
             "titulo_original": "野生のラスボスが現れた！",
@@ -2645,13 +2496,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:46:48.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:46:48.000Z"
         },
         {
             "id_mal": "61209",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1363\/151886l.jpg",
             "titulo": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
             "titulo_original": "顔に出ない柏田さんと顔に出る太田君",
@@ -2660,13 +2510,12 @@
             "type": "anime",
             "score": "7.1",
             "status": "Finished Airing",
+            "episodes": "12",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:43:24.000Z",
-            "episodes": "12"
+            "updated_at": "2026-03-18T05:43:24.000Z"
         },
         {
             "id_mal": "61930",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1120\/152280l.jpg",
             "titulo": "Uma Musume: Cinderella Gray Part 2",
             "titulo_original": "ウマ娘 シンデレラグレイ 第2クール",
@@ -2675,13 +2524,12 @@
             "type": "anime",
             "score": "8.7",
             "status": "Finished Airing",
+            "episodes": "10",
             "created_at": "2025-10-05",
-            "updated_at": "2026-03-17T01:14:57.000Z",
-            "episodes": "10"
+            "updated_at": "2026-03-17T01:14:57.000Z"
         },
         {
             "id_mal": "59027",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1697\/151793l.jpg",
             "titulo": "Spy x Family Season 3",
             "titulo_original": "SPY×FAMILY Season 3",
@@ -2690,13 +2538,12 @@
             "type": "anime",
             "score": "8.2",
             "status": "Finished Airing",
+            "episodes": "13",
             "created_at": "2025-10-04",
-            "updated_at": "2026-03-17T01:11:56.000Z",
-            "episodes": "13"
+            "updated_at": "2026-03-17T01:11:56.000Z"
         },
         {
             "id_mal": "37430",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1069\/123309l.jpg",
             "titulo": "Tensei shitara Slime Datta Ken",
             "titulo_original": "転生したらスライムだった件",
@@ -2705,13 +2552,12 @@
             "type": "anime",
             "score": "8.1",
             "status": "Finished Airing",
+            "episodes": "24",
             "created_at": "2018-10-01",
-            "updated_at": "2026-03-17T01:09:48.000Z",
-            "episodes": "24"
+            "updated_at": "2026-03-17T01:09:48.000Z"
         },
         {
             "id_mal": "59207",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1949\/150965l.jpg",
             "titulo": "Mikadono Sanshimai wa Angai, Choroi.",
             "titulo_original": "帝乃三姉妹は案外、チョロい。",
@@ -2720,13 +2566,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:51:11.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:51:11.000Z"
         },
         {
             "id_mal": "59095",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1154\/149614l.jpg",
             "titulo": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
             "titulo_original": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
@@ -2735,13 +2580,12 @@
             "type": "anime",
             "score": "7.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:51:07.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:51:07.000Z"
         },
         {
             "id_mal": "57820",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1967\/148714l.jpg",
             "titulo": "Kamitsubaki-shi Kensetsuchuu.",
             "titulo_original": "神椿市建設中.",
@@ -2750,13 +2594,12 @@
             "type": "anime",
             "score": "5.8",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:51:03.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:51:03.000Z"
         },
         {
             "id_mal": "57907",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1638\/150592l.jpg",
             "titulo": "Tate no Yuusha no Nariagari Season 4",
             "titulo_original": "盾の勇者の成り上がり Season 4",
@@ -2765,13 +2608,12 @@
             "type": "anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-09",
-            "updated_at": "2026-03-17T00:51:01.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:51:01.000Z"
         },
         {
             "id_mal": "54028",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1977\/150952l.jpg",
             "titulo": "Turkey!",
             "titulo_original": "Turkey!",
@@ -2780,13 +2622,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-09",
-            "updated_at": "2026-03-17T00:50:58.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:50:58.000Z"
         },
         {
             "id_mal": "58996",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1018\/150416l.jpg",
             "titulo": "Osomatsu-san 4th Season",
             "titulo_original": "おそ松さん 第4期",
@@ -2795,13 +2636,12 @@
             "type": "anime",
             "score": "6.1",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-09",
-            "updated_at": "2026-03-17T00:49:07.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:49:07.000Z"
         },
         {
             "id_mal": "58197",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1411\/150445l.jpg",
             "titulo": "Nyaight of the Living Cat",
             "titulo_original": "ニャイト・オブ・ザ・リビングキャット",
@@ -2810,13 +2650,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-08",
-            "updated_at": "2026-03-17T00:49:04.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:49:04.000Z"
         },
         {
             "id_mal": "59986",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1108\/150583l.jpg",
             "titulo": "Grand Blue Season 2",
             "titulo_original": "ぐらんぶる Season 2",
@@ -2825,13 +2664,12 @@
             "type": "anime",
             "score": "8.5",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-08",
-            "updated_at": "2026-03-17T00:49:01.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:49:01.000Z"
         },
         {
             "id_mal": "59402",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1551\/150517l.jpg",
             "titulo": "Kakkou no Iinazuke Season 2",
             "titulo_original": "カッコウの許嫁 Season2",
@@ -2840,13 +2678,12 @@
             "type": "anime",
             "score": "6.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-08",
-            "updated_at": "2026-03-17T00:48:58.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:48:58.000Z"
         },
         {
             "id_mal": "60326",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1887\/150496l.jpg",
             "titulo": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
             "titulo_original": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)",
@@ -2855,13 +2692,12 @@
             "type": "anime",
             "score": "7.7",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-08",
-            "updated_at": "2026-03-17T00:48:56.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:48:56.000Z"
         },
         {
             "id_mal": "59898",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1829\/145678l.jpg",
             "titulo": "City The Animation",
             "titulo_original": "CITY THE ANIMATION",
@@ -2870,13 +2706,12 @@
             "type": "anime",
             "score": "8.1",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:21.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-17T00:47:21.000Z"
         },
         {
             "id_mal": "60508",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1039\/150572l.jpg",
             "titulo": "Food Court de, Mata Ashita.",
             "titulo_original": "フードコートで、また明日。",
@@ -2885,13 +2720,12 @@
             "type": "anime",
             "score": "7.5",
             "status": "Finished Airing",
+            "episodes": 6,
             "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:18.000Z",
-            "episodes": 6
+            "updated_at": "2026-03-17T00:47:18.000Z"
         },
         {
             "id_mal": "60315",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1154\/149311l.jpg",
             "titulo": "Dekin no Mogura",
             "titulo_original": "出禁のモグラ",
@@ -2900,13 +2734,12 @@
             "type": "anime",
             "score": "6.9",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:13.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:47:13.000Z"
         },
         {
             "id_mal": "59689",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1943\/149719l.jpg",
             "titulo": "Game Center Shoujo to Ibunka Kouryuu",
             "titulo_original": "ゲーセン少女と異文化交流",
@@ -2915,13 +2748,12 @@
             "type": "anime",
             "score": "6.6",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:47:11.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:47:11.000Z"
         },
         {
             "id_mal": "60316",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1454\/150515l.jpg",
             "titulo": "Busamen Gachi Fighter",
             "titulo_original": "ブサメンガチファイター",
@@ -2930,13 +2762,12 @@
             "type": "anime",
             "score": "6.3",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:28.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:45:28.000Z"
         },
         {
             "id_mal": "59845",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1744\/150433l.jpg",
             "titulo": "Kaoru Hana wa Rin to Saku",
             "titulo_original": "薫る花は凛と咲く",
@@ -2945,13 +2776,12 @@
             "type": "anime",
             "score": "8.5",
             "status": "Finished Airing",
+            "episodes": 13,
             "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:25.000Z",
-            "episodes": 13
+            "updated_at": "2026-03-17T00:45:25.000Z"
         },
         {
             "id_mal": "60603",
-            "slug": "",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1415\/150405l.jpg",
             "titulo": "Puniru wa Kawaii Slime 2nd Season",
             "titulo_original": "ぷにるはかわいいスライム 第2期",
@@ -2960,9 +2790,23 @@
             "type": "anime",
             "score": "7.2",
             "status": "Finished Airing",
+            "episodes": 12,
             "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:23.000Z",
-            "episodes": 12
+            "updated_at": "2026-03-17T00:45:23.000Z"
+        },
+        {
+            "id_mal": "59062",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1682\/150432l.jpg",
+            "titulo": "Gachiakuta",
+            "titulo_original": "ガチアクタ",
+            "year": "2025",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "score": "8.2",
+            "status": "Finished Airing",
+            "episodes": 24,
+            "created_at": "2025-07-06",
+            "updated_at": "2026-03-17T00:44:16.000Z"
         }
     ]
 }
