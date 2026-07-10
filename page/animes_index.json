@@ -1,18 +1,13 @@
 {
-    "total_items": 205,
-    "total_pages": 2,
+    "total_items": 7,
+    "total_pages": 1,
     "items_per_page": 200,
     "pages": [
         {
             "page_number": 1,
             "path": "page\/animes_page_1.json",
-            "item_count": 200
-        },
-        {
-            "page_number": 2,
-            "path": "page\/animes_page_2.json",
-            "item_count": 5
+            "item_count": 7
         }
     ],
-    "last_updated": "2026-07-10T08:47:25.000Z"
+    "last_updated": "2026-07-10T08:47:49.000Z"
 }
