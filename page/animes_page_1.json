@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 442,
+    "total_items": 443,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62604",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155456l.jpg",
+            "titulo": "Otaku ni Yasashii Gal wa Inai!?",
+            "titulo_original": "オタクに優しいギャルはいない!?",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-04-08",
+            "updated_at": "2026-07-10T09:21:02.000Z",
+            "year": "2026",
+            "score": 7.4900000000000002131628207280300557613372802734375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62601",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1927\/154309l.jpg",
@@ -2977,21 +2991,6 @@
             "score": 8.0999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 24,
-            "calidad": null
-        },
-        {
-            "id_mal": "49233",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1917\/158371l.jpg",
-            "titulo": "Youjo Senki II",
-            "titulo_original": "幼女戦記 II",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-10T08:38:46.000Z",
-            "year": "2026",
-            "score": 8.410000000000000142108547152020037174224853515625,
-            "status": "Currently Airing",
-            "episodes": 12,
             "calidad": null
         }
     ]
