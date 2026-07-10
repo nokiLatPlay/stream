@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 443,
+    "total_items": 444,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62617",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1371\/154308l.jpg",
+            "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "titulo_original": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-10T09:21:33.000Z",
+            "year": "2026",
+            "score": 6.8499999999999996447286321199499070644378662109375,
+            "status": "Currently Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62604",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155456l.jpg",
@@ -2976,21 +2990,6 @@
             "score": 7.839999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 21,
-            "calidad": null
-        },
-        {
-            "id_mal": "49596",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1258\/126929l.jpg",
-            "titulo": "Blue Lock",
-            "titulo_original": "ブルーロック",
-            "etiquetas": "Sports",
-            "type": "anime",
-            "created_at": "2022-10-09",
-            "updated_at": "2026-07-10T08:39:01.000Z",
-            "year": "2022",
-            "score": 8.0999999999999996447286321199499070644378662109375,
-            "status": "Finished Airing",
-            "episodes": 24,
             "calidad": null
         }
     ]
