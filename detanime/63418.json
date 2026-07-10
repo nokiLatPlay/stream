@@ -1,0 +1,47 @@
+{
+    "id_mal": "63418",
+    "titulo": "Anime 63418",
+    "titulo_original": "",
+    "imagen": "",
+    "etiquetas": "",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "",
+    "score": "",
+    "episodes": 1,
+    "status": "Currently Airing",
+    "duration": "",
+    "source": "",
+    "created_at": "2026-07-10",
+    "studios": [],
+    "producers": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/4422/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/10df1721e25b135939e9a68173ea52b8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e53613be27cf3370018b0ffd55ec9142",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "enlaces": [],
+    "updated_at": "2026-07-10T07:27:23.000Z"
+}
