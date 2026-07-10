@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62102",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196356-2TNt2b9tu0jm.jpg",
+            "titulo": "Ibitte Konai Gibo to Gishi",
+            "titulo_original": "いびってこない義母と義姉",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-09T21:53:11.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "61686",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx192800-r8zlO0VY0jJP.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.8",
             "status": "Currently Airing",
             "episodes": 8
-        },
-        {
-            "id_mal": "35849",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx99423-8MBxtwCeHf8B.png",
-            "titulo": "Darling in the Franxx",
-            "titulo_original": "ダーリン・イン・ザ・フランキス",
-            "etiquetas": "Action, Drama, Mecha, Psychological, Romance",
-            "type": "anime",
-            "created_at": "2018-01-18",
-            "updated_at": "2026-05-26T05:55:56.000Z",
-            "year": "2018",
-            "score": "6.9",
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
