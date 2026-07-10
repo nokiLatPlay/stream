@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 18,
+    "total_items": 19,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "5781",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/20345l.jpg",
+            "titulo": "Isekai no Seikishi Monogatari",
+            "titulo_original": "異世界の聖機師物語",
+            "etiquetas": "Comedy, Fantasy, Ecchi",
+            "type": "anime",
+            "created_at": "2009-05-22",
+            "updated_at": "2026-07-10T08:52:53.000Z",
+            "year": "2009",
+            "score": 7.70999999999999996447286321199499070644378662109375,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "57779",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1603\/155354l.jpg",
