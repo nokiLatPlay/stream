@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 11,
+    "total_items": 12,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "9919",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/75195l.jpg",
+            "titulo": "Ao no Exorcist",
+            "titulo_original": "青の祓魔師",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "created_at": "2011-04-17",
+            "updated_at": "2026-07-10T09:33:59.000Z",
+            "year": "2011",
+            "score": 7.46999999999999975131004248396493494510650634765625,
+            "status": "Finished Airing",
+            "episodes": 25
+        },
         {
             "id_mal": "9515",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1746\/97780l.jpg",
