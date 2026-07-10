@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 3,
-    "total_items": 446,
+    "total_items": 447,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62825",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1632\/155095l.jpg",
+            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-07-10T09:22:33.000Z",
+            "year": "2026",
+            "score": 5.86000000000000031974423109204508364200592041015625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62811",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1106\/157174l.jpg",
@@ -2973,21 +2987,6 @@
             "score": 7.4199999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 13,
-            "calidad": null
-        },
-        {
-            "id_mal": "49891",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1191\/127909l.jpg",
-            "titulo": "Tensei shitara Ken deshita",
-            "titulo_original": "転生したら剣でした",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2022-10-05",
-            "updated_at": "2026-07-10T08:39:45.000Z",
-            "year": "2022",
-            "score": 7.4900000000000002131628207280300557613372802734375,
-            "status": "Finished Airing",
-            "episodes": 12,
             "calidad": null
         }
     ]
