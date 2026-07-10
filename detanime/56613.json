@@ -1,0 +1,44 @@
+{
+    "id_mal": "56613",
+    "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
+    "titulo_original": "アズールレーン びそくぜんしんっ！にっ！！",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+    "etiquetas": "Ecchi, Slice of Life",
+    "year": "2026",
+    "type": "anime",
+    "synopsis": "The second season of Azur Lane: Bisoku Zenshin!",
+    "score": "5.9",
+    "episodes": 1,
+    "status": "Currently Airing",
+    "duration": 9,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Yostar",
+        "studio CANDY BOX"
+    ],
+    "producers": [],
+    "created_at": "2026-07-06",
+    "updated_at": "2026-07-09T21:11:21.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4402/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c4caaf907836e14a9c52245b988b0dd0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
