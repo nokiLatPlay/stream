@@ -1,14 +1,278 @@
 {
     "id_mal": "56700",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1297/150516l.jpg",
     "titulo": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-    "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season",
+    "titulo_original": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd Season",
+    "imagen": "https://cdn.animeav1.com/covers/1972.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/1972.jpg",
+    "etiquetas": "Adventure, Comedy, Fantasy",
     "year": "2025",
-    "etiquetas": "Comedy, Fantasy",
     "type": "anime",
-    "score": 6.5,
-    "status": "Finished Airing",
+    "synopsis": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
+    "score": "6.4",
     "episodes": 12,
+    "status": "Finished Airing",
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Studio Gokumi",
+        "AXsiZ",
+        "Nippon Television Network",
+        "Yomiuri TV Enterprise",
+        "ANICI",
+        "Docomo Anime Store",
+        "VAP",
+        "Nittele Wands",
+        "BS Nittele"
+    ],
+    "producers": [],
     "created_at": "2025-07-02",
-    "updated_at": "2026-07-10T08:50:38.000Z"
+    "updated_at": "2026-07-10T22:04:28.962805",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/042eb5ccad35b3f3e544a0920ca24618",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/958f46d28b405de12d3fbfd27c62474d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/44747032d1bb2a24e38ef62898997828",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/dc61bd876a96f062bac6ce7271066a18",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/27b686aaa88f229684fcdf2881c0ee4d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/84a456c926e8cfa55659d4ae0b88e16f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ce118044332624e7fa93f0a7845da52d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/89bb157711fcfe43a93f3806c4b31d98",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/451d81e09548393dd4f1a34544a5d107",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/85e5a952d80283719b1001858bc6256e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/15bfb6bb6185e07b19d5877e4b6d01a9",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8b4e0579f14274c0ad9b9cff0f8f5076",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2a950ca8aa43d6f0b347f9a0aa6c3506",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3a527777e95406224925ee49048063c5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f7898c900d9adba3a8c7313b516c13d1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/35f96690ccf7a2c1eb2ee5180d3320b4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e3b8118447015ac88a56826cf82502c8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9c9eb9c6a3bda0524ee32b83ae820417",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/10.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b29990a13ece81497941a19b26ec06ed",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/adc9883ec3527948174bba4f6e80e8e2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d6cccdc5286df987ee387db2647bb67e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ec8c89feabf446b0c365c326fc61e259",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "https://cdn.animeav1.com/screenshots/1972/12.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b909c44f06d5f50076526bf6356020ed",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8a9c97a332ac3d9a3df7c06d93813720",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

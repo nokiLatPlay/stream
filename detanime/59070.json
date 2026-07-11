@@ -1,14 +1,147 @@
 {
     "id_mal": "59070",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1750/150046l.jpg",
-    "titulo": "Guilty Gear Strive: Dual Rulers",
+    "titulo": "GUILTY GEAR STRIVE: DUAL RULERS",
     "titulo_original": "GUILTY GEAR STRIVE: DUAL RULERS",
+    "imagen": "https://cdn.animeav1.com/covers/828.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/828.jpg",
+    "etiquetas": "Action, Sci-Fi",
     "year": "2025",
-    "etiquetas": "Action, Fantasy",
     "type": "anime",
-    "score": 5.8499999999999996447286321199499070644378662109375,
-    "status": "Finished Airing",
+    "synopsis": "Sin Kiske, the forbidden child of a human and a magically crafted biological weapon called a Gear, lives in a world where magic has replaced science, and scars from the Gear rebellion remain. Attending his parents’ taboo-breaking wedding, he encounters a mysterious girl with deep hatred for Gears, and their fateful meeting threatens to upend the world once again.\n(Source: Crunchyroll)",
+    "score": "5.6",
     "episodes": 8,
+    "status": "Finished Airing",
+    "duration": 24,
+    "rating": "",
+    "source": "VIDEO_GAME",
+    "studios": [
+        "SANZIGEN",
+        "Arc System Works",
+        "ABC Animation",
+        "newgin",
+        "Good Smile Film",
+        "Bushiroad Move"
+    ],
+    "producers": [],
     "created_at": "2025-04-05",
-    "updated_at": "2026-07-10T08:57:04.000Z"
+    "updated_at": "2026-07-10T23:05:49.955625",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6232bb1baf9d6f3b0f5c6c46ac501842",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/39a7fab25803b200a1c89001fab9abe3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5ec97419958d634e19a697143ed42e97",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/16e568ce64c0f696b5717e835db194cb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3f2f03b0bb5ee005d0fcb224809a7d0c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/00f7b5f034da5f1b187184943a4a8302",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/238b91f854e7d556c7dfe6205799f290",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/828/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0840893e155839fc445d004992ce995d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

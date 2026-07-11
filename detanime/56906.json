@@ -1,14 +1,47 @@
 {
     "id_mal": "56906",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1150/155201l.jpg",
-    "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
+    "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
     "titulo_original": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+    "imagen": "https://cdn.animeav1.com/covers/3886.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/3886.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Romance",
     "year": "2026",
-    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "score": 6.69000000000000039079850466805510222911834716796875,
-    "status": "Finished Airing",
+    "synopsis": "New special episode for Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.",
+    "score": "6.8",
     "episodes": 1,
-    "created_at": "2026-03-31",
-    "updated_at": "2026-07-10T08:51:23.000Z"
+    "status": "Finished Airing",
+    "duration": 47,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Millepensee",
+        "TMS Entertainment",
+        "UNLIMITED PRODUCE by TMS",
+        "KADOKAWA"
+    ],
+    "producers": [],
+    "created_at": "2026-03-30",
+    "updated_at": "2026-07-10T22:06:21.571146",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3886/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f184fa71be86d7bf7176df434c5894e4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

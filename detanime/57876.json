@@ -1,14 +1,206 @@
 {
     "id_mal": "57876",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1814/143744l.jpg",
-    "titulo": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "titulo": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
     "titulo_original": "魔王軍最強の魔術師は人間だった",
+    "imagen": "https://cdn.animeav1.com/covers/105.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/105.jpg",
+    "etiquetas": "Action, Adventure, Drama, Fantasy",
     "year": "2024",
-    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "score": 6.410000000000000142108547152020037174224853515625,
-    "status": "Finished Airing",
+    "synopsis": "Ike is a powerful magician and the leader of the Immortal Brigade, part of the Seventh Corps of the Demon Lord’s Army. He single-handedly conquers fortresses and pushes back the armies of humanity. Neither Dairokuten, the Demon Lord, nor Ike’s loyal soldiers know his darkest secret—he is a human in hiding! But can he keep his secret safe and bring peaceful coexistence to demons and humans?\n(Source: Crunchyroll)",
+    "score": "6.3",
     "episodes": 12,
-    "created_at": "2024-07-03",
-    "updated_at": "2026-07-10T08:53:01.000Z"
+    "status": "Finished Airing",
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "studio A-CAT",
+        "Happinet Phantom Studios",
+        "Asmik Ace",
+        "Pony Canyon",
+        "Yomiuri TV Enterprise",
+        "Futabasha",
+        "BS Asahi",
+        "KLOCKWORX",
+        "studio A-CAT"
+    ],
+    "producers": [],
+    "created_at": "2024-06-26",
+    "updated_at": "2026-07-10T22:56:15.779021",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ee93951b475bf503fbf544cf3f19eb6c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a6c31f5e5cece1ba005d82216b2a39ba",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9cd6f094a2a084983d26a6c4dc8685f5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13219390c5d75459118905560bab4293",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/90daa07673c65478cf2511840784175e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/88326f1778d44ff7f6ad5e2473c59da1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ed87f1d6e1212b6f4789e87d11b28b68",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5fac512091daa7ea000b38823f825493",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/38f56ce2de87c024612de9054ce845ec",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/10.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/18fba64c25bebf143d5eda3b366257ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/94eab8efc8e66f8e4bf2fbb987895643",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "https://cdn.animeav1.com/screenshots/105/12.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1eb08044e17bea9596de484d79fdc3f9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

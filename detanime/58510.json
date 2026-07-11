@@ -1,14 +1,45 @@
 {
     "id_mal": "58510",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1477/142881l.jpg",
-    "titulo": "Hanma Baki vs. Kengan Ashura",
+    "titulo": "Hanma Baki VS Kengan Ashura",
     "titulo_original": "範馬刃牙VSケンガンアシュラ",
+    "imagen": "https://cdn.animeav1.com/covers/764.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/764.jpg",
+    "etiquetas": "Action, Sports",
     "year": "2024",
-    "etiquetas": "Action",
     "type": "anime",
-    "score": 6.4000000000000003552713678800500929355621337890625,
-    "status": "Finished Airing",
+    "synopsis": "Who will be crowned victorious in the ultimate fight between the strongest high schooler on earth and the successor of the Niko Style?\n(Source: Netflix Anime)",
+    "score": "6.5",
     "episodes": 1,
+    "status": "Finished Airing",
+    "duration": 60,
+    "rating": "",
+    "source": null,
+    "studios": [
+        "Netflix",
+        "TMS Entertainment"
+    ],
+    "producers": [],
     "created_at": "2024-06-06",
-    "updated_at": "2026-07-10T08:54:27.000Z"
+    "updated_at": "2026-07-10T22:59:53.866285",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/764/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f5f3e0abe4cc2a0085df432161ab0a27",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

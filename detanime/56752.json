@@ -1,14 +1,116 @@
 {
     "id_mal": "56752",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1496/147189l.jpg",
     "titulo": "Shiguang Dailiren: Yingdu Pian",
-    "titulo_original": "時光代理人 英都篇",
+    "titulo_original": "时光代理人英都篇",
+    "imagen": "https://cdn.animeav1.com/covers/2085.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/2085.jpg",
+    "etiquetas": "Drama, Mystery, Supernatural, Thriller",
     "year": "2024",
-    "etiquetas": "Drama",
     "type": "anime",
-    "score": 8.300000000000000710542735760100185871124267578125,
-    "status": "Finished Airing",
+    "synopsis": "In order to save the deceased Cheng Xiaoshi, Lu Guang returned to the beginning and started anew along the path of destiny. However, a photograph carrying clues about Cheng Xiaoshi's parents appeared at the Time Photo Studio. To uncover the truth, Lu Guang, with a heart full of anxiety, went to Yingdu with Cheng Xiaoshi. Facing people with different purposes, such as the seemingly friendly popular model Xia Fei, the eccentric leader of Chinatown Vein, and the mysteriously appearing Liu Xiao... can Lu Guang break the destined dead end?\n\n(Source: Bilibili)\n- The first episode aired with a runtime of ~65 minutes.",
+    "score": "8.3",
     "episodes": 6,
+    "status": "Finished Airing",
+    "duration": 23,
+    "rating": "",
+    "source": "ORIGINAL",
+    "studios": [
+        "bilibili",
+        "BeDream",
+        "CMC Media"
+    ],
+    "producers": [],
     "created_at": "2024-12-27",
-    "updated_at": "2026-07-10T08:51:08.000Z"
+    "updated_at": "2026-07-10T22:05:38.022422",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9f1de983e829ab68588f8d42780c2b5b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4542da503a861cf0e7cb5a5c3e9c346e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/dd70453dced205e464887468378adb75",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d1c4030985de479799e70a0eab07be89",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/011239bf94e04103aa586b7c2cccae99",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/2085/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5fcb80bbebd9d40bc9cf79d228fa0b62",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
