@@ -1,14 +1,153 @@
 {
     "id_mal": "268",
-    "imagen": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-    "titulo": "Golden Boy",
-    "titulo_original": "ゴールデンボーイ",
-    "year": "1995",
+    "titulo": "GOLDEN BOY: Sasurai no Obenkyou Yarou",
+    "titulo_original": "GOLDEN BOY さすらいのお勉強野郎",
+    "imagen": "https://cdn.animeav1.com/covers/1934.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/1934.jpg",
     "etiquetas": "Adventure, Comedy, Ecchi",
+    "year": "1995",
     "type": "anime",
-    "score": 8.03999999999999914734871708787977695465087890625,
-    "status": "Finished Airing",
+    "synopsis": "Kintarou Oe doesn't look like it, but he is a genius who completed all his university courses and then quit before graduating. He becomes a wandering student, going from place to place on his bicycle, seeking to learn what he can about life, the world, and women. He is willing and able to do any job he has to prove himself. His travels take him to a variety of locations and a variety of women, each who learns to love the hardworking guy, but not before he can run off.\n\n(Source: Anime News Network)",
+    "score": "7.8",
     "episodes": 6,
+    "status": "Finished Airing",
+    "duration": 29,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "KSS",
+        "APPP",
+        "Discotek",
+        "Selecta Visión"
+    ],
+    "producers": [],
     "created_at": "1995-10-27",
-    "updated_at": "2026-07-10T08:20:35.000Z"
+    "updated_at": "2026-07-10T18:24:07.306792",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/90fe01a993aa97f4f13806084220d198",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ea053468dbd8ec1f107fd61afe540d5a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/02b8370534a4630bef0e0dc2c4ea4c53",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6a1b9063e65c54a7c509421a4bcf8de9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/da112162d7d1f80b97c982e88c1535f4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a08331644cef233fec98cb37559e3749",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c1d3e4fdba5ed5388d9ab66e2316dbc5",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1e52cdc8379e128023699ffdc1efac2b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e93f786c199deac69d777c85bbf7e81e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/296704fa27a7c3ed7afb512173bde40a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/1934/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b2c80d04b1ffc1bac4074fe8169c1512",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/286c8788e79ff20e1ba93d12be6aaa5c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

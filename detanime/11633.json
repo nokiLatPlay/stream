@@ -1,14 +1,185 @@
 {
     "id_mal": "11633",
-    "imagen": "https://cdn.myanimelist.net/images/anime/11/47677l.jpg",
     "titulo": "Blood Lad",
     "titulo_original": "ブラッドラッド",
+    "imagen": "https://cdn.animeav1.com/covers/910.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/910.jpg",
+    "etiquetas": "Action, Adventure, Comedy, Ecchi, Supernatural",
     "year": "2013",
-    "etiquetas": "Action, Comedy, Fantasy",
     "type": "anime",
-    "score": 7.230000000000000426325641456060111522674560546875,
+    "synopsis": "Staz is the vampire boss of a section of the demon world, but he has little interest in human blood. He's more infatuated with Japanese culture. When he learns that Yanagi Fuyumi, a Japanese teenage girl, accidentally wanders into the demon city, he jumps to the occasion. However, while Staz deals with an intruder on his turf, the oblivious Fuyumi is killed by a monster and becomes a wandering ghost. The disappointed Staz vows to her that he will find a way to bring Fuyumi back to life.\n",
+    "score": "6.9",
+    "episodes": 11,
     "status": "Finished Airing",
-    "episodes": 10,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Brain's Base",
+        "Viz Media"
+    ],
+    "producers": [],
     "created_at": "2013-07-08",
-    "updated_at": "2026-07-10T08:13:41.000Z"
+    "updated_at": "2026-07-10T17:10:50.004956",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7cbc35bc9094a22ea6ef7ea07382d6a7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13a6fe5ecb212ea8dc31a817bae11d22",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f21d646268b5030b1eb1ecab6874afd6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0e19c4059eb46fab7d11425543531fe4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/efb9c4be52153de0aaa54e76319b7856",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3355dd903b898b9caeca127ca8e15032",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2d199a4decea19d38d0314af0ce8cb67",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d1aab31d1f08b570d090ad3a6f1872da",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/82f99d37a717ac30102adde7f8167b58",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/10.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fce069d066fa81b829563090a87eae2f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https://cdn.animeav1.com/screenshots/910/11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/abac8be10b04e950029566f9ba1135b1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

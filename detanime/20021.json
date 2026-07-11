@@ -1,14 +1,55 @@
 {
     "id_mal": "20021",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1927/121997l.jpg",
     "titulo": "Sword Art Online: Extra Edition",
     "titulo_original": "ソードアート・オンライン Extra Edition",
+    "imagen": "https://cdn.animeav1.com/covers/219.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/219.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Romance",
     "year": "2013",
-    "etiquetas": "Action, Fantasy",
     "type": "anime",
-    "score": 6.54999999999999982236431605997495353221893310546875,
-    "status": "Finished Airing",
+    "synopsis": "Yui wants to see a whale with Kirito during an underwater quest in Alfeim Online. During the quest however, it is revealed Leafa cannot swim. Asuna and the other female characters decide to train Suguha in a real-world pool to help her in ALO. Meanwhile, Kirito meets a certain someone.",
+    "score": "6.2",
     "episodes": 1,
+    "status": "Finished Airing",
+    "duration": 101,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "A-1 Pictures",
+        "Aniplex",
+        "Genco",
+        "DAX Production",
+        "Aniplex of America",
+        "ASCII Media Works"
+    ],
+    "producers": [],
     "created_at": "2013-12-31",
-    "updated_at": "2026-07-10T08:17:40.000Z"
+    "updated_at": "2026-07-10T17:31:00.120523",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/219/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b5e14a3fc69198f953fdc491221737dd",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/93bdc6ee322934e26ca1a9ad79bccb49",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

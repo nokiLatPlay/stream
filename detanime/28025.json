@@ -1,14 +1,88 @@
 {
     "id_mal": "28025",
-    "imagen": "https://cdn.myanimelist.net/images/anime/6/68259l.jpg",
     "titulo": "Tsukimonogatari",
     "titulo_original": "憑物語",
+    "imagen": "https://cdn.animeav1.com/covers/391.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/391.jpg",
+    "etiquetas": "Comedy, Ecchi, Mystery, Supernatural",
     "year": "2014",
-    "etiquetas": "Comedy, Mystery, Supernatural, Ecchi",
     "type": "anime",
-    "score": 8.0800000000000000710542735760100185871124267578125,
-    "status": "Finished Airing",
+    "synopsis": "Third season of the Monogatari Series, part 1/5. Contains the arc Yotsugi Doll from the Tsukimonogatari light novel.\n\nOne day in February, Koyomi Araragi was taking a bath with his younger sister Tsukihi amidst finishing his studies for the college entrance exam. This was also following the incident involving Nadeko Sengoku, which was successfully amended behind the scenes by Deishu Kaiki. Koyomi noticed a change on his body “that could not be overlooked” and sought advice from Shinobu Oshino leading him to contact Yozuru Kagenui and Yotsugi Ononoki. Was this change signifying retribution for everything that Koyomi has done?!\n\n(Source: Aniplex)",
+    "score": "7.9",
     "episodes": 4,
+    "status": "Finished Airing",
+    "duration": 23,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Shaft",
+        "Kodansha",
+        "Aniplex"
+    ],
+    "producers": [],
     "created_at": "2014-12-31",
-    "updated_at": "2026-07-10T08:21:26.000Z"
+    "updated_at": "2026-07-10T18:41:44.419141",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/391/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/46c2dec35b13ea84a35676708746cef7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/391/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7fc50b59d8da492b790f526027da5a1c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/391/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a17695f4231dc3926ca5eee0b1d1a141",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/391/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/65c73db38b8f5877a3c55ba7090433d5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
