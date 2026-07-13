@@ -1,14 +1,64 @@
 {
     "id_mal": "61814",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1082/158708l.jpg",
     "titulo": "Oni no Hanayome",
     "titulo_original": "鬼の花嫁",
+    "imagen": "https://cdn.animeav1.com/covers/4390.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4390.jpg",
+    "etiquetas": "Drama, Fantasy, Romance",
     "year": "2026",
-    "etiquetas": "Fantasy, Romance",
     "type": "anime",
-    "score": 7.05999999999999960920149533194489777088165283203125,
+    "synopsis": "A Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n(Source: MangaPlaza)",
+    "score": "6.9",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 12,
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Aniplex",
+        "Colored Pencil Animation Japan",
+        "Starts Publishing Corp",
+        "NTT Solmare",
+        "BS11",
+        "Contents Seed",
+        "Nippon Shuppan Hanbai (Nippan) K.K."
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:11:43.000Z"
+    "updated_at": "2026-07-13T04:26:17.504617",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4390/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5afd9daaac07c02b9e143dd2a36e04ff",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4390/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/35cdde64b4fd7c3e129122b98e6a080a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

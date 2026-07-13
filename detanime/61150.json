@@ -1,14 +1,207 @@
 {
     "id_mal": "61150",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1933/150503l.jpg",
-    "titulo": "Onmyou Kaiten Re:Birth",
+    "titulo": "Onmyo Kaiten Re:verse",
     "titulo_original": "陰陽廻天 Re:バース",
+    "imagen": "https://cdn.animeav1.com/covers/1975.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/1975.jpg",
+    "etiquetas": "Action",
     "year": "2025",
-    "etiquetas": "Action, Fantasy, Sci-Fi",
     "type": "anime",
-    "score": 6.46999999999999975131004248396493494510650634765625,
-    "status": "Finished Airing",
+    "synopsis": "The anime is set in an alternate version of Heian-kyou, the old name of Kyoto and the capital during Japan's Heian era. This alternate version of the city is named Denji Heian-kyou. A delinquent high schooler named Takeru Narehira resides in our world, but after an unfortunate accident, is transported to Denji Heian-kyou.\n\nHere, he immediately meets Tsukimiya, a woman he has seen many times before in his dreams. Hardly a moment passes after that encounter when Takeru and Tsukimiya encounter an oni monster, and lose their lives.\n\nTakeru awakens, stunned to find himself again at Denji Heian-kyou. He puts together that he has the power to go back in time. Now he resolves to learn this world's version of mystical onmyōjutsu techniques, and become an onmyōji sorcerer to save Tsukimiya.\n(Source: Anime News Network)",
+    "score": "6.3",
     "episodes": 12,
+    "status": "Finished Airing",
+    "duration": 23,
+    "rating": "",
+    "source": "ORIGINAL",
+    "studios": [
+        "david production",
+        "Fuji TV",
+        "Crunchyroll",
+        "Kodansha",
+        "Sammy",
+        "Hakuhodo",
+        "david production",
+        "Movic",
+        "Kansai TV",
+        "KLOCKWORX"
+    ],
+    "producers": [],
     "created_at": "2025-07-03",
-    "updated_at": "2026-07-10T09:08:04.000Z"
+    "updated_at": "2026-07-13T04:14:41.139523",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bc1cf9a6aa8bcb8709d144321dea337a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5664848b7447eade0df1668d17bf2d93",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c015d8e4db753369c5a1a40e946afcf4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a815f4648e608ea2ed2eb399fad39d99",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bc9cc36a3a93ca171df93d088770da2e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f64ed6ef9c152c09e44a23aeebfa4a07",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6e3143ffb75fda400cfbe5fc3e8fab25",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c725602ef008d98744973885ada12074",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d4e26d0b27a894898cdef8251d014520",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/10.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0168196d411939872ab5cf9f4fc5a81e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/94ab8f7e56cbf581ab4a3f4f8be504bf",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "https://cdn.animeav1.com/screenshots/1975/12.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/947afc3b859f9a2b7df54cbb77c8c125",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

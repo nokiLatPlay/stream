@@ -1,14 +1,78 @@
 {
     "id_mal": "61483",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1098/158891l.jpg",
     "titulo": "Tenmaku no Jaadugar",
     "titulo_original": "天幕のジャードゥーガル",
-    "year": "2026",
+    "imagen": "https://cdn.animeav1.com/covers/4388.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4388.jpg",
     "etiquetas": "Drama",
+    "year": "2026",
     "type": "anime",
-    "score": 8.3699999999999992184029906638897955417633056640625,
+    "synopsis": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.\n(Source: Crunchyroll)",
+    "score": "8.0",
+    "episodes": 3,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 23,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Science SARU",
+        "TV Asahi",
+        "Science SARU",
+        "CyberAgent",
+        "Akita Shoten",
+        "TV Asahi Music",
+        "BS Asahi"
+    ],
+    "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:10:22.000Z"
+    "updated_at": "2026-07-13T04:22:27.531830",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4388/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aa46909fc9ff900566afbe3b6385dde6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4388/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5baacb36143f01d95d25c12e993775ca",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4388/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ce677b05785c5d647635c2672fd2e8dc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

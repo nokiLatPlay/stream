@@ -1,14 +1,64 @@
 {
     "id_mal": "61280",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1649/154997l.jpg",
     "titulo": "Kore Kaite Shine",
     "titulo_original": "これ描いて死ね",
+    "imagen": "https://cdn.animeav1.com/covers/4381.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4381.jpg",
+    "etiquetas": "Comedy, Slice of Life",
     "year": "2026",
-    "etiquetas": "Comedy",
     "type": "anime",
-    "score": 7.45000000000000017763568394002504646778106689453125,
+    "synopsis": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?\n\n(Source: Crunchyroll)",
+    "score": "7.0",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 12,
+    "duration": 23,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Shin-Ei Animation",
+        "Nippon Television Network",
+        "Shin-Ei Animation",
+        "Shogakukan",
+        "VAP",
+        "Shogakukan-Shueisha Productions",
+        "Frontier Works"
+    ],
+    "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-10T09:09:09.000Z"
+    "updated_at": "2026-07-13T04:18:59.378862",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4381/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c55d93d006b206370c98fced0ad324c8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4381/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ae7b4fc1f984a8617de2420c3932d391",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

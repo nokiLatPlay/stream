@@ -1,14 +1,51 @@
 {
     "id_mal": "61469",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1448/154111l.jpg",
-    "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
-    "titulo_original": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+    "titulo": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
+    "titulo_original": "ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE",
+    "imagen": "https://cdn.animeav1.com/covers/3833.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/3833.jpg",
+    "etiquetas": "Action, Adventure, Drama, Mystery, Sports, Supernatural",
     "year": "2026",
-    "etiquetas": "Action, Adventure, Mystery, Supernatural",
     "type": "anime",
-    "score": 9.0999999999999996447286321199499070644378662109375,
-    "status": "Currently Airing",
-    "episodes": 0,
+    "synopsis": "The beginning of the seventh story arc in the long-running JoJo's Bizarre Adventure series.\n\nIt’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the 4,000 miles of grueling adventure.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)",
+    "score": "8.8",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "duration": 47,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Warner Bros. Japan",
+        "david production"
+    ],
+    "producers": [],
     "created_at": "2026-03-19",
-    "updated_at": "2026-07-10T09:10:10.000Z"
+    "updated_at": "2026-07-13T04:22:16.201168",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3833/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9d611e1f945154dd5eae2545ffc5aa94",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1cbf1573eaaef3f77b38be17bbe662d0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

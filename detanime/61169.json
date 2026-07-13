@@ -1,14 +1,68 @@
 {
     "id_mal": "61169",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
-    "titulo": "Black Torch",
+    "titulo": "BLACK TORCH",
     "titulo_original": "BLACK TORCH",
+    "imagen": "https://cdn.animeav1.com/covers/4386.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4386.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Sci-Fi, Supernatural",
     "year": "2026",
-    "etiquetas": "Action, Supernatural",
     "type": "anime",
-    "score": 7.38999999999999968025576890795491635799407958984375,
+    "synopsis": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n\n(Source: Crunchyroll)",
+    "score": "7.2",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "100studio",
+        "Shogakukan-Shueisha Productions",
+        "Shueisha",
+        "VIZ Media Japan",
+        "HIKE"
+    ],
+    "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:08:18.000Z"
+    "updated_at": "2026-07-13T04:15:44.567191",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4386/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/83a3f4d26e5511796af498d7c17dd072",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ee107fc6fe85e6560daf897ed84a0b62",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4386/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/27f01c86ff91b5dd7e4991c33ea1e55e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

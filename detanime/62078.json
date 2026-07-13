@@ -1,14 +1,69 @@
 {
     "id_mal": "62078",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1891/158566l.jpg",
-    "titulo": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+    "titulo": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
     "titulo_original": "領民0人スタートの辺境領主様",
+    "imagen": "https://cdn.animeav1.com/covers/4380.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4380.jpg",
+    "etiquetas": "Action, Comedy, Drama, Fantasy, Romance, Slice of Life",
     "year": "2026",
-    "etiquetas": "Fantasy",
     "type": "anime",
-    "score": 7.07000000000000028421709430404007434844970703125,
+    "synopsis": "Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see? \n\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye! \n\n(Source: J-Novel Club)\n\nNote: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.",
+    "score": "6.7",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 25,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "NBCUniversal Entertainment Japan",
+        "animation studio42",
+        "Mainichi Broadcasting System",
+        "Earth Star Entertainment",
+        "Animoca Brands Japan",
+        "TOKYO MX",
+        "BS Asahi",
+        "SANKYO",
+        "INSPION EDGE",
+        "Shouchiku",
+        "KLOCKWORX",
+        "arma bianca"
+    ],
+    "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-10T09:14:18.000Z"
+    "updated_at": "2026-07-13T04:33:41.218977",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4380/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0886a0c48ce3980587c1d4357992ab47",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4380/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2ac6cf60f4353609570ddb207ceb84c2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

@@ -1,14 +1,83 @@
 {
     "id_mal": "61048",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1878/157796l.jpg",
     "titulo": "Neko to Ryuu",
     "titulo_original": "猫と竜",
+    "imagen": "https://cdn.animeav1.com/covers/4367.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4367.jpg",
+    "etiquetas": "Adventure, Fantasy",
     "year": "2026",
-    "etiquetas": "Fantasy",
     "type": "anime",
-    "score": 7.6500000000000003552713678800500929355621337890625,
+    "synopsis": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
+    "score": "7.4",
+    "episodes": 3,
     "status": "Currently Airing",
-    "episodes": 0,
-    "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:07:05.000Z"
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "OLM",
+        "Docomo Anime Store",
+        "Yomiuri TV",
+        "MAGNET",
+        "TOKYO MX",
+        "Pia",
+        "BS Nittele",
+        "HIKE",
+        "NTV Music",
+        "Bushiroad Move",
+        "KLOCKWORX",
+        "Takarajimasha"
+    ],
+    "producers": [],
+    "created_at": "2026-06-27",
+    "updated_at": "2026-07-13T04:11:54.484965",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4367/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/84fe795983c6e09d4dc58ee0e7dabdfe",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4367/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aa2ed83a0889d9406badfe26c59a49cd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4367/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2001c7cdc495c11666415d4472bb87a4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

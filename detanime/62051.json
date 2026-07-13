@@ -1,14 +1,64 @@
 {
     "id_mal": "62051",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1329/158716l.jpg",
     "titulo": "Grow Up Show: Himawari no Circus-dan",
     "titulo_original": "グロウアップショウ ～ひまわりのサーカス団～",
-    "year": "2026",
+    "imagen": "https://cdn.animeav1.com/covers/4389.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4389.jpg",
     "etiquetas": "",
+    "year": "2026",
     "type": "anime",
-    "score": 7.1699999999999999289457264239899814128875732421875,
+    "synopsis": "The anime's story is set in the late 1950s and early 1960s, during the height of Japan's economic boom, when the circus is a major form of entertainment. Different circus troupes travel throughout Japan to perform and compete for a chance to participate in the world-renowned festival called \"Circus Collection.\" One troupe called the \"Sunflower Circus,\" led by its ringmaster Maria, travels around Japan to perform, despite struggling with financial difficulties. However, they meet a circus prodigy named Mizuka Tsurumaki. This is the story of a one-of-a-kind circus show of young girls with big dreams.\n(Source: Anime News Network)",
+    "score": "6.7",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 24,
+    "rating": "",
+    "source": "ORIGINAL",
+    "studios": [
+        "A-1 Pictures",
+        "Psyde Kick Studio",
+        "Aniplex",
+        "HEIWA",
+        "Contents Seed",
+        "Good Smile Company",
+        "BS11"
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:13:53.000Z"
+    "updated_at": "2026-07-13T04:32:59.451983",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4389/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b6e026f1d777e1a58240693fbd2d82d8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4389/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5ffbd99a8d6a17d83175f17675810620",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
