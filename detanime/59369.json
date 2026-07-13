@@ -1,14 +1,115 @@
 {
     "id_mal": "59369",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1314/147593l.jpg",
-    "titulo": "Lycoris Recoil: Friends Are Thieves of Time.",
-    "titulo_original": "『リコリス・リコイル』Friends are thieves of time.",
+    "titulo": "Lycoris Recoil: Friends are thieves of time.",
+    "titulo_original": "リコリス・リコイル Friends are thieves of time.",
+    "imagen": "https://cdn.animeav1.com/covers/1044.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/1044.jpg",
+    "etiquetas": "Comedy, Slice of Life",
     "year": "2025",
-    "etiquetas": "Comedy",
     "type": "anime",
-    "score": 7.70999999999999996447286321199499070644378662109375,
-    "status": "Finished Airing",
+    "synopsis": "A series of shorts showing the daily lives of Chisato, Takina, and others employed in Cafe LycoReco.",
+    "score": "7.7",
     "episodes": 6,
+    "status": "Finished Airing",
+    "duration": 4,
+    "rating": "",
+    "source": "ORIGINAL",
+    "studios": [
+        "Aniplex",
+        "A-1 Pictures"
+    ],
+    "producers": [],
     "created_at": "2025-04-16",
-    "updated_at": "2026-07-10T08:58:48.000Z"
+    "updated_at": "2026-07-12T21:34:11.617018",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a5f9f3f3c5da3b70d2ece2d0a72af722",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7f5017fb30122801ca3b32bea58afad5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9145147bb6ba82f22f501fc8b5c2791a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/78f5f037d54a50437833026f78962105",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f0e8b7a9cdbf9cdc941399722607061a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/1044/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ccf669ef08e71061f0729b4380792e95",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

@@ -1,14 +1,48 @@
 {
     "id_mal": "54000",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
-    "titulo": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+    "titulo": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
     "titulo_original": "乙女ゲー世界はモブに厳しい世界です2",
+    "imagen": "https://cdn.animeav1.com/covers/4419.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4419.jpg",
+    "etiquetas": "Action, Fantasy, Mecha, Romance",
     "year": "2026",
-    "etiquetas": "Fantasy, Romance",
     "type": "anime",
-    "score": 6.87999999999999989341858963598497211933135986328125,
+    "synopsis": "The second season of Otomege Sekai wa Mob ni Kibishii Sekai desu.",
+    "score": "6.9",
+    "episodes": 1,
     "status": "Currently Airing",
-    "episodes": 12,
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "KADOKAWA",
+        "ENGI",
+        "Sammy",
+        "Micro Magazine Sha",
+        "AT-X"
+    ],
+    "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-10T08:46:04.000Z"
+    "updated_at": "2026-07-12T21:51:14.757587",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4419/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fa40a90aafa67ae6ad10af89f626dd64",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

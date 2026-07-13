@@ -1,14 +1,64 @@
 {
     "id_mal": "59741",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-    "titulo": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+    "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
     "titulo_original": "追放された転生重騎士はゲーム知識で無双する",
+    "imagen": "https://cdn.animeav1.com/covers/4375.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4375.jpg",
+    "etiquetas": "Action, Fantasy",
     "year": "2026",
-    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "score": 7.12000000000000010658141036401502788066864013671875,
+    "synopsis": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.\n\n(Source: Crunchyroll)",
+    "score": "6.8",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 26,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "GoHands",
+        "Shouchiku",
+        "Kodansha",
+        "MUSE",
+        "Crunchyroll",
+        "Mainichi Broadcasting System",
+        "GoHands"
+    ],
+    "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-10T09:00:03.000Z"
+    "updated_at": "2026-07-12T21:39:09.223883",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4375/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a1b62ee4826590b8df3c8818b2b18770",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4375/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e344e35750506c12e1c1a41170375a0e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
