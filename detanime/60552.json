@@ -1,14 +1,72 @@
 {
     "id_mal": "60552",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1917/156186l.jpg",
-    "titulo": "Kabushikigaisha Magi-Lumière 2nd Season",
+    "titulo": "Kabushiki Gaisha Magi Lumiere 2nd Season",
     "titulo_original": "株式会社マジルミエ 第2期",
+    "imagen": "https://cdn.animeav1.com/covers/4394.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4394.jpg",
+    "etiquetas": "Action, Comedy, Fantasy, Mahou Shoujo",
     "year": "2026",
-    "etiquetas": "Action",
     "type": "anime",
-    "score": 7.0800000000000000710542735760100185871124267578125,
+    "synopsis": "The second season of Kabushiki Gaisha Magi Lumiere.",
+    "score": "6.6",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": null,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "J.C.STAFF",
+        "Dentsu",
+        "Nippon Television Network"
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:05:15.000Z"
+    "updated_at": "2026-07-13T03:49:02.951263",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4394/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e608addc70aec600e3acf00d3371bffe",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fea32f70cc931e94d16463ba55f90482",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4394/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d65c1b8538c13561b6f555265cb188c7",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7b47279bed7f093bd1d20f829f91c6f4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

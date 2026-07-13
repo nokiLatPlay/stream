@@ -1,14 +1,156 @@
 {
     "id_mal": "50139",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1500/151301l.jpg",
-    "titulo": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-    "titulo_original": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+    "titulo": "Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL",
+    "titulo_original": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」",
+    "imagen": "https://cdn.animeav1.com/covers/3051.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/3051.jpg",
+    "etiquetas": "Adventure, Fantasy",
     "year": "2025",
-    "etiquetas": "Fantasy",
     "type": "anime",
-    "score": 6.82000000000000028421709430404007434844970703125,
-    "status": "Finished Airing",
+    "synopsis": "Yuuken is whisked away to Night Raven College, an arcane academy in the world of Twisted Wonderland. Stranded until he can find a way home, Yuuken is allowed to stay on campus despite having no magic of his own. But when his new friends land him in trouble with the headmage, his future at the school looks bleak. Now Yuuken’s fate hinges on bringing together a pair of argumentative first-years and a fire-breathing monster cat…\n\n(Source: VIZ Media, edited)",
+    "score": "6.8",
     "episodes": 8,
+    "status": "Finished Airing",
+    "duration": 27,
+    "rating": "",
+    "source": "VIDEO_GAME",
+    "studios": [
+        "Walt Disney Studios",
+        "Yumeta Company",
+        "Graphinica"
+    ],
+    "producers": [],
     "created_at": "2025-10-29",
-    "updated_at": "2026-07-10T08:40:22.000Z"
+    "updated_at": "2026-07-13T03:31:25.904387",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b1290dd100481d8e57b4ed3fd5d03f68",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6fb2563ea7b41a1c67156e0966287faf",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/60560125e12ba425278b6b6e509795bc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4fbf249f4940040f70fe95e31f17afdc",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4d4a6ed01763406d6ddb5f914fc024ea",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0d4b7cb48c4c5b3a57164d1fdd4a73c1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c44926cf5e1025a4996f5690b968b59c",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cbe0d716f77f2911b2e408da9de652c9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/91ce855129291194c8f8d68b0dbb7db8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/3051/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ac136fc38f6ad0b3b02c26a8face8dd6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

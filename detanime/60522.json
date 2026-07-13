@@ -1,14 +1,52 @@
 {
     "id_mal": "60522",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
     "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
     "titulo_original": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+    "imagen": "https://cdn.animeav1.com/covers/4385.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4385.jpg",
+    "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
-    "etiquetas": "Action, Adventure, Fantasy",
     "type": "anime",
-    "score": 7.11000000000000031974423109204508364200592041015625,
+    "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+    "score": "6.9",
+    "episodes": 1,
     "status": "Currently Airing",
-    "episodes": 12,
-    "created_at": "2026-07-06",
-    "updated_at": "2026-07-10T09:04:57.000Z"
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Aura Studio",
+        "OVERLAP",
+        "Crunchyroll",
+        "MUSE",
+        "Docomo Anime Store",
+        "MAGNET",
+        "Pony Canyon",
+        "AT-X",
+        "CTW"
+    ],
+    "producers": [],
+    "created_at": "2026-07-04",
+    "updated_at": "2026-07-13T03:48:24.817661",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4385/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/42be6aecbe362db0751c534cbf8391fa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
