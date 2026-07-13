@@ -1,14 +1,55 @@
 {
     "id_mal": "62102",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1912/157082l.jpg",
     "titulo": "Ibitte Konai Gibo to Gishi",
     "titulo_original": "いびってこない義母と義姉",
+    "imagen": "https://cdn.animeav1.com/covers/4418.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4418.jpg",
+    "etiquetas": "Comedy, Slice of Life",
     "year": "2026",
-    "etiquetas": "Comedy",
     "type": "anime",
-    "score": 6.87999999999999989341858963598497211933135986328125,
+    "synopsis": "Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!\n\n(Source: Seven Seas Entertainment)",
+    "score": "6.4",
+    "episodes": 1,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "NEWON",
+        "NBCUniversal Entertainment Japan",
+        "Mainichi Broadcasting System",
+        "Ichijinsha",
+        "BS Asahi",
+        "Bushiroad Move",
+        "Movic",
+        "Studio Flag",
+        "HIKE",
+        "Chiba TV Housou",
+        "TV Kanagawa",
+        "TV Saitama"
+    ],
+    "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-10T09:14:53.000Z"
+    "updated_at": "2026-07-13T14:55:39.856661",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4418/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5abfbcac441bbe3d671ef8043bbd8ff4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

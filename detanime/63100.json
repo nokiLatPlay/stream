@@ -1,14 +1,66 @@
 {
     "id_mal": "63100",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1961/158686l.jpg",
     "titulo": "Tetsunabe no Jan!",
     "titulo_original": "鉄鍋のジャン！",
+    "imagen": "https://cdn.animeav1.com/covers/4397.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4397.jpg",
+    "etiquetas": "Action, Comedy",
     "year": "2026",
-    "etiquetas": "Action, Comedy, Gourmet",
     "type": "anime",
-    "score": 7.019999999999999573674358543939888477325439453125,
+    "synopsis": "Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.",
+    "score": "6.7",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 23,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "TROYCA",
+        "NBCUniversal Entertainment Japan",
+        "REMOW",
+        "Marvelous",
+        "TV Tokyo",
+        "JR Higashi Nihon Kikaku",
+        "Fujishouji",
+        "KLOCKWORX",
+        "arma bianca"
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:28:44.000Z"
+    "updated_at": "2026-07-13T15:12:51.394283",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4397/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e62d42340c0a62dc8da250e158cd0fd0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4397/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/44c7cdd2997c0239fd12c53b06cece97",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

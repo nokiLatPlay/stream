@@ -1,14 +1,64 @@
 {
     "id_mal": "62435",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1380/157378l.jpg",
     "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
     "titulo_original": "世界最強の後衛 ～迷宮国の新人探索者～",
-    "year": "2026",
+    "imagen": "https://cdn.animeav1.com/covers/4398.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4398.jpg",
     "etiquetas": "Action, Adventure, Fantasy",
+    "year": "2026",
     "type": "anime",
-    "score": 6.0999999999999996447286321199499070644378662109375,
+    "synopsis": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n\n(Source: Crunchyroll)",
+    "score": "5.8",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 12,
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Maho Film",
+        "Yomiuri TV Enterprise",
+        "KADOKAWA",
+        "Maho Film",
+        "King Records",
+        "MUSE",
+        "KLOCKWORX"
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:18:00.000Z"
+    "updated_at": "2026-07-13T15:02:08.769699",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4398/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/89f92b6899dfd1e79fce19833682ead9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4398/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3cc6fb9b92b0c6e5d55a11c2bb9fc972",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

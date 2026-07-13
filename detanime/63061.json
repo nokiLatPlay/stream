@@ -1,14 +1,67 @@
 {
     "id_mal": "63061",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1902/156345l.jpg",
     "titulo": "Uchi no Otouto-domo ga Sumimasen",
     "titulo_original": "うちの弟どもがすみません",
+    "imagen": "https://cdn.animeav1.com/covers/4382.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4382.jpg",
+    "etiquetas": "Comedy, Romance, Slice of Life",
     "year": "2026",
-    "etiquetas": "Comedy, Romance",
     "type": "anime",
-    "score": 6.9900000000000002131628207280300557613372802734375,
+    "synopsis": "The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.\n\n(Source: Anime News Network)",
+    "score": "6.7",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 24,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Lay-duce",
+        "Aniplex",
+        "Shueisha",
+        "ABC Animation",
+        "TOKYO MX",
+        "BS11",
+        "Studio Flag",
+        "Movic",
+        "HIKE",
+        "whomor"
+    ],
+    "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:27:31.000Z"
+    "updated_at": "2026-07-13T15:12:03.772639",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4382/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/dea864f54722ccb33cba75b407ef9270",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4382/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/725db5c0bb0b8c8c88ec1317a9300b65",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

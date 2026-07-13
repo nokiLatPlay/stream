@@ -1,14 +1,68 @@
 {
     "id_mal": "62289",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1551/157170l.jpg",
-    "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-    "titulo_original": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
-    "year": "2026",
+    "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+    "titulo_original": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～",
+    "imagen": "https://cdn.animeav1.com/covers/4405.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4405.jpg",
     "etiquetas": "Drama, Fantasy",
+    "year": "2026",
     "type": "anime",
-    "score": 7.05999999999999960920149533194489777088165283203125,
+    "synopsis": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n\n(Source: J-Novel Club)",
+    "score": "6.8",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 12,
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Studio Comet",
+        "MediaNet",
+        "Hobby Japan",
+        "REMOW",
+        "BS11",
+        "Nippon Columbia",
+        "AT-X",
+        "Studio Comet",
+        "Jinnan Studio",
+        "AQUA ARIS",
+        "KLOCKWORX"
+    ],
+    "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-10T09:16:30.000Z"
+    "updated_at": "2026-07-13T14:59:18.499834",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4405/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/77c7d7d77c892d8d533753bdea93086d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4405/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0a7d3199c7281042e4e96733059e5a6c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

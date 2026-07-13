@@ -1,14 +1,144 @@
 {
     "id_mal": "62927",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1381/153536l.jpg",
-    "titulo": "Fangkai Nage Nuwu",
+    "titulo": "Fangkai Nage Nüwu",
     "titulo_original": "放开那个女巫",
+    "imagen": "https://cdn.animeav1.com/covers/3758.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/3758.jpg",
+    "etiquetas": "Action, Adventure, Fantasy, Romance",
     "year": "2026",
-    "etiquetas": "Fantasy",
     "type": "anime",
-    "score": 8.199999999999999289457264239899814128875732421875,
-    "status": "Finished Airing",
+    "synopsis": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines to defend his people. As the Demon Moon rises and conspiracies close in on his family, Roland must lead a revolution to protect his allies and reshape the world.\n\n(Source: Crunchyroll)",
+    "score": "8.0",
     "episodes": 8,
-    "created_at": "2026-03-02",
-    "updated_at": "2026-07-10T09:24:55.000Z"
+    "status": "Finished Airing",
+    "duration": 22,
+    "rating": "",
+    "source": "OTHER",
+    "studios": [
+        "Thundray",
+        "Tencent Penguin Pictures",
+        "Yuewen Animation & Comics"
+    ],
+    "producers": [],
+    "created_at": "2026-03-03",
+    "updated_at": "2026-07-13T15:09:14.997445",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4f07944fc383bf0d09633cf4b80fc219",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b5f2b4aeab7c19345cd06290712ceba4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/90582545bb570c096e6e0315c7e7f720",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/be35fc2c15bbe53f653203630193a4ba",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c4612eb6fb8c6517fed4b76066bf7d99",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1fd40d979cab83fb06f0be095058e2a1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a2cd085f0b94393a8bb81c55e52c05d3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/3758/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/860f525eef5a35f97e5190fca639d05a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

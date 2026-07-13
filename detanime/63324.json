@@ -1,14 +1,64 @@
 {
     "id_mal": "63324",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1112/158450l.jpg",
     "titulo": "Iwamoto-senpai no Suisen",
     "titulo_original": "岩元先輩ノ推薦",
+    "imagen": "https://cdn.animeav1.com/covers/4387.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4387.jpg",
+    "etiquetas": "Action, Supernatural",
     "year": "2026",
-    "etiquetas": "Supernatural",
     "type": "anime",
-    "score": 6.17999999999999971578290569595992565155029296875,
+    "synopsis": "The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.",
+    "score": "5.4",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Studio DEEN",
+        "Hakuhodo DY Music & Pictures",
+        "Good Smile Film",
+        "Good Smile Company",
+        "LDH JAPAN",
+        "Bushiroad Move",
+        "BS Fuji"
+    ],
+    "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:30:00.000Z"
+    "updated_at": "2026-07-13T15:14:10.244972",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4387/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e55332e373a8e789f0c4b54e412fcadd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4387/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5fb140146693a891c93bc1677f73d772",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

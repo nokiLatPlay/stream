@@ -1,14 +1,61 @@
 {
     "id_mal": "62617",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1371/154308l.jpg",
-    "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-    "titulo_original": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
-    "year": "2026",
+    "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+    "titulo_original": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
+    "imagen": "https://cdn.animeav1.com/covers/4379.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4379.jpg",
     "etiquetas": "Action, Adventure, Fantasy",
+    "year": "2026",
     "type": "anime",
-    "score": 6.8499999999999996447286321199499070644378662109375,
+    "synopsis": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.\n(Source: Crunchyroll)\n\n\nNote: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.",
+    "score": "6.6",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 12,
-    "created_at": "2026-07-06",
-    "updated_at": "2026-07-10T09:21:27.000Z"
+    "duration": 23,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Gekkou",
+        "KADOKAWA",
+        "GREE Entertainment",
+        "SB Creative"
+    ],
+    "producers": [],
+    "created_at": "2026-07-03",
+    "updated_at": "2026-07-13T15:05:26.873840",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4379/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b29f3576fef13eea6e88a789a1018b36",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4379/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2cc7f7b19f0092e8d47690a5eca4f984",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

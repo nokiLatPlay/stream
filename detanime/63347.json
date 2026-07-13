@@ -1,14 +1,80 @@
 {
     "id_mal": "63347",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1165/158709l.jpg",
     "titulo": "World Is Dancing",
     "titulo_original": "ワールド イズ ダンシング",
-    "year": "2026",
+    "imagen": "https://cdn.animeav1.com/covers/4368.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4368.jpg",
     "etiquetas": "Drama",
+    "year": "2026",
     "type": "anime",
-    "score": 7.5099999999999997868371792719699442386627197265625,
+    "synopsis": "Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.\n\n(Source: Kodansha Comics)\n\nNote: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting began on July 2nd, 2026.",
+    "score": "7.3",
+    "episodes": 3,
     "status": "Currently Airing",
-    "episodes": 13,
-    "created_at": "2026-07-02",
-    "updated_at": "2026-07-10T09:30:16.000Z"
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Shouchiku",
+        "Cypic",
+        "CyberAgent",
+        "Cygames",
+        "Toy's Factory",
+        "arma bianca",
+        "TOKYO MX",
+        "BS Asahi",
+        "Happinet Media Marketing"
+    ],
+    "producers": [],
+    "created_at": "2026-06-29",
+    "updated_at": "2026-07-13T15:14:20.520358",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4368/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1ec40218bffd1493c98eaf31d8cf55bd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4368/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/007d103f2fe6d3987d1beab1792d6218",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4368/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/940fba135d95d43914de256c6d0adf40",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

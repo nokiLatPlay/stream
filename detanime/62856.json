@@ -1,14 +1,76 @@
 {
     "id_mal": "62856",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
-    "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "titulo": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
     "titulo_original": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+    "imagen": "https://cdn.animeav1.com/covers/4400.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4400.jpg",
+    "etiquetas": "Adventure, Romance",
     "year": "2026",
-    "etiquetas": "Drama",
     "type": "anime",
-    "score": 7.71999999999999975131004248396493494510650634765625,
+    "synopsis": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. \n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.\n\n(Source: Anime News Network)",
+    "score": "7.5",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 13,
+    "duration": 25,
+    "rating": "",
+    "source": "OTHER",
+    "studios": [
+        "Kyoto Animation",
+        "Kyoto Animation",
+        "Pony Canyon",
+        "ABC Animation",
+        "Bandai Namco Music Live",
+        "Rakuonsha",
+        "Heart Company"
+    ],
+    "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-10T09:23:26.000Z"
+    "updated_at": "2026-07-13T15:07:30.515754",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4400/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a71882342623f4157a1056f9d7a5fb28",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/487a0eb8861d95079818063aa9ad6a22",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4400/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/472179d4b9ce6eaee91582fc3d33c9d1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9c36e01d8b1c9562c6c93a5287f3fa15",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
