@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62957",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx213484-FIyYH43ASHgB.png",
+            "titulo": "Bai Ri Cheng Wang",
+            "titulo_original": "百日成王",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-14T10:41:32.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 7
+        },
+        {
             "id_mal": "62080",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196219-imvC0rbk4VzH.jpg",
             "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
@@ -647,20 +661,6 @@
             "score": 6.21999999999999975131004248396493494510650634765625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62957",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1697\/158621l.jpg",
-            "titulo": "Bai Ri Cheng Wang",
-            "titulo_original": "百日成王",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-03",
-            "updated_at": "2026-07-10T09:25:37.000Z",
-            "year": "2026",
-            "score": 6.63999999999999968025576890795491635799407958984375,
-            "status": "Currently Airing",
-            "episodes": 6
         },
         {
             "id_mal": "62927",
