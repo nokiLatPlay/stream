@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "46488",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx128757-Iqc6hTjEYIz4.png",
+            "titulo": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+            "titulo_original": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-07-07",
+            "updated_at": "2026-07-14T09:24:47.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
+        {
             "id_mal": "61269",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx188388-aXx9fsnvezBf.jpg",
             "titulo": "DIGIMON BEATBREAK",
@@ -717,7 +731,6 @@
             "score": 6.8499999999999996447286321199499070644378662109375,
             "status": "Currently Airing",
             "episodes": 2
-            
         },
         {
             "id_mal": "62604",
@@ -2790,20 +2803,6 @@
             "score": 8.4700000000000006394884621840901672840118408203125,
             "status": "Finished Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "57658",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1659\/154920l.jpg",
-            "titulo": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-            "titulo_original": "呪術廻戦 「死滅回游 前編」",
-            "etiquetas": "Action, Supernatural",
-            "type": "anime",
-            "created_at": "2026-01-09",
-            "updated_at": "2026-07-10T08:52:31.000Z",
-            "year": "2026",
-            "score": 8.6099999999999994315658113919198513031005859375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
