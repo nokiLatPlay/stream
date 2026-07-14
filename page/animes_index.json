@@ -5,24 +5,24 @@
     "pages": [
         {
             "page_number": 1,
-            "path": "page/animes_page_1.json",
+            "path": "page\/animes_page_1.json",
             "item_count": 200
         },
         {
             "page_number": 2,
-            "path": "page/animes_page_2.json",
+            "path": "page\/animes_page_2.json",
             "item_count": 200
         },
         {
             "page_number": 3,
-            "path": "page/animes_page_3.json",
+            "path": "page\/animes_page_3.json",
             "item_count": 200
         },
         {
             "page_number": 4,
-            "path": "page/animes_page_4.json",
+            "path": "page\/animes_page_4.json",
             "item_count": 33
         }
     ],
-    "last_updated": "2026-07-10T09:54:41.000Z"
+    "last_updated": "2026-07-14T06:00:26.000Z"
 }
