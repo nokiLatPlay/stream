@@ -2,32 +2,31 @@
     "id_mal": "60522",
     "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
     "titulo_original": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
-    "imagen": "https://cdn.animeav1.com/covers/4385.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4385.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
     "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
     "score": "6.9",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
-        "Aura Studio",
-        "OVERLAP",
         "Crunchyroll",
-        "MUSE",
-        "Docomo Anime Store",
-        "MAGNET",
         "Pony Canyon",
         "AT-X",
-        "CTW"
+        "Docomo Anime Store",
+        "OVERLAP",
+        "MUSE",
+        "Aura Studio",
+        "CTW",
+        "MAGNET"
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-13T03:48:24.817661",
+    "updated_at": "2026-07-14T06:35:32.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -41,6 +40,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/42be6aecbe362db0751c534cbf8391fa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4385/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3457a6528e2cc0057480d29cff3e2b98",
                             "type": "mp4",
                             "language": "Sub"
                         }
