@@ -2,26 +2,25 @@
     "id_mal": "61269",
     "titulo": "DIGIMON BEATBREAK",
     "titulo_original": "DIGIMON BEATBREAK",
-    "imagen": "https://cdn.animeav1.com/covers/2901.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/2901.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
     "etiquetas": "Action, Adventure, Fantasy, Sci-Fi",
     "year": "2025",
     "type": "anime",
     "synopsis": "GLITCH THE FUTURE.\n\nTomoro Tenma lives in a world where human thoughts and emotions—known as “e-Pulse”—power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion. What new future will be forged by humans and Digimon? \n\n(Source: Crunchyroll, DIGIMON BEATBREAK Official Site, edited)",
     "score": "6.8",
-    "episodes": 37,
+    "episodes": 38,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "ORIGINAL",
     "studios": [
-        "Fuji TV",
         "Toei Animation",
+        "Fuji TV",
         "Yomiuri Advertising"
     ],
     "producers": [],
     "created_at": "2025-10-05",
-    "updated_at": "2026-07-13T04:18:47.018327",
+    "updated_at": "2026-07-14T07:11:08.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -539,6 +538,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3a4a8d50cb9aafd4dac80fb62d807214",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "38",
+                    "numero": 38,
+                    "nombre": "Episodio 38",
+                    "portada": "https://cdn.animeav1.com/screenshots/2901/38.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6ad2a94f2957fa5558afd53420fbc188",
                             "type": "mp4",
                             "language": "Sub"
                         }
