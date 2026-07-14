@@ -1,35 +1,33 @@
 {
     "id_mal": "42429",
     "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
-    "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第3期",
-    "imagen": "https:\/\/myanimelist.net\/images\/anime\/1976\/122302.jpg",
-    "etiquetas": "Fantasy",
+    "titulo_original": "本好きの下剋上 司書になるためには手段を選んでいられません 第3期",
+    "imagen": "https://cdn.animeav1.com/covers/382.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/382.jpg",
+    "etiquetas": "Drama, Fantasy, Slice of Life",
     "year": "2022",
     "type": "anime",
-    "synopsis": "Winter is approaching, and Myne—now an apprentice priestess—must prepare for her stay at the church and the upcoming Dedication Ceremony. However, due to her immense knowledge and extraordinary amount of mana, she has garnered the attention of many dangerous people, who are willing to do anything to get their hands on Myne.\n\nTo keep her safe, the Head Priest assigns Myne a bodyguard and advises her to be adopted by a noble, a decision that will force her to leave her family behind. As Myne is opposed to the idea, the Head Priest gives her an ultimatum: she can be with her family until she turns 10, but if she is deemed too unstable, she will immediately be dealt with.\n\nPlaced in a tough position, Myne is uncertain about her future. Despite the twists that may lie ahead, she will do whatever she can to protect those that she loves—even if it means giving up on her dream.\n\n[Written by MAL Rewrite]",
-    "score": "8.1",
+    "synopsis": "Anime adaptation of Part 2 (Volume 3 & 4) of Honzuki no Gekokujou.\n\nAn immense display of mana in front of the Knight’s Order has earned Myne the attention of nobles. The result? Yet more people appear hoping to exploit the young apprentice shrine maiden’s value. And so the High Priest decides to shelter Myne in the temple to safeguard her from the impending danger he foresees. But Myne’s main concern is still books, and she works to advance the printing process so that their price falls and more people can buy them. Her long winter in the temple away from her family begins, but everything changes as the harsh winter passes and the spring nears, offering a glimpse into what the future holds for this biblio-fantasy.\n\n(Source: J-Novel Club)",
+    "score": "7.9",
     "episodes": 10,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Light novel",
     "status": "Finished Airing",
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
     "studios": [
-        "Ajia-do"
-    ],
-    "producers": [
-        "WOWOW",
-        "KlockWorx",
-        "flying DOG",
-        "BS Fuji",
-        "Yomiuri TV Enterprise",
+        "Ajiado",
         "TO Books",
-        "JTB Next Creation",
+        "Happinet Phantom Studios",
         "MediaNet Pictures",
-        "Happinet Phantom Studios"
+        "flying DOG",
+        "Yomiuri TV Enterprise",
+        "BS Fuji",
+        "WOWOW",
+        "KLOCKWORX"
     ],
-    "created_at": "2022",
-    "updated_at": "2026-04-02T01:58:45.000Z",
-    "player_base": [],
+    "producers": [],
+    "created_at": "2022-04-12",
+    "updated_at": "2026-07-14T04:15:10.832688",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -38,17 +36,11 @@
                     "episode_id": "01",
                     "numero": 1,
                     "nombre": "Episodio 1",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/cQDAIjJ6uLxf1vtdpjKi8FoQDEB.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/1.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/f362043ef55ad3580fefae7119f6c611",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f362043ef55ad3580fefae7119f6c611",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f362043ef55ad3580fefae7119f6c611",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -58,17 +50,11 @@
                     "episode_id": "02",
                     "numero": 2,
                     "nombre": "Episodio 2",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/m2X5ZdVN3MlobaYag1UAw99ZNGV.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/2.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/51b6965c232e484e8b83924f6b631221",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/51b6965c232e484e8b83924f6b631221",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/51b6965c232e484e8b83924f6b631221",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -78,17 +64,11 @@
                     "episode_id": "03",
                     "numero": 3,
                     "nombre": "Episodio 3",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/t755WHm6XBtV4VYmEUZa5BQA4ix.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/3.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/59ba51378175825e55fc66f3176877c0",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/59ba51378175825e55fc66f3176877c0",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/59ba51378175825e55fc66f3176877c0",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -98,17 +78,11 @@
                     "episode_id": "04",
                     "numero": 4,
                     "nombre": "Episodio 4",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/f8hSuFitTLG48b7RRktZLy8sTMA.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/4.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/5be7f153c9b9549253c5ff0a8495e0fb",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5be7f153c9b9549253c5ff0a8495e0fb",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5be7f153c9b9549253c5ff0a8495e0fb",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -118,17 +92,11 @@
                     "episode_id": "05",
                     "numero": 5,
                     "nombre": "Episodio 5",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/44Xt7HmZarx2oxJKHSOnCQU5iSg.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/5.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/76fb64835e56aef7414d10f38109e792",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/76fb64835e56aef7414d10f38109e792",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/76fb64835e56aef7414d10f38109e792",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -138,17 +106,11 @@
                     "episode_id": "06",
                     "numero": 6,
                     "nombre": "Episodio 6",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/lTZwwnqEITLc69KRNaxfB16iwfj.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/6.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/6954769f245e1c8110fea57ed92fb9c8",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6954769f245e1c8110fea57ed92fb9c8",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6954769f245e1c8110fea57ed92fb9c8",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -158,17 +120,11 @@
                     "episode_id": "07",
                     "numero": 7,
                     "nombre": "Episodio 7",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/7xfP8qB8YaniPzYoec9NpzfARBw.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/7.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/a43684674b8a946df6e4662d8b02483b",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a43684674b8a946df6e4662d8b02483b",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a43684674b8a946df6e4662d8b02483b",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -178,17 +134,11 @@
                     "episode_id": "08",
                     "numero": 8,
                     "nombre": "Episodio 8",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/lWFGYxRQaEcfSO16893QQv3uDw0.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/8.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/87bfc87491f36f2b9828f32143fea47a",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/87bfc87491f36f2b9828f32143fea47a",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/87bfc87491f36f2b9828f32143fea47a",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -198,17 +148,11 @@
                     "episode_id": "09",
                     "numero": 9,
                     "nombre": "Episodio 9",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/AgHbmrjJm6NFI2RjJGmDeeGSJy7.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/9.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/7552c17aab11056ec1c959ce4c771cce",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7552c17aab11056ec1c959ce4c771cce",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7552c17aab11056ec1c959ce4c771cce",
                             "type": "mp4",
                             "language": "Sub"
                         }
@@ -218,17 +162,11 @@
                     "episode_id": "10",
                     "numero": 10,
                     "nombre": "Episodio 10",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ygc0gp4BMDInHirnVMbEFAHKkEZ.jpg",
+                    "portada": "https://cdn.animeav1.com/screenshots/382/10.jpg",
                     "enlaces": [
                         {
-                            "nombre": "Server 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/6ba8b7546ab4f46de5e726786d6f35b3",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6ba8b7546ab4f46de5e726786d6f35b3",
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6ba8b7546ab4f46de5e726786d6f35b3",
                             "type": "mp4",
                             "language": "Sub"
                         }
