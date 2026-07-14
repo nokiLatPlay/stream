@@ -1,14 +1,65 @@
 {
     "id_mal": "63817",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
-    "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "titulo": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
     "titulo_original": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
-    "year": "2026",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
     "etiquetas": "Action, Adventure, Fantasy",
+    "year": "2026",
     "type": "anime",
-    "score": 7.269999999999999573674358543939888477325439453125,
+    "synopsis": "The second season of Hell Mode.",
+    "score": "7.2",
+    "episodes": 2,
     "status": "Currently Airing",
-    "episodes": 0,
+    "duration": 25,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "Mainichi Broadcasting System",
+        "Yokohama Animation Lab",
+        "TOKYO MX",
+        "BS Nittele",
+        "Earth Star Entertainment",
+        "JR Higashi Nihon Kikaku",
+        "ANICI",
+        "SANKYO",
+        "FuRyu Pictures"
+    ],
+    "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T09:32:33.000Z"
+    "updated_at": "2026-07-14T06:03:14.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4383/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b3085b11eab11675eec34678b5c2bcf0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4383/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9efb6cf9293532ad18c48741e49a2de3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
