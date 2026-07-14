@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 635,
+    "total_items": 636,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62076",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196187-0dgFi2CPp3xn.jpg",
+            "titulo": "Super no Ura de Yani Suu Futari",
+            "titulo_original": "スーパーの裏でヤニ吸うふたり",
+            "etiquetas": "Comedy, Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-09",
+            "updated_at": "2026-07-14T09:29:48.000Z",
+            "year": "2026",
+            "score": "8.3",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "62535",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx199066-YXDVsguvFZMm.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:53:17.000Z",
             "year": "2024",
             "score": 6.54999999999999982236431605997495353221893310546875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "57876",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1814\/143744l.jpg",
-            "titulo": "Maougun Saikyou no Majutsushi wa Ningen datta",
-            "titulo_original": "魔王軍最強の魔術師は人間だった",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2024-07-03",
-            "updated_at": "2026-07-10T08:53:01.000Z",
-            "year": "2024",
-            "score": 6.410000000000000142108547152020037174224853515625,
             "status": "Finished Airing",
             "episodes": 12
         }
