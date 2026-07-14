@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 636,
+    "total_items": 637,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57891",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1714\/145320l.jpg",
+            "titulo": "Hitoribocchi no Isekai Kouryaku",
+            "titulo_original": "ひとりぼっちの異世界攻略",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2024-10-04",
+            "updated_at": "2026-07-10T08:53:17.000Z",
+            "year": "2024",
+            "score": 6.54999999999999982236431605997495353221893310546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "57876",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1814\/143744l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-06-25T13:19:26.000Z",
             "year": "2026",
             "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "11111",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
-            "titulo": "Another",
-            "titulo_original": "アナザー",
-            "etiquetas": "Horror, Mystery, Psychological, Supernatural, Thriller",
-            "type": "anime",
-            "created_at": "2012-01-10",
-            "updated_at": "2026-06-23T07:43:38.000Z",
-            "year": "2012",
-            "score": "7.1",
             "status": "Finished Airing",
             "episodes": 12
         }
