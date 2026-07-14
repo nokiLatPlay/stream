@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 633,
+    "total_items": 634,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57779",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1603\/155354l.jpg",
+            "titulo": "Dorohedoro Season 2",
+            "titulo_original": "ドロヘドロ Season2",
+            "etiquetas": "Action, Comedy, Fantasy, Horror",
+            "type": "anime",
+            "created_at": "2026-04-01",
+            "updated_at": "2026-07-10T08:52:39.000Z",
+            "year": "2026",
+            "score": 8.4700000000000006394884621840901672840118408203125,
+            "status": "Finished Airing",
+            "episodes": 11
+        },
         {
             "id_mal": "57658",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1659\/154920l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.4",
             "status": "Finished Airing",
             "episodes": 102
-        },
-        {
-            "id_mal": "55830",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1752\/150192.jpg",
-            "titulo": "Fate\/strange Fake",
-            "titulo_original": "Fate\/strange Fake",
-            "etiquetas": "Action, Fantasy, Urban Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-03",
-            "updated_at": "2026-05-05T03:05:21.000Z",
-            "year": "2026",
-            "score": "8.3",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
