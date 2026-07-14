@@ -1,14 +1,48 @@
 {
     "id_mal": "63418",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1084/158946l.jpg",
     "titulo": "Thunder 3",
-    "titulo_original": "サンダー3",
+    "titulo_original": "ãµã³ãã¼3",
+    "imagen": "https://cdn.animeav1.com/covers/4422.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4422.jpg",
+    "etiquetas": "Ciencia FicciÃ³n, ciencia-ficcion, Misterio, misterio, Shounen, shounen, Sobrenatural, sobrenatural",
     "year": "2026",
-    "etiquetas": "Mystery, Sci-Fi, Supernatural",
     "type": "anime",
-    "score": 6.1500000000000003552713678800500929355621337890625,
-    "status": "Currently Airing",
-    "episodes": 0,
-    "created_at": "2026-07-09",
-    "updated_at": "2026-07-10T09:31:23.000Z"
+    "synopsis": "Tres escolares comunes se hacen con un DVD que supuestamente abre un portal a un universo paralelo, pero cuando no estÃ¡n mirando, la hermanita de Pyontarou, Futaba, atraviesa el portal y es secuestrada por los aliens que han invadido esa versiÃ³n de la Tierra. Al descubrir que sus cuerpos caricaturescos los convierten en superhombres en el hiperrealista universo paralelo, los chicos se proponen rescatar a Futaba.",
+    "score": "0.0",
+    "episodes": 1,
+    "status": "Unknown",
+    "duration": 24,
+    "rating": "",
+    "source": "",
+    "studios": [],
+    "producers": [],
+    "created_at": "2026-07-14",
+    "updated_at": "2026-07-14T03:07:06.998343",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4422/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/10df1721e25b135939e9a68173ea52b8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e53613be27cf3370018b0ffd55ec9142",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

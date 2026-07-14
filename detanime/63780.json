@@ -1,14 +1,77 @@
 {
     "id_mal": "63780",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1899/158523l.jpg",
     "titulo": "Hanazakari no Kimitachi e 2nd Season",
     "titulo_original": "花ざかりの君たちへ 第2期",
+    "imagen": "https://cdn.animeav1.com/covers/4371.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/4371.jpg",
+    "etiquetas": "Comedy, Drama, Romance, Slice of Life",
     "year": "2026",
-    "etiquetas": "Romance",
     "type": "anime",
-    "score": 7.0999999999999996447286321199499070644378662109375,
+    "synopsis": "The second season of Hanazakari no Kimitachi e.\n\nNote: Hanazakari no Kimitachi e 2nd Season is streaming 1 week in advance of the TV broadcast on Prime Video and Crunchyroll beginning with episode 2 on July 2nd.",
+    "score": "6.6",
+    "episodes": 3,
     "status": "Currently Airing",
-    "episodes": 13,
+    "duration": 24,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "Signal.MD",
+        "Aniplex",
+        "Crunchyroll",
+        "Hakusensha",
+        "HAYATE",
+        "Production I.G"
+    ],
+    "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-10T09:32:28.000Z"
+    "updated_at": "2026-07-14T03:08:18.491477",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/4371/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/971ac2ae0a3c39d811c194bd627b070d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4371/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0d05d500fc0ef9e14f3a4a3212a0a604",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4371/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d9b41488643e287fdcd3f46f20aaba32",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

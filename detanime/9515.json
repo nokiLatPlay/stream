@@ -1,14 +1,52 @@
 {
     "id_mal": "9515",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1746/97780l.jpg",
-    "titulo": "Highschool of the Dead: Drifters of the Dead",
-    "titulo_original": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
+    "titulo": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD - Drifters of the Dead",
+    "titulo_original": "学園黙示録HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
+    "imagen": "https://cdn.animeav1.com/covers/1707.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/1707.jpg",
+    "etiquetas": "Comedy, Ecchi, Supernatural",
     "year": "2011",
-    "etiquetas": "Comedy, Supernatural, Ecchi",
     "type": "anime",
-    "score": 6.62000000000000010658141036401502788066864013671875,
-    "status": "Finished Airing",
+    "synopsis": "When an unplanned stop on a deserted island gives Takashi, Saeko and the rest of the ragged band of survivors a chance to expose themselves to something other than zombie bites for a change, they're more than ready to take a break and let their hair down. Discovering the remnants of an old beach store, the entire group strips to swimsuits and sets out to make the uninhabited island inhabitable, but they're unaware that this seeming paradise is actually just the dead calm before the storm. Because sometimes the recently deceased aren't the only problems that can lie buried in the sand, and as the swimwear comes off and the inhibitions come down, a kink in the island's food chain sets a truly shocking series of events into motion! You won't believe what comes out next, but suffice it to say that the deserted island may not be so deserted after all!\n\n(Source: Sentai Filmworks)\n\nNote: An unaired episode bundled with the seventh volume of the manga.",
+    "score": "6.2",
     "episodes": 1,
+    "status": "Finished Airing",
+    "duration": 16,
+    "rating": "",
+    "source": "MANGA",
+    "studios": [
+        "MADHOUSE",
+        "Sentai Filmworks",
+        "Hakuhodo DY Music & Pictures"
+    ],
+    "producers": [],
     "created_at": "2011-04-26",
-    "updated_at": "2026-07-10T09:33:46.000Z"
+    "updated_at": "2026-07-14T03:16:18.228933",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/1707/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/12e19eede342216edd3aee268f106ee5",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8948bada65a34afb9dcecc23b4603a5d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
