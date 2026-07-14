@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "34933",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b98314-TSJykxVwCCQN.jpg",
+            "titulo": "Kakegurui",
+            "titulo_original": "賭ケグルイ",
+            "etiquetas": "Drama, Mystery, Psychological",
+            "type": "anime",
+            "created_at": "2017-07-01",
+            "updated_at": "2026-06-26T11:21:26.000Z",
+            "year": "2017",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62110",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/y0VbPCitWbDUJLCjtuCi01dDSHn.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.6",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "59161",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1672\/148848l.jpg",
-            "titulo": "Bad Girl",
-            "titulo_original": "ばっどがーる",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:39:00.000Z",
-            "year": "2025",
-            "score": "7.1",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
