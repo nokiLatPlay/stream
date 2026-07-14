@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "52995",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx154473-o55309dVGP3G.jpg",
+            "titulo": "Arifureta Shokugyou de Sekai Saikyou 3rd season",
+            "titulo_original": "ありふれた職業で世界最強 3rd season",
+            "etiquetas": "Action, Adventure, Fantasy, Psychological",
+            "type": "anime",
+            "created_at": "2024-10-14",
+            "updated_at": "2026-07-14T10:59:22.000Z",
+            "year": "2024",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 16
+        },
         {
             "id_mal": "40507",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx112323-C6nlP84x8jH8.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:54:00.000Z",
             "year": "2025",
             "score": 7.04999999999999982236431605997495353221893310546875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58059",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1281\/144104l.jpg",
-            "titulo": "Tsue to Tsurugi no Wistoria",
-            "titulo_original": "杖と剣のウィストリア",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2024-07-07",
-            "updated_at": "2026-07-10T08:53:50.000Z",
-            "year": "2024",
-            "score": 7.86000000000000031974423109204508364200592041015625,
             "status": "Finished Airing",
             "episodes": 12
         }
