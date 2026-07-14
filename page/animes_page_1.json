@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 637,
+    "total_items": 638,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "36882",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx100668-DvOn5bMOt4cy.jpg",
+            "titulo": "Arifureta Shokugyou de Sekai Saikyou",
+            "titulo_original": "ありふれた職業で世界最強",
+            "etiquetas": "Action, Adventure, Fantasy, Psychological",
+            "type": "anime",
+            "created_at": "2019-07-08",
+            "updated_at": "2026-07-14T10:48:09.000Z",
+            "year": "2019",
+            "score": "6.5",
+            "status": "Finished Airing",
+            "episodes": 15
+        },
         {
             "id_mal": "62957",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx213484-FIyYH43ASHgB.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:53:41.000Z",
             "year": "2024",
             "score": 5.71999999999999975131004248396493494510650634765625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "57892",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1914\/143630l.jpg",
-            "titulo": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
-            "titulo_original": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2024-07-05",
-            "updated_at": "2026-07-10T08:53:32.000Z",
-            "year": "2024",
-            "score": 6.45999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
         }
