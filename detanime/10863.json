@@ -1,14 +1,50 @@
 {
     "id_mal": "10863",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
     "titulo": "Steins;Gate: Oukoubakko no Poriomania",
     "titulo_original": "シュタインズ ゲート 横行跋扈のポリオマニア",
-    "year": "2012",
+    "imagen": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/167.jpg",
     "etiquetas": "Comedy, Sci-Fi",
+    "year": "2012",
     "type": "anime",
-    "score": 8.28999999999999914734871708787977695465087890625,
-    "status": "Finished Airing",
+    "synopsis": "A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She confronts Okabe, questioning him as to whether these events—particularly the incidents between the two of them—did indeed happen.",
+    "score": "8.2",
     "episodes": 1,
+    "status": "Finished Airing",
+    "duration": 24,
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Visual novel",
+    "studios": [
+        "White Fox"
+    ],
+    "producers": [],
     "created_at": "2012-02-22",
-    "updated_at": "2026-07-10T08:13:17.000Z"
+    "updated_at": "2026-07-10T08:13:17.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/167/25.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/53455b230d632e23e537cd94cc984a86",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a9045f14117600fb677bd7fa8b3036ae",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
