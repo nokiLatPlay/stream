@@ -2,31 +2,30 @@
     "id_mal": "46488",
     "titulo": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
     "titulo_original": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
-    "imagen": "https://cdn.animeav1.com/covers/4409.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4409.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
     "etiquetas": "Drama",
     "year": "2026",
     "type": "anime",
     "synopsis": "Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.\n\n(Source: Crunchyroll)",
     "score": "7.2",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "diomedéa",
         "KADOKAWA",
-        "Mainichi Broadcasting System",
         "diomedéa",
-        "U-NEXT",
-        "Pia",
+        "diomedéa",
+        "AT-X",
+        "Mainichi Broadcasting System",
         "BS Nittele",
-        "AT-X"
+        "Pia",
+        "U-NEXT"
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-12T21:57:00.736681",
+    "updated_at": "2026-07-14T09:24:44.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -40,6 +39,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/95e3d2f9b4326c89479eeb3fabf4ee4d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4409/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7ea232fe7955e68e6b283e9637aaedf6",
                             "type": "mp4",
                             "language": "Sub"
                         }
