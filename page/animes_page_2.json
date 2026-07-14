@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 638,
+    "total_items": 639,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57944",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1432\/141123l.jpg",
+            "titulo": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+            "titulo_original": "パーティーから追放されたその治癒師、実は最強につき",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2024-10-06",
+            "updated_at": "2026-07-10T08:53:41.000Z",
+            "year": "2024",
+            "score": 5.71999999999999975131004248396493494510650634765625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "57892",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1914\/143630l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.0",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62110",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/y0VbPCitWbDUJLCjtuCi01dDSHn.jpg",
-            "titulo": "Assassination Classroom Second Season",
-            "titulo_original": "暗殺教室　第２期",
-            "etiquetas": "Action, Comedy, School, Shounen",
-            "type": "anime",
-            "created_at": "2016-01-08",
-            "updated_at": "2026-06-26T11:16:05.000Z",
-            "year": "2016",
-            "score": "8.4",
-            "status": "Finished Airing",
-            "episodes": 25
         }
     ]
 }
