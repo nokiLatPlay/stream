@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 633,
+    "total_items": 634,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61240",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx188139-1qIJfWxym8FX.jpg",
+            "titulo": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "titulo_original": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "2026-07-12",
+            "updated_at": "2026-07-14T09:27:26.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "61126",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187260-WW5RBa5NINRP.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.70999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "57779",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1603\/155354l.jpg",
-            "titulo": "Dorohedoro Season 2",
-            "titulo_original": "ドロヘドロ Season2",
-            "etiquetas": "Action, Comedy, Fantasy, Horror",
-            "type": "anime",
-            "created_at": "2026-04-01",
-            "updated_at": "2026-07-10T08:52:39.000Z",
-            "year": "2026",
-            "score": 8.4700000000000006394884621840901672840118408203125,
-            "status": "Finished Airing",
-            "episodes": 11
         }
     ]
 }
