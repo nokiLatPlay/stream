@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 637,
+    "total_items": 638,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58832",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1352\/155195.jpg",
+            "titulo": "Kujima Utaeba Ie Hororo",
+            "titulo_original": "クジマ歌えば家ほろろ",
+            "etiquetas": "Comedy, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-09",
+            "updated_at": "2026-06-25T13:19:26.000Z",
+            "year": "2026",
+            "score": "6.3",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "11111",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-17T00:38:00.000Z",
             "year": "2025",
             "score": "8.0",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59619",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1329\/150512l.jpg",
-            "titulo": "Ame to Kimi to",
-            "titulo_original": "雨と君と",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:37:58.000Z",
-            "year": "2025",
-            "score": "7.5",
             "status": "Finished Airing",
             "episodes": 12
         }
