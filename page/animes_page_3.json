@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 634,
+    "total_items": 635,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "22043",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20626-9LTreIofBgnu.jpg",
+            "titulo": "FAIRY TAIL (2014)",
+            "titulo_original": "FAIRY TAIL (2014)",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2014-04-05",
+            "updated_at": "2026-06-17T19:44:34.000Z",
+            "year": "2014",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "episodes": 102
+        },
         {
             "id_mal": "55830",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1752\/150192.jpg",
@@ -2789,20 +2803,6 @@
             "score": "8.2",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59459",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1669\/149732l.jpg",
-            "titulo": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-            "titulo_original": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2025-07-05",
-            "updated_at": "2026-03-17T00:35:02.000Z",
-            "year": "2025",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
