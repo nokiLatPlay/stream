@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 639,
+    "total_items": 640,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58059",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1281\/144104l.jpg",
+            "titulo": "Tsue to Tsurugi no Wistoria",
+            "titulo_original": "杖と剣のウィストリア",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2024-07-07",
+            "updated_at": "2026-07-10T08:53:50.000Z",
+            "year": "2024",
+            "score": 7.86000000000000031974423109204508364200592041015625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "57944",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1432\/141123l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.1",
             "status": "Currently Airing",
             "episodes": 1
-        },
-        {
-            "id_mal": "34933",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b98314-TSJykxVwCCQN.jpg",
-            "titulo": "Kakegurui",
-            "titulo_original": "賭ケグルイ",
-            "etiquetas": "Drama, Mystery, Psychological",
-            "type": "anime",
-            "created_at": "2017-07-01",
-            "updated_at": "2026-06-26T11:21:26.000Z",
-            "year": "2017",
-            "score": "7.0",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
