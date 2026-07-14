@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 635,
+    "total_items": 636,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57876",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1814\/143744l.jpg",
+            "titulo": "Maougun Saikyou no Majutsushi wa Ningen datta",
+            "titulo_original": "魔王軍最強の魔術師は人間だった",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2024-07-03",
+            "updated_at": "2026-07-10T08:53:01.000Z",
+            "year": "2024",
+            "score": 6.410000000000000142108547152020037174224853515625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "5781",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/20345l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.1",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "37510",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101338-rokVscjRYzdP.jpg",
-            "titulo": "Mob Psycho 100 II",
-            "titulo_original": "モブサイコ100 II",
-            "etiquetas": "Action, Comedy, Drama, Psychological, Slice of Life",
-            "type": "anime",
-            "created_at": "2019-01-07",
-            "updated_at": "2026-06-19T02:41:23.000Z",
-            "year": "2019",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
