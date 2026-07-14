@@ -1,14 +1,220 @@
 {
     "id_mal": "57466",
-    "imagen": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
-    "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-    "titulo_original": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+    "titulo": "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "titulo_original": "本好きの下剋上 領主の養女",
+    "imagen": "https://cdn.animeav1.com/covers/3928.jpg",
+    "backdrop": "https://cdn.animeav1.com/backdrops/3928.jpg",
+    "etiquetas": "Drama, Fantasy, Slice of Life",
     "year": "2026",
-    "etiquetas": "Fantasy",
     "type": "anime",
-    "score": 7.82000000000000028421709430404007434844970703125,
+    "synopsis": "Anime adaptation of Part 3 of Honzuki no Gekokujou.\n\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n\n(Source: J-Novel Club)",
+    "score": "7.6",
+    "episodes": 13,
     "status": "Currently Airing",
-    "episodes": 24,
+    "duration": 24,
+    "rating": "",
+    "source": "LIGHT_NOVEL",
+    "studios": [
+        "WIT STUDIO",
+        "TO Books",
+        "Yomiuri TV",
+        "WIT STUDIO",
+        "Movic",
+        "Yomiuri TV Enterprise",
+        "Shouchiku",
+        "flying DOG",
+        "KLOCKWORX"
+    ],
+    "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-07-10T08:52:16.000Z"
+    "updated_at": "2026-07-14T07:59:08.439946",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7b7dec37e35ed27254f386bff08f1d99",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/560a23671dc538330db3726107b6aa6c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ea5bdc6c75520b2259da7b7519fcb9c6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/07326a2f713f6a7388b6d075d94d3345",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ac9c9a3cde04c41e3dc7ff7e48807417",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1804c05817c3f158a26939192b1f3872",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "numero": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ada178bee69ea8848a32e42d5a10b522",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "numero": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8c95dd41a401c937615c26371dc1ce0e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5683a6f7878fa72bcae0972fd584259e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "numero": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/10.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9443d4a4e61db7d88337ad4ec98322f8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "numero": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b4298397c8d1386a1d8059c8017e8a0f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "numero": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/12.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13212e8bd0ba026a4502ded9b5a45f11",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "numero": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/13.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5d7a565dd2a1f0d247211ff67d720305",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
