@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 636,
+    "total_items": 637,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11111",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11111-gvvE5bBYsyFo.png",
+            "titulo": "Another",
+            "titulo_original": "アナザー",
+            "etiquetas": "Horror, Mystery, Psychological, Supernatural, Thriller",
+            "type": "anime",
+            "created_at": "2012-01-10",
+            "updated_at": "2026-06-23T07:43:38.000Z",
+            "year": "2012",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "37510",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101338-rokVscjRYzdP.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-17T00:37:58.000Z",
             "year": "2025",
             "score": "7.5",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61339",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1484\/150617l.jpg",
-            "titulo": "Jibaku Shounen Hanako-kun 2 Part 2",
-            "titulo_original": "地縛少年花子くん2 後編",
-            "etiquetas": "Supernatural",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:36:34.000Z",
-            "year": "2025",
-            "score": "8.1",
             "status": "Finished Airing",
             "episodes": 12
         }
