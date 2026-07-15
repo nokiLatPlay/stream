@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 645,
+    "total_items": 646,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58614",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/148358l.jpg",
+            "titulo": "Teogonia",
+            "titulo_original": "神統記 (テオゴニア)",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2025-04-12",
+            "updated_at": "2026-07-10T08:55:01.000Z",
+            "year": "2025",
+            "score": 6.88999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "58567",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1448\/147351l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.1199999999999992184029906638897955417633056640625,
             "status": "Finished Airing",
             "episodes": 51
-        },
-        {
-            "id_mal": "1195",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/20680l.jpg",
-            "titulo": "Zero no Tsukaima",
-            "titulo_original": "ゼロの使い魔",
-            "etiquetas": "Action, Adventure, Comedy, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2006-07-03",
-            "updated_at": "2026-07-10T08:13:59.000Z",
-            "year": "2006",
-            "score": 7.20000000000000017763568394002504646778106689453125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
