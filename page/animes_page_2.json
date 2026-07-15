@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 656,
+    "total_items": 657,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59193",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1527\/158340l.jpg",
+            "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "titulo_original": "無職転生 III ～異世界行ったら本気だす～",
+            "etiquetas": "Adventure, Drama, Fantasy, Ecchi",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-10T08:57:29.000Z",
+            "year": "2026",
+            "score": 8.980000000000000426325641456060111522674560546875,
+            "status": "Currently Airing",
+            "episodes": 2
+        },
         {
             "id_mal": "59150",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1787\/151956l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.199999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 25
-        },
-        {
-            "id_mal": "18001",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/68195l.jpg",
-            "titulo": "Freezing Vibration",
-            "titulo_original": "フリージング ヴァイブレーション",
-            "etiquetas": "Action, Drama, Romance, Sci-Fi, Ecchi",
-            "type": "anime",
-            "created_at": "2013-10-04",
-            "updated_at": "2026-07-10T08:16:38.000Z",
-            "year": "2013",
-            "score": 6.69000000000000039079850466805510222911834716796875,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
