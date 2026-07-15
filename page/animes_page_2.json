@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 649,
+    "total_items": 650,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58833",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1843\/146935l.jpg",
+            "titulo": "Kakushite! Makina-san!!",
+            "titulo_original": "かくして！マキナさん!!",
+            "etiquetas": "Comedy, Romance, Sci-Fi, Ecchi",
+            "type": "anime",
+            "created_at": "2025-04-07",
+            "updated_at": "2026-07-10T08:55:58.000Z",
+            "year": "2025",
+            "score": 5.4900000000000002131628207280300557613372802734375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "58820",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/157161l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.4000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "14833",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/46041l.jpg",
-            "titulo": "Maoyuu Maou Yuusha",
-            "titulo_original": "まおゆう魔王勇者",
-            "etiquetas": "Adventure, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2013-01-05",
-            "updated_at": "2026-07-10T08:15:18.000Z",
-            "year": "2013",
-            "score": 7.21999999999999975131004248396493494510650634765625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
