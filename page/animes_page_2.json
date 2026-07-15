@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 646,
+    "total_items": 647,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58788",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1791\/154233l.jpg",
+            "titulo": "Ikoku Nikki",
+            "titulo_original": "違国日記",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2026-01-04",
+            "updated_at": "2026-07-10T08:55:15.000Z",
+            "year": "2026",
+            "score": 8.730000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "58614",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/148358l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.32000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 22
-        },
-        {
-            "id_mal": "121",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/75815l.jpg",
-            "titulo": "Fullmetal Alchemist",
-            "titulo_original": "鋼の錬金術師",
-            "etiquetas": "Action, Adventure, Award Winning, Drama, Fantasy",
-            "type": "anime",
-            "created_at": "2003-10-04",
-            "updated_at": "2026-07-10T08:14:13.000Z",
-            "year": "2003",
-            "score": 8.1199999999999992184029906638897955417633056640625,
-            "status": "Finished Airing",
-            "episodes": 51
         }
     ]
 }
