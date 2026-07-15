@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 652,
+    "total_items": 653,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "53835",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx158709-WFA0RHloDvPl.jpg",
+            "titulo": "Unnamed Memory",
+            "titulo_original": "Unnamed Memory",
+            "etiquetas": "Adventure, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2024-04-09",
+            "updated_at": "2026-07-15T06:26:47.000Z",
+            "year": "2024",
+            "score": "6.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "57058",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx170695-Nb1DIg7gIHCF.jpg",
@@ -2789,20 +2803,6 @@
             "score": 5.8499999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 8
-        },
-        {
-            "id_mal": "59047",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1474\/153320l.jpg",
-            "titulo": "Tamon-kun Ima Docchi!?",
-            "titulo_original": "多聞くん今どっち!?",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-07-10T08:56:52.000Z",
-            "year": "2026",
-            "score": 7.82000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
