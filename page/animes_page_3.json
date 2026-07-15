@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 644,
+    "total_items": 645,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11633",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/47677l.jpg",
+            "titulo": "Blood Lad",
+            "titulo_original": "ブラッドラッド",
+            "etiquetas": "Action, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2013-07-08",
+            "updated_at": "2026-07-10T08:13:41.000Z",
+            "year": "2013",
+            "score": 7.230000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "10863",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1805\/123188l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.2",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59062",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1682\/150432l.jpg",
-            "titulo": "Gachiakuta",
-            "titulo_original": "ガチアクタ",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:44:16.000Z",
-            "year": "2025",
-            "score": "8.2",
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
