@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 650,
+    "total_items": 651,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "15315",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/43369l.jpg",
+            "titulo": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
+            "titulo_original": "問題児たちが異世界から来るそうですよ?",
+            "etiquetas": "Action, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2013-01-12",
+            "updated_at": "2026-07-10T08:15:24.000Z",
+            "year": "2013",
+            "score": 7.4000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "14833",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/46041l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "8.1",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "60508",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1039\/150572l.jpg",
-            "titulo": "Food Court de, Mata Ashita.",
-            "titulo_original": "フードコートで、また明日。",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "created_at": "2025-07-07",
-            "updated_at": "2026-03-17T00:47:18.000Z",
-            "year": "2025",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "episodes": 6
         }
     ]
 }
