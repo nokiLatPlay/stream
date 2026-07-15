@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 645,
+    "total_items": 646,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60108",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx183423-6Iiu194UDxD0.jpg",
+            "titulo": "ONE PIECE: Gyojin Tou-hen",
+            "titulo_original": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
+            "etiquetas": "Action, Adventure, Comedy, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2024-11-03",
+            "updated_at": "2026-07-15T06:00:06.000Z",
+            "year": "2024",
+            "score": "7.7",
+            "status": "Finished Airing",
+            "episodes": 21
+        },
         {
             "id_mal": "58822",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx177506-in4J0GNzjOZL.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.730000000000000426325641456060111522674560546875,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "58614",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/148358l.jpg",
-            "titulo": "Teogonia",
-            "titulo_original": "神統記 (テオゴニア)",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-04-12",
-            "updated_at": "2026-07-10T08:55:01.000Z",
-            "year": "2025",
-            "score": 6.88999999999999968025576890795491635799407958984375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
