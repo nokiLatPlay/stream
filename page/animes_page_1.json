@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 644,
+    "total_items": 645,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58822",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx177506-in4J0GNzjOZL.jpg",
+            "titulo": "Izure Saikyou no Renkinjutsushi?",
+            "titulo_original": "いずれ最強の錬金術師？",
+            "etiquetas": "Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2025-01-01",
+            "updated_at": "2026-07-15T05:53:33.000Z",
+            "year": "2025",
+            "score": "6.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "58484",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx176234-Wx2rAYr7YSD8.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.88999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "58567",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1448\/147351l.jpg",
-            "titulo": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
-            "titulo_original": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-01-05",
-            "updated_at": "2026-07-10T08:54:44.000Z",
-            "year": "2025",
-            "score": 8.519999999999999573674358543939888477325439453125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
