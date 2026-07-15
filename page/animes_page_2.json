@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 658,
+    "total_items": 659,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59205",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1255\/150593l.jpg",
+            "titulo": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+            "titulo_original": "クレバテス-魔獣の王と赤子と屍の勇者-",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2025-07-02",
+            "updated_at": "2026-07-10T08:57:56.000Z",
+            "year": "2025",
+            "score": 7.79000000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59199",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1564\/148380l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.54999999999999982236431605997495353221893310546875,
             "status": "Finished Airing",
             "episodes": 20
-        },
-        {
-            "id_mal": "18277",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/56163l.jpg",
-            "titulo": "Strike the Blood",
-            "titulo_original": "ストライク・ザ・ブラッド",
-            "etiquetas": "Action, Fantasy, Ecchi",
-            "type": "anime",
-            "created_at": "2013-10-04",
-            "updated_at": "2026-07-10T08:16:53.000Z",
-            "year": "2013",
-            "score": 7,
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
