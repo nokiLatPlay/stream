@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 643,
+    "total_items": 644,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58484",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx176234-Wx2rAYr7YSD8.jpg",
+            "titulo": "Ishura 2nd Season",
+            "titulo_original": "異修羅 第2期",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2025-01-08",
+            "updated_at": "2026-07-15T05:49:17.000Z",
+            "year": "2025",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "57592",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx172019-3cfZbrYBmV23.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.519999999999999573674358543939888477325439453125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "58524",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1272\/153326l.jpg",
-            "titulo": "Himesama \"Goumon\" no Jikan desu 2nd Season",
-            "titulo_original": "姫様“拷問”の時間です 第2期",
-            "etiquetas": "Comedy, Fantasy, Gourmet",
-            "type": "anime",
-            "created_at": "2026-01-12",
-            "updated_at": "2026-07-10T08:54:33.000Z",
-            "year": "2026",
-            "score": 7.660000000000000142108547152020037174224853515625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
