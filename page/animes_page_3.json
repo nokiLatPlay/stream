@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 665,
+    "total_items": 666,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "20583",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/7\/76014l.jpg",
+            "titulo": "Haikyuu!!",
+            "titulo_original": "ハイキュー!!",
+            "etiquetas": "Sports",
+            "type": "anime",
+            "created_at": "2014-04-06",
+            "updated_at": "2026-07-10T08:18:01.000Z",
+            "year": "2014",
+            "score": 8.42999999999999971578290569595992565155029296875,
+            "status": "Finished Airing",
+            "episodes": 25
+        },
         {
             "id_mal": "20507",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1886\/128266l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.1",
             "status": "Finished Airing",
             "episodes": "12"
-        },
-        {
-            "id_mal": "61930",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1120\/152280l.jpg",
-            "titulo": "Uma Musume: Cinderella Gray Part 2",
-            "titulo_original": "ウマ娘 シンデレラグレイ 第2クール",
-            "etiquetas": "Drama, Sports",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-03-17T01:14:57.000Z",
-            "year": "2025",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "episodes": "10"
         }
     ]
 }
