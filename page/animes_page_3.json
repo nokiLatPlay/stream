@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 660,
+    "total_items": 661,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "19163",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1690\/141818l.jpg",
+            "titulo": "Date A Live II",
+            "titulo_original": "デート・ア・ライブⅡ",
+            "etiquetas": "Action, Fantasy, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2014-04-12",
+            "updated_at": "2026-07-10T08:17:15.000Z",
+            "year": "2014",
+            "score": 7.17999999999999971578290569595992565155029296875,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "18897",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/75587l.jpg",
@@ -2785,20 +2799,6 @@
             "type": "anime",
             "created_at": "2025-07-10",
             "updated_at": "2026-03-17T00:51:11.000Z",
-            "year": "2025",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59095",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1154\/149614l.jpg",
-            "titulo": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-            "titulo_original": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
-            "etiquetas": "Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:51:07.000Z",
             "year": "2025",
             "score": "7.6",
             "status": "Finished Airing",
