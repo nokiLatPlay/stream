@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 651,
+    "total_items": 652,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "57058",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx170695-Nb1DIg7gIHCF.jpg",
+            "titulo": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+            "titulo_original": "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2024-07-05",
+            "updated_at": "2026-07-15T06:23:07.000Z",
+            "year": "2024",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "52635",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx153406-dU2RLKgMUF2U.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.82000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "58878",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1411\/156343l.jpg",
-            "titulo": "Sayonara Lara",
-            "titulo_original": "さよならララ",
-            "etiquetas": "Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-07-06",
-            "updated_at": "2026-07-10T08:56:23.000Z",
-            "year": "2026",
-            "score": 7.70999999999999996447286321199499070644378662109375,
-            "status": "Currently Airing",
-            "episodes": 1
         }
     ]
 }
