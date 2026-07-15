@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 663,
+    "total_items": 664,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "45486",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx127550-S9s5Y7dldE18.jpg",
+            "titulo": "Kuma Kuma Kuma Bear Punch!",
+            "titulo_original": "くまクマ熊ベアーぱーんち！",
+            "etiquetas": "Adventure, Comedy, Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2023-04-03",
+            "updated_at": "2026-07-15T07:17:46.000Z",
+            "year": "2023",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "52657",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx153452-6aGeSxRw2cxY.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.03000000000000024868995751603506505489349365234375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59369",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1314\/147593l.jpg",
-            "titulo": "Lycoris Recoil: Friends Are Thieves of Time.",
-            "titulo_original": "『リコリス・リコイル』Friends are thieves of time.",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-04-16",
-            "updated_at": "2026-07-10T08:58:48.000Z",
-            "year": "2025",
-            "score": 7.70999999999999996447286321199499070644378662109375,
-            "status": "Finished Airing",
-            "episodes": 6
         }
     ]
 }
