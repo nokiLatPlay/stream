@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62476",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198709-3PFLvU6eqPvf.jpg",
+            "titulo": "Tefuda ga Oome no Victoria",
+            "titulo_original": "手札が多めのビクトリア",
+            "etiquetas": "Action, Drama, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-15T05:06:03.000Z",
+            "year": "2026",
+            "score": "6.7",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
+        {
             "id_mal": "58929",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx177699-hnzc1CS5ZSM2.png",
             "titulo": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
@@ -983,20 +997,6 @@
             "score": 6.25,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62476",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1098\/158743l.jpg",
-            "titulo": "Tefuda ga Oome no Victoria",
-            "titulo_original": "手札が多めのビクトリア",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-10T09:18:29.000Z",
-            "year": "2026",
-            "score": 7.12999999999999989341858963598497211933135986328125,
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "62435",
