@@ -2,29 +2,28 @@
     "id_mal": "62476",
     "titulo": "Tefuda ga Oome no Victoria",
     "titulo_original": "手札が多めのビクトリア",
-    "imagen": "https://cdn.animeav1.com/covers/4413.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4413.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
     "etiquetas": "Action, Drama, Fantasy, Romance",
     "year": "2026",
     "type": "anime",
     "synopsis": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n\n(Source: Yen Press)",
     "score": "6.7",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "Studio DEEN",
+        "Studio DEEN",
         "KADOKAWA",
         "TV Tokyo",
         "Docomo Anime Store",
-        "Toy's Factory",
-        "Studio DEEN"
+        "Toy's Factory"
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-13T15:02:16.818217",
+    "updated_at": "2026-07-15T05:06:00.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -38,6 +37,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7d018c20903a7c3e1a4776405fa6040e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4413/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a7ac1dd26921815fc44b4aa158e8a9d3",
                             "type": "mp4",
                             "language": "Sub"
                         }
