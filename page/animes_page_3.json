@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 641,
+    "total_items": 642,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "10490",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1691\/140716l.jpg",
+            "titulo": "Blood-C",
+            "titulo_original": "ブラッドシー",
+            "etiquetas": "Action, Horror, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2011-07-08",
+            "updated_at": "2026-07-10T08:12:20.000Z",
+            "year": "2011",
+            "score": 6.53000000000000024868995751603506505489349365234375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "10465",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/75184l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-17T00:40:05.000Z",
             "year": "2025",
             "score": "8.0",
-            "status": "Finished Airing",
-            "episodes": 13
-        },
-        {
-            "id_mal": "60260",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1900\/150443l.jpg",
-            "titulo": "Hotel Inhumans",
-            "titulo_original": "ホテル・インヒューマンズ",
-            "etiquetas": "Action, Drama",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:40:01.000Z",
-            "year": "2025",
-            "score": "6.7",
             "status": "Finished Airing",
             "episodes": 13
         }
