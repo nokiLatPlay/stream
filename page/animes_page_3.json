@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 661,
+    "total_items": 662,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "20",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1141\/142503l.jpg",
+            "titulo": "Naruto",
+            "titulo_original": "ナルト",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2002-10-03",
+            "updated_at": "2026-07-10T08:17:22.000Z",
+            "year": "2002",
+            "score": 8.019999999999999573674358543939888477325439453125,
+            "status": "Finished Airing",
+            "episodes": 220
+        },
         {
             "id_mal": "19163",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1690\/141818l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.9",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "59207",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1949\/150965l.jpg",
-            "titulo": "Mikadono Sanshimai wa Angai, Choroi.",
-            "titulo_original": "帝乃三姉妹は案外、チョロい。",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2025-07-10",
-            "updated_at": "2026-03-17T00:51:11.000Z",
-            "year": "2025",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
