@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 657,
+    "total_items": 658,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51794",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx148862-ctw1sn45I4ZX.png",
+            "titulo": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+            "titulo_original": "七つの大罪 黙示録の四騎士",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2023-10-08",
+            "updated_at": "2026-07-15T06:55:47.000Z",
+            "year": "2023",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "54449",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx161476-ukTxAPHib1Fg.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.79000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59199",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1564\/148380l.jpg",
-            "titulo": "Classic★Stars",
-            "titulo_original": "クラシック★スターズ",
-            "etiquetas": "",
-            "type": "anime",
-            "created_at": "2025-04-06",
-            "updated_at": "2026-07-10T08:57:40.000Z",
-            "year": "2025",
-            "score": 5.6500000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
