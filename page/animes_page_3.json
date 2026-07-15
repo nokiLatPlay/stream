@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 643,
+    "total_items": 644,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "10863",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1805\/123188l.jpg",
+            "titulo": "Steins;Gate: Oukoubakko no Poriomania",
+            "titulo_original": "シュタインズ ゲート 横行跋扈のポリオマニア",
+            "etiquetas": "Comedy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2012-02-22",
+            "updated_at": "2026-07-10T08:13:17.000Z",
+            "year": "2012",
+            "score": 8.28999999999999914734871708787977695465087890625,
+            "status": "Finished Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "10620",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/33465l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "8.2",
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "56907",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1445\/150685l.jpg",
-            "titulo": "Koujo Denka no Kateikyoushi",
-            "titulo_original": "公女殿下の家庭教師",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:44:12.000Z",
-            "year": "2025",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
