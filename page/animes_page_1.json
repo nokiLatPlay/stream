@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 654,
+    "total_items": 655,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51122",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx145728-YUKXjN2E81Pq.jpg",
+            "titulo": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
+            "titulo_original": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+            "etiquetas": "Adventure, Fantasy, Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2024-04-02",
+            "updated_at": "2026-07-15T06:42:19.000Z",
+            "year": "2024",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 25
+        },
         {
             "id_mal": "56690",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169417-izsfKg0hasRd.png",
@@ -2789,20 +2803,6 @@
             "score": 8.2799999999999993605115378159098327159881591796875,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "59131",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1280\/143705l.jpg",
-            "titulo": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-            "titulo_original": "転生貴族、鑑定スキルで成り上がる 第2期",
-            "etiquetas": "Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2024-09-29",
-            "updated_at": "2026-07-10T08:57:12.000Z",
-            "year": "2024",
-            "score": 7.42999999999999971578290569595992565155029296875,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
