@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 665,
+    "total_items": 666,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40333",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx111314-ui2D6cvpNumy.jpg",
+            "titulo": "Uzumaki",
+            "titulo_original": "うずまき",
+            "etiquetas": "Drama, Horror, Mystery, Psychological, Supernatural",
+            "type": "anime",
+            "created_at": "2024-09-29",
+            "updated_at": "2026-07-15T07:27:22.000Z",
+            "year": "2024",
+            "score": "5.4",
+            "status": "Finished Airing",
+            "episodes": 4
+        },
         {
             "id_mal": "53393",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx155783-YosKbsmZzuDE.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.95000000000000017763568394002504646778106689453125,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59443",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1064\/155042l.jpg",
-            "titulo": "Reincarnation no Kaben",
-            "titulo_original": "リィンカーネーションの花弁",
-            "etiquetas": "Action, Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-07-10T08:59:01.000Z",
-            "year": "2026",
-            "score": 6.05999999999999960920149533194489777088165283203125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
