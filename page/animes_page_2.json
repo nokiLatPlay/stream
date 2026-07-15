@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 652,
+    "total_items": 653,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59047",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1474\/153320l.jpg",
+            "titulo": "Tamon-kun Ima Docchi!?",
+            "titulo_original": "多聞くん今どっち!?",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-01-04",
+            "updated_at": "2026-07-10T08:56:52.000Z",
+            "year": "2026",
+            "score": 7.82000000000000028421709430404007434844970703125,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "58878",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1411\/156343l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.28000000000000024868995751603506505489349365234375,
             "status": "Finished Airing",
             "episodes": 1
-        },
-        {
-            "id_mal": "15583",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/44844l.jpg",
-            "titulo": "Date A Live",
-            "titulo_original": "デート・ア・ライブ",
-            "etiquetas": "Action, Fantasy, Romance, Sci-Fi",
-            "type": "anime",
-            "created_at": "2013-04-06",
-            "updated_at": "2026-07-10T08:15:52.000Z",
-            "year": "2013",
-            "score": 7.13999999999999968025576890795491635799407958984375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
