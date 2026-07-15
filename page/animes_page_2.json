@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 643,
+    "total_items": 644,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58524",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1272\/153326l.jpg",
+            "titulo": "Himesama \"Goumon\" no Jikan desu 2nd Season",
+            "titulo_original": "姫様“拷問”の時間です 第2期",
+            "etiquetas": "Comedy, Fantasy, Gourmet",
+            "type": "anime",
+            "created_at": "2026-01-12",
+            "updated_at": "2026-07-10T08:54:33.000Z",
+            "year": "2026",
+            "score": 7.660000000000000142108547152020037174224853515625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "58510",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1477\/142881l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.230000000000000426325641456060111522674560546875,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "10863",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1805\/123188l.jpg",
-            "titulo": "Steins;Gate: Oukoubakko no Poriomania",
-            "titulo_original": "シュタインズ ゲート 横行跋扈のポリオマニア",
-            "etiquetas": "Comedy, Sci-Fi",
-            "type": "anime",
-            "created_at": "2012-02-22",
-            "updated_at": "2026-07-10T08:13:17.000Z",
-            "year": "2012",
-            "score": 8.28999999999999914734871708787977695465087890625,
-            "status": "Finished Airing",
-            "episodes": 1
         }
     ]
 }
