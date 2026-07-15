@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 645,
+    "total_items": 646,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "1195",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/20680l.jpg",
+            "titulo": "Zero no Tsukaima",
+            "titulo_original": "ゼロの使い魔",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2006-07-03",
+            "updated_at": "2026-07-10T08:13:59.000Z",
+            "year": "2006",
+            "score": 7.20000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "11633",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/47677l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "8.5",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "60603",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1415\/150405l.jpg",
-            "titulo": "Puniru wa Kawaii Slime 2nd Season",
-            "titulo_original": "ぷにるはかわいいスライム 第2期",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-06",
-            "updated_at": "2026-03-17T00:45:23.000Z",
-            "year": "2025",
-            "score": "7.2",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
