@@ -1,9 +1,23 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 649,
+    "total_items": 650,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60315",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1154\/149311l.jpg",
+            "titulo": "Dekin no Mogura",
+            "titulo_original": "出禁のモグラ",
+            "etiquetas": "Comedy, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2025-07-07",
+            "updated_at": "2026-03-17T00:47:13.000Z",
+            "year": "2025",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59689",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1943\/149719l.jpg",
