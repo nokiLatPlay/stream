@@ -2,14 +2,13 @@
     "id_mal": "63047",
     "titulo": "Yoroi Shinden Samurai Troopers Part 2",
     "titulo_original": "鎧真伝サムライトルーパー 第2クール",
-    "imagen": "https://cdn.animeav1.com/covers/4411.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4411.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
     "etiquetas": "Action, Adventure, Sci-Fi",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second part of Yoroi Shinden Samurai Troopers.",
-    "score": "0.0",
-    "episodes": 1,
+    "score": "",
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -18,17 +17,17 @@
         "Sunrise",
         "Bandai Namco Filmworks",
         "Avex Pictures",
-        "Kansai TV",
-        "Bandai Namco Entertainment",
-        "BANDAI SPIRITS",
-        "BS11",
-        "U-NEXT",
         "TOKYO MX",
+        "Bandai Namco Entertainment",
+        "BS11",
+        "BANDAI SPIRITS",
+        "Kansai TV",
+        "U-NEXT",
         "qooop"
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-13T15:11:54.913356",
+    "updated_at": "2026-07-15T05:20:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -42,6 +41,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/51e3424972ba653723c58b4599b4cc45",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4411/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4c5958adc80eb120e44df99d92fae1be",
                             "type": "mp4",
                             "language": "Sub"
                         }
