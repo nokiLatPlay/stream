@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 657,
+    "total_items": 658,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59199",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1564\/148380l.jpg",
+            "titulo": "Classic★Stars",
+            "titulo_original": "クラシック★スターズ",
+            "etiquetas": "",
+            "type": "anime",
+            "created_at": "2025-04-06",
+            "updated_at": "2026-07-10T08:57:40.000Z",
+            "year": "2025",
+            "score": 5.6500000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "59193",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1527\/158340l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "18115",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/55039l.jpg",
-            "titulo": "Magi: The Kingdom of Magic",
-            "titulo_original": "マギ The kingdom of magic",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2013-10-06",
-            "updated_at": "2026-07-10T08:16:46.000Z",
-            "year": "2013",
-            "score": 8.199999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 25
         }
     ]
 }
