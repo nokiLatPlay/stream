@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.\n\n(Source: Crunchyroll)",
-    "score": "6.1",
-    "episodes": 1,
+    "score": "6.0",
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
@@ -22,7 +22,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-09T21:45:34.000Z",
+    "updated_at": "2026-07-15T05:22:04.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -36,6 +36,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/730483d93532feb6494806ea6b6fd0ff",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4412/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4e4f7bfd62d6b932db1aff496cc3040e",
                             "type": "mp4",
                             "language": "Sub"
                         }
