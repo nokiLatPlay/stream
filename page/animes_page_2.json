@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 650,
+    "total_items": 651,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58877",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/154245l.jpg",
+            "titulo": "Diamond no Ace: Act II Second Season",
+            "titulo_original": "ダイヤのA actⅡ Second Season",
+            "etiquetas": "Sports",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-07-10T08:56:15.000Z",
+            "year": "2026",
+            "score": 8.0299999999999993605115378159098327159881591796875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "58833",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1843\/146935l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:15:36.000Z",
             "year": "2014",
             "score": 6.1500000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 10
-        },
-        {
-            "id_mal": "15315",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/43369l.jpg",
-            "titulo": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
-            "titulo_original": "問題児たちが異世界から来るそうですよ?",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2013-01-12",
-            "updated_at": "2026-07-10T08:15:24.000Z",
-            "year": "2013",
-            "score": 7.4000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 10
         }
