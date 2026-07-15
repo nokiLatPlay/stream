@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 656,
+    "total_items": 657,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "18001",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/68195l.jpg",
+            "titulo": "Freezing Vibration",
+            "titulo_original": "フリージング ヴァイブレーション",
+            "etiquetas": "Action, Drama, Romance, Sci-Fi, Ecchi",
+            "type": "anime",
+            "created_at": "2013-10-04",
+            "updated_at": "2026-07-10T08:16:38.000Z",
+            "year": "2013",
+            "score": 6.69000000000000039079850466805510222911834716796875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "17513",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/51989l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-17T00:50:58.000Z",
             "year": "2025",
             "score": "6.6",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58996",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1018\/150416l.jpg",
-            "titulo": "Osomatsu-san 4th Season",
-            "titulo_original": "おそ松さん 第4期",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-09",
-            "updated_at": "2026-03-17T00:49:07.000Z",
-            "year": "2025",
-            "score": "6.1",
             "status": "Finished Airing",
             "episodes": 12
         }
