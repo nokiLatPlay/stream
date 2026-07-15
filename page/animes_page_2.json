@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 661,
+    "total_items": 662,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59322",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1231\/149888l.jpg",
+            "titulo": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+            "titulo_original": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
+            "etiquetas": "Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2025-07-06",
+            "updated_at": "2026-07-10T08:58:30.000Z",
+            "year": "2025",
+            "score": 6.730000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59229",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1508\/152472l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.6500000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 27
-        },
-        {
-            "id_mal": "20",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1141\/142503l.jpg",
-            "titulo": "Naruto",
-            "titulo_original": "ナルト",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2002-10-03",
-            "updated_at": "2026-07-10T08:17:22.000Z",
-            "year": "2002",
-            "score": 8.019999999999999573674358543939888477325439453125,
-            "status": "Finished Airing",
-            "episodes": 220
         }
     ]
 }
