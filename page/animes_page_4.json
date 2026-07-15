@@ -1,9 +1,23 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 651,
+    "total_items": 652,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59898",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1829\/145678l.jpg",
+            "titulo": "City The Animation",
+            "titulo_original": "CITY THE ANIMATION",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2025-07-07",
+            "updated_at": "2026-03-17T00:47:21.000Z",
+            "year": "2025",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "60508",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1039\/150572l.jpg",
