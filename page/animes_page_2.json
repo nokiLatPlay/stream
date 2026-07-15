@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 647,
+    "total_items": 648,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "58812",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1872\/150755l.jpg",
+            "titulo": "Shin Samurai-den Yaiba",
+            "titulo_original": "真･侍伝 YAIBA",
+            "etiquetas": "Action, Adventure",
+            "type": "anime",
+            "created_at": "2025-04-05",
+            "updated_at": "2026-07-10T08:55:33.000Z",
+            "year": "2025",
+            "score": 7.19000000000000039079850466805510222911834716796875,
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "58788",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1791\/154233l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.87999999999999989341858963598497211933135986328125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "13601",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1314\/142015l.jpg",
-            "titulo": "Psycho-Pass",
-            "titulo_original": "サイコパス",
-            "etiquetas": "Action, Mystery, Sci-Fi, Suspense",
-            "type": "anime",
-            "created_at": "2012-10-12",
-            "updated_at": "2026-07-10T08:14:37.000Z",
-            "year": "2012",
-            "score": 8.32000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 22
         }
     ]
 }
