@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "58502",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1003\/146841l.jpg",
+            "titulo": "Zenshuu.",
+            "titulo_original": "全修。",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2025-01-05",
+            "updated_at": "2026-07-10T08:54:09.000Z",
+            "year": "2025",
+            "score": 7.57000000000000028421709430404007434844970703125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "58131",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1955\/148360l.jpg",
             "titulo": "Shiunji-ke no Kodomotachi",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:12:20.000Z",
             "year": "2011",
             "score": 6.53000000000000024868995751603506505489349365234375,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "10465",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/75184l.jpg",
-            "titulo": "Manyuu Hikenchou",
-            "titulo_original": "魔乳秘剣帖",
-            "etiquetas": "Action, Comedy, Ecchi",
-            "type": "anime",
-            "created_at": "2011-07-11",
-            "updated_at": "2026-07-10T08:11:48.000Z",
-            "year": "2011",
-            "score": 6.19000000000000039079850466805510222911834716796875,
             "status": "Finished Airing",
             "episodes": 12
         }
