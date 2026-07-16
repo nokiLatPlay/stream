@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62883",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx201667-oqaW97DQ7HUj.jpg",
+            "titulo": "Bungou Stray Dogs Wan! 2",
+            "titulo_original": "文豪ストレイドッグス わん！２",
+            "etiquetas": "Comedy, Slice of Life, Supernatural",
+            "type": "anime",
+            "created_at": "2026-07-02",
+            "updated_at": "2026-07-16T11:54:30.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "63082",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx203880-lnruKftb27Nr.png",
             "titulo": "Reiwa no Dara-san",
@@ -1263,20 +1277,6 @@
             "score": 7.1500000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62883",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1591\/157071l.jpg",
-            "titulo": "Bungou Stray Dogs Wan! 2",
-            "titulo_original": "文豪ストレイドッグスわん！2",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-07-02",
-            "updated_at": "2026-07-10T09:23:58.000Z",
-            "year": "2026",
-            "score": 7.1500000000000003552713678800500929355621337890625,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "62876",
