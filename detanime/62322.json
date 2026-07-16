@@ -2,31 +2,30 @@
     "id_mal": "62322",
     "titulo": "LV999 no Murabito",
     "titulo_original": "LV999の村人",
-    "imagen": "https://cdn.animeav1.com/covers/4370.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4370.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
     "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\n\n(Source: Crunchyroll)",
-    "score": "6.4",
-    "episodes": 3,
+    "score": "6.3",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "Brain's Base",
+        "BS Fuji",
+        "Bit grooove promotion",
+        "MediaNet",
         "DMM.com",
         "GREE Entertainment",
-        "MediaNet",
         "Pia",
-        "BS Fuji",
-        "SYSTEM SERVICE",
-        "Bit grooove promotion"
+        "SYSTEM SERVICE"
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-13T14:59:30.770168",
+    "updated_at": "2026-07-16T07:37:22.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -68,6 +67,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/cacf5bcd1507ef9d3efd7133d3188217",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4370/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/c5dff6b47e1ab8b334668b858fc4d216",
                             "type": "mp4",
                             "language": "Sub"
                         }
