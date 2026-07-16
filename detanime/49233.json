@@ -2,28 +2,27 @@
     "id_mal": "49233",
     "titulo": "Youjo Senki II",
     "titulo_original": "幼女戦記Ⅱ",
-    "imagen": "https://cdn.animeav1.com/covers/4417.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4417.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
     "etiquetas": "Action, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Youjo Senki.",
-    "score": "8.1",
-    "episodes": 1,
+    "score": "8.2",
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
-        "NUT",
         "KADOKAWA",
-        "Sammy",
+        "NUT",
         "AT-X",
-        "Sony Music Solutions"
+        "Sony Music Solutions",
+        "Sammy"
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-13T03:28:00.510575",
+    "updated_at": "2026-07-16T07:28:24.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -37,6 +36,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/55ef8337ba74b3676a491d98ed9411e9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4417/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5a7935e2fbc9dc0f9a616a7aeb745e10",
                             "type": "mp4",
                             "language": "Sub"
                         }
