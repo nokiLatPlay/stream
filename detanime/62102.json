@@ -2,35 +2,34 @@
     "id_mal": "62102",
     "titulo": "Ibitte Konai Gibo to Gishi",
     "titulo_original": "いびってこない義母と義姉",
-    "imagen": "https://cdn.animeav1.com/covers/4418.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4418.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
     "etiquetas": "Comedy, Slice of Life",
     "year": "2026",
     "type": "anime",
     "synopsis": "Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!\n\n(Source: Seven Seas Entertainment)",
     "score": "6.4",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "NEWON",
         "NBCUniversal Entertainment Japan",
         "Mainichi Broadcasting System",
+        "Movic",
+        "Bushiroad Move",
         "Ichijinsha",
         "BS Asahi",
-        "Bushiroad Move",
-        "Movic",
-        "Studio Flag",
         "HIKE",
+        "NEWON",
+        "Studio Flag",
         "Chiba TV Housou",
         "TV Kanagawa",
         "TV Saitama"
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-13T14:55:39.856661",
+    "updated_at": "2026-07-16T07:30:42.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -44,6 +43,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5abfbcac441bbe3d671ef8043bbd8ff4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4418/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6fc12d4fefa94e3fe32b494733a5d6b3",
                             "type": "mp4",
                             "language": "Sub"
                         }
