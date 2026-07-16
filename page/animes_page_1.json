@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62102",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196356-2TNt2b9tu0jm.jpg",
+            "titulo": "Ibitte Konai Gibo to Gishi",
+            "titulo_original": "いびってこない義母と義姉",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-16T07:30:44.000Z",
+            "year": "2026",
+            "score": "6.4",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
+        {
             "id_mal": "61686",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx192800-r8zlO0VY0jJP.jpg",
             "titulo": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
@@ -1585,20 +1599,6 @@
             "score": 6.29000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "62102",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1912\/157082l.jpg",
-            "titulo": "Ibitte Konai Gibo to Gishi",
-            "titulo_original": "いびってこない義母と義姉",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-10T09:14:53.000Z",
-            "year": "2026",
-            "score": 6.87999999999999989341858963598497211933135986328125,
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "62078",
