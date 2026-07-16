@@ -2,33 +2,32 @@
     "id_mal": "62883",
     "titulo": "Bungou Stray Dogs Wan! 2",
     "titulo_original": "文豪ストレイドッグス わん！２",
-    "imagen": "https://cdn.animeav1.com/covers/4373.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4373.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
     "etiquetas": "Comedy, Slice of Life, Supernatural",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Bungou Stray Dogs Wan!",
-    "score": "7.1",
-    "episodes": 2,
+    "score": "7.2",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 12,
     "rating": "",
     "source": "MANGA",
     "studios": [
         "bones",
-        "Nomad",
-        "KADOKAWA",
         "bones",
-        "Bandai Namco Music Live",
-        "Movic",
+        "KADOKAWA",
         "Crunchyroll",
-        "Sony Music Solutions",
+        "Nomad",
+        "Nomad",
+        "Movic",
         "WOWOW",
-        "Nomad"
+        "Bandai Namco Music Live",
+        "Sony Music Solutions"
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-13T15:07:52.534840",
+    "updated_at": "2026-07-16T11:54:26.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -56,6 +55,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/42ae1927d4ddded93e61c8f1d496362d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4373/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/46d26d8aae1a55a0f36986ead8d8ec1e",
                             "type": "mp4",
                             "language": "Sub"
                         }
