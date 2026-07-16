@@ -2,36 +2,35 @@
     "id_mal": "61897",
     "titulo": "Katainaka no Ossan, Kensei ni Naru II",
     "titulo_original": "片田舎のおっさん、剣聖になるII",
-    "imagen": "https://cdn.animeav1.com/covers/4420.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4420.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
     "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Katainaka no Ossan, Kensei ni Naru.",
     "score": "7.2",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
-        "Hayabusa Film",
         "Passione",
+        "Square Enix",
         "NBCUniversal Entertainment Japan",
-        "TV Asahi",
-        "BS Asahi",
-        "JR Higashi Nihon Kikaku",
-        "Drecom",
         "KLOCKWORX",
         "Nippon Columbia",
+        "TV Asahi",
+        "Hayabusa Film",
+        "Hayabusa Film",
+        "JR Higashi Nihon Kikaku",
+        "BS Asahi",
+        "Drecom",
         "Fujishouji",
-        "Square Enix",
-        "NK Animation",
-        "Hayabusa Film"
+        "NK Animation"
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-13T04:28:50.723049",
+    "updated_at": "2026-07-16T07:32:29.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -51,6 +50,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/b09a4a1638372328aec2b654cc7e9df1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4420/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4f395846915799c7f22635eb1a083e1d",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3f173574547a02c8cf710bdde03f117d",
                             "type": "mp4",
                             "language": "Sub"
                         }
