@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63418",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx207254-StcuNpmZTDCL.jpg",
+            "titulo": "Thunder 3",
+            "titulo_original": "サンダー３",
+            "etiquetas": "Adventure, Drama, Sci-Fi",
+            "type": "anime",
+            "created_at": "2026-07-09",
+            "updated_at": "2026-07-16T07:39:05.000Z",
+            "year": "2026",
+            "score": "5.1",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
+        {
             "id_mal": "62322",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx197715-KLFLxU24U1uL.png",
             "titulo": "LV999 no Murabito",
@@ -969,20 +983,6 @@
             "score": 5.3499999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "63418",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1084\/158946l.jpg",
-            "titulo": "Thunder 3",
-            "titulo_original": "サンダー3",
-            "etiquetas": "Mystery, Sci-Fi, Supernatural",
-            "type": "anime",
-            "created_at": "2026-07-09",
-            "updated_at": "2026-07-10T09:31:23.000Z",
-            "year": "2026",
-            "score": 6.1500000000000003552713678800500929355621337890625,
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "63403",
