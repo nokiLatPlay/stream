@@ -1,23 +1,34 @@
 {
     "id_mal": "63418",
     "titulo": "Thunder 3",
-    "titulo_original": "ãµã³ãã¼3",
-    "imagen": "https://cdn.animeav1.com/covers/4422.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4422.jpg",
-    "etiquetas": "Ciencia FicciÃ³n, ciencia-ficcion, Misterio, misterio, Shounen, shounen, Sobrenatural, sobrenatural",
+    "titulo_original": "サンダー３",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+    "etiquetas": "Adventure, Drama, Sci-Fi",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Tres escolares comunes se hacen con un DVD que supuestamente abre un portal a un universo paralelo, pero cuando no estÃ¡n mirando, la hermanita de Pyontarou, Futaba, atraviesa el portal y es secuestrada por los aliens que han invadido esa versiÃ³n de la Tierra. Al descubrir que sus cuerpos caricaturescos los convierten en superhombres en el hiperrealista universo paralelo, los chicos se proponen rescatar a Futaba.",
-    "score": "0.0",
-    "episodes": 1,
-    "status": "Unknown",
+    "synopsis": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n\n(Source: Kodansha USA)",
+    "score": "5.1",
+    "episodes": 2,
+    "status": "Currently Airing",
     "duration": 24,
     "rating": "",
-    "source": "",
-    "studios": [],
+    "source": "MANGA",
+    "studios": [
+        "Kodansha",
+        "Fuji TV",
+        "KLOCKWORX",
+        "Kansai TV",
+        "BS Fuji",
+        "newgin",
+        "UNEND",
+        "Animax Broadcast Japan",
+        "arma bianca",
+        "Hakuhodo",
+        "Slow Curve"
+    ],
     "producers": [],
-    "created_at": "2026-07-14",
-    "updated_at": "2026-07-14T03:07:06.998343",
+    "created_at": "2026-07-09",
+    "updated_at": "2026-07-16T07:39:02.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -37,6 +48,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/e53613be27cf3370018b0ffd55ec9142",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4422/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/15b355b995bf9b48382f7137fa2d5843",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/55dcb6b96b127c50953c247efc062724",
                             "type": "mp4",
                             "language": "Sub"
                         }
