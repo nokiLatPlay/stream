@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63316",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx184356-SlFIstXUXJYP.png",
+            "titulo": "Dogul Wang",
+            "titulo_original": "도굴왕",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-09",
+            "updated_at": "2026-07-16T07:40:19.000Z",
+            "year": "2026",
+            "score": "6.7",
+            "status": "Currently Airing",
+            "episodes": 2
+        },
+        {
             "id_mal": "63418",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx207254-StcuNpmZTDCL.jpg",
             "titulo": "Thunder 3",
@@ -1053,20 +1067,6 @@
             "score": 6.17999999999999971578290569595992565155029296875,
             "status": "Currently Airing",
             "episodes": 2
-        },
-        {
-            "id_mal": "63316",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1910\/158471l.jpg",
-            "titulo": "Dogulwang",
-            "titulo_original": "도굴왕",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-09",
-            "updated_at": "2026-07-10T09:29:45.000Z",
-            "year": "2026",
-            "score": 6.87000000000000010658141036401502788066864013671875,
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "63310",
