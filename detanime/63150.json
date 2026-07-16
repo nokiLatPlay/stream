@@ -2,32 +2,31 @@
     "id_mal": "63150",
     "titulo": "Otome Kaijuu Caramelise",
     "titulo_original": "乙女怪獣キャラメリゼ",
-    "imagen": "https://cdn.animeav1.com/covers/4376.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4376.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
     "etiquetas": "Comedy, Romance, Supernatural",
     "year": "2026",
     "type": "anime",
     "synopsis": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!\n\n(Source: Crunchyroll)",
     "score": "7.5",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "LIDENFILMS",
-        "TBS",
-        "Pony Canyon",
-        "Good Smile Film",
         "KADOKAWA",
-        "BS11",
-        "SANKYO",
+        "LIDENFILMS",
+        "Pony Canyon",
+        "TBS",
         "KLOCKWORX",
+        "BS11",
+        "Good Smile Film",
+        "SANKYO",
         "Contents Seed"
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-13T15:13:00.307936",
+    "updated_at": "2026-07-16T19:58:47.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -55,6 +54,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8b6a2af6b14d4b5f4f5e75601aee28c3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4376/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a982670ce1443af758cdadf21f0d6357",
                             "type": "mp4",
                             "language": "Sub"
                         }
