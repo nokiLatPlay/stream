@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63403",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx207141-h5q5KJPd6vaX.jpg",
+            "titulo": "Yani Neko",
+            "titulo_original": "ヤニねこ",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-16T19:57:43.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "59741",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx180136-gtMTCRlOD4OE.jpg",
             "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
@@ -1053,20 +1067,6 @@
             "score": 5.3499999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "63403",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1281\/156496l.jpg",
-            "titulo": "Yani Neko",
-            "titulo_original": "ヤニねこ",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-07-03",
-            "updated_at": "2026-07-10T09:31:07.000Z",
-            "year": "2026",
-            "score": 7.03000000000000024868995751603506505489349365234375,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "63376",
