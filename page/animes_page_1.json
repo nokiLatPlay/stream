@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 667,
+    "total_items": 668,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44511",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx127230-DdP4vAdssLoz.png",
+            "titulo": "Chainsaw Man",
+            "titulo_original": "チェンソーマン",
+            "etiquetas": "Action, Drama, Horror, Supernatural",
+            "type": "anime",
+            "created_at": "2022-10-12",
+            "updated_at": "2026-07-17T00:05:17.000Z",
+            "year": "2022",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62076",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196187-0dgFi2CPp3xn.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.86000000000000031974423109204508364200592041015625,
             "status": "Finished Airing",
             "episodes": 16
-        },
-        {
-            "id_mal": "59636",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1626\/148097l.jpg",
-            "titulo": "Uma Musume: Cinderella Gray",
-            "titulo_original": "ウマ娘 シンデレラグレイ",
-            "etiquetas": "Drama, Sports",
-            "type": "anime",
-            "created_at": "2025-04-06",
-            "updated_at": "2026-07-10T08:59:51.000Z",
-            "year": "2025",
-            "score": 8.57000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
