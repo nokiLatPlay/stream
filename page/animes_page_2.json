@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 668,
+    "total_items": 669,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59708",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1176\/153626l.jpg",
+            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+            "titulo_original": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+            "etiquetas": "Drama, Suspense",
+            "type": "anime",
+            "created_at": "2026-04-01",
+            "updated_at": "2026-07-10T08:59:57.000Z",
+            "year": "2026",
+            "score": 7.86000000000000031974423109204508364200592041015625,
+            "status": "Finished Airing",
+            "episodes": 16
+        },
         {
             "id_mal": "59636",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1626\/148097l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.96999999999999975131004248396493494510650634765625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "21",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1244\/138851l.jpg",
-            "titulo": "One Piece",
-            "titulo_original": "ONE PIECE",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "1999-10-20",
-            "updated_at": "2026-07-10T08:18:32.000Z",
-            "year": "1999",
-            "score": 8.730000000000000426325641456060111522674560546875,
-            "status": "Currently Airing",
-            "episodes": 1168
         }
     ]
 }
