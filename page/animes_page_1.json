@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 673,
+    "total_items": 674,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11385",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/11385.jpg",
+            "titulo": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+            "titulo_original": "デジモンクロスウォーズ 時を駆ける少年ハンターたち",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2011-10-02",
+            "updated_at": "2026-07-18T00:56:45.000Z",
+            "year": "2011",
+            "score": "6.0",
+            "status": "Finished Airing",
+            "episodes": 25
+        },
         {
             "id_mal": "33314",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21820-IfERHl3aYZgq.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.8599999999999994315658113919198513031005859375,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "59935",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1714\/148317l.jpg",
-            "titulo": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
-            "titulo_original": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2025-04-06",
-            "updated_at": "2026-07-10T09:00:54.000Z",
-            "year": "2025",
-            "score": 6.53000000000000024868995751603506505489349365234375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
