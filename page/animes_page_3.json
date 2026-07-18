@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 669,
+    "total_items": 670,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "21085",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1949\/112982l.jpg",
+            "titulo": "Witch Craft Works",
+            "titulo_original": "ウィッチクラフトワークス",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "created_at": "2014-01-05",
+            "updated_at": "2026-07-10T08:18:51.000Z",
+            "year": "2014",
+            "score": 6.96999999999999975131004248396493494510650634765625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "21",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1244\/138851l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.5",
             "status": "Finished Airing",
             "episodes": "13"
-        },
-        {
-            "id_mal": "61276",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1732\/153360l.jpg",
-            "titulo": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
-            "titulo_original": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:47:00.000Z",
-            "year": "2025",
-            "score": "6.3",
-            "status": "Finished Airing",
-            "episodes": "12"
         }
     ]
 }
