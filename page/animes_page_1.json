@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 682,
+    "total_items": 683,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "530",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx530-O8q6KpJ244Qk.jpg",
+            "titulo": "Bishoujo Senshi Sailor Moon",
+            "titulo_original": "美少女戦士セーラームーン",
+            "etiquetas": "Action, Adventure, Fantasy, Mahou Shoujo, Romance",
+            "type": "anime",
+            "created_at": "1992-03-07",
+            "updated_at": "2026-07-18T03:18:49.000Z",
+            "year": "1992",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 46
+        },
         {
             "id_mal": "14751",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx14751-ifQbdvyIg9Er.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:03:15.000Z",
             "year": "2026",
             "score": 7.42999999999999971578290569595992565155029296875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60154",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1703\/148600l.jpg",
-            "titulo": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
-            "titulo_original": "俺は星間国家の悪徳領主！",
-            "etiquetas": "Comedy, Fantasy, Sci-Fi",
-            "type": "anime",
-            "created_at": "2025-04-06",
-            "updated_at": "2026-07-10T09:03:08.000Z",
-            "year": "2025",
-            "score": 7.0099999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 12
         }
