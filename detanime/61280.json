@@ -2,30 +2,29 @@
     "id_mal": "61280",
     "titulo": "Kore Kaite Shine",
     "titulo_original": "これ描いて死ね",
-    "imagen": "https://cdn.animeav1.com/covers/4381.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4381.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
     "etiquetas": "Comedy, Slice of Life",
     "year": "2026",
     "type": "anime",
     "synopsis": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?\n\n(Source: Crunchyroll)",
-    "score": "7.0",
-    "episodes": 2,
+    "score": "7.2",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
     "source": "MANGA",
     "studios": [
         "Shin-Ei Animation",
-        "Nippon Television Network",
         "Shin-Ei Animation",
-        "Shogakukan",
         "VAP",
+        "Frontier Works",
         "Shogakukan-Shueisha Productions",
-        "Frontier Works"
+        "Nippon Television Network",
+        "Shogakukan"
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-13T04:18:59.378862",
+    "updated_at": "2026-07-17T23:43:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -53,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/ae7b4fc1f984a8617de2420c3932d391",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4381/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1980d9db4e84f3103a60c291e95e6ed1",
                             "type": "mp4",
                             "language": "Sub"
                         }
