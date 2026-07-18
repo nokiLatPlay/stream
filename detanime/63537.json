@@ -2,35 +2,34 @@
     "id_mal": "63537",
     "titulo": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
     "titulo_original": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
-    "imagen": "https://cdn.animeav1.com/covers/4392.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4392.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
     "etiquetas": "Fantasy, Romance",
     "year": "2026",
     "type": "anime",
     "synopsis": "Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,\" Why would such a distinguished man marry me\"? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,\" I have no intention of loving you\".\n\n(Source: MangaPlaza)",
     "score": "6.2",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
     "source": "MANGA",
     "studios": [
         "Zero-G",
-        "Grass",
-        "Avex Pictures",
-        "DMM.com",
-        "TV Asahi",
-        "Flex Comics",
         "Zero-G",
-        "TV Asahi Music",
-        "Pia",
         "Movic",
-        "Saber Links",
-        "BS Asahi"
+        "Avex Pictures",
+        "TV Asahi",
+        "DMM.com",
+        "Pia",
+        "BS Asahi",
+        "Flex Comics",
+        "Grass",
+        "TV Asahi Music",
+        "Saber Links"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-14T03:07:55.580738",
+    "updated_at": "2026-07-18T16:04:13.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -58,6 +57,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0539c0802609fb551234571881b124a9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4392/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8685f3c3a36bb5409842451aadaf6260",
                             "type": "mp4",
                             "language": "Sub"
                         }
