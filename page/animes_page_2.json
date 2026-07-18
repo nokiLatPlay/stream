@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 674,
+    "total_items": 675,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59978",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1921\/154528l.jpg",
+            "titulo": "Sousou no Frieren 2nd Season",
+            "titulo_original": "葬送のフリーレン 第2期",
+            "etiquetas": "Adventure, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2026-01-16",
+            "updated_at": "2026-07-10T09:01:20.000Z",
+            "year": "2026",
+            "score": 8.8599999999999994315658113919198513031005859375,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "59935",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1714\/148317l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.089999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "24439",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1449\/142053l.jpg",
-            "titulo": "Kekkai Sensen",
-            "titulo_original": "血界戦線",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2015-04-05",
-            "updated_at": "2026-07-10T08:19:51.000Z",
-            "year": "2015",
-            "score": 7.589999999999999857891452847979962825775146484375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
