@@ -2,28 +2,27 @@
     "id_mal": "61169",
     "titulo": "BLACK TORCH",
     "titulo_original": "BLACK TORCH",
-    "imagen": "https://cdn.animeav1.com/covers/4386.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4386.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
     "etiquetas": "Action, Adventure, Fantasy, Sci-Fi, Supernatural",
     "year": "2026",
     "type": "anime",
     "synopsis": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n\n(Source: Crunchyroll)",
-    "score": "7.2",
-    "episodes": 2,
+    "score": "7.3",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "100studio",
-        "Shogakukan-Shueisha Productions",
         "Shueisha",
-        "VIZ Media Japan",
-        "HIKE"
+        "Shogakukan-Shueisha Productions",
+        "100studio",
+        "HIKE",
+        "VIZ Media Japan"
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-13T04:15:44.567191",
+    "updated_at": "2026-07-18T12:53:48.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -57,6 +56,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/27f01c86ff91b5dd7e4991c33ea1e55e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4386/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13742c39914c0c2bec01a7ab8abe765a",
                             "type": "mp4",
                             "language": "Sub"
                         }
