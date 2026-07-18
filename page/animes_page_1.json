@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "57466",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx171110-7zOdInS6DQNL.jpg",
+            "titulo": "Honzuki no Gekokujou: Ryoushu no Youjo",
+            "titulo_original": "本好きの下剋上 領主の養女",
+            "etiquetas": "Drama, Fantasy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-07-18T12:51:19.000Z",
+            "year": "2026",
+            "score": "7.6",
+            "status": "Currently Airing",
+            "episodes": 14
+        },
+        {
             "id_mal": "232",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx232-ERyKCNNPJJeh.png",
             "titulo": "Cardcaptor Sakura",
@@ -2789,20 +2803,6 @@
             "score": 8.1199999999999992184029906638897955417633056640625,
             "status": "Currently Airing",
             "episodes": 15
-        },
-        {
-            "id_mal": "60255",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1440\/154894l.jpg",
-            "titulo": "Arne no Jikenbo",
-            "titulo_original": "アルネの事件簿",
-            "etiquetas": "Fantasy, Mystery",
-            "type": "anime",
-            "created_at": "2026-01-07",
-            "updated_at": "2026-07-10T09:03:35.000Z",
-            "year": "2026",
-            "score": 6.25,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
