@@ -1,9 +1,23 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 677,
+    "total_items": 678,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59267",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1364\/151767l.jpg",
+            "titulo": "Sanda",
+            "titulo_original": "SANDA",
+            "etiquetas": "Action, Mystery",
+            "type": "anime",
+            "created_at": "2025-10-04",
+            "updated_at": "2026-03-18T05:54:16.000Z",
+            "year": "2025",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "episodes": "12"
+        },
         {
             "id_mal": "61142",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1025\/150482l.jpg",
