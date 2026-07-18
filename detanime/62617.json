@@ -2,27 +2,26 @@
     "id_mal": "62617",
     "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
     "titulo_original": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
-    "imagen": "https://cdn.animeav1.com/covers/4379.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4379.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
     "etiquetas": "Action, Adventure, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.\n(Source: Crunchyroll)\n\n\nNote: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.",
     "score": "6.6",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
-        "Gekkou",
         "KADOKAWA",
-        "GREE Entertainment",
-        "SB Creative"
+        "Gekkou",
+        "SB Creative",
+        "GREE Entertainment"
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-13T15:05:26.873840",
+    "updated_at": "2026-07-17T23:39:47.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -50,6 +49,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/2cc7f7b19f0092e8d47690a5eca4f984",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4379/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/31dc6bab4d08516ff2cec6d46036db09",
                             "type": "mp4",
                             "language": "Sub"
                         }
