@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 670,
+    "total_items": 671,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49515",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx137309-1TTkC932WbYn.jpg",
+            "titulo": "Digimon Ghost Game",
+            "titulo_original": "デジモンゴーストゲーム",
+            "etiquetas": "Action, Adventure, Fantasy, Horror, Mystery, Sci-Fi",
+            "type": "anime",
+            "created_at": "2021-10-03",
+            "updated_at": "2026-07-18T00:39:56.000Z",
+            "year": "2021",
+            "score": "6.6",
+            "status": "Finished Airing",
+            "episodes": 67
+        },
         {
             "id_mal": "63817",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209983-sFOcKyqMufxb.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:00:31.000Z",
             "year": "2025",
             "score": 8.0600000000000004973799150320701301097869873046875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59745",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1192\/148314l.jpg",
-            "titulo": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
-            "titulo_original": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
-            "etiquetas": "Comedy, Supernatural, Ecchi",
-            "type": "anime",
-            "created_at": "2025-04-07",
-            "updated_at": "2026-07-10T09:00:23.000Z",
-            "year": "2025",
-            "score": 5.54000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
         }
