@@ -2,16 +2,15 @@
     "id_mal": "60552",
     "titulo": "Kabushiki Gaisha Magi Lumiere 2nd Season",
     "titulo_original": "株式会社マジルミエ 第2期",
-    "imagen": "https://cdn.animeav1.com/covers/4394.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4394.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
     "etiquetas": "Action, Comedy, Fantasy, Mahou Shoujo",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Kabushiki Gaisha Magi Lumiere.",
     "score": "6.6",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
-    "duration": null,
+    "duration": "",
     "rating": "",
     "source": "MANGA",
     "studios": [
@@ -21,7 +20,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T03:49:02.951263",
+    "updated_at": "2026-07-18T16:08:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -61,6 +60,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7b47279bed7f093bd1d20f829f91c6f4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4394/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/17e3aa2217ae96d74bfaf11db3511870",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/051c1a2c355a125f96356eddb2f0ad61",
                             "type": "mp4",
                             "language": "Sub"
                         }
