@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 676,
+    "total_items": 677,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60028",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1229\/155022l.jpg",
+            "titulo": "Himekishi wa Barbaroi no Yome",
+            "titulo_original": "姫騎士は蛮族の嫁",
+            "etiquetas": "Comedy, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-04-09",
+            "updated_at": "2026-07-10T09:01:46.000Z",
+            "year": "2026",
+            "score": 6.92999999999999971578290569595992565155029296875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59983",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1190\/155788l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.4399999999999995026200849679298698902130126953125,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "24833",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/75639l.jpg",
-            "titulo": "Ansatsu Kyoushitsu",
-            "titulo_original": "暗殺教室",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2015-01-10",
-            "updated_at": "2026-07-10T08:20:07.000Z",
-            "year": "2015",
-            "score": 8.07000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 22
         }
     ]
 }
