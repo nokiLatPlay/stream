@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62051",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196017-GynDNdbDzqzk.jpg",
+            "titulo": "Grow Up Show: Himawari no Circus-dan",
+            "titulo_original": "グロウアップショウ ～ひまわりのサーカス団～",
+            "etiquetas": "",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-18T13:00:00.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "62001",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx195600-moI0UFArtOme.jpg",
             "titulo": "Yomi no Tsugai",
@@ -2033,20 +2047,6 @@
             "score": 6.95000000000000017763568394002504646778106689453125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "62051",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1329\/158716l.jpg",
-            "titulo": "Grow Up Show: Himawari no Circus-dan",
-            "titulo_original": "グロウアップショウ ～ひまわりのサーカス団～",
-            "etiquetas": "",
-            "type": "anime",
-            "created_at": "2026-07-05",
-            "updated_at": "2026-07-10T09:13:53.000Z",
-            "year": "2026",
-            "score": 7.1699999999999999289457264239899814128875732421875,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "62050",
