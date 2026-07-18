@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 672,
+    "total_items": 673,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59835",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/155831l.jpg",
+            "titulo": "Kirio Fanclub",
+            "titulo_original": "霧尾ファンクラブ",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-07-10T09:00:38.000Z",
+            "year": "2026",
+            "score": 7.1699999999999999289457264239899814128875732421875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59828",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1224\/148321l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.589999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "23273",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1405\/143284l.jpg",
-            "titulo": "Shigatsu wa Kimi no Uso",
-            "titulo_original": "四月は君の嘘",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "created_at": "2014-10-10",
-            "updated_at": "2026-07-10T08:19:29.000Z",
-            "year": "2014",
-            "score": 8.6400000000000005684341886080801486968994140625,
-            "status": "Finished Airing",
-            "episodes": 22
         }
     ]
 }
