@@ -2,30 +2,29 @@
     "id_mal": "61814",
     "titulo": "Oni no Hanayome",
     "titulo_original": "鬼の花嫁",
-    "imagen": "https://cdn.animeav1.com/covers/4390.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4390.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
     "etiquetas": "Drama, Fantasy, Romance",
     "year": "2026",
     "type": "anime",
     "synopsis": "A Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n(Source: MangaPlaza)",
     "score": "6.9",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "Aniplex",
-        "Colored Pencil Animation Japan",
-        "Starts Publishing Corp",
-        "NTT Solmare",
         "BS11",
-        "Contents Seed",
-        "Nippon Shuppan Hanbai (Nippan) K.K."
+        "Colored Pencil Animation Japan",
+        "NTT Solmare",
+        "Nippon Shuppan Hanbai (Nippan) K.K.",
+        "Starts Publishing Corp",
+        "Contents Seed"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T04:26:17.504617",
+    "updated_at": "2026-07-18T16:06:05.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -53,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/35cdde64b4fd7c3e129122b98e6a080a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4390/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9394eed6334672c42569b12c8a8ad48b",
                             "type": "mp4",
                             "language": "Sub"
                         }
