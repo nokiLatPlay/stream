@@ -2,34 +2,33 @@
     "id_mal": "59970",
     "titulo": "Tensei Shitara Slime Datta Ken 4th Season",
     "titulo_original": "転生したらスライムだった件 第4期",
-    "imagen": "https://cdn.animeav1.com/covers/3926.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/3926.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
     "etiquetas": "Action, Adventure, Comedy, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
     "score": "8.2",
-    "episodes": 14,
+    "episodes": 15,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "8-bit",
-        "Bandai Namco Filmworks",
-        "Kodansha",
-        "Micro Magazine Sha",
-        "Bandai Namco Music Live",
-        "BANDAI SPIRITS",
-        "BS11",
-        "ADK Marketing Solutions",
-        "Sony Music Solutions",
         "8-bit",
-        "Nippon Television Network"
+        "Kodansha",
+        "Bandai Namco Filmworks",
+        "Nippon Television Network",
+        "BS11",
+        "BANDAI SPIRITS",
+        "Bandai Namco Music Live",
+        "Sony Music Solutions",
+        "ADK Marketing Solutions",
+        "Micro Magazine Sha"
     ],
     "producers": [],
     "created_at": "2026-04-03",
-    "updated_at": "2026-07-12T21:43:39.215621",
+    "updated_at": "2026-07-17T23:41:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -291,6 +290,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5c9e1a51c0fa316a8f7af359c59455f2",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "https://cdn.animeav1.com/screenshots/3926/15.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/fb22077a1928b7389b3cb3bde8c9fbc6",
                             "type": "mp4",
                             "language": "Sub"
                         }
