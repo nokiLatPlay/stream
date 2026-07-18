@@ -2,31 +2,30 @@
     "id_mal": "60637",
     "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
     "titulo_original": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
-    "imagen": "https://cdn.animeav1.com/covers/4391.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4391.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
     "etiquetas": "Action, Comedy, Drama, Fantasy, Mahou Shoujo",
     "year": "2026",
     "type": "anime",
     "synopsis": "Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
     "score": "6.7",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
-    "duration": null,
+    "duration": "",
     "rating": "",
     "source": "ORIGINAL",
     "studios": [
         "Seven Arcs",
-        "King Records",
-        "Bushiroad",
         "Seven Arcs",
-        "Sanyo Bussan",
         "Movic",
+        "Bushiroad",
+        "King Records",
         "Hakuhodo DY Music & Pictures",
-        "Good Smile Company"
+        "Good Smile Company",
+        "Sanyo Bussan"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T03:51:09.620095",
+    "updated_at": "2026-07-18T16:04:59.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -54,6 +53,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8cdece9a93aed8fbb6250250e2ca3b65",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4391/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/02103159259d355a63911d9a09e22f08",
                             "type": "mp4",
                             "language": "Sub"
                         }
