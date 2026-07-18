@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 674,
+    "total_items": 675,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "24439",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1449\/142053l.jpg",
+            "titulo": "Kekkai Sensen",
+            "titulo_original": "血界戦線",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2015-04-05",
+            "updated_at": "2026-07-10T08:19:51.000Z",
+            "year": "2015",
+            "score": 7.589999999999999857891452847979962825775146484375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "23755",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/65409l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.5",
             "status": "Finished Airing",
             "episodes": "13"
-        },
-        {
-            "id_mal": "61917",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1294\/151734l.jpg",
-            "titulo": "Towa no Yuugure",
-            "titulo_original": "永久のユウグレ",
-            "etiquetas": "Romance, Sci-Fi",
-            "type": "anime",
-            "created_at": "2025-10-03",
-            "updated_at": "2026-03-18T05:53:59.000Z",
-            "year": "2025",
-            "score": "6.6",
-            "status": "Finished Airing",
-            "episodes": "12"
         }
     ]
 }
