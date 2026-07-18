@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60552",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx185692-1a8huwOIx7gw.jpg",
+            "titulo": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+            "titulo_original": "株式会社マジルミエ 第2期",
+            "etiquetas": "Action, Comedy, Fantasy, Mahou Shoujo",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-18T16:08:40.000Z",
+            "year": "2026",
+            "score": "6.6",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "62535",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx199066-YXDVsguvFZMm.jpg",
             "titulo": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
@@ -2691,20 +2705,6 @@
             "score": 6.87000000000000010658141036401502788066864013671875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "60552",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1917\/156186l.jpg",
-            "titulo": "Kabushikigaisha Magi-Lumière 2nd Season",
-            "titulo_original": "株式会社マジルミエ 第2期",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2026-07-05",
-            "updated_at": "2026-07-10T09:05:15.000Z",
-            "year": "2026",
-            "score": 7.0800000000000000710542735760100185871124267578125,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "60523",
