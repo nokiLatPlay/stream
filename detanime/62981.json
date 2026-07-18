@@ -2,30 +2,29 @@
     "id_mal": "62981",
     "titulo": "Kami no Shizuku",
     "titulo_original": "神の雫",
-    "imagen": "https://cdn.animeav1.com/covers/3977.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/3977.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
     "etiquetas": "Drama, Mystery, Slice of Life",
     "year": "2026",
     "type": "anime",
     "synopsis": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, “The Drops of God”. \nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. \nWhat is wine? What is a parent and a child? What is life?\nThe complex and fragrant battle surrounding the legendary ”Drops of God” is about to begin… \n(Source: Pony Canyon)",
     "score": "5.4",
-    "episodes": 14,
+    "episodes": 15,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "Satelight",
-        "Pony Canyon",
         "Crunchyroll",
         "Satelight",
-        "Kansai TV",
+        "Satelight",
+        "Pony Canyon",
         "Movic",
+        "Kansai TV",
         "BS Nittele"
     ],
     "producers": [],
     "created_at": "2026-04-10",
-    "updated_at": "2026-07-13T15:10:48.176539",
+    "updated_at": "2026-07-17T23:42:17.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -221,6 +220,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/1671c2496e4181ab5b9900e6f85ecbc7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "https://cdn.animeav1.com/screenshots/3977/15.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a0cf437bb9cdf67f90097af34313b196",
                             "type": "mp4",
                             "language": "Sub"
                         }
