@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 672,
+    "total_items": 673,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "33314",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21820-IfERHl3aYZgq.jpg",
+            "titulo": "Digimon Universe: Appli Monsters",
+            "titulo_original": "デジモンユニバース アプリモンスターズ",
+            "etiquetas": "Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2016-10-01",
+            "updated_at": "2026-07-18T00:49:03.000Z",
+            "year": "2016",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 52
+        },
         {
             "id_mal": "41074",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx114811-SLZ6cMMhx6Im.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:00:54.000Z",
             "year": "2025",
             "score": 6.53000000000000024868995751603506505489349365234375,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59835",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/155831l.jpg",
-            "titulo": "Kirio Fanclub",
-            "titulo_original": "霧尾ファンクラブ",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-07-10T09:00:38.000Z",
-            "year": "2026",
-            "score": 7.1699999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 12
         }
