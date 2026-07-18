@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 671,
+    "total_items": 672,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41074",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx114811-SLZ6cMMhx6Im.jpg",
+            "titulo": "Digimon Adventure:",
+            "titulo_original": "デジモンアドベンチャー:",
+            "etiquetas": "Action, Adventure, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2020-04-05",
+            "updated_at": "2026-07-18T00:43:41.000Z",
+            "year": "2020",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 67
+        },
         {
             "id_mal": "49515",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx137309-1TTkC932WbYn.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:00:38.000Z",
             "year": "2026",
             "score": 7.1699999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59828",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1224\/148321l.jpg",
-            "titulo": "Shoushimin Series 2nd Season",
-            "titulo_original": "小市民シリーズ 第2期",
-            "etiquetas": "Mystery",
-            "type": "anime",
-            "created_at": "2025-04-06",
-            "updated_at": "2026-07-10T09:00:31.000Z",
-            "year": "2025",
-            "score": 8.0600000000000004973799150320701301097869873046875,
             "status": "Finished Airing",
             "episodes": 12
         }
