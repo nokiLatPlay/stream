@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The second season of Hell Mode.",
     "score": "7.2",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-14T06:03:14.000Z",
+    "updated_at": "2026-07-17T23:45:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -54,6 +54,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/9efb6cf9293532ad18c48741e49a2de3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4383/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/14d15884c964156ebe6e52841b96571b",
                             "type": "mp4",
                             "language": "Sub"
                         }
