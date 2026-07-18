@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 680,
+    "total_items": 681,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "269",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1541\/147774l.jpg",
+            "titulo": "Bleach",
+            "titulo_original": "BLEACH - ブリーチ -",
+            "etiquetas": "Action, Adventure, Supernatural",
+            "type": "anime",
+            "created_at": "2004-10-05",
+            "updated_at": "2026-07-10T08:20:45.000Z",
+            "year": "2004",
+            "score": 8,
+            "status": "Finished Airing",
+            "episodes": 366
+        },
         {
             "id_mal": "268",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/62867l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.1",
             "status": "Finished Airing",
             "episodes": "12"
-        },
-        {
-            "id_mal": "58515",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1593\/155372l.jpg",
-            "titulo": "Kekkon Yubiwa Monogatari II",
-            "titulo_original": "結婚指輪物語Ⅱ",
-            "etiquetas": "Action, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2025-10-04",
-            "updated_at": "2026-03-18T05:56:36.000Z",
-            "year": "2025",
-            "score": "6.5",
-            "status": "Finished Airing",
-            "episodes": "13"
         }
     ]
 }
