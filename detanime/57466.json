@@ -2,32 +2,31 @@
     "id_mal": "57466",
     "titulo": "Honzuki no Gekokujou: Ryoushu no Youjo",
     "titulo_original": "本好きの下剋上 領主の養女",
-    "imagen": "https://cdn.animeav1.com/covers/3928.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/3928.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
     "etiquetas": "Drama, Fantasy, Slice of Life",
     "year": "2026",
     "type": "anime",
     "synopsis": "Anime adaptation of Part 3 of Honzuki no Gekokujou.\n\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n\n(Source: J-Novel Club)",
     "score": "7.6",
-    "episodes": 13,
+    "episodes": 14,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "WIT STUDIO",
-        "TO Books",
-        "Yomiuri TV",
         "WIT STUDIO",
         "Movic",
-        "Yomiuri TV Enterprise",
-        "Shouchiku",
         "flying DOG",
-        "KLOCKWORX"
+        "KLOCKWORX",
+        "Shouchiku",
+        "Yomiuri TV",
+        "Yomiuri TV Enterprise",
+        "TO Books"
     ],
     "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-07-14T07:59:08.439946",
+    "updated_at": "2026-07-18T12:51:13.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -209,6 +208,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5d7a565dd2a1f0d247211ff67d720305",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "numero": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "https://cdn.animeav1.com/screenshots/3928/14.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/68257b054485798a99b7c4e2f23cbabe",
                             "type": "mp4",
                             "language": "Sub"
                         }
