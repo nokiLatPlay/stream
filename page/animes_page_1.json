@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 676,
+    "total_items": 677,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "859",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/859-bjjZXdawvrJW.jpg",
+            "titulo": "Digimon Savers",
+            "titulo_original": "デジモンセイバーズ",
+            "etiquetas": "Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2006-04-02",
+            "updated_at": "2026-07-18T02:45:48.000Z",
+            "year": "2006",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "episodes": 48
+        },
         {
             "id_mal": "8624",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/8624.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:02:21.000Z",
             "year": "2026",
             "score": 7.45000000000000017763568394002504646778106689453125,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60028",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1229\/155022l.jpg",
-            "titulo": "Himekishi wa Barbaroi no Yome",
-            "titulo_original": "姫騎士は蛮族の嫁",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-04-09",
-            "updated_at": "2026-07-10T09:01:46.000Z",
-            "year": "2026",
-            "score": 6.92999999999999971578290569595992565155029296875,
             "status": "Finished Airing",
             "episodes": 12
         }
