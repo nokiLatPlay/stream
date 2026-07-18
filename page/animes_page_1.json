@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61814",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b194219-56EhyK775lga.jpg",
+            "titulo": "Oni no Hanayome",
+            "titulo_original": "鬼の花嫁",
+            "etiquetas": "Drama, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-18T16:06:08.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "60637",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx185875-XMvDVlIUZODx.jpg",
             "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
@@ -2229,20 +2243,6 @@
             "score": 6.1699999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61814",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1082\/158708l.jpg",
-            "titulo": "Oni no Hanayome",
-            "titulo_original": "鬼の花嫁",
-            "etiquetas": "Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-07-05",
-            "updated_at": "2026-07-10T09:11:43.000Z",
-            "year": "2026",
-            "score": 7.05999999999999960920149533194489777088165283203125,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "61782",
