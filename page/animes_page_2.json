@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 671,
+    "total_items": 672,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "59828",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1224\/148321l.jpg",
+            "titulo": "Shoushimin Series 2nd Season",
+            "titulo_original": "小市民シリーズ 第2期",
+            "etiquetas": "Mystery",
+            "type": "anime",
+            "created_at": "2025-04-06",
+            "updated_at": "2026-07-10T09:00:31.000Z",
+            "year": "2025",
+            "score": 8.0600000000000004973799150320701301097869873046875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "59745",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1192\/148314l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.6400000000000005684341886080801486968994140625,
             "status": "Finished Airing",
             "episodes": 22
-        },
-        {
-            "id_mal": "22535",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/73178l.jpg",
-            "titulo": "Kiseijuu: Sei no Kakuritsu",
-            "titulo_original": "寄生獣 セイの格率",
-            "etiquetas": "Action, Horror, Sci-Fi, Suspense",
-            "type": "anime",
-            "created_at": "2014-10-09",
-            "updated_at": "2026-07-10T08:19:15.000Z",
-            "year": "2014",
-            "score": 8.32000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
