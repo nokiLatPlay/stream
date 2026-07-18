@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 678,
+    "total_items": 679,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "26243",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1879\/148979l.jpg",
+            "titulo": "Owari no Seraph",
+            "titulo_original": "終わりのセラフ",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2015-04-04",
+            "updated_at": "2026-07-10T08:20:22.000Z",
+            "year": "2015",
+            "score": 7.4900000000000002131628207280300557613372802734375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "26055",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/11\/75045l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.7",
             "status": "Finished Airing",
             "episodes": "12"
-        },
-        {
-            "id_mal": "60619",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1651\/152063l.jpg",
-            "titulo": "Nageki no Bourei wa Intai shitai Part 2",
-            "titulo_original": "嘆きの亡霊は引退したい 第2クール",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2025-10-06",
-            "updated_at": "2026-03-18T05:54:20.000Z",
-            "year": "2025",
-            "score": "7.5",
-            "status": "Finished Airing",
-            "episodes": "11"
         }
     ]
 }
