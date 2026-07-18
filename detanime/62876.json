@@ -2,14 +2,13 @@
     "id_mal": "62876",
     "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
     "titulo_original": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました",
-    "imagen": "https://cdn.animeav1.com/covers/4393.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4393.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
     "etiquetas": "Comedy, Romance",
     "year": "2026",
     "type": "anime",
     "synopsis": "Hinako Konohana is the perfect young lady—graceful, elegant, and flawless… or so everyone thinks. Behind closed doors, she’s a total disaster who can’t handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he’s thrown into 24/7 damage control, maintaining her “perfect” image. It’s awkward, nonstop chaos—but it starts softening into something that feels like love…\n\n(Source: Crunchyroll)",
     "score": "7.2",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -18,14 +17,14 @@
         "Brain's Base",
         "Mainichi Broadcasting System",
         "King Records",
-        "MediaNet",
         "Hobby Japan",
-        "MAGNET",
-        "BS Asahi"
+        "MediaNet",
+        "BS Asahi",
+        "MAGNET"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T15:07:40.214228",
+    "updated_at": "2026-07-18T16:09:28.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -53,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/70f8e04cfa45290a22c066629e86ebbb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4393/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/43c2382e306f2b8236119e647b91429d",
                             "type": "mp4",
                             "language": "Sub"
                         }
