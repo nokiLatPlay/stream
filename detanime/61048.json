@@ -2,35 +2,34 @@
     "id_mal": "61048",
     "titulo": "Neko to Ryuu",
     "titulo_original": "猫と竜",
-    "imagen": "https://cdn.animeav1.com/covers/4367.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4367.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
     "etiquetas": "Adventure, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
     "score": "7.4",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "OLM",
-        "Docomo Anime Store",
-        "Yomiuri TV",
-        "MAGNET",
         "TOKYO MX",
-        "Pia",
+        "KLOCKWORX",
+        "Docomo Anime Store",
         "BS Nittele",
+        "Yomiuri TV",
+        "Bushiroad Move",
+        "Pia",
+        "MAGNET",
         "HIKE",
         "NTV Music",
-        "Bushiroad Move",
-        "KLOCKWORX",
         "Takarajimasha"
     ],
     "producers": [],
     "created_at": "2026-06-27",
-    "updated_at": "2026-07-13T04:11:54.484965",
+    "updated_at": "2026-07-18T12:54:39.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -72,6 +71,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/2001c7cdc495c11666415d4472bb87a4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4367/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/23c4bcd5ab4cc4d254de06d1e6534188",
                             "type": "mp4",
                             "language": "Sub"
                         }
