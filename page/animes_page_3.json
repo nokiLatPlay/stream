@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 679,
+    "total_items": 680,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "268",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/62867l.jpg",
+            "titulo": "Golden Boy",
+            "titulo_original": "ゴールデンボーイ",
+            "etiquetas": "Adventure, Comedy, Ecchi",
+            "type": "anime",
+            "created_at": "1995-10-27",
+            "updated_at": "2026-07-10T08:20:35.000Z",
+            "year": "1995",
+            "score": 8.03999999999999914734871708787977695465087890625,
+            "status": "Finished Airing",
+            "episodes": 6
+        },
         {
             "id_mal": "26243",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1879\/148979l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.5",
             "status": "Finished Airing",
             "episodes": "13"
-        },
-        {
-            "id_mal": "60564",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1011\/152084l.jpg",
-            "titulo": "Ranma ½ (2024) 2nd Season",
-            "titulo_original": "らんま1\/2 第2期",
-            "etiquetas": "Action, Comedy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-03-18T05:56:29.000Z",
-            "year": "2025",
-            "score": "7.7",
-            "status": "Finished Airing",
-            "episodes": "12"
         }
     ]
 }
