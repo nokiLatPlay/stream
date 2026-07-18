@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!\n(Source: Crunchyroll)",
     "score": "6.6",
-    "episodes": 1,
+    "episodes": 2,
     "status": "Currently Airing",
     "duration": "",
     "rating": "",
@@ -23,7 +23,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-12",
-    "updated_at": "2026-07-14T09:28:28.000Z",
+    "updated_at": "2026-07-18T16:07:15.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -43,6 +43,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a63bee88e30506692a267ef7cc63f485",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "https://cdn.animeav1.com/screenshots/4425/2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/00963ca263f1680b2761c4d1f766a880",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ab78ffaf57223ee0ae6b9a0b4fa907db",
                             "type": "mp4",
                             "language": "Sub"
                         }
