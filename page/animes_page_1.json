@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "61048",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx186863-AO4efoB8HuzA.png",
+            "titulo": "Neko to Ryuu",
+            "titulo_original": "猫と竜",
+            "etiquetas": "Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-06-27",
+            "updated_at": "2026-07-18T12:54:43.000Z",
+            "year": "2026",
+            "score": "7.4",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "61169",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx187538-fXVXKYUA3VV6.jpg",
             "titulo": "BLACK TORCH",
@@ -2537,20 +2551,6 @@
             "score": 6.38999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61048",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1878\/157796l.jpg",
-            "titulo": "Neko to Ryuu",
-            "titulo_original": "猫と竜",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-04",
-            "updated_at": "2026-07-10T09:07:05.000Z",
-            "year": "2026",
-            "score": 7.6500000000000003552713678800500929355621337890625,
-            "status": "Currently Airing",
-            "episodes": 3
         },
         {
             "id_mal": "61013",
