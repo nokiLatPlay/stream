@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62981",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx202508-dk6LEyevJYUY.jpg",
+            "titulo": "Kami no Shizuku",
+            "titulo_original": "神の雫",
+            "etiquetas": "Drama, Mystery, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-10",
+            "updated_at": "2026-07-17T23:42:21.000Z",
+            "year": "2026",
+            "score": "5.4",
+            "status": "Currently Airing",
+            "episodes": 15
+        },
+        {
             "id_mal": "59970",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx182205-q2AeO1owuQbO.jpg",
             "titulo": "Tensei Shitara Slime Datta Ken 4th Season",
@@ -1305,20 +1319,6 @@
             "score": 5.05999999999999960920149533194489777088165283203125,
             "status": "Finished Airing",
             "episodes": 8
-        },
-        {
-            "id_mal": "62981",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1863\/158831l.jpg",
-            "titulo": "Kami no Shizuku",
-            "titulo_original": "神の雫",
-            "etiquetas": "Drama, Gourmet, Mystery",
-            "type": "anime",
-            "created_at": "2026-04-10",
-            "updated_at": "2026-07-10T09:26:12.000Z",
-            "year": "2026",
-            "score": 5.87999999999999989341858963598497211933135986328125,
-            "status": "Currently Airing",
-            "episodes": 14
         },
         {
             "id_mal": "62964",
