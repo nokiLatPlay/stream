@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60505",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1845\/150343l.jpg",
+            "titulo": "Necronomico no Cosmic Horror Show",
+            "titulo_original": "ネクロノミ子のコズミックホラーショウ",
+            "etiquetas": "Supernatural, Suspense",
+            "type": "anime",
+            "created_at": "2025-07-01",
+            "updated_at": "2026-07-10T09:04:46.000Z",
+            "year": "2025",
+            "score": 6.12999999999999989341858963598497211933135986328125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "60460",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1151\/152479l.jpg",
             "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
@@ -2789,20 +2803,6 @@
             "score": 7.61000000000000031974423109204508364200592041015625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "28891",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76662l.jpg",
-            "titulo": "Haikyuu!! Second Season",
-            "titulo_original": "ハイキュー!! セカンドシーズン",
-            "etiquetas": "Sports",
-            "type": "anime",
-            "created_at": "2015-10-04",
-            "updated_at": "2026-07-10T08:21:48.000Z",
-            "year": "2015",
-            "score": 8.6099999999999994315658113919198513031005859375,
-            "status": "Finished Airing",
-            "episodes": 25
         }
     ]
 }
