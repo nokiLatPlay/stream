@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 687,
+    "total_items": 688,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60415",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx168116-emRtSAxmFObq.png",
+            "titulo": "Zuoshou Shanglan 2",
+            "titulo_original": "左手上篮 第二季",
+            "etiquetas": "Sports",
+            "type": "anime",
+            "created_at": "2024-12-20",
+            "updated_at": "2026-07-19T18:26:33.000Z",
+            "year": "2026",
+            "score": "6.9",
+            "status": "Finished Airing",
+            "episodes": 9
+        },
         {
             "id_mal": "21",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21-ELSYx3yMPcKM.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:05:25.000Z",
             "year": "2025",
             "score": 6.87000000000000010658141036401502788066864013671875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60523",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1313\/149355l.jpg",
-            "titulo": "Tsuihousha Shokudou e Youkoso!",
-            "titulo_original": "追放者食堂へようこそ!",
-            "etiquetas": "Fantasy, Gourmet",
-            "type": "anime",
-            "created_at": "2025-07-03",
-            "updated_at": "2026-07-10T09:05:03.000Z",
-            "year": "2025",
-            "score": 6.980000000000000426325641456060111522674560546875,
             "status": "Finished Airing",
             "episodes": 12
         }
