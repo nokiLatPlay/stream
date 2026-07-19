@@ -2,14 +2,13 @@
     "id_mal": "62048",
     "titulo": "MAO",
     "titulo_original": "MAO",
-    "imagen": "https://cdn.animeav1.com/covers/3935.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/3935.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
     "etiquetas": "Drama, Mystery, Romance, Supernatural",
     "year": "2026",
     "type": "anime",
     "synopsis": "A curse that binds past and present.\n\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.\n(Source: VIZ Media, Hulu, edited)",
     "score": "6.5",
-    "episodes": 14,
+    "episodes": 16,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -17,14 +16,14 @@
     "studios": [
         "Sunrise",
         "Bandai Namco Filmworks",
-        "Shogakukan",
-        "NHK Enterprises",
         "Shogakukan-Shueisha Productions",
+        "NHK Enterprises",
+        "Shogakukan",
         "Bandai Namco Music Live"
     ],
     "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-07-13T04:32:19.776743",
+    "updated_at": "2026-07-18T23:48:49.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -220,6 +219,34 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a8a83ec14fd9effa6697359b3a72a236",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "https://cdn.animeav1.com/screenshots/3935/15.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4501eb5ba20739aa2bc9ad3bbd4b90b1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "https://cdn.animeav1.com/screenshots/3935/16.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b9c20d625ed9af4bc1fb74142b569e38",
                             "type": "mp4",
                             "language": "Sub"
                         }
