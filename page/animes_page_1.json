@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62171",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196974-mZk1uyrx0XNx.png",
+            "titulo": "Kuroneko to Majo no Kyoushitsu",
+            "titulo_original": "黒猫と魔女の教室",
+            "etiquetas": "Fantasy",
+            "type": "anime",
+            "created_at": "2026-04-12",
+            "updated_at": "2026-07-19T18:17:59.000Z",
+            "year": "2026",
+            "score": "6.3",
+            "status": "Currently Airing",
+            "episodes": 15
+        },
+        {
             "id_mal": "59193",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx178789-hNXjKFzUq7mk.jpg",
             "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -2075,20 +2089,6 @@
             "score": 6.87999999999999989341858963598497211933135986328125,
             "status": "Finished Airing",
             "episodes": 26
-        },
-        {
-            "id_mal": "62171",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1716\/153989l.jpg",
-            "titulo": "Kuroneko to Majo no Kyoushitsu",
-            "titulo_original": "黒猫と魔女の教室",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-07-10T09:15:55.000Z",
-            "year": "2026",
-            "score": 6.4900000000000002131628207280300557613372802734375,
-            "status": "Currently Airing",
-            "episodes": 14
         },
         {
             "id_mal": "62164",
