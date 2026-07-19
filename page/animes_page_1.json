@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "56613",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169080-el4sMLlqMxeI.png",
+            "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "titulo_original": "アズールレーン びそくぜんしんっ！にっ！！",
+            "etiquetas": "Ecchi, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-19T18:21:15.000Z",
+            "year": "2026",
+            "score": "6.0",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "61240",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx188139-1qIJfWxym8FX.jpg",
             "titulo": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:04:46.000Z",
             "year": "2025",
             "score": 6.12999999999999989341858963598497211933135986328125,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60460",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1151\/152479l.jpg",
-            "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-            "titulo_original": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-10",
-            "updated_at": "2026-07-10T09:04:36.000Z",
-            "year": "2026",
-            "score": 7.20000000000000017763568394002504646778106689453125,
             "status": "Finished Airing",
             "episodes": 12
         }
