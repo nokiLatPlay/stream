@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 688,
+    "total_items": 689,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60582",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1977\/157419l.jpg",
+            "titulo": "Cengjing You Yongshi",
+            "titulo_original": "曾经有勇士",
+            "etiquetas": "Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2025-10-31",
+            "updated_at": "2026-07-10T09:05:25.000Z",
+            "year": "2025",
+            "score": 6.87000000000000010658141036401502788066864013671875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60523",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1313\/149355l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:22:11.000Z",
             "year": "2015",
             "score": 6.82000000000000028421709430404007434844970703125,
-            "status": "Finished Airing",
-            "episodes": 13
-        },
-        {
-            "id_mal": "28999",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1826\/147276l.jpg",
-            "titulo": "Charlotte",
-            "titulo_original": "Charlotte（シャーロット）",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "created_at": "2015-07-05",
-            "updated_at": "2026-07-10T08:22:04.000Z",
-            "year": "2015",
-            "score": 7.7599999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 13
         }
