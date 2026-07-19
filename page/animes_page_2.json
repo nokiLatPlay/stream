@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 687,
+    "total_items": 688,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60523",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1313\/149355l.jpg",
+            "titulo": "Tsuihousha Shokudou e Youkoso!",
+            "titulo_original": "追放者食堂へようこそ!",
+            "etiquetas": "Fantasy, Gourmet",
+            "type": "anime",
+            "created_at": "2025-07-03",
+            "updated_at": "2026-07-10T09:05:03.000Z",
+            "year": "2025",
+            "score": 6.980000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60505",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1845\/150343l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.7599999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "28927",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76632l.jpg",
-            "titulo": "Owari no Seraph: Nagoya Kessen-hen",
-            "titulo_original": "終わりのセラフ　名古屋決戦編",
-            "etiquetas": "Action, Drama, Fantasy",
-            "type": "anime",
-            "created_at": "2015-10-10",
-            "updated_at": "2026-07-10T08:21:57.000Z",
-            "year": "2015",
-            "score": 7.61000000000000031974423109204508364200592041015625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
