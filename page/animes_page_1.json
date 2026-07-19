@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 686,
+    "total_items": 687,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60572",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx191974-1tqbmtbkCpJ1.jpg",
+            "titulo": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+            "titulo_original": "鲲吞天下之掌门归来",
+            "etiquetas": "Action, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2025-05-01",
+            "updated_at": "2026-07-19T02:11:13.000Z",
+            "year": "2025",
+            "score": "7.5",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62048",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196012-R3YNjunufpYh.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:04:17.000Z",
             "year": "2026",
             "score": 6.62999999999999989341858963598497211933135986328125,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60395",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1033\/152494l.jpg",
-            "titulo": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "titulo_original": "透明男と人間女～そのうち夫婦になるふたり～",
-            "etiquetas": "Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-07-10T09:04:07.000Z",
-            "year": "2026",
-            "score": 7.61000000000000031974423109204508364200592041015625,
             "status": "Finished Airing",
             "episodes": 12
         }
