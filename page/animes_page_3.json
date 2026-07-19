@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 688,
+    "total_items": 689,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28999",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1826\/147276l.jpg",
+            "titulo": "Charlotte",
+            "titulo_original": "Charlotte（シャーロット）",
+            "etiquetas": "Drama",
+            "type": "anime",
+            "created_at": "2015-07-05",
+            "updated_at": "2026-07-10T08:22:04.000Z",
+            "year": "2015",
+            "score": 7.7599999999999997868371792719699442386627197265625,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "28927",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76632l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.4",
             "status": "Finished Airing",
             "episodes": "11"
-        },
-        {
-            "id_mal": "58146",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1347\/150603l.jpg",
-            "titulo": "Tensei Akujo no Kuro Rekishi",
-            "titulo_original": "転生悪女の黒歴史",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2025-10-09",
-            "updated_at": "2026-03-18T05:59:06.000Z",
-            "year": "2025",
-            "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": "12"
         }
     ]
 }
