@@ -2,30 +2,29 @@
     "id_mal": "62171",
     "titulo": "Kuroneko to Majo no Kyoushitsu",
     "titulo_original": "黒猫と魔女の教室",
-    "imagen": "https://cdn.animeav1.com/covers/3987.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/3987.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
     "etiquetas": "Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n\n(Source: K Manga)",
-    "score": "6.2",
-    "episodes": 14,
+    "score": "6.3",
+    "episodes": 15,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
         "LIDENFILMS",
+        "Kodansha",
         "Dentsu",
         "Good Smile Company",
-        "Kodansha",
-        "CBC TV",
         "Ultra Super Pictures",
+        "CBC TV",
         "D-techno"
     ],
     "producers": [],
     "created_at": "2026-04-12",
-    "updated_at": "2026-07-13T14:58:09.888604",
+    "updated_at": "2026-07-19T18:17:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -221,6 +220,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0f49de3f6160493b32702d87d8e44be0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "numero": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "https://cdn.animeav1.com/screenshots/3987/15.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f7dbe9029732bac79297c2d907f9295f",
                             "type": "mp4",
                             "language": "Sub"
                         }
