@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "21",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21-ELSYx3yMPcKM.jpg",
+            "titulo": "ONE PIECE",
+            "titulo_original": "ONE PIECE",
+            "etiquetas": "Action, Adventure, Comedy, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "1999-10-20",
+            "updated_at": "2026-07-19T18:22:50.000Z",
+            "year": "1999",
+            "score": "8.7",
+            "status": "Currently Airing",
+            "episodes": 1170
+        },
+        {
             "id_mal": "56613",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx169080-el4sMLlqMxeI.png",
             "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:05:03.000Z",
             "year": "2025",
             "score": 6.980000000000000426325641456060111522674560546875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60505",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1845\/150343l.jpg",
-            "titulo": "Necronomico no Cosmic Horror Show",
-            "titulo_original": "ネクロノミ子のコズミックホラーショウ",
-            "etiquetas": "Supernatural, Suspense",
-            "type": "anime",
-            "created_at": "2025-07-01",
-            "updated_at": "2026-07-10T09:04:46.000Z",
-            "year": "2025",
-            "score": 6.12999999999999989341858963598497211933135986328125,
             "status": "Finished Airing",
             "episodes": 12
         }
