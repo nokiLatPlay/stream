@@ -2,31 +2,30 @@
     "id_mal": "59193",
     "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "titulo_original": "無職転生Ⅲ ～異世界行ったら本気だす～",
-    "imagen": "https://cdn.animeav1.com/covers/4384.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4384.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
     "etiquetas": "Adventure, Drama, Ecchi, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
     "score": "8.6",
-    "episodes": 2,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
         "Studio Bind",
-        "Hakuhodo DY Music & Pictures",
-        "Toho",
         "KADOKAWA",
+        "Toho",
+        "EGG FIRM",
         "Frontier Works",
         "BS11",
-        "GREE Entertainment",
-        "EGG FIRM"
+        "Hakuhodo DY Music & Pictures",
+        "GREE Entertainment"
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-10T23:06:28.121150",
+    "updated_at": "2026-07-19T18:17:08.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -54,6 +53,34 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/d341546f6edc1c92c102e19f02a53694",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4384/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d5e7e0631e111cd481aad5f148336a8d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4384/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/186f10b862eef5a9dc452a5352d2c8b5",
                             "type": "mp4",
                             "language": "Sub"
                         }
