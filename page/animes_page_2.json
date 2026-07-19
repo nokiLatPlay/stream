@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60449",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1052\/148743l.jpg",
+            "titulo": "Kidou Senshi Gundam: GQuuuuuuX",
+            "titulo_original": "機動戦士 Gundam GQuuuuuuX",
+            "etiquetas": "Award Winning, Sci-Fi",
+            "type": "anime",
+            "created_at": "2025-04-09",
+            "updated_at": "2026-07-10T09:04:26.000Z",
+            "year": "2025",
+            "score": 6.980000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "60444",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774l.jpg",
             "titulo": "Yowayowa Sensei",
@@ -535,20 +549,6 @@
             "score": 7.82000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "58878",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1411\/156343l.jpg",
-            "titulo": "Sayonara Lara",
-            "titulo_original": "さよならララ",
-            "etiquetas": "Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-07-06",
-            "updated_at": "2026-07-10T08:56:23.000Z",
-            "year": "2026",
-            "score": 7.70999999999999996447286321199499070644378662109375,
-            "status": "Currently Airing",
-            "episodes": 1
         },
         {
             "id_mal": "58877",
