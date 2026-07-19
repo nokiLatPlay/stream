@@ -2,32 +2,31 @@
     "id_mal": "63100",
     "titulo": "Tetsunabe no Jan!",
     "titulo_original": "鉄鍋のジャン！",
-    "imagen": "https://cdn.animeav1.com/covers/4397.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4397.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg",
     "etiquetas": "Action, Comedy",
     "year": "2026",
     "type": "anime",
     "synopsis": "Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.",
-    "score": "6.7",
-    "episodes": 2,
+    "score": "6.8",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
     "source": "MANGA",
     "studios": [
+        "TV Tokyo",
         "TROYCA",
         "NBCUniversal Entertainment Japan",
+        "KLOCKWORX",
         "REMOW",
         "Marvelous",
-        "TV Tokyo",
         "JR Higashi Nihon Kikaku",
-        "Fujishouji",
-        "KLOCKWORX",
-        "arma bianca"
+        "arma bianca",
+        "Fujishouji"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T15:12:51.394283",
+    "updated_at": "2026-07-19T18:13:21.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -55,6 +54,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/44c7cdd2997c0239fd12c53b06cece97",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4397/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/da9688036aba7f5b709ca86dc3482023",
                             "type": "mp4",
                             "language": "Sub"
                         }
