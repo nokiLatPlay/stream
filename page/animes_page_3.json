@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 687,
+    "total_items": 688,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28927",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76632l.jpg",
+            "titulo": "Owari no Seraph: Nagoya Kessen-hen",
+            "titulo_original": "終わりのセラフ　名古屋決戦編",
+            "etiquetas": "Action, Drama, Fantasy",
+            "type": "anime",
+            "created_at": "2015-10-10",
+            "updated_at": "2026-07-10T08:21:57.000Z",
+            "year": "2015",
+            "score": 7.61000000000000031974423109204508364200592041015625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "28891",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/76662l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-18T05:59:06.000Z",
             "year": "2025",
             "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": "12"
-        },
-        {
-            "id_mal": "57025",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1206\/151772l.jpg",
-            "titulo": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "titulo_original": "とんでもスキルで異世界放浪メシ2",
-            "etiquetas": "Adventure, Comedy, Fantasy, Gourmet",
-            "type": "anime",
-            "created_at": "2025-10-08",
-            "updated_at": "2026-03-18T05:59:02.000Z",
-            "year": "2025",
-            "score": "7.7",
             "status": "Finished Airing",
             "episodes": "12"
         }
