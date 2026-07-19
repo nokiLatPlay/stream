@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62048",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx196012-R3YNjunufpYh.jpg",
+            "titulo": "MAO",
+            "titulo_original": "MAO",
+            "etiquetas": "Drama, Mystery, Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-04",
+            "updated_at": "2026-07-18T23:48:52.000Z",
+            "year": "2026",
+            "score": "6.5",
+            "status": "Currently Airing",
+            "episodes": 16
+        },
+        {
             "id_mal": "44388",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx122508-yLRQuo5FskpL.png",
             "titulo": "Biaoren",
@@ -2117,20 +2131,6 @@
             "score": 7.1699999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62048",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156386l.jpg",
-            "titulo": "Mao",
-            "titulo_original": "MAO",
-            "etiquetas": "Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-07-10T09:13:31.000Z",
-            "year": "2026",
-            "score": 6.9900000000000002131628207280300557613372802734375,
-            "status": "Currently Airing",
-            "episodes": 14
         },
         {
             "id_mal": "62018",
