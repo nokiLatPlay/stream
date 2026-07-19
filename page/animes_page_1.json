@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63100",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx204060-bKhovD8jAlW8.jpg",
+            "titulo": "Tetsunabe no Jan!",
+            "titulo_original": "鉄鍋のジャン！",
+            "etiquetas": "Action, Comedy",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-19T18:13:24.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "62683",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx200230-YuzdgbXSgi38.png",
             "titulo": "Let's Go Kaikigumi",
@@ -1711,20 +1725,6 @@
             "score": 6.03000000000000024868995751603506505489349365234375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "63100",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1961\/158686l.jpg",
-            "titulo": "Tetsunabe no Jan!",
-            "titulo_original": "鉄鍋のジャン！",
-            "etiquetas": "Action, Comedy, Gourmet",
-            "type": "anime",
-            "created_at": "2026-07-05",
-            "updated_at": "2026-07-10T09:28:44.000Z",
-            "year": "2026",
-            "score": 7.019999999999999573674358543939888477325439453125,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "63087",
