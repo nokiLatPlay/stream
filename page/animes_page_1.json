@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59193",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx178789-hNXjKFzUq7mk.jpg",
+            "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "titulo_original": "無職転生Ⅲ ～異世界行ったら本気だす～",
+            "etiquetas": "Adventure, Drama, Ecchi, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-04",
+            "updated_at": "2026-07-19T18:17:12.000Z",
+            "year": "2026",
+            "score": "8.6",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "62811",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx200637-QLR5uv9SbQ69.jpg",
             "titulo": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:04:26.000Z",
             "year": "2025",
             "score": 6.980000000000000426325641456060111522674560546875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60444",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774l.jpg",
-            "titulo": "Yowayowa Sensei",
-            "titulo_original": "よわよわ先生",
-            "etiquetas": "Comedy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2026-04-11",
-            "updated_at": "2026-07-10T09:04:17.000Z",
-            "year": "2026",
-            "score": 6.62999999999999989341858963598497211933135986328125,
             "status": "Finished Airing",
             "episodes": 12
         }
