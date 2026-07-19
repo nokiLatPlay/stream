@@ -2,30 +2,29 @@
     "id_mal": "62435",
     "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
     "titulo_original": "世界最強の後衛 ～迷宮国の新人探索者～",
-    "imagen": "https://cdn.animeav1.com/covers/4398.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4398.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
     "etiquetas": "Action, Adventure, Fantasy",
     "year": "2026",
     "type": "anime",
     "synopsis": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n\n(Source: Crunchyroll)",
-    "score": "5.8",
-    "episodes": 2,
+    "score": "5.9",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
-        "Maho Film",
-        "Yomiuri TV Enterprise",
         "KADOKAWA",
         "Maho Film",
+        "Maho Film",
         "King Records",
+        "KLOCKWORX",
         "MUSE",
-        "KLOCKWORX"
+        "Yomiuri TV Enterprise"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-13T15:02:08.769699",
+    "updated_at": "2026-07-19T18:14:02.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -53,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3cc6fb9b92b0c6e5d55a11c2bb9fc972",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4398/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8edf238602f8ede13b3ee76bd6c1420c",
                             "type": "mp4",
                             "language": "Sub"
                         }
