@@ -1060,11 +1060,11 @@
             "id_mal": "58878",
             "titulo": "Sayonara Lara",
             "last_episode": {
-                "episode_id": "01",
-                "numero": 1,
-                "nombre": "Episodio 1",
-                "imagen": "",
-                "updated_at": "2026-07-09T21:08:47.000Z"
+                "episode_id": "02",
+                "numero": 2,
+                "nombre": "Episodio 2",
+                "imagen": "https://cdn.animeav1.com/screenshots/4401/2.jpg",
+                "updated_at": "2026-07-19T18:19:43.000Z"
             }
         },
         {
@@ -1398,5 +1398,5 @@
             }
         }
     ],
-    "updated_at": "2026-07-19T18:18:43.000Z"
+    "updated_at": "2026-07-19T18:19:43.000Z"
 }
