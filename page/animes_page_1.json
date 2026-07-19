@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 685,
+    "total_items": 686,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "44388",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx122508-yLRQuo5FskpL.png",
+            "titulo": "Biaoren",
+            "titulo_original": "镖人",
+            "etiquetas": "Action, Adventure, Drama",
+            "type": "anime",
+            "created_at": "2023-06-01",
+            "updated_at": "2026-07-18T23:09:23.000Z",
+            "year": "2026",
+            "score": "7.3",
+            "status": "Finished Airing",
+            "episodes": 15
+        },
         {
             "id_mal": "62876",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx201514-BHAeWhSbcBrT.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:04:07.000Z",
             "year": "2026",
             "score": 7.61000000000000031974423109204508364200592041015625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "60371",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1140\/154457l.jpg",
-            "titulo": "Seihantai na Kimi to Boku",
-            "titulo_original": "正反対な君と僕",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2026-01-11",
-            "updated_at": "2026-07-10T09:03:56.000Z",
-            "year": "2026",
-            "score": 8.2799999999999993605115378159098327159881591796875,
             "status": "Finished Airing",
             "episodes": 12
         }
