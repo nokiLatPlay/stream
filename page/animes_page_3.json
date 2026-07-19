@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 685,
+    "total_items": 686,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "28025",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/68259l.jpg",
+            "titulo": "Tsukimonogatari",
+            "titulo_original": "憑物語",
+            "etiquetas": "Comedy, Mystery, Supernatural, Ecchi",
+            "type": "anime",
+            "created_at": "2014-12-31",
+            "updated_at": "2026-07-10T08:21:26.000Z",
+            "year": "2014",
+            "score": 8.0800000000000000710542735760100185871124267578125,
+            "status": "Finished Airing",
+            "episodes": 4
+        },
         {
             "id_mal": "2800",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1014\/155437l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-18T05:58:56.000Z",
             "year": "2025",
             "score": "6.7",
-            "status": "Finished Airing",
-            "episodes": "12"
-        },
-        {
-            "id_mal": "54757",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1823\/154120l.jpg",
-            "titulo": "3-nen Z-gumi Ginpachi-sensei",
-            "titulo_original": "銀魂 3年Z組銀八先生",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-10-07",
-            "updated_at": "2026-03-18T05:58:52.000Z",
-            "year": "2025",
-            "score": "7.7",
             "status": "Finished Airing",
             "episodes": "12"
         }
