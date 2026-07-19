@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "60444",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774l.jpg",
+            "titulo": "Yowayowa Sensei",
+            "titulo_original": "よわよわ先生",
+            "etiquetas": "Comedy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2026-04-11",
+            "updated_at": "2026-07-10T09:04:17.000Z",
+            "year": "2026",
+            "score": 6.62999999999999989341858963598497211933135986328125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "60395",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1033\/152494l.jpg",
             "titulo": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
@@ -465,20 +479,6 @@
             "score": 5.6500000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "59193",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1527\/158340l.jpg",
-            "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-            "titulo_original": "無職転生 III ～異世界行ったら本気だす～",
-            "etiquetas": "Adventure, Drama, Fantasy, Ecchi",
-            "type": "anime",
-            "created_at": "2026-07-06",
-            "updated_at": "2026-07-10T08:57:29.000Z",
-            "year": "2026",
-            "score": 8.980000000000000426325641456060111522674560546875,
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "59150",
