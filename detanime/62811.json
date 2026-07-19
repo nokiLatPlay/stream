@@ -2,30 +2,29 @@
     "id_mal": "62811",
     "titulo": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
     "titulo_original": "君のことが大大大大大好きな100人の彼女 第3期",
-    "imagen": "https://cdn.animeav1.com/covers/4399.jpg",
-    "backdrop": "https://cdn.animeav1.com/backdrops/4399.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
     "etiquetas": "Comedy, Ecchi, Romance",
     "year": "2026",
     "type": "anime",
     "synopsis": "The third season of Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.",
     "score": "8.0",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
     "source": "MANGA",
     "studios": [
-        "Bandai Namco Filmworks",
-        "Bibury Animation Studios",
         "Shueisha",
-        "Bandai Namco Music Live",
-        "Bushiroad",
+        "Bibury Animation Studios",
         "Movic",
-        "TOKYO MX"
+        "Bushiroad",
+        "Bandai Namco Filmworks",
+        "TOKYO MX",
+        "Bandai Namco Music Live"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-14T04:15:50.455423",
+    "updated_at": "2026-07-19T18:15:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -53,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/894e917c313db0b3e8bd4d3424560d91",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4399/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/870c6e2a8898431439f2c9a5263f18ca",
                             "type": "mp4",
                             "language": "Sub"
                         }
