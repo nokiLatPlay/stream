@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62936",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx202269-7KNj8s2fSsJJ.jpg",
+            "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "titulo_original": "透明な夜に駆ける君と、目に見えない恋をした。",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-20T20:25:51.000Z",
+            "year": "2026",
+            "score": "7.7",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "51288",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx131485-RkSECXHoJUSx.jpg",
             "titulo": "Zuoshou Shanglan",
@@ -1639,20 +1653,6 @@
             "updated_at": "2026-07-14T06:35:35.000Z",
             "year": "2026",
             "score": "6.9",
-            "status": "Currently Airing",
-            "episodes": 2
-        },
-        {
-            "id_mal": "62936",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx202269-7KNj8s2fSsJJ.jpg",
-            "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "titulo_original": "透明な夜に駆ける君と、目に見えない恋をした。",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "created_at": "2026-07-06",
-            "updated_at": "2026-07-14T06:25:20.000Z",
-            "year": "2026",
-            "score": "7.6",
             "status": "Currently Airing",
             "episodes": 2
         },
