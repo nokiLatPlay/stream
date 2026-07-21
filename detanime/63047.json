@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The second part of Yoroi Shinden Samurai Troopers.",
     "score": "",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -19,15 +19,15 @@
         "Avex Pictures",
         "TOKYO MX",
         "Bandai Namco Entertainment",
-        "BS11",
         "BANDAI SPIRITS",
+        "BS11",
         "Kansai TV",
         "U-NEXT",
         "qooop"
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-15T05:20:34.000Z",
+    "updated_at": "2026-07-21T14:02:35.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -55,6 +55,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/4c5958adc80eb120e44df99d92fae1be",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4411/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/151cd8bed18e204c5fae58aae58fd860",
                             "type": "mp4",
                             "language": "Sub"
                         }
