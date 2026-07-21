@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62331",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx197754-Q5KqcUhIdypp.png",
+            "titulo": "LIAR GAME",
+            "titulo_original": "LIAR GAME",
+            "etiquetas": "Drama, Psychological",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-07-21T00:57:18.000Z",
+            "year": "2026",
+            "score": "6.1",
+            "status": "Currently Airing",
+            "episodes": 16
+        },
+        {
             "id_mal": "63752",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx209504-yRxHWxKuNGtg.jpg",
             "titulo": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
@@ -2159,20 +2173,6 @@
             "score": 6.94000000000000039079850466805510222911834716796875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62331",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1984\/158634l.jpg",
-            "titulo": "Liar Game",
-            "titulo_original": "LIAR GAME",
-            "etiquetas": "Drama, Suspense",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-07-10T09:17:04.000Z",
-            "year": "2026",
-            "score": 6.3499999999999996447286321199499070644378662109375,
-            "status": "Currently Airing",
-            "episodes": 15
         },
         {
             "id_mal": "62246",
