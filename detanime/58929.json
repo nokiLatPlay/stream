@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.   Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation.  What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  \n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
-    "score": "7.8",
-    "episodes": 2,
+    "score": "7.7",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -25,7 +25,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-15T05:03:41.000Z",
+    "updated_at": "2026-07-21T14:00:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -65,6 +65,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/24ca7ffccc6a2a85b0fd6f2088da2b21",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4414/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/d09778fd5962286f2e63c3591bd9b9c4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e2290df29ec738cef6e205fac473bfff",
                             "type": "mp4",
                             "language": "Sub"
                         }
