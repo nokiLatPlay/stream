@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "On an April night in Tokyo, still too early for fireworks, university student Kakeru Sorano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see.\n\nUnlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side\n\n(Source: Yen Press)",
-    "score": "7.6",
-    "episodes": 2,
+    "score": "7.7",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -16,15 +16,15 @@
     "studios": [
         "AT-X",
         "Shouchiku",
-        "SB Creative",
         "Makaria",
+        "SB Creative",
         "Makaria",
         "viviON",
         "Clare Voice"
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-14T06:25:18.000Z",
+    "updated_at": "2026-07-20T20:25:48.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -52,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/1a9959f13a0c0ef52339f4e14ccf077c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4404/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7decd290cc5dafbca47f74a011d061c1",
                             "type": "mp4",
                             "language": "Sub"
                         }
