@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Driven to the brink of despair, restaurant owner Ming forms an unlikely bond with the soul of the true King Lie after swallowing it to save his loved one. Bound together by fate, the two embark on a perilous journey to challenge the tyrant who has usurped the throne.\nWith only one hundred days to change their destiny, Ming uses his extraordinary memory to master long-lost magic, gathering allies and winning the support of the people along the way. As their strength grows, so does their resolve to overthrow a corrupt regime, reclaim the rightful king's throne, and restore peace to the realm.\n(Source: Bilibili TV)",
     "score": "6.0",
-    "episodes": 8,
+    "episodes": 9,
     "status": "Currently Airing",
     "duration": "",
     "rating": "",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-17T23:38:14.000Z",
+    "updated_at": "2026-07-21T13:56:27.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -131,6 +131,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/7f9395f4d5b5275656c708e3d2304ef5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "numero": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https://cdn.animeav1.com/screenshots/4378/9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/03d64981c233c9c805176b88f1bc0fd7",
                             "type": "mp4",
                             "language": "Sub"
                         }
