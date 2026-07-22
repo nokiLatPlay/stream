@@ -5,7 +5,7 @@
     "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
     "etiquetas": "Action, Adventure, Comedy, Sci-Fi",
     "year": "2015",
-    "type": "anime",
+    "type": "movie",
     "synopsis": "One peaceful day on Earth, two remnants of Freeza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Freeza. They succeed, and Freeza subsequently seeks revenge on the Saiyans.",
     "score": "6.7",
     "episodes": 1,
@@ -20,17 +20,8 @@
     ],
     "producers": [],
     "created_at": "2015-04-18",
-    "updated_at": "2026-07-22T05:55:12.000Z",
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "capitulos": [
-                {
-                    "episode_id": "15",
-                    "numero": 15,
-                    "nombre": "Episodio 15",
-                    "portada": "https://cdn.animeav1.com/screenshots/1329/15.jpg",
-                    "enlaces": [
+    "updated_at": "2026-07-22T05:55:12.000Z",         
+    "enlaces": [
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/2376c75d4adeb8da746cd0fc35e0cd4b",
@@ -38,8 +29,4 @@
                             "language": "Latino"
                         }
                     ]
-                }
-            ]
-        }
-    ]
 }
