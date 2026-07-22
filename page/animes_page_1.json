@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 700,
+    "total_items": 701,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "42282",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx120209-7eQk3UKmkQun.jpg",
+            "titulo": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+            "titulo_original": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ",
+            "etiquetas": "Comedy, Fantasy, Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2021-07-03",
+            "updated_at": "2026-07-22T18:16:39.000Z",
+            "year": "2021",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "50461",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx142074-pHe4bX791PJh.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.769999999999999573674358543939888477325439453125,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "61150",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1933\/150503l.jpg",
-            "titulo": "Onmyou Kaiten Re:Birth",
-            "titulo_original": "陰陽廻天 Re:バース",
-            "etiquetas": "Action, Fantasy, Sci-Fi",
-            "type": "anime",
-            "created_at": "2025-07-03",
-            "updated_at": "2026-07-10T09:08:04.000Z",
-            "year": "2025",
-            "score": 6.46999999999999975131004248396493494510650634765625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
