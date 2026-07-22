@@ -1,9 +1,23 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 702,
+    "total_items": 703,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60131",
+            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1801\/150665l.jpg",
+            "titulo": "Karaoke Iko!",
+            "titulo_original": "カラオケ行こ!",
+            "etiquetas": "Comedy",
+            "type": "anime",
+            "created_at": "2025-07-24",
+            "updated_at": "2026-03-18T06:42:36.000Z",
+            "year": "2025",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 5
+        },
         {
             "id_mal": "57969",
             "imagen": "https:\/\/myanimelist.net\/images\/anime\/1587\/149982l.jpg",
