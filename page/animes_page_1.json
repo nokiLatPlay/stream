@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "49233",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx135865-T7XIPMAbqcxN.png",
+            "titulo": "Youjo Senki II",
+            "titulo_original": "幼女戦記Ⅱ",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-08",
+            "updated_at": "2026-07-22T11:34:20.000Z",
+            "year": "2026",
+            "score": "8.1",
+            "status": "Currently Airing",
+            "episodes": 3
+        },
+        {
             "id_mal": "62513",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198946-IGXmbqBEYRYD.jpg",
             "titulo": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
@@ -1417,20 +1431,6 @@
             "score": "6.9",
             "status": "Currently Airing",
             "episodes": 4
-        },
-        {
-            "id_mal": "49233",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx135865-T7XIPMAbqcxN.png",
-            "titulo": "Youjo Senki II",
-            "titulo_original": "幼女戦記Ⅱ",
-            "etiquetas": "Action, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-08",
-            "updated_at": "2026-07-16T07:28:25.000Z",
-            "year": "2026",
-            "score": "8.2",
-            "status": "Currently Airing",
-            "episodes": 2
         },
         {
             "id_mal": "52031",
