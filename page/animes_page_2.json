@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 699,
+    "total_items": 700,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61128",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1486\/153135l.jpg",
+            "titulo": "Yuusha Party wo Oidasareta Kiyoubinbou",
+            "titulo_original": "勇者パーティを追い出された器用貧乏",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-01-04",
+            "updated_at": "2026-07-10T09:07:56.000Z",
+            "year": "2026",
+            "score": 6.6500000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61114",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1864\/155472l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:24:05.000Z",
             "year": "2016",
             "score": 6.660000000000000142108547152020037174224853515625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "31223",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/78120l.jpg",
-            "titulo": "Phantasy Star Online 2 The Animation",
-            "titulo_original": "ファンタシースターオンライン２ ジ アニメーション",
-            "etiquetas": "Action, Sci-Fi",
-            "type": "anime",
-            "created_at": "2016-01-08",
-            "updated_at": "2026-07-10T08:23:54.000Z",
-            "year": "2016",
-            "score": 6.32000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 12
         }
