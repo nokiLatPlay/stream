@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 691,
+    "total_items": 692,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "29974",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/73657l.jpg",
+            "titulo": "Diabolik Lovers More,Blood",
+            "titulo_original": "DIABOLIK LOVERS MORE,BLOOD",
+            "etiquetas": "Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2015-09-24",
+            "updated_at": "2026-07-10T08:22:37.000Z",
+            "year": "2015",
+            "score": 5.5099999999999997868371792719699442386627197265625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "2993",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/75242l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.2",
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "59005",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1033\/150371l.jpg",
-            "titulo": "Leviathan",
-            "titulo_original": "リヴァイアサン",
-            "etiquetas": "Adventure, Sci-Fi",
-            "type": "anime",
-            "created_at": "2025-07-10",
-            "updated_at": "2026-03-18T06:12:30.000Z",
-            "year": "2025",
-            "score": "6.8",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
