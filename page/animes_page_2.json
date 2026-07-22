@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 696,
+    "total_items": 697,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61067",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1296\/152147l.jpg",
+            "titulo": "Ninja to Gokudou",
+            "titulo_original": "忍者と極道",
+            "etiquetas": "Action",
+            "type": "anime",
+            "created_at": "2025-10-08",
+            "updated_at": "2026-07-10T09:07:15.000Z",
+            "year": "2025",
+            "score": 6.38999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61013",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.089999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "30749",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/76664l.jpg",
-            "titulo": "Saijaku Muhai no Bahamut",
-            "titulo_original": "最弱無敗の神装機竜《バハムート》",
-            "etiquetas": "Action, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2016-01-11",
-            "updated_at": "2026-07-10T08:23:34.000Z",
-            "year": "2016",
-            "score": 6.5099999999999997868371792719699442386627197265625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
