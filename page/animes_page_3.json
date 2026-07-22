@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 702,
+    "total_items": 703,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "31580",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/77968l.jpg",
+            "titulo": "Ajin",
+            "titulo_original": "亜人",
+            "etiquetas": "Action, Horror, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2016-01-16",
+            "updated_at": "2026-07-10T08:24:28.000Z",
+            "year": "2016",
+            "score": 7.37000000000000010658141036401502788066864013671875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "31442",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/78339l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-18T06:43:08.000Z",
             "year": "2025",
             "score": "7.3",
-            "status": "Finished Airing",
-            "episodes": 5
-        },
-        {
-            "id_mal": "60131",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1801\/150665l.jpg",
-            "titulo": "Karaoke Iko!",
-            "titulo_original": "カラオケ行こ!",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-07-24",
-            "updated_at": "2026-03-18T06:42:36.000Z",
-            "year": "2025",
-            "score": "7.6",
             "status": "Finished Airing",
             "episodes": 5
         }
