@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 690,
+    "total_items": 691,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "2993",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/75242l.jpg",
+            "titulo": "Rosario to Vampire",
+            "titulo_original": "ロザリオとバンパイア",
+            "etiquetas": "Comedy, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2008-01-03",
+            "updated_at": "2026-07-10T08:22:25.000Z",
+            "year": "2008",
+            "score": 6.730000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "29785",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/74042l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.8",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61694",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1084\/149783l.jpg",
-            "titulo": "Android wa Keiken Ninzuu ni Hairimasu ka??",
-            "titulo_original": "アンドロイドは経験人数に入りますか??",
-            "etiquetas": "Girls Love, Sci-Fi, Erotica",
-            "type": "anime",
-            "created_at": "2026-01-10",
-            "updated_at": "2026-03-18T06:11:28.000Z",
-            "year": "2026",
-            "score": "6.2",
-            "status": "Finished Airing",
-            "episodes": "8"
         }
     ]
 }
