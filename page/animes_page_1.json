@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 699,
+    "total_items": 700,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "50461",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx142074-pHe4bX791PJh.jpg",
+            "titulo": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+            "titulo_original": "乙女ゲー世界はモブに厳しい世界です",
+            "etiquetas": "Action, Fantasy, Mecha, Romance",
+            "type": "anime",
+            "created_at": "2022-04-03",
+            "updated_at": "2026-07-22T18:15:18.000Z",
+            "year": "2022",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "63316",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx184356-SlFIstXUXJYP.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:08:04.000Z",
             "year": "2025",
             "score": 6.46999999999999975131004248396493494510650634765625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61128",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1486\/153135l.jpg",
-            "titulo": "Yuusha Party wo Oidasareta Kiyoubinbou",
-            "titulo_original": "勇者パーティを追い出された器用貧乏",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-07-10T09:07:56.000Z",
-            "year": "2026",
-            "score": 6.6500000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
         }
