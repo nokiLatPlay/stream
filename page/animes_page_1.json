@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 695,
+    "total_items": 696,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "223",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx223-scE5uJfXqqj8.png",
+            "titulo": "Dragon Ball",
+            "titulo_original": "ドラゴンボール",
+            "etiquetas": "Action, Adventure, Comedy, Fantasy, Sci-Fi, Supernatural",
+            "type": "anime",
+            "created_at": "1986-02-26",
+            "updated_at": "2026-07-22T05:49:23.000Z",
+            "year": "1986",
+            "score": "7.8",
+            "status": "Finished Airing",
+            "episodes": 153
+        },
         {
             "id_mal": "49926",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx129874-g6ZKXB94Hui1.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.38999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61013",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg",
-            "titulo": "Replica datte, Koi wo Suru.",
-            "titulo_original": "レプリカだって、恋をする。",
-            "etiquetas": "Drama, Romance, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-07-10T09:06:54.000Z",
-            "year": "2026",
-            "score": 7.0800000000000000710542735760100185871124267578125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
