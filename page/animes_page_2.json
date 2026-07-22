@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 690,
+    "total_items": 691,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60658",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1221\/148863l.jpg",
+            "titulo": "Hibi wa Sugiredo Meshi Umashi",
+            "titulo_original": "日々は過ぎれど飯うまし",
+            "etiquetas": "Gourmet",
+            "type": "anime",
+            "created_at": "2025-04-13",
+            "updated_at": "2026-07-10T09:06:05.000Z",
+            "year": "2025",
+            "score": 7.7599999999999997868371792719699442386627197265625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "60602",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1419\/154458l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 5.5099999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "2993",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/75242l.jpg",
-            "titulo": "Rosario to Vampire",
-            "titulo_original": "ロザリオとバンパイア",
-            "etiquetas": "Comedy, Fantasy, Romance, Ecchi",
-            "type": "anime",
-            "created_at": "2008-01-03",
-            "updated_at": "2026-07-10T08:22:25.000Z",
-            "year": "2008",
-            "score": 6.730000000000000426325641456060111522674560546875,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
