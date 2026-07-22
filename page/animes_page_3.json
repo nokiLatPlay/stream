@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 697,
+    "total_items": 698,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30831",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1895\/142748l.jpg",
+            "titulo": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "titulo_original": "この素晴らしい世界に祝福を！",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2016-01-14",
+            "updated_at": "2026-07-10T08:23:39.000Z",
+            "year": "2016",
+            "score": 8.089999999999999857891452847979962825775146484375,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "30749",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/76664l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.4",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "60285",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1758\/148719l.jpg",
-            "titulo": "Sakamoto Days Part 2",
-            "titulo_original": "SAKAMOTO DAYS 第２クール",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2025-07-15",
-            "updated_at": "2026-03-18T06:38:14.000Z",
-            "year": "2025",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 11
         }
     ]
 }
