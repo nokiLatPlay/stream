@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 695,
+    "total_items": 696,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61013",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg",
+            "titulo": "Replica datte, Koi wo Suru.",
+            "titulo_original": "レプリカだって、恋をする。",
+            "etiquetas": "Drama, Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-07",
+            "updated_at": "2026-07-10T09:06:54.000Z",
+            "year": "2026",
+            "score": 7.0800000000000000710542735760100185871124267578125,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "60852",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1565\/154933l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.5099999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "30736",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/85564l.jpg",
-            "titulo": "Shingeki no Bahamut: Virgin Soul",
-            "titulo_original": "神撃のバハムート VIRGIN SOUL",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2017-04-08",
-            "updated_at": "2026-07-10T08:23:23.000Z",
-            "year": "2017",
-            "score": 7.42999999999999971578290569595992565155029296875,
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
