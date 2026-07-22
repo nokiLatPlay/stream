@@ -1,9 +1,24 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 99,
+    "total_items": 100,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "48903",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx133898-KdQ7fWTG06n4.png",
+            "titulo": "Dragon Ball Super: Super Hero",
+            "titulo_original": "ドラゴンボール超 スーパーヒーロー",
+            "etiquetas": "Action, Adventure, Fantasy, Sci-Fi",
+            "type": "movie",
+            "created_at": "2022-06-11",
+            "updated_at": "2026-07-22T05:50:39.000Z",
+            "year": "2022",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "40429",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx103712-631ErMZsKSpp.png",
