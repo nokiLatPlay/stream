@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The second season of Otomege Sekai wa Mob ni Kibishii Sekai desu.",
     "score": "6.8",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -22,7 +22,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-16T07:34:19.000Z",
+    "updated_at": "2026-07-22T12:00:23.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -50,6 +50,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/15f073abb885d94d80bde20f99998277",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4419/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/5027e9608693144934eccad97ae74107",
                             "type": "mp4",
                             "language": "Sub"
                         }
