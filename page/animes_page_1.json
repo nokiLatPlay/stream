@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 701,
+    "total_items": 702,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41467",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx116674-p3zK4PUX2Aag.jpg",
+            "titulo": "BLEACH: Sennen Kessen-hen",
+            "titulo_original": "BLEACH 千年血戦篇",
+            "etiquetas": "Action, Adventure, Supernatural",
+            "type": "anime",
+            "created_at": "2022-10-11",
+            "updated_at": "2026-07-22T18:19:26.000Z",
+            "year": "2022",
+            "score": "8.8",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "42282",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx120209-7eQk3UKmkQun.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.1699999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61159",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1455\/152139l.jpg",
-            "titulo": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "titulo_original": "東島丹三郎は仮面ライダーになりたい",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2025-10-05",
-            "updated_at": "2026-07-10T09:08:11.000Z",
-            "year": "2025",
-            "score": 7.769999999999999573674358543939888477325439453125,
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
