@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 691,
+    "total_items": 692,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "55701",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx166240-PBV7zukIHW7V.png",
+            "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "titulo_original": "鬼滅の刃 柱稽古編",
+            "etiquetas": "Action, Adventure, Drama, Fantasy, Supernatural",
+            "type": "anime",
+            "created_at": "2024-05-12",
+            "updated_at": "2026-07-22T05:28:47.000Z",
+            "year": "2024",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 8
+        },
         {
             "id_mal": "52588",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx153288-25FBfFJzEQ5O.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.07000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "60692",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1629\/153722l.jpg",
-            "titulo": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "titulo_original": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-08",
-            "updated_at": "2026-07-10T09:06:15.000Z",
-            "year": "2026",
-            "score": 6.6500000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
