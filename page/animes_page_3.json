@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 696,
+    "total_items": 697,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30749",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/76664l.jpg",
+            "titulo": "Saijaku Muhai no Bahamut",
+            "titulo_original": "最弱無敗の神装機竜《バハムート》",
+            "etiquetas": "Action, Fantasy, Romance, Ecchi",
+            "type": "anime",
+            "created_at": "2016-01-11",
+            "updated_at": "2026-07-10T08:23:34.000Z",
+            "year": "2016",
+            "score": 6.5099999999999997868371792719699442386627197265625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "30736",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/85564l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.9",
             "status": "Finished Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "61793",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1975\/150436l.jpg",
-            "titulo": "Yami Shibai 15",
-            "titulo_original": "闇芝居 十五期",
-            "etiquetas": "Avant Garde, Horror, Supernatural",
-            "type": "anime",
-            "created_at": "2025-07-14",
-            "updated_at": "2026-03-18T06:27:37.000Z",
-            "year": "2025",
-            "score": "5.7",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
