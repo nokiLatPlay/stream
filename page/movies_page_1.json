@@ -1,9 +1,24 @@
 {
     "page": 1,
     "total_pages": 1,
-    "total_items": 102,
+    "total_items": 103,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "906",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/906-TmrkEiLnm9nR.jpg",
+            "titulo": "Dragon Ball Z: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru",
+            "titulo_original": "ドラゴンボールＺ 龍拳爆発!!悟空がやらねば誰がやる",
+            "etiquetas": "Action, Adventure, Sci-Fi",
+            "type": "movie",
+            "created_at": "1995-07-15",
+            "updated_at": "2026-07-22T06:12:23.000Z",
+            "year": "1995",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 1,
+            "calidad": "HD"
+        },
         {
             "id_mal": "25389",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20778-HYEes09iv8fJ.jpg",
