@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Hanazakari no Kimitachi e.\n\nNote: Hanazakari no Kimitachi e 2nd Season is streaming 1 week in advance of the TV broadcast on Prime Video and Crunchyroll beginning with episode 2 on July 2nd.",
-    "score": "6.6",
-    "episodes": 4,
+    "score": "6.7",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -23,7 +23,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-16T07:35:40.000Z",
+    "updated_at": "2026-07-22T13:35:31.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -79,6 +79,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/30f8674028f391d06f2bcac7933c4cb7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4371/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/abea416d35df66a0e6b2c6ffcca512dc",
                             "type": "mp4",
                             "language": "Sub"
                         }
