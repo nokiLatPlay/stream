@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 692,
+    "total_items": 693,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "30240",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1286\/112161l.jpg",
+            "titulo": "Prison School",
+            "titulo_original": "監獄学園〈プリズンスクール〉",
+            "etiquetas": "Comedy, Ecchi",
+            "type": "anime",
+            "created_at": "2015-07-11",
+            "updated_at": "2026-07-10T08:22:53.000Z",
+            "year": "2015",
+            "score": 7.5800000000000000710542735760100185871124267578125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "29974",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/3\/73657l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-18T06:13:37.000Z",
             "year": "2025",
             "score": "6.9",
-            "status": "Finished Airing",
-            "episodes": 24
-        },
-        {
-            "id_mal": "60665",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1904\/150649l.jpg",
-            "titulo": "Futari Solo Camp",
-            "titulo_original": "ふたりソロキャンプ",
-            "etiquetas": "Gourmet, Slice of Life",
-            "type": "anime",
-            "created_at": "2025-07-11",
-            "updated_at": "2026-03-18T06:13:07.000Z",
-            "year": "2025",
-            "score": "7.2",
             "status": "Finished Airing",
             "episodes": 24
         }
