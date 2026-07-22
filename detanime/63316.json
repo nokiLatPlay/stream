@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.\n\n(Source: Crunchyroll)",
     "score": "6.7",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-09",
-    "updated_at": "2026-07-16T07:40:18.000Z",
+    "updated_at": "2026-07-22T13:38:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -52,6 +52,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/1acb174617ff1d49fb20e015c6ce679d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4421/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b71e61c44e31ce418f2b4bb05afc2288",
                             "type": "mp4",
                             "language": "Sub"
                         }
