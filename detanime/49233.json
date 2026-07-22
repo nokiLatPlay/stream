@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Youjo Senki.",
-    "score": "8.2",
-    "episodes": 2,
+    "score": "8.1",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -22,7 +22,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-16T07:28:24.000Z",
+    "updated_at": "2026-07-22T11:34:19.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -50,6 +50,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5a7935e2fbc9dc0f9a616a7aeb745e10",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4417/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/7c1c94f88604ef0aacd58a10056693e9",
                             "type": "mp4",
                             "language": "Sub"
                         }
