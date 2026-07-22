@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 694,
+    "total_items": 695,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60852",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1565\/154933l.jpg",
+            "titulo": "Koori no Jouheki",
+            "titulo_original": "氷の城壁",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "2026-04-02",
+            "updated_at": "2026-07-10T09:06:42.000Z",
+            "year": "2026",
+            "score": 8.230000000000000426325641456060111522674560546875,
+            "status": "Finished Airing",
+            "episodes": 14
+        },
         {
             "id_mal": "60810",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1704\/154459l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.42999999999999971578290569595992565155029296875,
             "status": "Finished Airing",
             "episodes": 24
-        },
-        {
-            "id_mal": "30503",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1689\/94850l.jpg",
-            "titulo": "Noragami Aragoto",
-            "titulo_original": "ノラガミ ARAGOTO",
-            "etiquetas": "Action, Supernatural",
-            "type": "anime",
-            "created_at": "2015-10-03",
-            "updated_at": "2026-07-10T08:23:02.000Z",
-            "year": "2015",
-            "score": 8.1400000000000005684341886080801486968994140625,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
