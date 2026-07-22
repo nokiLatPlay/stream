@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 692,
+    "total_items": 693,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "60781",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1631\/153644l.jpg",
+            "titulo": "Alma-chan wa Kazoku ni Naritai",
+            "titulo_original": "アルマちゃんは家族になりたい",
+            "etiquetas": "Comedy, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2025-10-05",
+            "updated_at": "2026-07-10T09:06:24.000Z",
+            "year": "2025",
+            "score": 7.07000000000000028421709430404007434844970703125,
+            "status": "Finished Airing",
+            "episodes": 11
+        },
         {
             "id_mal": "60692",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1629\/153722l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.78000000000000024868995751603506505489349365234375,
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "30240",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1286\/112161l.jpg",
-            "titulo": "Prison School",
-            "titulo_original": "監獄学園〈プリズンスクール〉",
-            "etiquetas": "Comedy, Ecchi",
-            "type": "anime",
-            "created_at": "2015-07-11",
-            "updated_at": "2026-07-10T08:22:53.000Z",
-            "year": "2015",
-            "score": 7.5800000000000000710542735760100185871124267578125,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
