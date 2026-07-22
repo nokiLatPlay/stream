@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 696,
+    "total_items": 697,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "25389",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20778-HYEes09iv8fJ.jpg",
+            "titulo": "Dragon Ball Z: Fukkatsu no \"F\"",
+            "titulo_original": "ドラゴンボールZ 復活の「F」",
+            "etiquetas": "Action, Adventure, Comedy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2015-04-18",
+            "updated_at": "2026-07-22T05:55:14.000Z",
+            "year": "2015",
+            "score": "6.7",
+            "status": "Finished Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "223",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx223-scE5uJfXqqj8.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:07:26.000Z",
             "year": "2026",
             "score": 5.45999999999999996447286321199499070644378662109375,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61067",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1296\/152147l.jpg",
-            "titulo": "Ninja to Gokudou",
-            "titulo_original": "忍者と極道",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2025-10-08",
-            "updated_at": "2026-07-10T09:07:15.000Z",
-            "year": "2025",
-            "score": 6.38999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
         }
