@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 721,
+    "total_items": 722,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "6895",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx6895-S4QTn9uPlVrL.png",
+            "titulo": "Hakuouki",
+            "titulo_original": "薄桜鬼",
+            "etiquetas": "Action, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2010-04-04",
+            "updated_at": "2026-07-24T04:15:13.000Z",
+            "year": "2010",
+            "score": "6.8",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "53450",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b156110-LN58r4yQpDGV.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:12:12.000Z",
             "year": "2026",
             "score": 6.7599999999999997868371792719699442386627197265625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61839",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1879\/155958l.jpg",
-            "titulo": "Aishiteru Game wo Owarasetai",
-            "titulo_original": "愛してるゲームを終わらせたい",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2026-04-14",
-            "updated_at": "2026-07-10T09:12:05.000Z",
-            "year": "2026",
-            "score": 7.42999999999999971578290569595992565155029296875,
             "status": "Finished Airing",
             "episodes": 12
         }
