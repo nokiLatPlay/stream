@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving music world?\n\n(Source: Crunchyroll)",
     "score": "7.2",
-    "episodes": 5,
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -23,7 +23,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-16T11:55:22.000Z",
+    "updated_at": "2026-07-23T21:25:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -93,6 +93,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/fdf5ba4bc7d53f9f3a5cade56618b75b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/4374/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/27367698a42bca6adda473a88d2c8bbd",
                             "type": "mp4",
                             "language": "Sub"
                         }
