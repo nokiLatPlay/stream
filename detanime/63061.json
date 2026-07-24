@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.\n\n(Source: Anime News Network)",
     "score": "6.7",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -27,7 +27,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-17T23:44:32.000Z",
+    "updated_at": "2026-07-24T17:49:47.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -69,6 +69,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/19ed724148d194533bd08b7d229a0ef9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4382/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b8f13b5e2fde048be6c8d4a4e2bb5fb4",
                             "type": "mp4",
                             "language": "Sub"
                         }
