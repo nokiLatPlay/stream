@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 717,
+    "total_items": 718,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61687",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1769\/153376l.jpg",
+            "titulo": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "titulo_original": "自称悪役令嬢な婚約者の観察記録。",
+            "etiquetas": "Comedy, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:11:30.000Z",
+            "year": "2026",
+            "score": 7.69000000000000039079850466805510222911834716796875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61637",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1765\/154087l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.32000000000000028421709430404007434844970703125,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "36474",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/93837l.jpg",
-            "titulo": "Sword Art Online: Alicization",
-            "titulo_original": "ソードアート・オンライン アリシゼーション",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2018-10-07",
-            "updated_at": "2026-07-10T08:27:02.000Z",
-            "year": "2018",
-            "score": 7.5800000000000000710542735760100185871124267578125,
-            "status": "Finished Airing",
-            "episodes": 24
         }
     ]
 }
