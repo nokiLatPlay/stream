@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 716,
+    "total_items": 717,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "38450",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx104458-b3PRaVB0vBM9.png",
+            "titulo": "Modao Zushi 2",
+            "titulo_original": "魔道祖师 第二季",
+            "etiquetas": "Action, Adventure, Drama, Fantasy, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2019-08-03",
+            "updated_at": "2026-07-24T03:53:04.000Z",
+            "year": "2026",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 8
+        },
         {
             "id_mal": "49413",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136484-QiHcF64PVWQi.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:11:30.000Z",
             "year": "2026",
             "score": 7.69000000000000039079850466805510222911834716796875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61637",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1765\/154087l.jpg",
-            "titulo": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "titulo_original": "29歳独身中堅冒険者の日常",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-07",
-            "updated_at": "2026-07-10T09:11:17.000Z",
-            "year": "2026",
-            "score": 6.589999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 12
         }
