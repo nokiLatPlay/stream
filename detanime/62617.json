@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.\n(Source: Crunchyroll)\n\n\nNote: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.",
     "score": "6.6",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
@@ -21,7 +21,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-17T23:39:47.000Z",
+    "updated_at": "2026-07-24T17:46:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -63,6 +63,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/31dc6bab4d08516ff2cec6d46036db09",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4379/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0110444f672fa3ce0c8b42f2e34e9bff",
                             "type": "mp4",
                             "language": "Sub"
                         }
