@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 709,
+    "total_items": 710,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61425",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1484\/155726l.jpg",
+            "titulo": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+            "titulo_original": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:09:51.000Z",
+            "year": "2026",
+            "score": 7.61000000000000031974423109204508364200592041015625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61359",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1729\/153502l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.75,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "33352",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1795\/95088l.jpg",
-            "titulo": "Violet Evergarden",
-            "titulo_original": "ヴァイオレット・エヴァーガーデン",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "created_at": "2018-01-11",
-            "updated_at": "2026-07-10T08:25:28.000Z",
-            "year": "2018",
-            "score": 8.6899999999999995026200849679298698902130126953125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
