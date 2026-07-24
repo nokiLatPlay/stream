@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 710,
+    "total_items": 711,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "36516",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx100245-kq7bf9YDeLRe.jpg",
+            "titulo": "BEATLESS",
+            "titulo_original": "BEATLESS",
+            "etiquetas": "Action, Drama, Romance, Sci-Fi",
+            "type": "anime",
+            "created_at": "2018-01-13",
+            "updated_at": "2026-07-24T03:38:25.000Z",
+            "year": "2018",
+            "score": "5.7",
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "5337",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx5337-wg88zuz885Vb.jpg",
@@ -2789,20 +2803,6 @@
             "score": 9.0999999999999996447286321199499070644378662109375,
             "status": "Currently Airing",
             "episodes": 1
-        },
-        {
-            "id_mal": "61443",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/156385l.jpg",
-            "titulo": "Shunkashuutou Daikousha: Haru no Mai",
-            "titulo_original": "春夏秋冬代行者 春の舞",
-            "etiquetas": "Drama, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-03-29",
-            "updated_at": "2026-07-10T09:09:59.000Z",
-            "year": "2026",
-            "score": 7.730000000000000426325641456060111522674560546875,
-            "status": "Finished Airing",
-            "episodes": 14
         }
     ]
 }
