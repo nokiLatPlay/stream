@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 706,
+    "total_items": 707,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61325",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1054\/153719l.jpg",
+            "titulo": "Douse, Koishite Shimaunda. 2nd Season",
+            "titulo_original": "どうせ、恋してしまうんだ。第2期",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "2026-01-09",
+            "updated_at": "2026-07-10T09:09:30.000Z",
+            "year": "2026",
+            "score": 6.1500000000000003552713678800500929355621337890625,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61316",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1540\/155824l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.37000000000000010658141036401502788066864013671875,
             "status": "Finished Airing",
             "episodes": 1
-        },
-        {
-            "id_mal": "32182",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/80356l.jpg",
-            "titulo": "Mob Psycho 100",
-            "titulo_original": "モブサイコ100",
-            "etiquetas": "Action, Comedy, Supernatural",
-            "type": "anime",
-            "created_at": "2016-07-11",
-            "updated_at": "2026-07-10T08:25:05.000Z",
-            "year": "2016",
-            "score": 8.4900000000000002131628207280300557613372802734375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
