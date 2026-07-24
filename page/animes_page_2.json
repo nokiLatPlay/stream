@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 708,
+    "total_items": 709,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61359",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1729\/153502l.jpg",
+            "titulo": "Osananajimi to wa Love Comedy ni Naranai",
+            "titulo_original": "幼馴染とはラブコメにならない",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2026-01-06",
+            "updated_at": "2026-07-10T09:09:44.000Z",
+            "year": "2026",
+            "score": 6.38999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "61333",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1393\/151603l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.6899999999999995026200849679298698902130126953125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "32937",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/83188l.jpg",
-            "titulo": "Kono Subarashii Sekai ni Shukufuku wo! 2",
-            "titulo_original": "この素晴らしい世界に祝福を！ 2",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2017-01-12",
-            "updated_at": "2026-07-10T08:25:20.000Z",
-            "year": "2017",
-            "score": 8.2400000000000002131628207280300557613372802734375,
-            "status": "Finished Airing",
-            "episodes": 10
         }
     ]
 }
