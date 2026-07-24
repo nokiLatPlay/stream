@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 707,
+    "total_items": 708,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "32668",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/78406l.jpg",
+            "titulo": "Noblesse: Awakening",
+            "titulo_original": "Noblesse: Awakening",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "created_at": "2016-02-04",
+            "updated_at": "2026-07-10T08:25:13.000Z",
+            "year": "2016",
+            "score": 7.37000000000000010658141036401502788066864013671875,
+            "status": "Finished Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "32182",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/80356l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.0",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "33486",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/12\/85221l.jpg",
-            "titulo": "Boku no Hero Academia 2nd Season",
-            "titulo_original": "僕のヒーローアカデミア",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2017-04-01",
-            "updated_at": "2026-03-18T07:00:18.000Z",
-            "year": "2017",
-            "score": "8.1",
-            "status": "Finished Airing",
-            "episodes": "25"
         }
     ]
 }
