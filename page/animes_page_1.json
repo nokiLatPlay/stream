@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 718,
+    "total_items": 719,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40435",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx120343-8zVgrYFOl7GV.png",
+            "titulo": "Modao Zushi Q",
+            "titulo_original": "魔道祖师Q",
+            "etiquetas": "Comedy, Fantasy, Supernatural",
+            "type": "anime",
+            "created_at": "2020-07-31",
+            "updated_at": "2026-07-24T03:57:14.000Z",
+            "year": "2026",
+            "score": "8.1",
+            "status": "Finished Airing",
+            "episodes": 30
+        },
         {
             "id_mal": "40434",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx121467-Et0U1jXLfuYf.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:11:50.000Z",
             "year": "2026",
             "score": 6.1699999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61782",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1940\/154234l.jpg",
-            "titulo": "Kirei ni Shitemoraemasu ka.",
-            "titulo_original": "綺麗にしてもらえますか。",
-            "etiquetas": "Slice of Life",
-            "type": "anime",
-            "created_at": "2026-01-05",
-            "updated_at": "2026-07-10T09:11:37.000Z",
-            "year": "2026",
-            "score": 6.9000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
         }
