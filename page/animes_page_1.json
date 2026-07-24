@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 722,
+    "total_items": 723,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "9065",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx9065-LKMdqEOGvMr7.png",
+            "titulo": "Hakuouki Hekketsuroku",
+            "titulo_original": "薄桜鬼 碧血録",
+            "etiquetas": "Action, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2010-10-04",
+            "updated_at": "2026-07-24T04:16:21.000Z",
+            "year": "2010",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "6895",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx6895-S4QTn9uPlVrL.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:12:26.000Z",
             "year": "2026",
             "score": 6.9199999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61886",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1721\/153380l.jpg",
-            "titulo": "Goumon Baito-kun no Nichijou",
-            "titulo_original": "拷問バイトくんの日常",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2026-01-05",
-            "updated_at": "2026-07-10T09:12:12.000Z",
-            "year": "2026",
-            "score": 6.7599999999999997868371792719699442386627197265625,
             "status": "Finished Airing",
             "episodes": 12
         }
