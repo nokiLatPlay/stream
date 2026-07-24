@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 724,
+    "total_items": 725,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49338",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx139386-B4hpiRGaIJLo.jpg",
+            "titulo": "Hakuouki OVA (2021)",
+            "titulo_original": "薄桜鬼",
+            "etiquetas": "Action, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2021-11-13",
+            "updated_at": "2026-07-24T04:19:40.000Z",
+            "year": "2021",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 3
+        },
         {
             "id_mal": "13115",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx13115-EgBCyO9pmicg.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.5999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61942",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1592\/154049l.jpg",
-            "titulo": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-            "titulo_original": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2026-01-05",
-            "updated_at": "2026-07-10T09:12:38.000Z",
-            "year": "2026",
-            "score": 7.4000000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
