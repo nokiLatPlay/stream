@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 711,
+    "total_items": 712,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61469",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1448\/154111l.jpg",
+            "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
+            "titulo_original": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+            "etiquetas": "Action, Adventure, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2026-03-19",
+            "updated_at": "2026-07-10T09:10:10.000Z",
+            "year": "2026",
+            "score": 9.0999999999999996447286321199499070644378662109375,
+            "status": "Currently Airing",
+            "episodes": 1
+        },
         {
             "id_mal": "61443",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/156385l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.1400000000000005684341886080801486968994140625,
             "status": "Finished Airing",
             "episodes": 170
-        },
-        {
-            "id_mal": "33502",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/85260l.jpg",
-            "titulo": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
-            "titulo_original": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
-            "etiquetas": "Drama, Fantasy, Romance, Sci-Fi",
-            "type": "anime",
-            "created_at": "2017-04-11",
-            "updated_at": "2026-07-10T08:25:45.000Z",
-            "year": "2017",
-            "score": 7.6699999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
