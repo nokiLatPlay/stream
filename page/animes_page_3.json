@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 708,
+    "total_items": 709,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "32937",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/83188l.jpg",
+            "titulo": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "titulo_original": "この素晴らしい世界に祝福を！ 2",
+            "etiquetas": "Adventure, Comedy, Fantasy",
+            "type": "anime",
+            "created_at": "2017-01-12",
+            "updated_at": "2026-07-10T08:25:20.000Z",
+            "year": "2017",
+            "score": 8.2400000000000002131628207280300557613372802734375,
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "32668",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/78406l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-18T07:01:57.000Z",
             "year": "2026",
             "score": "7.4",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58861",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1506\/155355l.jpg",
-            "titulo": "Hanazakari no Kimitachi e",
-            "titulo_original": "花ざかりの君たちへ",
-            "etiquetas": "Romance",
-            "type": "anime",
-            "created_at": "2026-01-04",
-            "updated_at": "2026-03-18T07:01:28.000Z",
-            "year": "2026",
-            "score": "7.0",
             "status": "Finished Airing",
             "episodes": 12
         }
