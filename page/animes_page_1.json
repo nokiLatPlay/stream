@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 723,
+    "total_items": 724,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "13115",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx13115-EgBCyO9pmicg.jpg",
+            "titulo": "Hakuouki: Reimeiroku",
+            "titulo_original": "薄桜鬼: 黎明録",
+            "etiquetas": "Action, Drama, Supernatural",
+            "type": "anime",
+            "created_at": "2012-07-09",
+            "updated_at": "2026-07-24T04:18:00.000Z",
+            "year": "2012",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "9065",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx9065-LKMdqEOGvMr7.png",
@@ -2789,20 +2803,6 @@
             "score": 7.4000000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "61931",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1916\/155657l.jpg",
-            "titulo": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
-            "titulo_original": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-04-07",
-            "updated_at": "2026-07-10T09:12:26.000Z",
-            "year": "2026",
-            "score": 6.9199999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
