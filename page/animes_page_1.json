@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 706,
+    "total_items": 707,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "2156",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx2156-z3AqxkRNfxov.png",
+            "titulo": "Bakugan Battle Brawlers",
+            "titulo_original": "爆丸バトルブローラーズ",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2007-04-05",
+            "updated_at": "2026-07-24T03:24:48.000Z",
+            "year": "2007",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 52
+        },
         {
             "id_mal": "39555",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx108522-XQmYISWCnTGg.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.17999999999999971578290569595992565155029296875,
             "status": "Finished Airing",
             "episodes": 14
-        },
-        {
-            "id_mal": "61325",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1054\/153719l.jpg",
-            "titulo": "Douse, Koishite Shimaunda. 2nd Season",
-            "titulo_original": "どうせ、恋してしまうんだ。第2期",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "created_at": "2026-01-09",
-            "updated_at": "2026-07-10T09:09:30.000Z",
-            "year": "2026",
-            "score": 6.1500000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
