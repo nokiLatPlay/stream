@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 705,
+    "total_items": 706,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "39555",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx108522-XQmYISWCnTGg.jpg",
+            "titulo": "Baki: Dai Raitaisai-hen",
+            "titulo_original": "バキ 大擂台賽編",
+            "etiquetas": "Action, Sports",
+            "type": "anime",
+            "created_at": "2020-06-04",
+            "updated_at": "2026-07-24T03:21:40.000Z",
+            "year": "2020",
+            "score": "7.4",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "34443",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx97888-tdZ1r7qN1DRs.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.1500000000000003552713678800500929355621337890625,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61316",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1540\/155824l.jpg",
-            "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-            "titulo_original": "Re:ゼロから始める異世界生活 4th season",
-            "etiquetas": "Drama, Fantasy, Suspense",
-            "type": "anime",
-            "created_at": "2026-04-08",
-            "updated_at": "2026-07-10T09:09:19.000Z",
-            "year": "2026",
-            "score": 9.17999999999999971578290569595992565155029296875,
-            "status": "Currently Airing",
-            "episodes": 11
         }
     ]
 }
