@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
     "score": "8.2",
-    "episodes": 15,
+    "episodes": 16,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -19,8 +19,8 @@
         "Kodansha",
         "Bandai Namco Filmworks",
         "Nippon Television Network",
-        "BS11",
         "BANDAI SPIRITS",
+        "BS11",
         "Bandai Namco Music Live",
         "Sony Music Solutions",
         "ADK Marketing Solutions",
@@ -28,7 +28,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-03",
-    "updated_at": "2026-07-17T23:41:07.000Z",
+    "updated_at": "2026-07-24T17:46:54.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -304,6 +304,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/fb22077a1928b7389b3cb3bde8c9fbc6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "https://cdn.animeav1.com/screenshots/3926/16.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cbdc24b1494f15bc2b9514d0829d77f8",
                             "type": "mp4",
                             "language": "Sub"
                         }
