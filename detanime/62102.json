@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!\n\n(Source: Seven Seas Entertainment)",
     "score": "6.4",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-16T07:30:42.000Z",
+    "updated_at": "2026-07-23T21:30:31.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -57,6 +57,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/6fc12d4fefa94e3fe32b494733a5d6b3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4418/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3c4a8b8b12b6618af0eba2b30f98eaa4",
                             "type": "mp4",
                             "language": "Sub"
                         }
