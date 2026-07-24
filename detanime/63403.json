@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n\n(Source: Seven Seas Entertainment)",
     "score": "6.8",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -21,7 +21,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-16T19:57:42.000Z",
+    "updated_at": "2026-07-23T21:27:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -63,6 +63,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/f44b3d9cc766f3ef07f526c72cb9358f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4377/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0ddde609bc8cc032ab8f61a1391b1129",
                             "type": "mp4",
                             "language": "Sub"
                         }
