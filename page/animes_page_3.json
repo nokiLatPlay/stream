@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 722,
+    "total_items": 723,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37569",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1456\/94897l.jpg",
+            "titulo": "Sirius",
+            "titulo_original": "天狼〈シリウス〉 Sirius the Jaeger",
+            "etiquetas": "Action, Supernatural",
+            "type": "anime",
+            "created_at": "2018-07-12",
+            "updated_at": "2026-07-10T08:28:16.000Z",
+            "year": "2018",
+            "score": 6.95000000000000017763568394002504646778106689453125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "37521",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1500\/103005l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-26T04:48:14.000Z",
             "year": "2025",
             "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "58359",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1211\/147335l.jpg",
-            "titulo": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
-            "titulo_original": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2025-04-03",
-            "updated_at": "2026-03-26T04:45:28.000Z",
-            "year": "2025",
-            "score": "6.8",
             "status": "Finished Airing",
             "episodes": 12
         }
