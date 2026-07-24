@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 707,
+    "total_items": 708,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "7334",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx7334-k24kihvZ8Hm3.jpg",
+            "titulo": "Bakugan Battle Brawlers: Gundalian Invaders",
+            "titulo_original": "爆丸バトルブローラーズ Gundalian Invaders",
+            "etiquetas": "Action, Adventure, Fantasy, Sci-Fi",
+            "type": "anime",
+            "created_at": "2010-05-23",
+            "updated_at": "2026-07-24T03:27:26.000Z",
+            "year": "2010",
+            "score": "6.0",
+            "status": "Finished Airing",
+            "episodes": 39
+        },
         {
             "id_mal": "2156",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx2156-z3AqxkRNfxov.png",
@@ -2789,20 +2803,6 @@
             "score": 6.38999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61333",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1393\/151603l.jpg",
-            "titulo": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "titulo_original": "青のミブロ 芹沢暗殺編",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2025-12-20",
-            "updated_at": "2026-07-10T09:09:36.000Z",
-            "year": "2026",
-            "score": 7.17999999999999971578290569595992565155029296875,
-            "status": "Finished Airing",
-            "episodes": 14
         }
     ]
 }
