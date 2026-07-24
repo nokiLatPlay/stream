@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 721,
+    "total_items": 722,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37521",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1500\/103005l.jpg",
+            "titulo": "Vinland Saga",
+            "titulo_original": "ヴィンランド・サガ",
+            "etiquetas": "Action, Adventure, Drama",
+            "type": "anime",
+            "created_at": "2019-07-08",
+            "updated_at": "2026-07-10T08:28:01.000Z",
+            "year": "2019",
+            "score": 8.7799999999999993605115378159098327159881591796875,
+            "status": "Finished Airing",
+            "episodes": 24
+        },
         {
             "id_mal": "37393",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1205\/111403l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.8",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59360",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1781\/150071l.jpg",
-            "titulo": "Rock wa Lady no Tashinami deshite",
-            "titulo_original": "ロックは淑女の嗜みでして",
-            "etiquetas": "Comedy",
-            "type": "anime",
-            "created_at": "2025-04-03",
-            "updated_at": "2026-03-26T04:44:46.000Z",
-            "year": "2025",
-            "score": "7.9",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
