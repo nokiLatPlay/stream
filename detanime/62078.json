@@ -6,9 +6,9 @@
     "etiquetas": "Action, Comedy, Drama, Fantasy, Romance, Slice of Life",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see? \n\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye! \n\n(Source: J-Novel Club)\n\nNote: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.",
+    "synopsis": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n\n(Source: Crunchyroll)\n\nNote: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.",
     "score": "6.8",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-17T23:39:02.000Z",
+    "updated_at": "2026-07-24T17:45:08.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -71,6 +71,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5b3064b540d74e789cc73b982fd0f09f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4380/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/a40839d3e31d7fff5233adfff523cab1",
                             "type": "mp4",
                             "language": "Sub"
                         }
