@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!\n\n(Source: Crunchyroll)",
     "score": "7.5",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-16T19:58:47.000Z",
+    "updated_at": "2026-07-23T21:33:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -68,6 +68,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a982670ce1443af758cdadf21f0d6357",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4376/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3e64cafb76e6aee2b413fee87d07c2fa",
                             "type": "mp4",
                             "language": "Sub"
                         }
