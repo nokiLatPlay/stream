@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 711,
+    "total_items": 712,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "39221",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx107876-dzJ7Cur0Xzka.png",
+            "titulo": "BEM",
+            "titulo_original": "BEM",
+            "etiquetas": "Action, Horror, Supernatural",
+            "type": "anime",
+            "created_at": "2019-07-15",
+            "updated_at": "2026-07-24T03:40:39.000Z",
+            "year": "2019",
+            "score": "5.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "36516",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx100245-kq7bf9YDeLRe.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.0999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61469",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1448\/154111l.jpg",
-            "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
-            "titulo_original": "スティール・ボール・ラン ジョジョの奇妙な冒険",
-            "etiquetas": "Action, Adventure, Mystery, Supernatural",
-            "type": "anime",
-            "created_at": "2026-03-19",
-            "updated_at": "2026-07-10T09:10:10.000Z",
-            "year": "2026",
-            "score": 9.0999999999999996447286321199499070644378662109375,
-            "status": "Currently Airing",
-            "episodes": 1
         }
     ]
 }
