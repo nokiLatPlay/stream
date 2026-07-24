@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 717,
+    "total_items": 718,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40434",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx121467-Et0U1jXLfuYf.jpg",
+            "titulo": "Modao Zushi 3",
+            "titulo_original": "魔道祖师 第三季",
+            "etiquetas": "Action, Adventure, Drama, Fantasy, Mystery, Supernatural",
+            "type": "anime",
+            "created_at": "2021-08-07",
+            "updated_at": "2026-07-24T03:54:26.000Z",
+            "year": "2026",
+            "score": "8.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "38450",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx104458-b3PRaVB0vBM9.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:11:37.000Z",
             "year": "2026",
             "score": 6.9000000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61687",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1769\/153376l.jpg",
-            "titulo": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-            "titulo_original": "自称悪役令嬢な婚約者の観察記録。",
-            "etiquetas": "Comedy, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-07-10T09:11:30.000Z",
-            "year": "2026",
-            "score": 7.69000000000000039079850466805510222911834716796875,
             "status": "Finished Airing",
             "episodes": 12
         }
