@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 715,
+    "total_items": 716,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "49413",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx136484-QiHcF64PVWQi.jpg",
+            "titulo": "Shiguang Dailiren II",
+            "titulo_original": "时光代理人 第二季",
+            "etiquetas": "Drama, Mystery, Supernatural, Thriller",
+            "type": "anime",
+            "created_at": "2023-07-14",
+            "updated_at": "2026-07-24T03:50:08.000Z",
+            "year": "2026",
+            "score": "8.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "44069",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx126357-gqjGyFI0pUtC.png",
@@ -2789,20 +2803,6 @@
             "score": 6.589999999999999857891452847979962825775146484375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "61608",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1361\/153968l.jpg",
-            "titulo": "Jigoku Sensei Nube (2025) Part 2",
-            "titulo_original": "地獄先生ぬ～べ～",
-            "etiquetas": "Comedy, Horror, Supernatural",
-            "type": "anime",
-            "created_at": "2026-01-07",
-            "updated_at": "2026-07-10T09:11:10.000Z",
-            "year": "2026",
-            "score": 7.0800000000000000710542735760100185871124267578125,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
