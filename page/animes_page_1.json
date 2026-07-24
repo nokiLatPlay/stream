@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 708,
+    "total_items": 709,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "10330",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx10330-QIGnnRhsMAgb.jpg",
+            "titulo": "Bakugan Battle Brawlers: Mechtanium Surge",
+            "titulo_original": "爆丸 バトルブローラーズ メクタニウムサージ",
+            "etiquetas": "Action, Adventure, Fantasy, Mecha, Sci-Fi",
+            "type": "anime",
+            "created_at": "2011-02-13",
+            "updated_at": "2026-07-24T03:30:30.000Z",
+            "year": "2011",
+            "score": "5.8",
+            "status": "Finished Airing",
+            "episodes": 46
+        },
         {
             "id_mal": "7334",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx7334-k24kihvZ8Hm3.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:09:51.000Z",
             "year": "2026",
             "score": 7.61000000000000031974423109204508364200592041015625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61359",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1729\/153502l.jpg",
-            "titulo": "Osananajimi to wa Love Comedy ni Naranai",
-            "titulo_original": "幼馴染とはラブコメにならない",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2026-01-06",
-            "updated_at": "2026-07-10T09:09:44.000Z",
-            "year": "2026",
-            "score": 6.38999999999999968025576890795491635799407958984375,
             "status": "Finished Airing",
             "episodes": 12
         }
