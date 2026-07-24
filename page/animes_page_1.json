@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 709,
+    "total_items": 710,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "5337",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx5337-wg88zuz885Vb.jpg",
+            "titulo": "Bakugan Battle Brawlers: New Vestroia",
+            "titulo_original": "爆丸バトルブローラーズ  New Vestroia",
+            "etiquetas": "Action, Adventure, Fantasy, Mecha, Sci-Fi",
+            "type": "anime",
+            "created_at": "2009-04-12",
+            "updated_at": "2026-07-24T03:35:08.000Z",
+            "year": "2009",
+            "score": "6.2",
+            "status": "Finished Airing",
+            "episodes": 52
+        },
         {
             "id_mal": "10330",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx10330-QIGnnRhsMAgb.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.730000000000000426325641456060111522674560546875,
             "status": "Finished Airing",
             "episodes": 14
-        },
-        {
-            "id_mal": "61425",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1484\/155726l.jpg",
-            "titulo": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-            "titulo_original": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-07-10T09:09:51.000Z",
-            "year": "2026",
-            "score": 7.61000000000000031974423109204508364200592041015625,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
