@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "63403",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx207141-h5q5KJPd6vaX.jpg",
+            "titulo": "Yani Neko",
+            "titulo_original": "ヤニねこ",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-07-03",
+            "updated_at": "2026-07-23T21:27:37.000Z",
+            "year": "2026",
+            "score": "6.8",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "63802",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx108992-skuOsfmLmMd2.jpg",
             "titulo": "Mebius Dust",
@@ -1443,20 +1457,6 @@
             "updated_at": "2026-07-16T19:58:50.000Z",
             "year": "2026",
             "score": "7.5",
-            "status": "Currently Airing",
-            "episodes": 3
-        },
-        {
-            "id_mal": "63403",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx207141-h5q5KJPd6vaX.jpg",
-            "titulo": "Yani Neko",
-            "titulo_original": "ヤニねこ",
-            "etiquetas": "Comedy, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-07-03",
-            "updated_at": "2026-07-16T19:57:43.000Z",
-            "year": "2026",
-            "score": "6.8",
             "status": "Currently Airing",
             "episodes": 3
         },
