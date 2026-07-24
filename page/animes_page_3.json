@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 723,
+    "total_items": 724,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "37779",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1830\/118780l.jpg",
+            "titulo": "Yakusoku no Neverland",
+            "titulo_original": "約束のネバーランド",
+            "etiquetas": "Mystery, Suspense",
+            "type": "anime",
+            "created_at": "2019-01-11",
+            "updated_at": "2026-07-10T08:28:27.000Z",
+            "year": "2019",
+            "score": 8.4700000000000006394884621840901672840118408203125,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "37569",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1456\/94897l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "6.2",
             "status": "Finished Airing",
             "episodes": 10
-        },
-        {
-            "id_mal": "59160",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1526\/148873l.jpg",
-            "titulo": "Wind Breaker Season 2",
-            "titulo_original": "WIND BREAKER Season 2",
-            "etiquetas": "Action",
-            "type": "anime",
-            "created_at": "2025-04-04",
-            "updated_at": "2026-03-26T04:48:14.000Z",
-            "year": "2025",
-            "score": "7.6",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
