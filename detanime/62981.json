@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, “The Drops of God”. \nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. \nWhat is wine? What is a parent and a child? What is life?\nThe complex and fragrant battle surrounding the legendary ”Drops of God” is about to begin… \n(Source: Pony Canyon)",
     "score": "5.4",
-    "episodes": 15,
+    "episodes": 16,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-10",
-    "updated_at": "2026-07-17T23:42:17.000Z",
+    "updated_at": "2026-07-24T17:47:51.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -234,6 +234,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a0cf437bb9cdf67f90097af34313b196",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "numero": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "https://cdn.animeav1.com/screenshots/3977/16.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/79e72e930ba1c560d6571d764bbd3139",
                             "type": "mp4",
                             "language": "Sub"
                         }
