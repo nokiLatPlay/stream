@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 716,
+    "total_items": 717,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35972",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1536\/93863l.jpg",
+            "titulo": "Fairy Tail: Final Series",
+            "titulo_original": "FAIRY TAIL ファイナルシリーズ",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2018-10-07",
+            "updated_at": "2026-07-10T08:26:50.000Z",
+            "year": "2018",
+            "score": 7.62000000000000010658141036401502788066864013671875,
+            "status": "Finished Airing",
+            "episodes": 51
+        },
         {
             "id_mal": "35849",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1614\/90408l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "8.5",
             "status": "Finished Airing",
             "episodes": 9
-        },
-        {
-            "id_mal": "60058",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1979\/153329l.jpg",
-            "titulo": "[Oshi no Ko] 3rd Season",
-            "titulo_original": "【推しの子】 第3期",
-            "etiquetas": "Drama",
-            "type": "anime",
-            "created_at": "2026-01-14",
-            "updated_at": "2026-03-26T02:34:17.000Z",
-            "year": "2026",
-            "score": "8.7",
-            "status": "Finished Airing",
-            "episodes": 11
         }
     ]
 }
