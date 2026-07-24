@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 705,
+    "total_items": 706,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "61316",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1540\/155824l.jpg",
+            "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+            "titulo_original": "Re:ゼロから始める異世界生活 4th season",
+            "etiquetas": "Drama, Fantasy, Suspense",
+            "type": "anime",
+            "created_at": "2026-04-08",
+            "updated_at": "2026-07-10T09:09:19.000Z",
+            "year": "2026",
+            "score": 9.17999999999999971578290569595992565155029296875,
+            "status": "Currently Airing",
+            "episodes": 11
+        },
         {
             "id_mal": "61217",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1821\/154043l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 8.4900000000000002131628207280300557613372802734375,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "32105",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/12\/79556l.jpg",
-            "titulo": "Sousei no Onmyouji",
-            "titulo_original": "双星の陰陽師",
-            "etiquetas": "Action, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2016-04-06",
-            "updated_at": "2026-07-10T08:24:57.000Z",
-            "year": "2016",
-            "score": 7.29000000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 50
         }
     ]
 }
