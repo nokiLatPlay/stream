@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 712,
+    "total_items": 713,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "34572",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/88336l.jpg",
+            "titulo": "Black Clover",
+            "titulo_original": "ブラッククローバー",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2017-10-03",
+            "updated_at": "2026-07-10T08:25:51.000Z",
+            "year": "2017",
+            "score": 8.1400000000000005684341886080801486968994140625,
+            "status": "Finished Airing",
+            "episodes": 170
+        },
         {
             "id_mal": "33502",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/4\/85260l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-03-26T02:28:31.000Z",
             "year": "2026",
             "score": "6.4",
-            "status": "Currently Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "59853",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1559\/154695l.jpg",
-            "titulo": "Dark Moon: Tsuki no Saidan",
-            "titulo_original": "DARK MOON　-黒の月: 月の祭壇-",
-            "etiquetas": "Fantasy",
-            "type": "anime",
-            "created_at": "2026-01-10",
-            "updated_at": "2026-03-20T22:51:32.000Z",
-            "year": "2026",
-            "score": "6.5",
             "status": "Currently Airing",
             "episodes": 12
         }
