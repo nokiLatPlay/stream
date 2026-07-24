@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "On February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the terrorists and a school to train members for that group.\n\n(Sources: Comic Natalie, Live Chart)",
-    "score": "5.3",
-    "episodes": 2,
+    "score": "5.1",
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": "",
     "rating": "",
@@ -28,7 +28,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-09",
-    "updated_at": "2026-07-16T11:57:46.000Z",
+    "updated_at": "2026-07-23T21:26:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -56,6 +56,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/5e3bc0bbde09af090452e62902567aeb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4423/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4c4d785225a686e5020fb26912f1178f",
                             "type": "mp4",
                             "language": "Sub"
                         }
