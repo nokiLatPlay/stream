@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 712,
+    "total_items": 713,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "43692",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx125426-WeKnIVjCRNIC.png",
+            "titulo": "Gokushufudou",
+            "titulo_original": "極主夫道",
+            "etiquetas": "Comedy, Slice of Life",
+            "type": "anime",
+            "created_at": "2021-04-08",
+            "updated_at": "2026-07-24T03:43:57.000Z",
+            "year": "2021",
+            "score": "7.1",
+            "status": "Finished Airing",
+            "episodes": 5
+        },
         {
             "id_mal": "39221",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx107876-dzJ7Cur0Xzka.png",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:10:52.000Z",
             "year": "2026",
             "score": 6.79000000000000003552713678800500929355621337890625,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "61501",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/154996l.jpg",
-            "titulo": "Kanan-sama wa Akumade Choroi",
-            "titulo_original": "カナン様はあくまでチョロい",
-            "etiquetas": "Comedy, Romance, Supernatural, Ecchi",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-07-10T09:10:37.000Z",
-            "year": "2026",
-            "score": 7.0999999999999996447286321199499070644378662109375,
             "status": "Finished Airing",
             "episodes": 12
         }
