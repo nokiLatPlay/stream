@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "56876",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx170019-djbN0b934MhE.jpg",
+            "titulo": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+            "titulo_original": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
+            "etiquetas": "Romance, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-07-25T17:05:29.000Z",
+            "year": "2026",
+            "score": "7.2",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "33486",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21856-gutauxhWAwn6.png",
             "titulo": "Boku no Hero Academia 2",
@@ -2789,20 +2803,6 @@
             "score": 6.95000000000000017763568394002504646778106689453125,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "62050",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1974\/156105l.jpg",
-            "titulo": "Kami no Niwatsuki Kusunoki-tei",
-            "titulo_original": "神の庭付き楠木邸",
-            "etiquetas": "Slice of Life, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-07-10T09:13:41.000Z",
-            "year": "2026",
-            "score": 7.1699999999999999289457264239899814128875732421875,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
