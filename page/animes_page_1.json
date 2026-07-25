@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "33486",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx21856-gutauxhWAwn6.png",
+            "titulo": "Boku no Hero Academia 2",
+            "titulo_original": "僕のヒーローアカデミア２",
+            "etiquetas": "Action, Adventure, Comedy",
+            "type": "anime",
+            "created_at": "2017-04-01",
+            "updated_at": "2026-07-25T10:31:27.000Z",
+            "year": "2017",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 27
+        },
+        {
             "id_mal": "54837",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx163076-5wQKtU3FoMxd.jpg",
             "titulo": "Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen",
@@ -2789,20 +2803,6 @@
             "score": 7.1699999999999999289457264239899814128875732421875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62018",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1178\/155933l.jpg",
-            "titulo": "Ichijouma Mankitsugurashi!",
-            "titulo_original": "一畳間まんきつ暮らし！",
-            "etiquetas": "Comedy, Ecchi",
-            "type": "anime",
-            "created_at": "2026-04-12",
-            "updated_at": "2026-07-10T09:13:22.000Z",
-            "year": "2026",
-            "score": 6.660000000000000142108547152020037174224853515625,
-            "status": "Finished Airing",
-            "episodes": 11
         }
     ]
 }
