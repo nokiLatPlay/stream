@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62435",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198409-EiWJXfYnvfu4.png",
+            "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+            "titulo_original": "世界最強の後衛 ～迷宮国の新人探索者～",
+            "etiquetas": "Action, Adventure, Fantasy",
+            "type": "anime",
+            "created_at": "2026-07-05",
+            "updated_at": "2026-07-26T14:02:17.000Z",
+            "year": "2026",
+            "score": "5.8",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "63100",
             "imagen": "",
             "titulo": "tetsunabe no jan",
@@ -1569,20 +1583,6 @@
             "updated_at": "2026-07-19T18:14:57.000Z",
             "year": "2026",
             "score": "7.5",
-            "status": "Currently Airing",
-            "episodes": 3
-        },
-        {
-            "id_mal": "62435",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx198409-EiWJXfYnvfu4.png",
-            "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "titulo_original": "世界最強の後衛 ～迷宮国の新人探索者～",
-            "etiquetas": "Action, Adventure, Fantasy",
-            "type": "anime",
-            "created_at": "2026-07-05",
-            "updated_at": "2026-07-19T18:14:04.000Z",
-            "year": "2026",
-            "score": "5.9",
             "status": "Currently Airing",
             "episodes": 3
         },
