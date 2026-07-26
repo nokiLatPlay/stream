@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The third season of Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.",
     "score": "8.0",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -16,15 +16,15 @@
     "studios": [
         "Shueisha",
         "Bibury Animation Studios",
-        "Movic",
         "Bushiroad",
+        "Movic",
         "Bandai Namco Filmworks",
         "TOKYO MX",
         "Bandai Namco Music Live"
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-19T18:15:57.000Z",
+    "updated_at": "2026-07-26T14:03:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -66,6 +66,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/870c6e2a8898431439f2c9a5263f18ca",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4399/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/41a06350af1c5eb1a56330bdc2271923",
                             "type": "mp4",
                             "language": "Sub"
                         }
