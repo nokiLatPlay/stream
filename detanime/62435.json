@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n\n(Source: Crunchyroll)",
-    "score": "5.9",
-    "episodes": 3,
+    "score": "5.8",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-19T18:14:02.000Z",
+    "updated_at": "2026-07-26T14:02:10.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -66,6 +66,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/8edf238602f8ede13b3ee76bd6c1420c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4398/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/0f2f7f2d6e54370b795cfef99a88d613",
                             "type": "mp4",
                             "language": "Sub"
                         }
