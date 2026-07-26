@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n\n(Source: Crunchyroll)",
-    "score": "7.3",
-    "episodes": 3,
+    "score": "7.2",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -22,7 +22,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-18T12:53:48.000Z",
+    "updated_at": "2026-07-26T11:59:14.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -70,6 +70,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/13742c39914c0c2bec01a7ab8abe765a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4386/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/8ae629882cf749ce7bc1cd7b473db447",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/cd1c69e7ee1b3286eef9d5080c07325d",
                             "type": "mp4",
                             "language": "Sub"
                         }
