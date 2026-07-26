@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. \n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.\n\n(Source: Anime News Network)",
-    "score": "7.5",
-    "episodes": 3,
+    "score": "7.6",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-19T18:14:53.000Z",
+    "updated_at": "2026-07-26T14:04:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -84,6 +84,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/e4ad17a959543d7f57b298eb14677132",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4400/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/99a301864da8942774f2235dae460fc3",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/31f26468cc1c797457697c92f2b53001",
                             "type": "mp4",
                             "language": "Sub"
                         }
