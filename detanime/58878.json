@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.\n(Source: Crunchyroll)",
     "score": "7.6",
-    "episodes": 2,
+    "episodes": 3,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-19T18:19:25.000Z",
+    "updated_at": "2026-07-26T20:33:41.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -54,6 +54,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/03381c2792cd0b0b0f2bc301356d3885",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4401/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4ca2e0ad97e5d1d7ffac4108f3476b2c",
                             "type": "mp4",
                             "language": "Sub"
                         }
