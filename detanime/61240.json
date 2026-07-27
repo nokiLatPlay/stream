@@ -7,10 +7,10 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.\n(Source: Crunchyroll)",
-    "score": "7.2",
-    "episodes": 2,
+    "score": "7.3",
+    "episodes": 3,
     "status": "Currently Airing",
-    "duration": "",
+    "duration": 24,
     "rating": "",
     "source": "LIGHT_NOVEL",
     "studios": [
@@ -22,7 +22,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-12",
-    "updated_at": "2026-07-19T18:20:18.000Z",
+    "updated_at": "2026-07-26T20:34:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -50,6 +50,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/415acb432965e9ee6e78753b586c750f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "numero": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "https://cdn.animeav1.com/screenshots/4426/3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e818af14f7c853cd75d92b6aa72f5d3f",
                             "type": "mp4",
                             "language": "Sub"
                         }
