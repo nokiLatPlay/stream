@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The second season of Azur Lane: Bisoku Zenshin!",
     "score": "6.0",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 9,
     "rating": "",
@@ -19,7 +19,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-19T18:21:10.000Z",
+    "updated_at": "2026-07-26T20:35:20.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -61,6 +61,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/861bc1c5859b2e1e6252fbcae532e50f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4402/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/80663eda9c45a84a9d2c7e029f5d0304",
                             "type": "mp4",
                             "language": "Sub"
                         }
