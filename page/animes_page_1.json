@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 733,
+    "total_items": 734,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35507",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx98659-WNyPLIZDpGGY.jpg",
+            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "titulo_original": "ようこそ実力至上主義の教室へ",
+            "etiquetas": "Drama, Psychological",
+            "type": "anime",
+            "created_at": "2017-07-12",
+            "updated_at": "2026-07-29T15:16:02.000Z",
+            "year": "2017",
+            "score": "7.6",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "763",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b763-1T59JdI5ohJd.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.54999999999999982236431605997495353221893310546875,
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "62391",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/156600l.jpg",
-            "titulo": "Kill Ao",
-            "titulo_original": "キルアオ",
-            "etiquetas": "Action, Comedy",
-            "type": "anime",
-            "created_at": "2026-04-11",
-            "updated_at": "2026-07-10T09:17:15.000Z",
-            "year": "2026",
-            "score": 7.339999999999999857891452847979962825775146484375,
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
