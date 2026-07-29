@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 741,
+    "total_items": 742,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62852",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1489\/155658l.jpg",
+            "titulo": "Ghost Concert: Missing Songs",
+            "titulo_original": "ゴーストコンサート: missing Songs",
+            "etiquetas": "Action, Sci-Fi, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:23:01.000Z",
+            "year": "2026",
+            "score": 5.38999999999999968025576890795491635799407958984375,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62825",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1632\/155095l.jpg",
@@ -2789,20 +2803,6 @@
             "score": 7.5,
             "status": "Finished Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "41094",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1931\/157562l.jpg",
-            "titulo": "Xian Wang de Richang Shenghuo",
-            "titulo_original": "仙王的日常生活",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2020-01-18",
-            "updated_at": "2026-07-10T08:32:39.000Z",
-            "year": "2020",
-            "score": 7.30999999999999960920149533194489777088165283203125,
-            "status": "Finished Airing",
-            "episodes": 15
         }
     ]
 }
