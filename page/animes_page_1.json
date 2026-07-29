@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 731,
+    "total_items": 732,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "11837",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11837-94IUi1s3qHN1.jpg",
+            "titulo": "Zetman",
+            "titulo_original": "ゼットマン",
+            "etiquetas": "Action, Drama, Horror, Romance, Sci-Fi, Supernatural",
+            "type": "anime",
+            "created_at": "2012-04-03",
+            "updated_at": "2026-07-29T15:08:15.000Z",
+            "year": "2012",
+            "score": "6.4",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "23283",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx20661-aCR7QgzDfOSI.png",
@@ -2789,20 +2803,6 @@
             "score": 6.94000000000000039079850466805510222911834716796875,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62246",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1525\/157230l.jpg",
-            "titulo": "Yi Ren Zhi Xia 6",
-            "titulo_original": "一人之下6",
-            "etiquetas": "Action, Supernatural",
-            "type": "anime",
-            "created_at": "2026-01-02",
-            "updated_at": "2026-07-10T09:16:11.000Z",
-            "year": "2026",
-            "score": 6.87999999999999989341858963598497211933135986328125,
-            "status": "Finished Airing",
-            "episodes": 26
         }
     ]
 }
