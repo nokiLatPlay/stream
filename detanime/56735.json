@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.\n\n(Source: Crunchyroll)",
     "score": "7.0",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -27,7 +27,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-21T00:53:46.000Z",
+    "updated_at": "2026-07-28T20:51:33.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -69,6 +69,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0b7ea1b0424a7f7624a82818c898955f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4407/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/21a40f4023bf10650b70ce050631c7ef",
                             "type": "mp4",
                             "language": "Sub"
                         }
