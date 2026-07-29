@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 732,
+    "total_items": 733,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62342",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1175\/156007l.jpg",
+            "titulo": "Maid-san wa Taberu dake",
+            "titulo_original": "メイドさんは食べるだけ",
+            "etiquetas": "Gourmet, Slice of Life",
+            "type": "anime",
+            "created_at": "2026-04-05",
+            "updated_at": "2026-07-10T09:17:09.000Z",
+            "year": "2026",
+            "score": 6.94000000000000039079850466805510222911834716796875,
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62246",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1525\/157230l.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T08:30:51.000Z",
             "year": "2020",
             "score": 5.87999999999999989341858963598497211933135986328125,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "39551",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1271\/109841l.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken 2nd Season",
-            "titulo_original": "転生したらスライムだった件",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2021-01-12",
-            "updated_at": "2026-07-10T08:30:34.000Z",
-            "year": "2021",
-            "score": 8.3300000000000000710542735760100185871124267578125,
             "status": "Finished Airing",
             "episodes": 12
         }
