@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 738,
+    "total_items": 739,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "40496",
+            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1126\/108573l.jpg",
+            "titulo": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "titulo_original": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
+            "etiquetas": "Action, Fantasy",
+            "type": "anime",
+            "created_at": "2020-07-04",
+            "updated_at": "2026-07-10T08:31:45.000Z",
+            "year": "2020",
+            "score": 7.29999999999999982236431605997495353221893310546875,
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "40483",
             "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1558\/104666l.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.5",
             "status": "Currently Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "59517",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1015\/151233l.jpg",
-            "titulo": "Chitose-kun wa Ramune Bin no Naka",
-            "titulo_original": "千歳くんはラムネ瓶のなか",
-            "etiquetas": "Comedy, Romance",
-            "type": "anime",
-            "created_at": "2025-10-07",
-            "updated_at": "2026-04-01T01:36:46.000Z",
-            "year": "2025",
-            "score": "7.3",
-            "status": "Currently Airing",
-            "episodes": 13
         }
     ]
 }
