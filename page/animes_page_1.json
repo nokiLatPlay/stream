@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 734,
+    "total_items": 735,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "51096",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx145545-DGl3LVvFlnHi.png",
+            "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+            "titulo_original": "ようこそ実力至上主義の教室へ 2nd Season",
+            "etiquetas": "Drama, Mystery, Psychological",
+            "type": "anime",
+            "created_at": "2022-07-04",
+            "updated_at": "2026-07-29T15:19:57.000Z",
+            "year": "2022",
+            "score": "7.9",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
         {
             "id_mal": "35507",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx98659-WNyPLIZDpGGY.jpg",
@@ -2789,20 +2803,6 @@
             "score": 6.25,
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62432",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1387\/154934l.jpg",
-            "titulo": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-            "titulo_original": "人外教室の人間嫌い教師",
-            "etiquetas": "Drama, Supernatural",
-            "type": "anime",
-            "created_at": "2026-01-11",
-            "updated_at": "2026-07-10T09:17:39.000Z",
-            "year": "2026",
-            "score": 6.54999999999999982236431605997495353221893310546875,
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
