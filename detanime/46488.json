@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "Mitsuki Aya has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.\n\n(Source: Crunchyroll)",
     "score": "7.3",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -25,7 +25,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-21T13:57:20.000Z",
+    "updated_at": "2026-07-28T22:02:17.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -67,6 +67,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/70dcab9eb9f9458f9966384a588b58fa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4409/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/adcfdd53552d2c3e7e883a259672d62c",
                             "type": "mp4",
                             "language": "Sub"
                         }
