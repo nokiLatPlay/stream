@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 732,
+    "total_items": 733,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "763",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b763-1T59JdI5ohJd.jpg",
+            "titulo": "Zoids",
+            "titulo_original": "ゾイド",
+            "etiquetas": "Action, Adventure, Comedy, Mecha, Sci-Fi",
+            "type": "anime",
+            "created_at": "1999-09-04",
+            "updated_at": "2026-07-29T15:13:10.000Z",
+            "year": "1999",
+            "score": "7.0",
+            "status": "Finished Airing",
+            "episodes": 67
+        },
         {
             "id_mal": "11837",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx11837-94IUi1s3qHN1.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:17:15.000Z",
             "year": "2026",
             "score": 7.339999999999999857891452847979962825775146484375,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "62342",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1175\/156007l.jpg",
-            "titulo": "Maid-san wa Taberu dake",
-            "titulo_original": "メイドさんは食べるだけ",
-            "etiquetas": "Gourmet, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-07-10T09:17:09.000Z",
-            "year": "2026",
-            "score": 6.94000000000000039079850466805510222911834716796875,
             "status": "Finished Airing",
             "episodes": 12
         }
