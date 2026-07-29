@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n\n(Source: Yen Press)",
-    "score": "6.9",
-    "episodes": 3,
+    "score": "7.1",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -23,7 +23,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-08",
-    "updated_at": "2026-07-21T14:03:56.000Z",
+    "updated_at": "2026-07-28T22:06:09.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -65,6 +65,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/757648b1439669a4deeaea7c8a60294b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4413/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bd82ae90bef72be8f7d1c990e0b8dc52",
                             "type": "mp4",
                             "language": "Sub"
                         }
