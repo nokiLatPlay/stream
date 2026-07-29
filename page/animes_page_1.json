@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62936",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx202269-7KNj8s2fSsJJ.jpg",
+            "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "titulo_original": "透明な夜に駆ける君と、目に見えない恋をした。",
+            "etiquetas": "Drama, Romance",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-07-28T20:45:50.000Z",
+            "year": "2026",
+            "score": "7.7",
+            "status": "Currently Airing",
+            "episodes": 4
+        },
+        {
             "id_mal": "61269",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx188388-aXx9fsnvezBf.jpg",
             "titulo": "DIGIMON BEATBREAK",
@@ -132,7 +146,7 @@
         },
         {
             "id_mal": "63100",
-            "imagen": "https://image.tmdb.org/t/p/w342/2bcrD55V4OWZucaEmQKk5017LpS.jpg",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2bcrD55V4OWZucaEmQKk5017LpS.jpg",
             "titulo": "Tetsunabe no Jan!",
             "titulo_original": "鉄鍋のジャン !",
             "etiquetas": "Gourmet, Shounen",
@@ -1527,20 +1541,6 @@
             "updated_at": "2026-07-21T00:49:56.000Z",
             "year": "2026",
             "score": "6.2",
-            "status": "Currently Airing",
-            "episodes": 3
-        },
-        {
-            "id_mal": "62936",
-            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx202269-7KNj8s2fSsJJ.jpg",
-            "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "titulo_original": "透明な夜に駆ける君と、目に見えない恋をした。",
-            "etiquetas": "Drama, Romance",
-            "type": "anime",
-            "created_at": "2026-07-06",
-            "updated_at": "2026-07-20T20:25:51.000Z",
-            "year": "2026",
-            "score": "7.7",
             "status": "Currently Airing",
             "episodes": 3
         },
