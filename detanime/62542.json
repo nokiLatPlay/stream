@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The third season of Grand Blue.",
     "score": "8.2",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -27,7 +27,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-21T00:55:01.000Z",
+    "updated_at": "2026-07-28T20:52:21.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -41,6 +41,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/98e6c76f1e3b7389fb820984c15f91b9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4408/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/3080de68f78232c94c782b1109c97bc2",
                             "type": "mp4",
                             "language": "Sub"
                         }
