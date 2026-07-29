@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "Rin Takanashi, a caregiver in her thirties, was unceremoniously discarded as \"trash\" despite being summoned as a saint.\n\nHowever, as a lover of the great outdoors and all things camping, she was blessed with a special skill, \"Survival,\" as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savours gourmet cuisine to her heart's content...\n\nOr so the story should have gone, but it looks like their road is going in an unexpected direction...?",
-    "score": "6.2",
-    "episodes": 3,
+    "score": "6.1",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-21T00:55:50.000Z",
+    "updated_at": "2026-07-28T20:50:39.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -71,6 +71,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/073b8b2dcd28d598df560325a6b2892c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4406/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/aebef5cc3c51ac94c315b4b649e65c2d",
                             "type": "mp4",
                             "language": "Sub"
                         }
