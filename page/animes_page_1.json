@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 740,
+    "total_items": 741,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "35712",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx98951-EeoDeSyF97ZS.jpg",
+            "titulo": "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken",
+            "titulo_original": "僕の彼女がマジメ過ぎる処女ビッチな件",
+            "etiquetas": "Comedy, Ecchi, Romance",
+            "type": "anime",
+            "created_at": "2017-10-12",
+            "updated_at": "2026-07-29T15:36:16.000Z",
+            "year": "2017",
+            "score": "5.8",
+            "status": "Finished Airing",
+            "episodes": 10
+        },
         {
             "id_mal": "52308",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx151847-OnTYbvb4y4mp.jpg",
@@ -2787,20 +2801,6 @@
             "updated_at": "2026-07-10T09:23:01.000Z",
             "year": "2026",
             "score": 5.38999999999999968025576890795491635799407958984375,
-            "status": "Finished Airing",
-            "episodes": 12
-        },
-        {
-            "id_mal": "62825",
-            "imagen": "https:\/\/cdn.myanimelist.net\/images\/anime\/1632\/155095l.jpg",
-            "titulo": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-            "titulo_original": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-            "etiquetas": "Adventure, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2026-04-04",
-            "updated_at": "2026-07-10T09:22:28.000Z",
-            "year": "2026",
-            "score": 5.86000000000000031974423109204508364200592041015625,
             "status": "Finished Airing",
             "episodes": 12
         }
