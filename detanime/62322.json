@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\n\n(Source: Crunchyroll)",
-    "score": "6.3",
-    "episodes": 5,
+    "score": "6.2",
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -17,15 +17,15 @@
         "Brain's Base",
         "BS Fuji",
         "Bit grooove promotion",
+        "GREE Entertainment",
         "MediaNet",
         "DMM.com",
-        "GREE Entertainment",
         "Pia",
         "SYSTEM SERVICE"
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-22T13:36:23.000Z",
+    "updated_at": "2026-07-29T14:55:37.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -95,6 +95,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/486bdbfaad351b0eed3ba069731e5da3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/4370/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b3dc77359695cca75d07424f49b5e482",
                             "type": "mp4",
                             "language": "Sub"
                         }
