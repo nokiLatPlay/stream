@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n\n(Source: J-Novel Club)",
-    "score": "6.9",
-    "episodes": 3,
+    "score": "6.8",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -28,7 +28,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-07-21T00:52:47.000Z",
+    "updated_at": "2026-07-28T20:49:48.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -70,6 +70,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3a27f619d9954ff37065b98542e51271",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4405/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/f51226c7e8d203feffec2099309129aa",
                             "type": "mp4",
                             "language": "Sub"
                         }
