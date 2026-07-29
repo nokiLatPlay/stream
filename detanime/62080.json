@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n\n(Source: J-Novel Club)",
-    "score": "6.3",
-    "episodes": 4,
+    "score": "6.4",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -28,7 +28,7 @@
     ],
     "producers": [],
     "created_at": "2026-06-30",
-    "updated_at": "2026-07-21T13:59:19.000Z",
+    "updated_at": "2026-07-28T22:04:09.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -84,6 +84,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/b7e891891c57fdf9ceb64ee7cc398472",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4369/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/e178b526f9c587ff2f80a300f454d89a",
                             "type": "mp4",
                             "language": "Sub"
                         }
