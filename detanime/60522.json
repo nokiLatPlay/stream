@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-    "score": "6.9",
-    "episodes": 3,
+    "score": "6.8",
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-21T00:50:41.000Z",
+    "updated_at": "2026-07-28T20:47:01.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -68,6 +68,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/d69b48ddf8e7108ce64a20bd9fec2232",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4385/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/be1199f1cbe89665e1212c5ec07ffd74",
                             "type": "mp4",
                             "language": "Sub"
                         }
