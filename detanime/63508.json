@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The great sage Ephtal dies in despair after failing to reach the peak of magic—but 400 years later, he’s reborn with all his memories and power intact! In a world where magic has decayed and ancient spells are treated as miracles, Ephtal storms into a prestigious magic academy to reclaim the true art of sorcery. As his power shakes the world, long-forgotten legends begin to awaken!\n\n(Source: Crunchyroll)\n\nNote: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku is streaming a week in advance of the TV broadcast on dAnimeStore, ABEMA, U-NEXT, and Anime Hodai beginning June 26th, 2026. Regular broadcasting began on July 2nd, 2026.",
-    "score": "6.6",
-    "episodes": 5,
+    "score": "6.5",
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-06-26",
-    "updated_at": "2026-07-23T21:28:36.000Z",
+    "updated_at": "2026-07-30T13:22:24.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -99,6 +99,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/fbf7f7a7c4a92aa4205d7281b1e76053",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/4350/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4a94708beafd3ba93ac7c1ae657750f3",
                             "type": "mp4",
                             "language": "Sub"
                         }
