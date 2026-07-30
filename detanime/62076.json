@@ -6,9 +6,9 @@
     "etiquetas": "Comedy, Romance, Slice of Life",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n\n(Source: Crunchyroll)\n\nNote: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 9th, 2026.",
+    "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n\n(Source: Crunchyroll)\n\nNote: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 10th, 2026.",
     "score": "8.2",
-    "episodes": 3,
+    "episodes": 4,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -25,8 +25,8 @@
         "AbemaTV"
     ],
     "producers": [],
-    "created_at": "2026-07-09",
-    "updated_at": "2026-07-23T21:32:31.000Z",
+    "created_at": "2026-07-10",
+    "updated_at": "2026-07-30T13:25:42.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -68,6 +68,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/f51226e26ec32e2354f0c7e20f5712d3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "numero": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "https://cdn.animeav1.com/screenshots/4424/4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/88ac10175343af0657f80b25aadd7d67",
                             "type": "mp4",
                             "language": "Sub"
                         }
