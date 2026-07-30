@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Bungou Stray Dogs Wan!",
-    "score": "7.2",
-    "episodes": 4,
+    "score": "7.3",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 12,
     "rating": "",
@@ -27,7 +27,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-23T21:23:32.000Z",
+    "updated_at": "2026-07-30T13:19:45.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -83,6 +83,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/76bae59885b1605c2a1a660a94e10e31",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4373/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/79505a21f7363ed5dc409c4da41c86f4",
                             "type": "mp4",
                             "language": "Sub"
                         }
