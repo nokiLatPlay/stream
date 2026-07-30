@@ -6,9 +6,9 @@
     "etiquetas": "Comedy, Horror, Supernatural",
     "year": "2026",
     "type": "anime",
-    "synopsis": "Clouds blacken the sky and sheets of rain turn the mountain forest into a treacherous maze... A landslide crushes a razor wire fence, and buries a \"NO TRESPASSING\" sign... Two young siblings wander into a dark world where they do not belong, and a long, horrid shadow rears up to meet them- Anyway, so that's how we met Dara-san! She might look kinda scary, but just wait until you get to know her!\n\n\"Look, I'm a god of misfortune, okay!? Aren't you kids gonna freak out about my grotesque visage!?\"\n\n(Source: Yen Press)",
-    "score": "6.1",
-    "episodes": 4,
+    "synopsis": "After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.\n\n(Source: Crunchyroll)",
+    "score": "6.2",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-02",
-    "updated_at": "2026-07-23T21:25:13.000Z",
+    "updated_at": "2026-07-30T13:18:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -82,6 +82,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/2c7f0cb9775cf11636c6e6d00780a37b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4372/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b4d42d63cd971fa47bc4f0c104c4fcdd",
                             "type": "mp4",
                             "language": "Sub"
                         }
