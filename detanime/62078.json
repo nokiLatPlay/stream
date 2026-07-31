@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n\n(Source: Crunchyroll)\n\nNote: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.",
-    "score": "6.8",
-    "episodes": 4,
+    "score": "6.7",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-03",
-    "updated_at": "2026-07-24T17:45:08.000Z",
+    "updated_at": "2026-07-31T12:54:32.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -85,6 +85,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/a40839d3e31d7fff5233adfff523cab1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4380/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/13009a7c4645e614913d8e408d1df927",
                             "type": "mp4",
                             "language": "Sub"
                         }
