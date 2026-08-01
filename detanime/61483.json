@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.\n(Source: Crunchyroll)",
     "score": "8.1",
-    "episodes": 5,
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": 23,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-07-26T12:03:29.000Z",
+    "updated_at": "2026-08-01T13:23:00.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -94,6 +94,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/4d5fbd28cdc8968cab5ed30fa93330fd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/4388/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/bbb4e62335558915bb7f287748754c0e",
                             "type": "mp4",
                             "language": "Sub"
                         }
