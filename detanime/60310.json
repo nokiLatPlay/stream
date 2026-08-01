@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "The fourth season of Mairimashita! Iruma-kun.\n\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n(Source: Crunchyroll News)",
     "score": "8.0",
-    "episodes": 17,
+    "episodes": 18,
     "status": "Currently Airing",
     "duration": 25,
     "rating": "",
@@ -18,7 +18,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-07-26T11:58:18.000Z",
+    "updated_at": "2026-08-01T13:17:34.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -358,6 +358,26 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3aa14f3350163c46369c643246bc7a88",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "numero": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "https://cdn.animeav1.com/screenshots/3929/18.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/6a3c3fbc7e51c35fcdca431ebf7ed8a4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/b9b8b9892e26542f7bdd1e54611487e7",
                             "type": "mp4",
                             "language": "Sub"
                         }
