@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "A Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n(Source: MangaPlaza)",
     "score": "6.9",
-    "episodes": 4,
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -24,7 +24,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-05",
-    "updated_at": "2026-07-26T13:47:20.000Z",
+    "updated_at": "2026-08-01T13:25:02.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -80,6 +80,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/dbb4df46bb01576d978b14c65c398dcf",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4390/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/ff88f83f810dedf6ed8e76fae645733f",
                             "type": "mp4",
                             "language": "Sub"
                         }
