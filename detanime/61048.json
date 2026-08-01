@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
-    "score": "7.5",
-    "episodes": 5,
+    "score": "7.6",
+    "episodes": 6,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -29,7 +29,7 @@
     ],
     "producers": [],
     "created_at": "2026-06-27",
-    "updated_at": "2026-07-26T12:00:08.000Z",
+    "updated_at": "2026-08-01T13:19:05.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -99,6 +99,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/c698ce77d532a34a7bd5b4ee8aa976f8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "numero": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "https://cdn.animeav1.com/screenshots/4367/6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/2b70c68ea18011ae44c47a714f448448",
                             "type": "mp4",
                             "language": "Sub"
                         }
