@@ -8,7 +8,7 @@
     "type": "anime",
     "synopsis": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n(Source: Square Enix)",
     "score": "7.8",
-    "episodes": 16,
+    "episodes": 17,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -21,7 +21,7 @@
     ],
     "producers": [],
     "created_at": "2026-04-04",
-    "updated_at": "2026-07-26T12:02:44.000Z",
+    "updated_at": "2026-08-01T13:23:55.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -317,6 +317,20 @@
                         {
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/c5155c5aceada32477dab7bf731f9806",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "numero": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "https://cdn.animeav1.com/screenshots/3933/17.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/9f65837ada4f6e20589859ffe1c60857",
                             "type": "mp4",
                             "language": "Sub"
                         }
