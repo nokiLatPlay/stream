@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "38000",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx101922-WBsBl0ClmgYL.jpg",
+            "titulo": "Kimetsu no Yaiba",
+            "titulo_original": "鬼滅の刃",
+            "etiquetas": "Action, Adventure, Drama, Fantasy, Supernatural",
+            "type": "anime",
+            "created_at": "2019-04-06",
+            "updated_at": "2026-08-02T07:14:14.000Z",
+            "year": "2019",
+            "score": "8.3",
+            "status": "Finished Airing",
+            "episodes": 26
+        },
+        {
             "id_mal": "60522",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx185542-6a9LCWlLHa0T.jpg",
             "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
@@ -2789,20 +2803,6 @@
             "score": "8.00",
             "status": "Finished Airing",
             "episodes": 8
-        },
-        {
-            "id_mal": "62913",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3932.jpg",
-            "titulo": "NEEDY GIRL OVERDOSE",
-            "titulo_original": "NEEDY GIRL OVERDOSE",
-            "etiquetas": "Adventure, Drama, Psychological, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-04-05",
-            "updated_at": "2026-07-10T09:24:35.000Z",
-            "year": "2026",
-            "score": "6.80",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
