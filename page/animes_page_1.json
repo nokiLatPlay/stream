@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 744,
+    "total_items": 745,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62031",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx195833-h7x6i3NQWROA.jpg",
+            "titulo": "Honoo no Toukyuujyo Dodge Danko",
+            "titulo_original": "炎の闘球女 ドッジ弾子",
+            "etiquetas": "Comedy, Sports",
+            "type": "anime",
+            "created_at": "2026-07-06",
+            "updated_at": "2026-08-05T13:28:00.000Z",
+            "year": "2026",
+            "score": "5.7",
+            "status": "Currently Airing",
+            "episodes": 5
+        },
         {
             "id_mal": "63347",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx206521-ecJuDgjth84C.png",
@@ -2789,20 +2803,6 @@
             "score": "4.70",
             "status": "Finished Airing",
             "episodes": 8
-        },
-        {
-            "id_mal": "62964",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3914.jpg",
-            "titulo": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-            "titulo_original": "また殺されてしまったのですね、探偵様",
-            "etiquetas": "Mystery, Psychological, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-03",
-            "updated_at": "2026-07-10T09:25:54.000Z",
-            "year": "2026",
-            "score": "5.90",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
