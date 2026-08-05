@@ -1060,11 +1060,11 @@
             "id_mal": "62936",
             "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
             "last_episode": {
-                "episode_id": "04",
-                "numero": 4,
-                "nombre": "Episodio 4",
-                "imagen": "https://cdn.animeav1.com/screenshots/4404/4.jpg",
-                "updated_at": "2026-08-02T06:57:45.000Z"
+                "episode_id": "05",
+                "numero": 5,
+                "nombre": "Episodio '+item.number+'",
+                "imagen": "'+item_image+'",
+                "updated_at": "2026-08-05T10:07:18.000Z"
             }
         },
         {
