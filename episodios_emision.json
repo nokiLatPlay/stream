@@ -1071,11 +1071,11 @@
             "id_mal": "56736",
             "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
             "last_episode": {
-                "episode_id": "04",
-                "numero": 4,
-                "nombre": "Episodio 4",
-                "imagen": "https://cdn.animeav1.com/screenshots/4403/4.jpg",
-                "updated_at": "2026-08-02T06:59:40.000Z"
+                "episode_id": "05",
+                "numero": 5,
+                "nombre": "Episodio '+item.number+'",
+                "imagen": "'+item_image+'",
+                "updated_at": "2026-08-05T10:11:11.000Z"
             }
         },
         {
