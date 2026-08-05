@@ -1,9 +1,23 @@
 {
     "page": 4,
     "total_pages": 4,
-    "total_items": 743,
+    "total_items": 744,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "C7BD6",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3855.jpg",
+            "titulo": "Castlevania",
+            "titulo_original": " ",
+            "etiquetas": " Animación, Sci-Fi, Fantasy, Drama",
+            "type": "anime",
+            "created_at": "2017-07-07",
+            "updated_at": "2026-04-03T14:27:23.000Z",
+            "year": "2017",
+            "score": "8.30",
+            "status": "En emisión",
+            "episodes": 32
+        },
         {
             "id_mal": "42429",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/382.jpg",
