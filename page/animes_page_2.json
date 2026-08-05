@@ -1,9 +1,23 @@
 {
     "page": 2,
     "total_pages": 4,
-    "total_items": 744,
+    "total_items": 745,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "62964",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3914.jpg",
+            "titulo": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+            "titulo_original": "また殺されてしまったのですね、探偵様",
+            "etiquetas": "Mystery, Psychological, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-03",
+            "updated_at": "2026-07-10T09:25:54.000Z",
+            "year": "2026",
+            "score": "5.90",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
         {
             "id_mal": "62927",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/3758.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.10",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "41402",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/497.jpg",
-            "titulo": "Mairimashita! Iruma-kun 2",
-            "titulo_original": "魔入りました！入間くん 第2シリーズ",
-            "etiquetas": "Comedy, Fantasy, Supernatural",
-            "type": "anime",
-            "created_at": "2021-04-17",
-            "updated_at": "2026-07-10T08:33:30.000Z",
-            "year": "2021",
-            "score": "8.00",
-            "status": "Finished Airing",
-            "episodes": 21
         }
     ]
 }
