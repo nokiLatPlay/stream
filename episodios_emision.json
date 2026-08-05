@@ -1396,6 +1396,17 @@
                 "imagen": "https://cdn.animeav1.com/screenshots/3137/14.jpg",
                 "updated_at": "2026-07-28T22:01:00.000Z"
             }
+        },
+        {
+            "id_mal": "62031",
+            "titulo": "Honoo no Toukyuujyo Dodge Danko",
+            "last_episode": {
+                "episode_id": "05",
+                "numero": 5,
+                "nombre": "Episodio '+item.number+'",
+                "imagen": "'+item_image+'",
+                "updated_at": "2026-08-05T13:28:17.000Z"
+            }
         }
     ],
     "updated_at": "2026-08-05T07:35:06.000Z"
