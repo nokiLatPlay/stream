@@ -36,7 +36,7 @@
                     "episode_id": "01",
                     "numero": 1,
                     "nombre": "Episodio 1",
-                    "portada": "'+item_image+'",
+                    "portada": "https://cdn.animeav1.com/screenshots/4408/1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
@@ -56,7 +56,7 @@
                     "episode_id": "02",
                     "numero": 2,
                     "nombre": "Episodio 2",
-                    "portada": "'+item_image+'",
+                    "portada": "https://cdn.animeav1.com/screenshots/4408/2.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace",
@@ -122,39 +122,6 @@
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=QkNzSTQrZzB2M1RnNllldGVLVVdPdml2SkhhOVlnZlNTMnJTRm9uYm15OUpMaE1ZYlJGL0VuclhyWDdLWmdTK0pMRFBxb0cyNHplSjRUU29TWFJGbGRsY0xoV3dxNzNOUmJIbTBKUGRONlE9OjpDbm_uBKkRkaej9QTEX04A&t=f704917914c55d81775d33a554da2299&op=NzYwODI=",
                             "type": "JK",
-                            "language": "Sub"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "temporada": "Temporada 3",
-            "capitulos": [
-                {
-                    "episode_id": "01",
-                    "numero": 1,
-                    "nombre": "Episodio 1",
-                    "portada": "https://cdn.animeav1.com/screenshots/4408/1.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/4fd8c4efb89d5dee066b02b92986ec10",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "02",
-                    "numero": 2,
-                    "nombre": "Episodio 2",
-                    "portada": "https://cdn.animeav1.com/screenshots/4408/2.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace",
-                            "url": "https://player.zilla-networks.com/m3u8/1f9172e9e733f926f0752de1634a8697",
-                            "type": "mp4",
                             "language": "Sub"
                         }
                     ]
