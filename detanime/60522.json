@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-    "score": "6.8",
-    "episodes": 4,
+    "score": "6.7",
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -26,7 +26,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-04",
-    "updated_at": "2026-08-02T07:01:57.000Z",
+    "updated_at": "2026-08-05T12:50:56.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -106,6 +106,20 @@
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=VUNCK1ZIc0psVWtKaWlJaTZ1RnEwNDB4ZGUveXJOQ3RxV1ZRQ0UzaW03TWxWWG5ackJXSFU4UndjeDBsdGIrZklDNENRb2wrNGx0YXZESUNOeW8zNjFhdVAreXFZdjV5eVl0WE0yRGl2YnZkb2RJQU1maGxjeVQyVG9uZkpGeTY6OqWLvRDXLRCZ9JtjjD6b4os-&t=703c92aa31abed6c0c43ce2582190ce5&op=NzU0NDQ=",
+                            "type": "JK",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio '+item.number+'",
+                    "portada": "'+item_image+'",
+                    "enlaces": [
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=QTJzVkN1djVSVVl0ZE00eTlMZmRzVCtocHJ0eVpHLzN0RWNsM1ZkUWRXUnd1NHdnNU9GK3JHeWxpZzU3QVBHTytVU2ZqUzQrcThlZW1GZmt5UEZrOXpNNExqSHBXMFFxelVyQkJ3OXhJbHBnL0RoRDdYZHBvUHJlUGcyUk5kZFc6Ol1H8LZ2Hk4ixw_LyXaH32w-&t=54ec0f1f2a7e743f439ebaf905fb0e15&op=NzYwNzY=",
                             "type": "JK",
                             "language": "Sub"
                         }
