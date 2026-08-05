@@ -730,11 +730,11 @@
             "id_mal": "63347",
             "titulo": "World Is Dancing",
             "last_episode": {
-                "episode_id": "05",
-                "numero": 5,
-                "nombre": "Episodio 5",
-                "imagen": "https://cdn.animeav1.com/screenshots/4368/5.jpg",
-                "updated_at": "2026-07-28T20:49:14.000Z"
+                "episode_id": "06",
+                "numero": 6,
+                "nombre": "Episodio '+item.number+'",
+                "imagen": "'+item_image+'",
+                "updated_at": "2026-08-05T12:54:29.000Z"
             }
         },
         {
