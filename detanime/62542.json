@@ -7,8 +7,8 @@
     "year": "2026",
     "type": "anime",
     "synopsis": "The third season of Grand Blue.",
-    "score": "8.2",
-    "episodes": 4,
+    "score": "8.1",
+    "episodes": 7,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -27,11 +27,51 @@
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-28T20:52:21.000Z",
+    "updated_at": "2026-08-05T14:01:57.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
             "capitulos": [
+                {
+                    "episode_id": "01",
+                    "numero": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "'+item_image+'",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/4fd8c4efb89d5dee066b02b92986ec10",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=d3ZXTk1YbStZeFVkN0VHTmhiYmV5UXQzVlhUSGdHQW9YZmFreHVRZnY1bzMyTEVVVWhzenNzL2U2bkxwWGUrcllyU1NKNy9DNzgySGdWK3NqcENxMkE9PTo6J9VR65nhtYeQQwQGF4xaOw--&t=25a0a1d13456559299e956eebfcc4262&op=NzQ4NTE=",
+                            "type": "JK",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "numero": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "'+item_image+'",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace",
+                            "url": "https://player.zilla-networks.com/m3u8/1f9172e9e733f926f0752de1634a8697",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=L0JKVjU4NWhDRjRjekV2TlJERTVUY0NWRENrWWxIcEs4NEp4NDcwTUpoejYxTVoveHI2ZEZvNTllQW02RGJ1eVBuQmJVWkV6TjlZTFo3emhlaEJaWGdpeTdtWEpycDAvNEF3c3FuTWVlUzQ9OjqfAcwyOwZAzBVgKPKtA2RC&t=47555db39f2af3c7b00aaa46a67cc281&op=NzUwNzA=",
+                            "type": "JK",
+                            "language": "Sub"
+                        }
+                    ]
+                },
                 {
                     "episode_id": "03",
                     "numero": 3,
@@ -42,6 +82,12 @@
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/98e6c76f1e3b7389fb820984c15f91b9",
                             "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=VXdySnVYOGNJY3dvQXd3cEEvN3BidVdWSU5vQ082cUtMMFI4RWpZVjY5MmdVRHU4SmVXMjNyVTBlajdnTUtyWGROWk1iS3NmRmVRYmJTdzMwZmw2ODUrNmV4Y3J4U242Z0FxTE5Fajgyc2c9OjoQFVfx09AYXStspN3gInRC&t=c6e9e234fbfc76de60dbe94325a7904e&op=NzUzMDI=",
+                            "type": "JK",
                             "language": "Sub"
                         }
                     ]
@@ -56,6 +102,26 @@
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/3080de68f78232c94c782b1109c97bc2",
                             "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=NzdyOTZjaG1ndU5jd3pKVFpCQ0hvYXRXZnc0S2VlVDhIWmF2Zmp5b2dRU0R0UThEYmZvc2hqcFgvMHFOOVh4UndVMGM0ZXFwK2UycWRDOThLRTdjOHc9PTo6sX8YWGWKdziqWJefmCAeBA--&t=a96e4200b2032702fede1cfd2c08d704&op=NzU0NTc=",
+                            "type": "JK",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4408/5.jpg ",
+                    "enlaces": [
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=QkNzSTQrZzB2M1RnNllldGVLVVdPdml2SkhhOVlnZlNTMnJTRm9uYm15OUpMaE1ZYlJGL0VuclhyWDdLWmdTK0pMRFBxb0cyNHplSjRUU29TWFJGbGRsY0xoV3dxNzNOUmJIbTBKUGRONlE9OjpDbm_uBKkRkaej9QTEX04A&t=f704917914c55d81775d33a554da2299&op=NzYwODI=",
+                            "type": "JK",
                             "language": "Sub"
                         }
                     ]
