@@ -34,8 +34,8 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "Episodio '+item.number+'",
-                    "portada": "'+item_image+'",
+                    "nombre": "Episodio 1",
+                    "portada": "https://image.tmdb.org/t/p/w300/zPGK33uhG3NL3NlhSXtxnKRJIR9.jpg",
                     "enlaces": [
                         {
                             "nombre": "JK Server",
@@ -48,8 +48,8 @@
                 {
                     "episode_id": "02",
                     "numero": 2,
-                    "nombre": "Episodio '+item.number+'",
-                    "portada": "'+item_image+'",
+                    "nombre": "Episodio 2",
+                    "portada": "https://image.tmdb.org/t/p/w300/cD2P4XVowCPcRbteOdAucFI0TRi.jpg",
                     "enlaces": [
                         {
                             "nombre": "JK Server",
@@ -62,8 +62,8 @@
                 {
                     "episode_id": "03",
                     "numero": 3,
-                    "nombre": "Episodio '+item.number+'",
-                    "portada": "'+item_image+'",
+                    "nombre": "Episodio 1",
+                    "portada": "https://cdn.jkdesa.com/assets/images/animes/video/image_thumb/jkvideo_fb243e4025c8387eed4f69585cd34c66.jpg",
                     "enlaces": [
                         {
                             "nombre": "JK Server",
@@ -76,8 +76,8 @@
                 {
                     "episode_id": "04",
                     "numero": 4,
-                    "nombre": "Episodio '+item.number+'",
-                    "portada": "'+item_image+'",
+                    "nombre": "Episodio '4",
+                    "portada": "https://image.tmdb.org/t/p/w300/7POL92WEskEOvDaX5PkAYKDj35x.jpg",
                     "enlaces": [
                         {
                             "nombre": "JK Server",
@@ -90,8 +90,8 @@
                 {
                     "episode_id": "05",
                     "numero": 5,
-                    "nombre": "Episodio '+item.number+'",
-                    "portada": "'+item_image+'",
+                    "nombre": "Episodio 5",
+                    "portada": "https://image.tmdb.org/t/p/w300/8BVYtsyp4nDRYkojKwFEvc7nThK.jpg",
                     "enlaces": [
                         {
                             "nombre": "JK Server",
