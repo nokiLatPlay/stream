@@ -1,9 +1,23 @@
 {
     "page": 3,
     "total_pages": 4,
-    "total_items": 744,
+    "total_items": 745,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "41402",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/497.jpg",
+            "titulo": "Mairimashita! Iruma-kun 2",
+            "titulo_original": "魔入りました！入間くん 第2シリーズ",
+            "etiquetas": "Comedy, Fantasy, Supernatural",
+            "type": "anime",
+            "created_at": "2021-04-17",
+            "updated_at": "2026-07-10T08:33:30.000Z",
+            "year": "2021",
+            "score": "8.00",
+            "status": "Finished Airing",
+            "episodes": 21
+        },
         {
             "id_mal": "41345",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/3138.jpg",
@@ -2789,20 +2803,6 @@
             "score": "7.60",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "38793",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1230\/118297.jpg",
-            "titulo": "Tensei shitara Slime Datta Ken OVA",
-            "titulo_original": "転生したらスライムだった件 OVA",
-            "etiquetas": "Action, Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2019",
-            "updated_at": "2026-04-04T06:47:57.000Z",
-            "year": "2019",
-            "score": "7.50",
-            "status": "Finished Airing",
-            "episodes": 5
         }
     ]
 }
