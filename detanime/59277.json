@@ -21,7 +21,7 @@
     ],
     "producers": [],
     "created_at": "2025-07-01",
-    "updated_at": "2026-08-06T09:30:22.000Z",
+    "updated_at": "2026-08-06T09:30:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -29,33 +29,9 @@
                 {
                     "episode_id": "01",
                     "numero": 1,
-                    "nombre": "01. Routine and Girlfriend",
-                    "portada": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a8fa3206e8679f4c28b90f1b861b61851751377541_large.jpg",
+                    "nombre": "Routine and Girlfriend",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/1.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/4abb0891ab236089acfcdcea726315a5",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/4abb0891ab236089acfcdcea726315a5",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/d78857a021a5e2c6ec2e9942f2e6397d",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/d78857a021a5e2c6ec2e9942f2e6397d",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=K1hGUlNBdDBzOUxDZFVPa21UeU9RcU41WVZzd0c5Q3k2K3NPUkhBaDM4cG0wakRVVVkrT0NmTXhtbEVkbDdrMk05U1MxOVpzNkxMWHpMUDRwNjVRMFgzZ0VSbXljb3MwTGRaNjU0aThvQVU9Ojo4YKF780HB1B2yT6LnUxu6&t=bea6d9d9a113226917f70bafb9de8f6f&op=NjQyMjQ=",
@@ -68,32 +44,8 @@
                     "episode_id": "02",
                     "numero": 2,
                     "nombre": "02. Episodio 2",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/2.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/f515b86c79ae14cbe9a448539fe22c43",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/f515b86c79ae14cbe9a448539fe22c43",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/14882fc4140bf3b00cc8cef8a3a82be1",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/14882fc4140bf3b00cc8cef8a3a82be1",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=ak1nMFJETjBUREsxUjJlZ2ducVRzM1J2bDQ2YlB2ckpOdnF1VWk5cjFTREp5Z1JDM3ZhV0xQb3JSWVpaT1NJR2xhbFVyZUNwTC9VVlNqREFueUFwZ1hlcHJvUldiMzlGdFF5RUVRK3hZWWs9Ojp1CL.6IOa_W4Td_lRv_8N_&t=cc01c7670c6c9994d0c8b38b19644947&op=NjQzMDg=",
@@ -106,32 +58,8 @@
                     "episode_id": "03",
                     "numero": 3,
                     "nombre": "03. Episodio 3",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/3.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/15dba4c160d800d7a98187b5b025bdbe",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/15dba4c160d800d7a98187b5b025bdbe",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/5154f6c523b2cc3acd361cb6b5324121",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/5154f6c523b2cc3acd361cb6b5324121",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=R0FaemIwaDN2K0VrQmJ6bm1XYTBLeVB6amx3akprZjhGRiswbGx5QVcxQnNnNGwvWkdNOWo2WkFIT080UFJNQlZCY0NJNkQ0Q3B3b1ZpQ1MyanZoYjhyT0NYSUxWa2doeXF2Vm54ZVlCcm89OjotuvI56Aie_wsCQhwVlEzY&t=bc11c3cc5f135f98fdf4d3b20609413b&op=NjQ0OTI=",
@@ -144,80 +72,8 @@
                     "episode_id": "04",
                     "numero": 4,
                     "nombre": "04. Episodio 4",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/4.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6986d989e8ff0113467f0f535eaf2db0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/9881de9b21911a3ddd133c3e8afc1eda",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=a2p2RElEVnBNdE03UUZoWmlxa1lxSlJRQnR0N0hWMllWRXROUWYxZWlEeWlyb0ZraHlJeVZRcXVkVG9ia2FWOCtuOElwUG1iUjJIbnVLekMyems0c0pudDJVL0xXNGljQlpEcTZ3c0F6QTA9OjojF2lxswh3vwI_5GCxwrUm&t=c611ff6d8fa70d7d896a0120182fbce2&op=NjQ3MzM=",
@@ -230,80 +86,8 @@
                     "episode_id": "05",
                     "numero": 5,
                     "nombre": "05. Episodio 5",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/5.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/25a53b6192807d4d8fb1515bdc2bc090",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ef5d02654d11f7648b221b3b8185c029",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=Nk5hckxueUVlMHFHU2phRlFQNG5KNTloS2tyM2RyeW9pZGRDbUJEQlB0dXVCc3dUMXVHZTZtMXhBWS9uclJUQ21vY1FWVjFqeDFBR282VVFzS3pVZTdpMXVqTHQxN015bXNSaC81VmkrQUk9OjrN8mq8H2f5r4SMrFqe.mwz&t=ad75ed59b2efc95107c0ce31fb71c508&op=NjU0MjQ=",
@@ -316,80 +100,8 @@
                     "episode_id": "06",
                     "numero": 6,
                     "nombre": "06. Episodio 6",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/6.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a475d5980eb4ea8984096bfa7b5c3915",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/317991c84f37004200c9ad8ce216fbe7",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=TDJoV3BYaXBaY2s2eDV1Z0JuQ1dUZHlzeVZsZ01YMlMwL2NvQVVnUGN5MVlDeGtYRUVsQmk3SEh5K2hQeGUvK0M3c3hTeDB5ck1jdU5xQkR5elRjbzhxN0J5UHUrdDBsWGl4YUhKbEN0UzQ9Ojp.AzZPsboQk93gA7beJAeG&t=fe8fbd1eb70446b1af78e7382383c42c&op=NjYwMTM=",
@@ -402,80 +114,8 @@
                     "episode_id": "07",
                     "numero": 7,
                     "nombre": "07. Episodio 7",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/7.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/eb11624247b6f19798deda2cd9e8a34b",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/c2bcee666a5b030929851ef85af6bf49",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=dU4vR1F1Snl5akFaQVlYakJGVXZVSGN1dmJZQzlveW10dUJBYkg5RHU2akZMdUJoWmVscU1MeVZDN3lqMTBaTk1KUjJCZmFLdVZrd2s3eEhoY1Vtc3FadGlwUE5aNDI0VTdheU8rVzZ0alE9OjrjbvtkIDKcTyKVeNVEUFAa&t=91d241180cc7fddd3134aac2d3334833&op=NjY0NjQ=",
@@ -488,80 +128,8 @@
                     "episode_id": "08",
                     "numero": 8,
                     "nombre": "08. Episodio 8",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/8.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/d64b53cacae16459e6311ccc5b888d7e",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ccb3eb545d7fcdbda235374e6106f6f8",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=ZGxhNk9nR2JiZmU4QnN5SmlCTW1EY3VMWldIbEkrK1MyeEpPNGE5Z0FBak9KN1BBc1BPbnBtMGhxTXkrUmhUcmMzQnhlNXlzeHo4WU1DV21EZndhbGF2NGozdWcxMXA2R21wNFhkTS83RWM9Ojr8dTfmZHM_JxK.gOTrYKF9&t=8d63b9084f129615f8b6bb1c6e16e789&op=NjY5NjU=",
@@ -574,80 +142,8 @@
                     "episode_id": "09",
                     "numero": 9,
                     "nombre": "09. Episodio 9",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/9.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a6ea942524266c6f87de7a887e90c568",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a6ea942524266c6f87de7a887e90c568",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a6ea942524266c6f87de7a887e90c568",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a6ea942524266c6f87de7a887e90c568",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/a6ea942524266c6f87de7a887e90c568",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/a6ea942524266c6f87de7a887e90c568",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/dc973a914461dd3465ffcc8f4d7a652f",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=YjltK0hGd3l5RGVhdldJMWdIb2RMamlVYW9VREZocUtGYTM4emlxM2h2Q3NZSlZYa0RNVWZIQjZsa2dSWnhsQm0ydGtSWFAvWHBHcFYyYWpEZ3pRTXNGUHJhWHVmcm1oTTRlYlRSQWlBUEE9OjqI24ZBz5bZJG7JDwvRFuxP&t=a2162a7fd4fe71daa659a404af1909bf&op=NjcwNzg=",
@@ -660,80 +156,8 @@
                     "episode_id": "10",
                     "numero": 10,
                     "nombre": "10. Episodio 10",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/10.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/6af93f950f51168fa0acd1bfdf361ae0",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/a7e4ee6cadd7cc83f233e59b6b2a291c",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=UDhIQkt5OWpYdDNYb2dtOGpkS08ySkFwLzh2STFBL0tSaUNGdENtVXpqQmxYcmE3aGR0YStFNHpFOHpIZ01zYUlteTdhT0pqeWlzdXl0MzV5SlVPWWhMVDdHbEV0TFhwTmt2TktQMFJLWlU9Ojqo6Iy82SzhHxmz6gNdmom_&t=28cb1f208992d6e40647d8bfc38878fe&op=NjczMjE=",
@@ -746,80 +170,8 @@
                     "episode_id": "11",
                     "numero": 11,
                     "nombre": "11. Episodio 11",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/1.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/43a034afce56ed3309c7e3423476f1f4",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/1572d50788aff67220bfb4a84a3b3166",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=YU44OFRFTkNSbjl3RjY1ZUx0bkdZYklST3VMRlVDcU1FR3Znek5rTUMwS3NWdDdqRFBpalZTcFYxemJZSks2d2VQMXVNYmtxRG9VZGIwVk9KTDBYWlVUdHpqUnpEUElVVnFhVDBHTi9FaXc9OjqqGrV4H1VEBurdSj3zEMra&t=a88db936e14493e51ce35e14c0c230be&op=Njc0MjY=",
@@ -832,80 +184,8 @@
                     "episode_id": "12",
                     "numero": 12,
                     "nombre": "12. Episodio 12",
-                    "portada": "",
+                    "portada": "https://cdn.animeav1.com/screenshots/1962/12.jpg",
                     "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https://player.zilla-networks.com/play/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https://player.zilla-networks.com/m3u8/3d6a90476e39845ea6645ed98f5cbeeb",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https://player.zilla-networks.com/play/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https://player.zilla-networks.com/m3u8/ced42aeb425ab3fd30e88cbd006ec7f5",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
                         {
                             "nombre": "JK Server",
                             "url": "https://jkanime.net/jkplayer/um?e=dzZXdVFleHhxS2doQlUxMzlLTUgwWWVoRzBoKytrcUppTmtINWszMW83WEpLdnFEOFlGY2lNbWJYT0ZINVZvMk8zN1VXVU1lRXFHTzRPTHNOZ2dyTWhHNXZDNndmbGhwa3M4K0ljR2t1blE9OjpYYaQM75ZYTDDsEXrYh6lE&t=71bad8e609ea40ea71b880e057f65f0e&op=Njc1NDc=",
