@@ -1,9 +1,23 @@
 {
     "page": 1,
     "total_pages": 4,
-    "total_items": 745,
+    "total_items": 746,
     "items_per_page": 200,
     "data": [
+        {
+            "id_mal": "63878",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx213665-E6byznDKrKY0.png",
+            "titulo": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+            "titulo_original": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+            "etiquetas": "Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2026-07-07",
+            "updated_at": "2026-08-06T10:25:28.000Z",
+            "year": "2026",
+            "score": "4.8",
+            "status": "Currently Airing",
+            "episodes": 5
+        },
         {
             "id_mal": "59277",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx179344-GQzJfehpQI72.png",
@@ -2789,20 +2803,6 @@
             "score": "5.30",
             "status": "Finished Airing",
             "episodes": 13
-        },
-        {
-            "id_mal": "63014",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3953.jpg",
-            "titulo": "Tadaima, Ojamasaremasu!",
-            "titulo_original": "ただいま、おじゃまされます！",
-            "etiquetas": "Comedy, Romance, Slice of Life",
-            "type": "anime",
-            "created_at": "2026-04-08",
-            "updated_at": "2026-07-10T09:27:08.000Z",
-            "year": "2026",
-            "score": "6.50",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
