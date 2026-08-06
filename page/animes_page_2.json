@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "62983",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3974.jpg",
+            "titulo": "Marika-chan no Koukando wa Bukkowareteiru",
+            "titulo_original": "茉莉花ちゃんの好感度はぶっ壊れている",
+            "etiquetas": "Comedy, Drama, Ecchi, Romance, Supernatural",
+            "type": "anime",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-10T09:26:42.000Z",
+            "year": "2026",
+            "score": "4.70",
+            "status": "Finished Airing",
+            "episodes": 8
+        },
+        {
             "id_mal": "62964",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/3914.jpg",
             "titulo": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
@@ -2789,20 +2803,6 @@
             "score": "5.50",
             "status": "Finished Airing",
             "episodes": 11
-        },
-        {
-            "id_mal": "41710",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/1654.jpg",
-            "titulo": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
-            "titulo_original": "現実主義勇者の王国再建記",
-            "etiquetas": "Action, Adventure, Fantasy, Romance",
-            "type": "anime",
-            "created_at": "2021-07-04",
-            "updated_at": "2026-07-10T08:33:42.000Z",
-            "year": "2021",
-            "score": "7.10",
-            "status": "Finished Airing",
-            "episodes": 13
         }
     ]
 }
