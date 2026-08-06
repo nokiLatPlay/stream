@@ -2,13 +2,13 @@
     "id_mal": "63047",
     "titulo": "Yoroi Shinden Samurai Troopers Part 2",
     "titulo_original": "鎧真伝サムライトルーパー 第2クール",
-    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
     "etiquetas": "Action, Adventure, Sci-Fi",
     "year": "2026",
     "type": "anime",
     "synopsis": "The second part of Yoroi Shinden Samurai Troopers.",
     "score": "5.2",
-    "episodes": 4,
+    "episodes": 5,
     "status": "Currently Airing",
     "duration": 24,
     "rating": "",
@@ -27,7 +27,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-07",
-    "updated_at": "2026-07-28T22:07:00.000Z",
+    "updated_at": "2026-08-06T10:39:06.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -43,6 +43,12 @@
                             "url": "https://player.zilla-networks.com/m3u8/51e3424972ba653723c58b4599b4cc45",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=dUVlWFc5SW8yZFlrSldFZEdxVXVhcWtUclA0UXExUTZkOXVhOGQ1dVVKOTQwcU5QK2hTWlJHc2VEdFdZL1JMWkVmdFZoSXo2M3NVOEhMdjBQV3c4YWw4WTNrbFd3Y3pJN2dkczJEdFkwU0E9OjrKTRKcxh_M.m8lQEOn578d&t=7eb5cdaafa91c834e4aea06b64e1b5af&op=NzQ4OTk=",
+                            "type": "JK",
+                            "language": "Sub"
                         }
                     ]
                 },
@@ -56,6 +62,12 @@
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/4c5958adc80eb120e44df99d92fae1be",
                             "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=TXNmZVU2aWhRcHB2YXZpaVNTampNZ2tWaTBuVWpPRWVCdWJnOTBpMSsyK0twOGdyWk8zYkRCdWlRcTVreDVGTEh6a29hYmJWUXE1SDE0UVpYV09vSXR1OThjb3lwTDFoN1pMSER2VmpubUk9OjqNwFqGmLYCNHAdkZ_gVzyc&t=f3105d5596b2496fe3cac3f4608b3a4d&op=NzUwODc=",
+                            "type": "JK",
                             "language": "Sub"
                         }
                     ]
@@ -71,6 +83,12 @@
                             "url": "https://player.zilla-networks.com/m3u8/151cd8bed18e204c5fae58aae58fd860",
                             "type": "mp4",
                             "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=bk9Fajk4ek1ZOTlEcXNyRDk4Tm00SDcwSXNIZGQ0WE1oR3VZVEdwa1JVek1QRDNNaXJDaUhvMDAvUWE1VXVEZXlvYkZVay9xV0ZmWlNHYlFxejZ6M3h5VkdycktLOEtsNjRQUDdyY1gwNWM9Ojrwx5J9oKrroIet4dcR5LIH&t=5c18d88bef281ef825dbb35d9151b3a4&op=NzUzMTM=",
+                            "type": "JK",
+                            "language": "Sub"
                         }
                     ]
                 },
@@ -84,6 +102,26 @@
                             "nombre": "Enlace",
                             "url": "https://player.zilla-networks.com/m3u8/0ee115c81ba0a1eb864f6849eca916f7",
                             "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=QzcrZTlBN0svVjUwaEd6aWFTSG5vdjBxZUthOElRNUFwOWlUemFIV1g0S3Jsb3U5VFRhS28vTmJnbWo5WGdvR2w1RDdMVFdMQ2pHSG5wcjNpZEg4YUVYY1U0a0ZJNmk0bjc3N3hPeVVUM3c9OjrayLBT0cV7c_s1r9KwUvx_&t=8ac907ca58476f445c381e426ea6ee99&op=NzU0OTk=",
+                            "type": "JK",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "numero": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "https://cdn.animeav1.com/screenshots/4411/5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=SXhJenVtZndDMEZvQWp4NEpSUUdVL0U2a2dvLzk1VXVWTnVOd1ZiOWVLTmlhM1RhZ1pjY1ZUZThvek9xRGNBRHhBekVmeFRKN0llOUF6TmU2c0pISDRpc1BFdE1YdjgwNExzelAwUVZGZWs9Ojrk.pjNd5nhCe2VZ8R6wEV2&t=fa4574129ac32edf3a66829cf06115cb&op=NzYxMDI=",
+                            "type": "JK",
                             "language": "Sub"
                         }
                     ]
