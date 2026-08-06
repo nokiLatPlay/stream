@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "41710",
+            "imagen": "https:\/\/cdn.animeav1.com\/covers\/1654.jpg",
+            "titulo": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+            "titulo_original": "現実主義勇者の王国再建記",
+            "etiquetas": "Action, Adventure, Fantasy, Romance",
+            "type": "anime",
+            "created_at": "2021-07-04",
+            "updated_at": "2026-07-10T08:33:42.000Z",
+            "year": "2021",
+            "score": "7.10",
+            "status": "Finished Airing",
+            "episodes": 13
+        },
+        {
             "id_mal": "41402",
             "imagen": "https:\/\/cdn.animeav1.com\/covers\/497.jpg",
             "titulo": "Mairimashita! Iruma-kun 2",
@@ -2789,20 +2803,6 @@
             "score": "7.60",
             "status": "Finished Airing",
             "episodes": 23
-        },
-        {
-            "id_mal": "41488",
-            "imagen": "https:\/\/myanimelist.net\/images\/anime\/1458\/117607.jpg",
-            "titulo": "Tensura Nikki: Tensei shitara Slime Datta Ken",
-            "titulo_original": "転スラ日記 転生したらスライムだった件",
-            "etiquetas": "Comedy, Fantasy",
-            "type": "anime",
-            "created_at": "2021",
-            "updated_at": "2026-04-04T06:48:20.000Z",
-            "year": "2021",
-            "score": "7.60",
-            "status": "Finished Airing",
-            "episodes": 12
         }
     ]
 }
