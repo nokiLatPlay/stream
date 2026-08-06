@@ -5,6 +5,20 @@
     "items_per_page": 200,
     "data": [
         {
+            "id_mal": "59277",
+            "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx179344-GQzJfehpQI72.png",
+            "titulo": "Kanojo, Okarishimasu 4th Season",
+            "titulo_original": "彼女、お借りします 第4期",
+            "etiquetas": "Comedy, Romance",
+            "type": "anime",
+            "created_at": "2025-07-01",
+            "updated_at": "2026-08-06T09:30:25.000Z",
+            "year": "2025",
+            "score": "6.0",
+            "status": "Finished Airing",
+            "episodes": 12
+        },
+        {
             "id_mal": "62080",
             "imagen": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx196219-imvC0rbk4VzH.jpg",
             "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
@@ -2789,20 +2803,6 @@
             "score": "6.50",
             "status": "Finished Airing",
             "episodes": 12
-        },
-        {
-            "id_mal": "62983",
-            "imagen": "https:\/\/cdn.animeav1.com\/covers\/3974.jpg",
-            "titulo": "Marika-chan no Koukando wa Bukkowareteiru",
-            "titulo_original": "茉莉花ちゃんの好感度はぶっ壊れている",
-            "etiquetas": "Comedy, Drama, Ecchi, Romance, Supernatural",
-            "type": "anime",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-07-10T09:26:42.000Z",
-            "year": "2026",
-            "score": "4.70",
-            "status": "Finished Airing",
-            "episodes": 8
         }
     ]
 }
