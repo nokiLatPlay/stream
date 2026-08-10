@@ -28,7 +28,7 @@
     ],
     "producers": [],
     "created_at": "2026-07-06",
-    "updated_at": "2026-08-10T19:07:09.000Z",
+    "updated_at": "2026-08-10T19:08:07.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -134,12 +134,6 @@
                     "portada": "",
                     "enlaces": [
                         {
-                            "nombre": "JK Server",
-                            "url": "https://jkanime.net/jkplayer/um?e=bFplanF4bWJsVXBrckpDN0lsaWVFMzRvOVgzMmFkam80NUR4VS9FSCtyR1pvS2ZaREFmV0lxZ2VZNzlXSUpBZzVxQi9kazJkbGw5U3R1UzFBT2ROcVFYSlR6YnFXaWNDMk84aWFla3JzTGxCMVgrVllEaThjY0NlSk5pR0krdFI6OpA2Y6NknZlltMYVEDB0JvQ-&t=885a355811972bf4ac5b752a81eabcce&op=NzYxOTA=",
-                            "type": "JK",
-                            "language": "Sub"
-                        },
-                        {
                             "nombre": "Mp4upload",
                             "url": "https://www.mp4upload.com/embed-msli4wrt3kr0.html",
                             "type": "Embed",
@@ -155,6 +149,12 @@
                             "nombre": "Lulu",
                             "url": "https://luluvdo.com/e/6s299218kage",
                             "type": "Embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "JK Server",
+                            "url": "https://jkanime.net/jkplayer/um?e=bFplanF4bWJsVXBrckpDN0lsaWVFMzRvOVgzMmFkam80NUR4VS9FSCtyR1pvS2ZaREFmV0lxZ2VZNzlXSUpBZzVxQi9kazJkbGw5U3R1UzFBT2ROcVFYSlR6YnFXaWNDMk84aWFla3JzTGxCMVgrVllEaThjY0NlSk5pR0krdFI6OpA2Y6NknZlltMYVEDB0JvQ-&t=885a355811972bf4ac5b752a81eabcce&op=NzYxOTA=",
+                            "type": "JK",
                             "language": "Sub"
                         }
                     ]
